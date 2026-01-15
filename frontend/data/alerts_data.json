@@ -1,136 +1,137 @@
 {
   "alerts": [
     {
-      "id": "600b36805091",
-      "title": "UPS anticipates shipping delays after crash at its aviation hub in Louisville",
-      "summary": "UPS anticipates shipping delays after crash at its aviation hub in Louisville PBS",
-      "source_name": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzh6NUw1VmFGUjB3X2xnTmpEUnRrNGpOQ2Q5LVRPLUlvYTRYdkVlMW5vMTFZbG1DajB6UE9ESlhfZzE0RTN6bHgzODhYRGl5UmYwdnFoQXFMamNKUGltV0xTU2pZQVpzNDZwZThPV043LTQtRVJCVzBtVU9iQzJPbjRuMGVicUZ6WEZvdXR2NEhDckF4WjBkaUdfT1QwTDF1NENfSnY1dEJGX1Y0bG1oYVpxOA?oc=5",
-      "published_at_utc": "2025-11-05T08:00:00Z",
+      "id": "c549435ff091",
+      "title": "Docks empty, ships absent: Eilat Port in deep crisis",
+      "summary": "Docks empty, ships absent: Eilat Port in deep crisis Ynetnews",
+      "source_name": "Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQWlDa3FiYTRzdnpUWURqa01tcHR2d1IyejI1TUtfNzZzakJPaENzd25FdGdiYmEzN20tTk4wWnZSck9BQ1ZpMUtxc0dBU0o0Rkx2TW5n?oc=5",
+      "published_at_utc": "2026-01-13T01:45:28Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "b4379aaa0e91",
-      "title": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say",
-      "summary": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say The Guardian",
-      "source_name": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0JLVk9scUVkd25oeURUQjBBLThpTU1UMHlEQW02T2tUNE5Mdklrb0VtX1J5SWRYamxHT1U0VHZRTEN3N1U1OUFzLTJ6NGhYV3VpWlpDSkpmMnVSUmxOYWxHNDJMNmRXVk1YQ3Q2eG5YcHlYRHlwWW1ZZlVjbThoODZGdkhsaFhpQUxxeDlramR5SjNSQXljdlhWQnpmUURfamVETWV5T3RtRnZUam9WRGJDTWJPb2JzVVhHZFg5elo?oc=5",
-      "published_at_utc": "2025-12-18T08:00:00Z",
+      "id": "190b184f9396",
+      "title": "[기획] 정책 미스로 수십조원 경제손실 예고… 산업계‧소비자 '날벼락...",
+      "summary": "이에 한국로지스틱스학회는 새벽 배송과 주 7일 배송이 중단되면 택배 주문량이 약 40% 감소하게 되고, 연간... 소규모 사업장은 파업으로 인한 영업 중단 시 피해를 고스란히 떠안을 수밖에 없기 때문이다. 경제...",
+      "source_name": "Naver News",
+      "url": "http://www.m-i.kr/news/articleView.html?idxno=1324784",
+      "published_at_utc": "2026-01-13T05:28:00Z",
       "category": "Crisis",
       "country_tags": [
-        "UA",
-        "GB",
-        "RU"
+        "KR"
       ],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "3b614449d9b0",
-      "title": "Exclusive: CIA carried out drone strike on port facility on Venezuelan coast",
-      "summary": "Exclusive: CIA carried out drone strike on port facility on Venezuelan coast CNN",
-      "source_name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qS0NDWmZ4a3JNSl84dVBEYmp6T2N3ZWpzZWVWVVNMalNJVlFCMlpfSGpraTMzSmhzcUZCcDZLNXNVb0Rya1FzVTdoV1dfRy1kWE1NdXd4YzE2bERoLU41dXdaa0F4SWRWVzA2bU5NMFFnQUE5?oc=5",
-      "published_at_utc": "2025-12-29T08:00:00Z",
+      "id": "08eb8eb1e5ff",
+      "title": "Charity shortlisted after helping keep homes warm",
+      "summary": "Severn Wye has been shortlisted for the Health Service Journal Partnership Award.",
+      "source_name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cqj2d1x2yjgo?at_medium=RSS&at_campaign=rss",
+      "published_at_utc": "2026-01-13T06:12:49Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "dd029c7b3ca7",
-      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
-      "summary": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port BBC",
-      "source_name": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSEdiSURoYmlhcXpQSUpRTFdzcFRTdkliMDRzYlQyakxtVVl2LVRiRzdmSzI5Z2NTajc1OHVPTmtQQnJUNW95WHE2WVQxaVp2SERUcWg1VlVZUdIBX0FVX3lxTE5NN01HNWN0Tl8zZjB3bmtLOUtBdW95ZldoRl9yQmJUQVJ1aUVoOHZiRVFXcllISWtTZk9wMFZfY3FUU1FoVmRXYUpPY1lPU1dpMjFpYWluQ1BVUE9tUWdr?oc=5",
-      "published_at_utc": "2025-12-30T08:00:00Z",
+      "id": "959677c077c6",
+      "title": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports",
+      "summary": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports Middle East Monitor",
+      "source_name": "Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnMzSG5Lc3BEa1JGMXlOck5DbkZUeTlGQ2hhLUZhZkV0dnpwS0lXWE9jVzJoWk1ibjQ0dHRNYXF4WWREMHU2OUlLaVg1V1NGZ2wyV2VPNFNGZ2JLdmxfc0ZjX3dOdUJ6QTU3MUFraVlodGZhd2p6alZhcVFzcUJHU0drMTZxZGIzaGgyWWRHT3FHMU5IcFlqaHJpelZyZUF4NmhwRndaX056Sk56UHNRUDhsaDBTbHB0RmJ4MEJtZ9IBxAFBVV95cUxPR0lGT1V2NERBU2p5MEtzY1BGWUVfYmxCVXlzTVA3UG5uYjdlVzNvVnM1Ymd6QUNUZndPVjVhamlLazZqLS1OMWRjdE9KOGllUmRmOW1CM09PYlJOYUFZSjJDRXhZOFVwbUdEVkI0VjlnTlVRbzFyQ1k2ZlNia2hpU3lUWjBYMUlGMXV1ekp4d1BpTU1yN2dnU3haUUV2c244MUlkOExITWFueEYydEdpdXN6NDJGZDJ2LVltdnhKYUVuY2Q2?oc=5",
+      "published_at_utc": "2026-01-13T09:04:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "f0d7517cbb1e",
+      "title": "Korean Air selects Lödige Industries to modernise JFK cargo terminal",
+      "summary": "Korean Air Cargo is set to modernise its JFK cargo terminal with advanced automation systems from Lödige Industries. The upgrade includes automated Elevating Transfer Vehicles, a new refrigerated ware...",
+      "source_name": "Air Cargo Week",
+      "url": "https://aircargoweek.com/korean-air-selects-lodige-industries-to-modernize-jfk-cargo-terminal/",
+      "published_at_utc": "2026-01-13T09:36:36Z",
       "category": "Crisis",
       "country_tags": [
-        "YE",
-        "AE",
-        "SA"
+        "KR"
       ],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "613663c0e040",
-      "title": "Produce suppliers scramble after Young Brothers shipment delay",
-      "summary": "Produce suppliers scramble after Young Brothers shipment delay Hawaii News Now",
-      "source_name": "Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGF1MUQtb0lUampzV0dKZDFfM0Q4eTFQNTR1bWl5ZHNBMGtJY0U5bWxtSWtDLWpFbmZ4d1VMekZyZW12WVlXdld4T0Rrbkg5TmJjVE5DRGxRR2twUEZyMVV0YmVFZ2VyZ2FlUWdSSWRfcjFFRFQ1Wl9jU0Y0OXBjOWVSMDdRSmY5MndYdmpsYkdrZmdJNXM5SjhqZGFYT2E3bHhKNV84Z9IBuwFBVV95cUxOdEpTdHNmNmdYbW9Kd2Y2UEVlTXUtRklOOW1td0ZnLXVLYWRfUFpmNXpkam1GaDU3bHJoMzcwU0VuWThoamlScW1OSnloSG5JRGxrcGkzakRFd1FXZ05BMGdxS0E0ZDR0eGVLblkydVlZZHRNYXdRdmNCMTlxV3pseDBVcmV5c0hRX2UtUU9TV1Zsa3E0dEhrY2xNbl9hNThIU0FfRk50VHdfZkNrZGhJVmV4YnVwamoxQVRn?oc=5",
-      "published_at_utc": "2026-01-08T04:04:00Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "fe3cccc2323d",
-      "title": "CVSA Human Trafficking Awareness Week Kicks Off",
-      "summary": "CVSA's five-day Human Trafficking Awareness Initiative kicks off today across the United States, with law enforcement and carriers conducting coordinated outreach at truck stops and weigh stations thr...",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/cvsa-human-trafficking-awareness-week-kicks-off",
-      "published_at_utc": "2026-01-12T15:10:30Z",
+      "id": "085c4061227c",
+      "title": "Trump briefed on military and covert options for Iran, sources say",
+      "summary": "The US president also imposes a 25% tariff on countries that \"do business\" with Tehran, while Iran's foreign minister says his country is \"ready for war\".",
+      "source_name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
+      "published_at_utc": "2026-01-13T10:59:57Z",
       "category": "Crisis",
       "country_tags": [
-        "US"
+        "IR"
       ],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "f8fd177f91eb",
-      "title": "STG Logistics files Chapter 11, charts path forward",
-      "summary": "Intermodal marketing company STG Logistics announced Monday it has entered into a Chapter 11 restructuring plan. The post STG Logistics files Chapter 11, charts path forward appeared first on FreightW...",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/stg-logistics-files-chapter-11-charts-path-forward",
-      "published_at_utc": "2026-01-12T15:59:44Z",
+      "id": "d2643dfd2e78",
+      "title": "머스크 컨테이너선, 홍해 두 번째 시범통항 성공",
+      "summary": "머스크가 홍해 항로에 대한 두 번째 시범운항을 성공리에 마치면서 동서항로 복귀 신호탄을 쏘아올릴지 주목된다.미국 국적선인 ‘머스크 덴버(Maersk Denver)’호는 지난 1월 11일부터 12일까지 양일간 바브엘만데브 해협을 무사히 통과한 것으로 알려졌다. 이는 후티 공격 위협으로 항로가 중단된 지 약 2년 만에 이루어진 두 번째 성과다.앞서 머스크는 지...",
+      "source_name": "해양한국",
+      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=55888",
+      "published_at_utc": "2026-01-13T11:35:55Z",
+      "category": "Crisis",
+      "country_tags": [
+        "US",
+        "IN"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "0472dce8745b",
+      "title": "Major airports shut across Central Europe amid severe icing: Ongoing disruptions",
+      "summary": "On January 13, 2026, extreme icy weather led to temporary airport closures in Vienna, Budapest, and Bratislava, severely disrupting air traffic across Central Europe. Runways at Vienna and Budapest we...",
+      "source_name": "Air Cargo Week",
+      "url": "https://aircargoweek.com/icy-weather-forces-airport-closures-across-central-europe/",
+      "published_at_utc": "2026-01-13T11:48:31Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "9045241df8ff",
-      "title": "Large parcel carriers improved on-time delivery during 2025 peak season",
-      "summary": "The 2025 peak parcel season saw fewer shipping delays as a percentage of total volume than during the prior year. The post Large parcel carriers improved on-time delivery during 2025 peak season appea...",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/large-parcel-carriers-improved-on-time-delivery-during-2025-peak-season",
-      "published_at_utc": "2026-01-12T16:19:55Z",
+      "id": "266a130d5f66",
+      "title": "BPA, 안전보건 상생협력사업 우수기업 재인증",
+      "summary": "부산항만공사(BPA, 사장 송상근)는 고용노동부와 한국산업안전보건공단이 주관하는 ‘대·중소기업 안전보건 상생협력사업’의 2025년도 우수사업장으로 9일 최종 선정되었다고 밝혔다.‘대·중소기업 안전보건 상생협력사업’은 대기업·공공기관이 모기업이 되어 협력업체 및 지역중소기업과 컨소시엄을 구성해 자율적인 안전보건 개선 활동을 추진하는 정부 지원 사업이다. 모기...",
+      "source_name": "한국해운신문",
+      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329584",
+      "published_at_utc": "2026-01-13T11:55:43Z",
       "category": "Crisis",
-      "country_tags": [],
+      "country_tags": [
+        "KR"
+      ],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "7db443b62a7e",
-      "title": "Feds seek input on solving supply chain bottlenecks",
-      "summary": "DOT issued an information request to develop its next Research, Development, and Technology Strategic Plan with an emphasis on multimodal mobility and congestion relief. The post Feds seek input on so...",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/feds-seek-input-on-solving-supply-chain-bottlenecks",
-      "published_at_utc": "2026-01-13T21:30:49Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "1deb02004e43",
-      "title": "Trump Administration Waves White Flag on Transportation Funding Immigration Fight, But the War is Far From Over",
-      "summary": "The Trump administration's decision to drop its appeal that tied billions in transportation funding to immigration enforcement represents a significant legal setback, but don't mistake this tactical r...",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/trump-administration-waves-white-flag-on-transportation-funding-immigration-fight-but-the-war-is-far-from-over",
-      "published_at_utc": "2026-01-13T21:39:34Z",
+      "id": "b348bf8e8bd6",
+      "title": "CargoAi posts record quarter with 60 percent growth",
+      "summary": "CargoAi closed Q4 2025 with its strongest performance to date, achieving 60 percent year-on-year growth in e-bookings and turning cash-positive. The self-funded digital airfreight platform added 30 ne...",
+      "source_name": "Air Cargo Week",
+      "url": "https://aircargoweek.com/cargoai-posts-record-quarter-with-60-percent-growth/",
+      "published_at_utc": "2026-01-13T13:59:17Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     }
   ],
-  "total_crisis": 16,
-  "generated_at": "2026-01-15T15:53:39Z"
+  "total_crisis": 108,
+  "generated_at": "2026-01-15T16:53:09Z"
 }

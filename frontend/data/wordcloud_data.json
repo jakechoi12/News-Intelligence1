@@ -1,96 +1,121 @@
 {
   "keywords": [
     {
-      "text": "freight",
-      "count": 51,
+      "text": "port",
+      "count": 120,
       "size": 100
     },
     {
-      "text": "port",
-      "count": 24,
+      "text": "freight",
+      "count": 71,
+      "size": 100
+    },
+    {
+      "text": "물류",
+      "count": 70,
+      "size": 100
+    },
+    {
+      "text": "trade",
+      "count": 58,
+      "size": 100
+    },
+    {
+      "text": "cargo",
+      "count": 56,
+      "size": 100
+    },
+    {
+      "text": "해운",
+      "count": 55,
+      "size": 100
+    },
+    {
+      "text": "항만",
+      "count": 50,
       "size": 100
     },
     {
       "text": "shipping",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "logistics",
-      "count": 10,
+      "count": 36,
       "size": 100
     },
     {
       "text": "container",
+      "count": 35,
+      "size": 100
+    },
+    {
+      "text": "컨테이너",
+      "count": 31,
+      "size": 100
+    },
+    {
+      "text": "tariff",
+      "count": 28,
+      "size": 100
+    },
+    {
+      "text": "logistics",
+      "count": 28,
+      "size": 100
+    },
+    {
+      "text": "supply chain",
+      "count": 20,
+      "size": 100
+    },
+    {
+      "text": "위기",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "export",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "import",
       "count": 8,
       "size": 80
     },
     {
-      "text": "supply chain",
+      "text": "파업",
       "count": 7,
       "size": 70
     },
     {
-      "text": "물류",
-      "count": 6,
-      "size": 60
+      "text": "지연",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "trade",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "항만",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "tariff",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "해운",
+      "text": "disruption",
       "count": 4,
       "size": 40
     },
     {
-      "text": "cargo",
+      "text": "crisis",
       "count": 3,
       "size": 30
     },
     {
-      "text": "delay",
+      "text": "congestion",
       "count": 3,
       "size": 30
     },
     {
       "text": "strike",
-      "count": 3,
-      "size": 30
-    },
-    {
-      "text": "컨테이너",
       "count": 2,
       "size": 20
     },
     {
-      "text": "disruption",
+      "text": "delay",
       "count": 2,
       "size": 20
-    },
-    {
-      "text": "import",
-      "count": 2,
-      "size": 20
-    },
-    {
-      "text": "congestion",
-      "count": 1,
-      "size": 10
     }
   ],
-  "total_keywords": 18,
-  "generated_at": "2026-01-15T15:53:39Z"
+  "total_keywords": 23,
+  "generated_at": "2026-01-15T16:53:09Z"
 }
