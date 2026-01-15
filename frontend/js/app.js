@@ -11,6 +11,7 @@ const state = {
     wordcloudData: null,
     economicData: null,
     lastUpdate: null,
+    headlinesData: null,  // For headline insights hover
     
     // Filters
     currentFilter: 'all',
@@ -771,26 +772,128 @@ function renderWordcloud() {
 }
 
 /**
- * Render Headlines
+ * Render Headlines with Insights Panel
  */
 function renderHeadlines() {
     const container = document.getElementById('headlines-list');
+    const insightsPanel = document.getElementById('insights-panel');
     if (!container) return;
     
+    // Use headlines from news_data if available, otherwise use top articles
+    const headlines = state.newsData?.headlines || [];
     const articles = state.newsData?.articles || [];
-    const topArticles = articles.slice(0, 6);
+    const topItems = headlines.length > 0 ? headlines.slice(0, 6) : articles.slice(0, 6);
     
-    if (topArticles.length === 0) {
+    if (topItems.length === 0) {
         container.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No headlines available</p>';
         return;
     }
     
-    container.innerHTML = topArticles.map((article, idx) => `
-        <a href="${escapeHtml(article.url)}" target="_blank" class="headline-item">
-            <div class="headline-title">${escapeHtml(article.title)}</div>
-            <div class="headline-source">${escapeHtml(article.source_name)} • ${formatTime(article.published_at_utc)}</div>
-        </a>
-    `).join('');
+    // Store headlines data for hover events
+    state.headlinesData = topItems;
+    
+    container.innerHTML = topItems.map((item, idx) => {
+        return `
+            <a href="${escapeHtml(item.url)}" target="_blank" class="headline-item" data-headline-idx="${idx}">
+                <div class="headline-title">${escapeHtml(item.title)}</div>
+                <div class="headline-source">${escapeHtml(item.source_name)} • ${formatTime(item.published_at_utc)}</div>
+            </a>
+        `;
+    }).join('');
+    
+    // Add hover event listeners for insights panel
+    setupHeadlineHoverEvents();
+}
+
+/**
+ * Setup hover events for headlines to show insights in panel
+ */
+function setupHeadlineHoverEvents() {
+    const headlineItems = document.querySelectorAll('.headline-item[data-headline-idx]');
+    const insightsPanel = document.getElementById('insights-panel');
+    
+    if (!insightsPanel) return;
+    
+    headlineItems.forEach(item => {
+        item.addEventListener('mouseenter', (e) => {
+            const idx = parseInt(e.currentTarget.dataset.headlineIdx);
+            const headline = state.headlinesData?.[idx];
+            
+            if (headline) {
+                showInsights(headline, insightsPanel);
+            }
+        });
+    });
+    
+    // Reset to placeholder when mouse leaves the headlines container
+    const container = document.getElementById('headlines-list');
+    container?.addEventListener('mouseleave', () => {
+        resetInsightsPanel(insightsPanel);
+    });
+}
+
+/**
+ * Show insights in the panel
+ */
+function showInsights(headline, panel) {
+    const hasInsights = headline.insights && 
+        (headline.insights.trade || headline.insights.logistics || headline.insights.scm);
+    
+    if (!hasInsights) {
+        panel.innerHTML = `
+            <div class="insights-content">
+                <div class="insights-header">
+                    <span class="insights-header-icon">📰</span>
+                    <span class="insights-header-title">${escapeHtml(headline.title)}</span>
+                </div>
+                <div class="insights-placeholder" style="height: auto; padding: 10px 0;">
+                    시사점 분석 데이터가 없습니다
+                </div>
+            </div>
+        `;
+        return;
+    }
+    
+    panel.innerHTML = `
+        <div class="insights-content">
+            <div class="insights-header">
+                <span class="insights-header-icon">💡</span>
+                <span class="insights-header-title">${escapeHtml(headline.title)}</span>
+            </div>
+            <div class="insights-list">
+                ${headline.insights.trade ? `
+                    <div class="insight-item">
+                        <span class="insight-label">무역</span>
+                        <span class="insight-text">${escapeHtml(headline.insights.trade)}</span>
+                    </div>
+                ` : ''}
+                ${headline.insights.logistics ? `
+                    <div class="insight-item">
+                        <span class="insight-label">물류</span>
+                        <span class="insight-text">${escapeHtml(headline.insights.logistics)}</span>
+                    </div>
+                ` : ''}
+                ${headline.insights.scm ? `
+                    <div class="insight-item">
+                        <span class="insight-label">SCM</span>
+                        <span class="insight-text">${escapeHtml(headline.insights.scm)}</span>
+                    </div>
+                ` : ''}
+            </div>
+        </div>
+    `;
+}
+
+/**
+ * Reset insights panel to placeholder
+ */
+function resetInsightsPanel(panel) {
+    if (!panel) return;
+    panel.innerHTML = `
+        <div class="insights-placeholder">
+            <span>💡</span> 헤드라인에 마우스를 올리면 시사점이 표시됩니다
+        </div>
+    `;
 }
 
 /**
@@ -1141,16 +1244,27 @@ function formatTime(dateStr) {
         const now = new Date();
         const diff = now - date;
         
+        // 60분 이하: X분 전
         if (diff < 3600000) {
             const mins = Math.floor(diff / 60000);
             return `${mins}분 전`;
-        } else if (diff < 86400000) {
+        } 
+        // 60분 초과 ~ 24시간: X시간 Y분 전
+        else if (diff < 86400000) {
             const hours = Math.floor(diff / 3600000);
+            const mins = Math.floor((diff % 3600000) / 60000);
+            if (mins > 0) {
+                return `${hours}시간 ${mins}분 전`;
+            }
             return `${hours}시간 전`;
-        } else if (diff < 604800000) {
+        } 
+        // 24시간 초과 ~ 7일: X일 전
+        else if (diff < 604800000) {
             const days = Math.floor(diff / 86400000);
             return `${days}일 전`;
-        } else {
+        } 
+        // 7일 초과: 절대 시간
+        else {
             return date.toLocaleDateString('ko-KR');
         }
     } catch {

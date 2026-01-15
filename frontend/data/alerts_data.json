@@ -21,9 +21,9 @@
       "published_at_utc": "2025-12-18T08:00:00Z",
       "category": "Crisis",
       "country_tags": [
-        "RU",
         "UA",
-        "GB"
+        "GB",
+        "RU"
       ],
       "goldstein_scale": null,
       "severity": "medium"
@@ -131,6 +131,6 @@
       "severity": "medium"
     }
   ],
-  "total_crisis": 14,
-  "generated_at": "2026-01-15T13:55:25Z"
+  "total_crisis": 16,
+  "generated_at": "2026-01-15T15:53:39Z"
 }

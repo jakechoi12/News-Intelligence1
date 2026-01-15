@@ -196,7 +196,7 @@ def filter_recent_articles(articles: List[Dict[str, Any]], hours: int = 72) -> L
     return recent
 
 
-def analyze_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+def analyze_articles(articles: List[Dict[str, Any]]) -> tuple:
     """
     Analyze articles using AI.
     
@@ -204,23 +204,24 @@ def analyze_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         articles: List of articles
         
     Returns:
-        List of analyzed articles
+        Tuple of (analyzed articles, analyzer instance)
     """
     logger.info("\n🤖 STARTING AI ANALYSIS")
     
     analyzer = GeminiAnalyzer()
     analyzed = analyzer.analyze_articles(articles)
     
-    return analyzed
+    return analyzed, analyzer
 
 
-def generate_output(articles: List[Dict[str, Any]], start_time: datetime) -> Dict[str, str]:
+def generate_output(articles: List[Dict[str, Any]], start_time: datetime, analyzer=None) -> Dict[str, str]:
     """
     Generate JSON output files.
     
     Args:
         articles: List of analyzed articles
         start_time: Collection start time
+        analyzer: GeminiAnalyzer instance for generating insights
         
     Returns:
         Dictionary of generated file paths
@@ -238,7 +239,8 @@ def generate_output(articles: List[Dict[str, Any]], start_time: datetime) -> Dic
     files = manager.generate_all(
         articles=articles,
         economic_data=economic_data,
-        start_time=start_time
+        start_time=start_time,
+        analyzer=analyzer
     )
     
     return files
@@ -290,10 +292,10 @@ def main():
             sys.exit(1)
         
         # Step 3: Analyze with AI
-        articles = analyze_articles(articles)
+        articles, analyzer = analyze_articles(articles)
         
-        # Step 4: Generate output
-        files = generate_output(articles, start_time)
+        # Step 4: Generate output (pass analyzer for headline insights)
+        files = generate_output(articles, start_time, analyzer=analyzer)
         
         # Done!
         end_time = datetime.now(timezone.utc)

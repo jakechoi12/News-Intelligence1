@@ -2,8 +2,8 @@ name: Daily News Collection
 
 on:
   schedule:
-    # UTC 01:00 = KST 10:00, 평일만 (월-금)
-    - cron: '0 1 * * 1-5'
+    # UTC 00:00 = KST 09:00, 평일만 (월-금)
+    - cron: '0 0 * * 1-5'
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:

@@ -273,12 +273,18 @@
         }
         
         /* Headlines */
+        .headlines-card {
+            display: flex;
+            flex-direction: column;
+        }
+        
         .headlines-list {
             display: flex;
             flex-direction: column;
-            gap: 10px;
-            max-height: 280px;
+            gap: 8px;
+            max-height: 200px;
             overflow-y: auto;
+            flex-shrink: 0;
         }
         
         .headline-item {
@@ -319,6 +325,88 @@
             margin-top: 4px;
             font-size: 11px;
             color: var(--text-muted);
+        }
+        
+        /* Insights Panel (Fixed at bottom of headlines section) */
+        .insights-panel {
+            margin-top: 12px;
+            padding: 14px;
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            border-left: 3px solid var(--accent-primary);
+            min-height: 100px;
+            transition: all 0.2s ease;
+        }
+        
+        .insights-placeholder {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 72px;
+            color: var(--text-muted);
+            font-size: 13px;
+        }
+        
+        .insights-placeholder span {
+            margin-right: 8px;
+            font-size: 16px;
+        }
+        
+        .insights-content {
+            animation: fadeIn 0.2s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-4px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .insights-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .insights-header-icon {
+            font-size: 14px;
+        }
+        
+        .insights-header-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-primary);
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .insights-list {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        
+        .insight-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            font-size: 12px;
+            line-height: 1.5;
+        }
+        
+        .insight-label {
+            flex-shrink: 0;
+            font-weight: 600;
+            color: var(--accent-primary);
+            min-width: 36px;
+        }
+        
+        .insight-text {
+            color: var(--text-secondary);
         }
         
         /* Map Section */
@@ -1053,10 +1141,16 @@
                 </div>
             </div>
             
-            <div class="card">
+            <div class="card headlines-card">
                 <h3 class="section-title">📰 Top Headlines</h3>
                 <div class="headlines-list" id="headlines-list">
                     <div class="loading">Loading headlines</div>
+                </div>
+                <!-- 시사점 표시 영역 (헤드라인 섹션 하단 고정) -->
+                <div class="insights-panel" id="insights-panel">
+                    <div class="insights-placeholder">
+                        <span>💡</span> 헤드라인에 마우스를 올리면 시사점이 표시됩니다
+                    </div>
                 </div>
             </div>
         </div>
@@ -1163,6 +1257,7 @@
                     <button class="filter-tab" data-filter="GLOBAL">Global</button>
                 </div>
                 <div class="filter-chips">
+                    <button class="filter-chip" data-category="Crisis">Crisis</button>
                     <button class="filter-chip" data-category="Ocean">Ocean</button>
                     <button class="filter-chip" data-category="Air">Air</button>
                     <button class="filter-chip" data-category="Inland">Inland</button>

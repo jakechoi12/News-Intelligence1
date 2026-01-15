@@ -2,7 +2,7 @@
   "keywords": [
     {
       "text": "freight",
-      "count": 50,
+      "count": 51,
       "size": 100
     },
     {
@@ -12,16 +12,16 @@
     },
     {
       "text": "shipping",
-      "count": 12,
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "logistics",
+      "count": 10,
       "size": 100
     },
     {
       "text": "container",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "logistics",
       "count": 8,
       "size": 80
     },
@@ -31,12 +31,17 @@
       "size": 70
     },
     {
+      "text": "물류",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "trade",
       "count": 6,
       "size": 60
     },
     {
-      "text": "물류",
+      "text": "항만",
       "count": 5,
       "size": 50
     },
@@ -49,11 +54,6 @@
       "text": "해운",
       "count": 4,
       "size": 40
-    },
-    {
-      "text": "항만",
-      "count": 3,
-      "size": 30
     },
     {
       "text": "cargo",
@@ -71,19 +71,19 @@
       "size": 30
     },
     {
-      "text": "import",
+      "text": "컨테이너",
       "count": 2,
       "size": 20
     },
     {
-      "text": "컨테이너",
-      "count": 1,
-      "size": 10
+      "text": "disruption",
+      "count": 2,
+      "size": 20
     },
     {
-      "text": "disruption",
-      "count": 1,
-      "size": 10
+      "text": "import",
+      "count": 2,
+      "size": 20
     },
     {
       "text": "congestion",
@@ -92,5 +92,5 @@
     }
   ],
   "total_keywords": 18,
-  "generated_at": "2026-01-15T13:55:25Z"
+  "generated_at": "2026-01-15T15:53:39Z"
 }

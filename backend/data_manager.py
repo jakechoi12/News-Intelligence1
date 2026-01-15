@@ -51,7 +51,8 @@ class DataManager:
     
     def generate_all(self, articles: List[Dict[str, Any]], 
                      economic_data: Dict[str, Any] = None,
-                     start_time: datetime = None) -> Dict[str, str]:
+                     start_time: datetime = None,
+                     analyzer = None) -> Dict[str, str]:
         """
         Generate all JSON files.
         
@@ -59,6 +60,7 @@ class DataManager:
             articles: List of analyzed article dictionaries
             economic_data: Economic indicator data
             start_time: Collection start time
+            analyzer: GeminiAnalyzer instance for generating insights
             
         Returns:
             Dictionary of generated file paths
@@ -73,8 +75,11 @@ class DataManager:
         # Process articles
         processed_articles = self._process_articles(articles)
         
+        # Generate headlines with insights
+        headlines = self._generate_headlines(processed_articles, analyzer)
+        
         # Generate news data
-        files['news'] = self._generate_news_data(processed_articles)
+        files['news'] = self._generate_news_data(processed_articles, headlines)
         
         # Generate map data
         files['map'] = self._generate_map_data(processed_articles)
@@ -168,10 +173,61 @@ class DataManager:
         """Generate unique ID from URL"""
         return hashlib.md5(url.encode()).hexdigest()[:12]
     
-    def _generate_news_data(self, articles: List[Dict[str, Any]]) -> str:
+    def _generate_headlines(self, articles: List[Dict[str, Any]], analyzer=None) -> List[Dict[str, Any]]:
+        """
+        Generate top headlines with insights.
+        Uses article grouping by similarity to find most covered topics.
+        """
+        if not articles:
+            return []
+        
+        logger.info("   📰 Generating headlines with insights...")
+        
+        # Simple approach: take top articles by recency and add insights
+        # In future, implement similarity-based grouping
+        top_articles = articles[:6]
+        
+        headlines = []
+        for article in top_articles:
+            headline = {
+                'id': article['id'],
+                'title': article['title'],
+                'source_name': article['source_name'],
+                'url': article['url'],
+                'published_at_utc': article['published_at_utc'],
+                'group_count': 1,  # Placeholder for similarity grouping
+                'insights': {}
+            }
+            
+            # Generate insights if analyzer is available
+            if analyzer:
+                try:
+                    headline['insights'] = analyzer.generate_insights(article)
+                except Exception as e:
+                    logger.debug(f"Failed to generate insights: {e}")
+                    headline['insights'] = {
+                        'trade': '관련 시장 동향 모니터링 필요',
+                        'logistics': '물류 일정 및 비용 영향 검토 필요',
+                        'scm': '공급망 리스크 관리 점검 권장'
+                    }
+            else:
+                # Default insights
+                headline['insights'] = {
+                    'trade': '관련 시장 동향 모니터링 필요',
+                    'logistics': '물류 일정 및 비용 영향 검토 필요',
+                    'scm': '공급망 리스크 관리 점검 권장'
+                }
+            
+            headlines.append(headline)
+        
+        logger.info(f"   ✅ Generated {len(headlines)} headlines with insights")
+        return headlines
+    
+    def _generate_news_data(self, articles: List[Dict[str, Any]], headlines: List[Dict[str, Any]] = None) -> str:
         """Generate news_data.json"""
         data = {
             'articles': articles,
+            'headlines': headlines or [],
             'total': len(articles),
             'kr_count': self.stats['kr_count'],
             'global_count': self.stats['global_count'],
@@ -182,7 +238,7 @@ class DataManager:
         
         filepath = os.path.join(self.output_dir, 'news_data.json')
         self._write_json(filepath, data)
-        logger.info(f"   ✅ news_data.json: {len(articles)} articles")
+        logger.info(f"   ✅ news_data.json: {len(articles)} articles, {len(headlines or [])} headlines")
         return filepath
     
     def _generate_map_data(self, articles: List[Dict[str, Any]]) -> str:

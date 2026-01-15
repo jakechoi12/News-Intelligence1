@@ -20,7 +20,37 @@
       ]
     },
     {
-      "code": "RU",
+      "code": "KR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "생중계 하는 대통령 업무보고… 가치 없는 내용은 과감히 보도 줄여야",
+          "url": "https://n.news.naver.com/mnews/article/023/0003953325?sid=004"
+        },
+        {
+          "title": "Kukdong MES eyes global container leasing business as prices slump",
+          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Maersk returns to Red Sea with India-US service",
+          "url": "https://www.freightwaves.com/news/maersk-returns-to-red-sea-with-india-us-service"
+        },
+        {
+          "title": "Maersk sets the pace for Red Sea return with service reschedule",
+          "url": "https://theloadstar.com/maersk-sets-the-pace-for-red-sea-return-with-service-reschedule/"
+        }
+      ]
+    },
+    {
+      "code": "UA",
       "count": 2,
       "risk_level": "medium",
       "articles": [
@@ -35,7 +65,7 @@
       ]
     },
     {
-      "code": "UA",
+      "code": "RU",
       "count": 2,
       "risk_level": "medium",
       "articles": [
@@ -65,24 +95,13 @@
       ]
     },
     {
-      "code": "IN",
+      "code": "CN",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "Maersk sets the pace for Red Sea return with service reschedule",
-          "url": "https://theloadstar.com/maersk-sets-the-pace-for-red-sea-return-with-service-reschedule/"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Kukdong MES eyes global container leasing business as prices slump",
-          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
+          "title": "생중계 하는 대통령 업무보고… 가치 없는 내용은 과감히 보도 줄여야",
+          "url": "https://n.news.naver.com/mnews/article/023/0003953325?sid=004"
         }
       ]
     },
@@ -131,6 +150,6 @@
       ]
     }
   ],
-  "total_crisis_countries": 10,
-  "generated_at": "2026-01-15T13:55:25Z"
+  "total_crisis_countries": 11,
+  "generated_at": "2026-01-15T15:53:39Z"
 }
