@@ -1,0 +1,136 @@
+{
+  "countries": [
+    {
+      "code": "GB",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Kukdong MES eyes global container leasing business as prices slump",
+          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
+        },
+        {
+          "title": "The Silent Profit Killer in Transportation & Logistics",
+          "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
+        },
+        {
+          "title": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0JLVk9scUVkd25oeURUQjBBLThpTU1UMHlEQW02T2tUNE5Mdklrb0VtX1J5SWRYamxHT1U0VHZRTEN3N1U1OUFzLTJ6NGhYV3VpWlpDSkpmMnVSUmxOYWxHNDJMNmRXVk1YQ3Q2eG5YcHlYRHlwWW1ZZlVjbThoODZGdkhsaFhpQUxxeDlramR5SjNSQXljdlhWQnpmUURfamVETWV5T3RtRnZUam9WRGJDTWJPb2JzVVhHZFg5elo?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "The Silent Profit Killer in Transportation & Logistics",
+          "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
+        },
+        {
+          "title": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0JLVk9scUVkd25oeURUQjBBLThpTU1UMHlEQW02T2tUNE5Mdklrb0VtX1J5SWRYamxHT1U0VHZRTEN3N1U1OUFzLTJ6NGhYV3VpWlpDSkpmMnVSUmxOYWxHNDJMNmRXVk1YQ3Q2eG5YcHlYRHlwWW1ZZlVjbThoODZGdkhsaFhpQUxxeDlramR5SjNSQXljdlhWQnpmUURfamVETWV5T3RtRnZUam9WRGJDTWJPb2JzVVhHZFg5elo?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "The Silent Profit Killer in Transportation & Logistics",
+          "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
+        },
+        {
+          "title": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0JLVk9scUVkd25oeURUQjBBLThpTU1UMHlEQW02T2tUNE5Mdklrb0VtX1J5SWRYamxHT1U0VHZRTEN3N1U1OUFzLTJ6NGhYV3VpWlpDSkpmMnVSUmxOYWxHNDJMNmRXVk1YQ3Q2eG5YcHlYRHlwWW1ZZlVjbThoODZGdkhsaFhpQUxxeDlramR5SjNSQXljdlhWQnpmUURfamVETWV5T3RtRnZUam9WRGJDTWJPb2JzVVhHZFg5elo?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Weekly U.S. rail traffic shows 4% drop",
+          "url": "https://www.freightwaves.com/news/weekly-u-s-rail-traffic-shows-4-drop"
+        },
+        {
+          "title": "CVSA Human Trafficking Awareness Week Kicks Off",
+          "url": "https://www.freightwaves.com/news/cvsa-human-trafficking-awareness-week-kicks-off"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Maersk sets the pace for Red Sea return with service reschedule",
+          "url": "https://theloadstar.com/maersk-sets-the-pace-for-red-sea-return-with-service-reschedule/"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Kukdong MES eyes global container leasing business as prices slump",
+          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Trump threatens 25% tariff on Iran’s trading partners",
+          "url": "https://www.supplychaindive.com/news/trump-tariffs-iran-trading-partners/809468/"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSEdiSURoYmlhcXpQSUpRTFdzcFRTdkliMDRzYlQyakxtVVl2LVRiRzdmSzI5Z2NTajc1OHVPTmtQQnJUNW95WHE2WVQxaVp2SERUcWg1VlVZUdIBX0FVX3lxTE5NN01HNWN0Tl8zZjB3bmtLOUtBdW95ZldoRl9yQmJUQVJ1aUVoOHZiRVFXcllISWtTZk9wMFZfY3FUU1FoVmRXYUpPY1lPU1dpMjFpYWluQ1BVUE9tUWdr?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSEdiSURoYmlhcXpQSUpRTFdzcFRTdkliMDRzYlQyakxtVVl2LVRiRzdmSzI5Z2NTajc1OHVPTmtQQnJUNW95WHE2WVQxaVp2SERUcWg1VlVZUdIBX0FVX3lxTE5NN01HNWN0Tl8zZjB3bmtLOUtBdW95ZldoRl9yQmJUQVJ1aUVoOHZiRVFXcllISWtTZk9wMFZfY3FUU1FoVmRXYUpPY1lPU1dpMjFpYWluQ1BVUE9tUWdr?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSEdiSURoYmlhcXpQSUpRTFdzcFRTdkliMDRzYlQyakxtVVl2LVRiRzdmSzI5Z2NTajc1OHVPTmtQQnJUNW95WHE2WVQxaVp2SERUcWg1VlVZUdIBX0FVX3lxTE5NN01HNWN0Tl8zZjB3bmtLOUtBdW95ZldoRl9yQmJUQVJ1aUVoOHZiRVFXcllISWtTZk9wMFZfY3FUU1FoVmRXYUpPY1lPU1dpMjFpYWluQ1BVUE9tUWdr?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 10,
+  "generated_at": "2026-01-15T13:55:25Z"
+}

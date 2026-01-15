@@ -1,0 +1,136 @@
+{
+  "alerts": [
+    {
+      "id": "600b36805091",
+      "title": "UPS anticipates shipping delays after crash at its aviation hub in Louisville",
+      "summary": "UPS anticipates shipping delays after crash at its aviation hub in Louisville PBS",
+      "source_name": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQzh6NUw1VmFGUjB3X2xnTmpEUnRrNGpOQ2Q5LVRPLUlvYTRYdkVlMW5vMTFZbG1DajB6UE9ESlhfZzE0RTN6bHgzODhYRGl5UmYwdnFoQXFMamNKUGltV0xTU2pZQVpzNDZwZThPV043LTQtRVJCVzBtVU9iQzJPbjRuMGVicUZ6WEZvdXR2NEhDckF4WjBkaUdfT1QwTDF1NENfSnY1dEJGX1Y0bG1oYVpxOA?oc=5",
+      "published_at_utc": "2025-11-05T08:00:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "b4379aaa0e91",
+      "title": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say",
+      "summary": "Ukraine war briefing: Drones strike tanker in Russian port, local officials say The Guardian",
+      "source_name": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0JLVk9scUVkd25oeURUQjBBLThpTU1UMHlEQW02T2tUNE5Mdklrb0VtX1J5SWRYamxHT1U0VHZRTEN3N1U1OUFzLTJ6NGhYV3VpWlpDSkpmMnVSUmxOYWxHNDJMNmRXVk1YQ3Q2eG5YcHlYRHlwWW1ZZlVjbThoODZGdkhsaFhpQUxxeDlramR5SjNSQXljdlhWQnpmUURfamVETWV5T3RtRnZUam9WRGJDTWJPb2JzVVhHZFg5elo?oc=5",
+      "published_at_utc": "2025-12-18T08:00:00Z",
+      "category": "Crisis",
+      "country_tags": [
+        "RU",
+        "UA",
+        "GB"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "3b614449d9b0",
+      "title": "Exclusive: CIA carried out drone strike on port facility on Venezuelan coast",
+      "summary": "Exclusive: CIA carried out drone strike on port facility on Venezuelan coast CNN",
+      "source_name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qS0NDWmZ4a3JNSl84dVBEYmp6T2N3ZWpzZWVWVVNMalNJVlFCMlpfSGpraTMzSmhzcUZCcDZLNXNVb0Rya1FzVTdoV1dfRy1kWE1NdXd4YzE2bERoLU41dXdaa0F4SWRWVzA2bU5NMFFnQUE5?oc=5",
+      "published_at_utc": "2025-12-29T08:00:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "dd029c7b3ca7",
+      "title": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port",
+      "summary": "UAE says it will withdraw from Yemen after Saudi strike on separatist-held port BBC",
+      "source_name": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RSEdiSURoYmlhcXpQSUpRTFdzcFRTdkliMDRzYlQyakxtVVl2LVRiRzdmSzI5Z2NTajc1OHVPTmtQQnJUNW95WHE2WVQxaVp2SERUcWg1VlVZUdIBX0FVX3lxTE5NN01HNWN0Tl8zZjB3bmtLOUtBdW95ZldoRl9yQmJUQVJ1aUVoOHZiRVFXcllISWtTZk9wMFZfY3FUU1FoVmRXYUpPY1lPU1dpMjFpYWluQ1BVUE9tUWdr?oc=5",
+      "published_at_utc": "2025-12-30T08:00:00Z",
+      "category": "Crisis",
+      "country_tags": [
+        "YE",
+        "AE",
+        "SA"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "613663c0e040",
+      "title": "Produce suppliers scramble after Young Brothers shipment delay",
+      "summary": "Produce suppliers scramble after Young Brothers shipment delay Hawaii News Now",
+      "source_name": "Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGF1MUQtb0lUampzV0dKZDFfM0Q4eTFQNTR1bWl5ZHNBMGtJY0U5bWxtSWtDLWpFbmZ4d1VMekZyZW12WVlXdld4T0Rrbkg5TmJjVE5DRGxRR2twUEZyMVV0YmVFZ2VyZ2FlUWdSSWRfcjFFRFQ1Wl9jU0Y0OXBjOWVSMDdRSmY5MndYdmpsYkdrZmdJNXM5SjhqZGFYT2E3bHhKNV84Z9IBuwFBVV95cUxOdEpTdHNmNmdYbW9Kd2Y2UEVlTXUtRklOOW1td0ZnLXVLYWRfUFpmNXpkam1GaDU3bHJoMzcwU0VuWThoamlScW1OSnloSG5JRGxrcGkzakRFd1FXZ05BMGdxS0E0ZDR0eGVLblkydVlZZHRNYXdRdmNCMTlxV3pseDBVcmV5c0hRX2UtUU9TV1Zsa3E0dEhrY2xNbl9hNThIU0FfRk50VHdfZkNrZGhJVmV4YnVwamoxQVRn?oc=5",
+      "published_at_utc": "2026-01-08T04:04:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "fe3cccc2323d",
+      "title": "CVSA Human Trafficking Awareness Week Kicks Off",
+      "summary": "CVSA's five-day Human Trafficking Awareness Initiative kicks off today across the United States, with law enforcement and carriers conducting coordinated outreach at truck stops and weigh stations thr...",
+      "source_name": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/cvsa-human-trafficking-awareness-week-kicks-off",
+      "published_at_utc": "2026-01-12T15:10:30Z",
+      "category": "Crisis",
+      "country_tags": [
+        "US"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "f8fd177f91eb",
+      "title": "STG Logistics files Chapter 11, charts path forward",
+      "summary": "Intermodal marketing company STG Logistics announced Monday it has entered into a Chapter 11 restructuring plan. The post STG Logistics files Chapter 11, charts path forward appeared first on FreightW...",
+      "source_name": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/stg-logistics-files-chapter-11-charts-path-forward",
+      "published_at_utc": "2026-01-12T15:59:44Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "9045241df8ff",
+      "title": "Large parcel carriers improved on-time delivery during 2025 peak season",
+      "summary": "The 2025 peak parcel season saw fewer shipping delays as a percentage of total volume than during the prior year. The post Large parcel carriers improved on-time delivery during 2025 peak season appea...",
+      "source_name": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/large-parcel-carriers-improved-on-time-delivery-during-2025-peak-season",
+      "published_at_utc": "2026-01-12T16:19:55Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "7db443b62a7e",
+      "title": "Feds seek input on solving supply chain bottlenecks",
+      "summary": "DOT issued an information request to develop its next Research, Development, and Technology Strategic Plan with an emphasis on multimodal mobility and congestion relief. The post Feds seek input on so...",
+      "source_name": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/feds-seek-input-on-solving-supply-chain-bottlenecks",
+      "published_at_utc": "2026-01-13T21:30:49Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "1deb02004e43",
+      "title": "Trump Administration Waves White Flag on Transportation Funding Immigration Fight, But the War is Far From Over",
+      "summary": "The Trump administration's decision to drop its appeal that tied billions in transportation funding to immigration enforcement represents a significant legal setback, but don't mistake this tactical r...",
+      "source_name": "FreightWaves",
+      "url": "https://www.freightwaves.com/news/trump-administration-waves-white-flag-on-transportation-funding-immigration-fight-but-the-war-is-far-from-over",
+      "published_at_utc": "2026-01-13T21:39:34Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    }
+  ],
+  "total_crisis": 14,
+  "generated_at": "2026-01-15T13:55:25Z"
+}
