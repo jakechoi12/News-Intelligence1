@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9820e54e51cd",
-      "title": "[중화학노트] 권오갑 HD현대 명예회장, 전임 노조 지부장 ‘상생 오찬’...",
-      "summary": "◆ SM상선 건설부문, 2026년 ‘중대재해 ZERO’ 선포식 SM그룹의 건설부문 계열사 SM상선 건설부문이 지난 5일 서울 서대문구 SM그룹 신촌사옥에서 2026년 중대재해 ZERO(0) 달성을 위한 선포식을 열었다. 새해 시무식과 함께...",
-      "source_name": "Naver News",
-      "url": "https://news.dealsitetv.com/articles/163885",
-      "published_at_utc": "2026-01-13T00:18:00Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "370c4204a96f",
-      "title": "서울 시내버스 전면 파업… 오세훈 시장은?",
-      "summary": "오세훈 서울 시장이 12일 오후 광운대역 물류부지 개발 상황을 점검하고 있다 (연합뉴스) 이번 파업은 전날 이미 예고된 상황이었다. 그럼에도 시민들은 “사전 대응이 있었느냐”를 묻고 있다. 오세훈 서울시장은 파업이...",
-      "source_name": "Naver News",
-      "url": "https://wemakenews.co.kr/news/view.php?no=24294",
-      "published_at_utc": "2026-01-13T01:02:00Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "e42b61273b65",
-      "title": "\"미국만 믿다가는 낭패\"...사우디, 중국 전투기 구매 추진",
-      "summary": "매체는 지역 전문가의 발언을 인용해 \"2019년 후티 반군이 사우디 아람코의 석유 시설을 공격했을 때, 미국이 이에 대응하지 않기로 결정한 사실 등으로 인해 사우디의 안보 우려가 높아지고 있다\"고 분석했다. 또한...",
-      "source_name": "Naver News",
-      "url": "https://www.newspim.com/news/view/20260113000365",
-      "published_at_utc": "2026-01-13T01:15:00Z",
-      "category": "Crisis",
-      "country_tags": [
-        "CN",
-        "SA",
-        "US"
-      ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
       "id": "c549435ff091",
       "title": "Docks empty, ships absent: Eilat Port in deep crisis",
       "summary": "Docks empty, ships absent: Eilat Port in deep crisis Ynetnews",
@@ -102,22 +62,10 @@
       "published_at_utc": "2026-01-13T02:49:00Z",
       "category": "Crisis",
       "country_tags": [
-        "YE",
         "IR",
+        "YE",
         "US"
       ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "c39817a54d30",
-      "title": "통상임금 놓고 노사 힘겨루기…서울 시민의 발 잡았다",
-      "summary": "파업 시에도 최소 운행률을 확보하도록 제도적 장치를 마련해 시민 피해를 줄여야 한다는 목소리도 나온다. 강경우 한양대 교통물류공학과 명예교수는 “준공영제는 원래 공공이 소유하고 민간이 운영하는 구조인데...",
-      "source_name": "Naver News",
-      "url": "https://n.news.naver.com/mnews/article/020/0003688957?sid=102",
-      "published_at_utc": "2026-01-13T04:39:00Z",
-      "category": "Crisis",
-      "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
@@ -128,15 +76,63 @@
       "source_name": "Naver News",
       "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104",
       "published_at_utc": "2026-01-13T05:21:00Z",
-      "category": "Crisis",
+      "category": "ETC",
       "country_tags": [
-        "YE",
-        "IR"
+        "IR",
+        "YE"
       ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "190b184f9396",
+      "title": "[기획] 정책 미스로 수십조원 경제손실 예고… 산업계‧소비자 '날벼락...",
+      "summary": "서울 시내의 한 쿠팡 물류센터 모습. 사진=연합뉴스 매일일보 = 이용 기자 | 정부와 정치권이 잇달아 추진... 소규모 사업장은 파업으로 인한 영업 중단 시 피해를 고스란히 떠안을 수밖에 없기 때문이다. 경제...",
+      "source_name": "Naver News",
+      "url": "http://www.m-i.kr/news/articleView.html?idxno=1324784",
+      "published_at_utc": "2026-01-13T05:28:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "e3cc9b11aeac",
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "summary": "전문보기: https://www.yna.co.kr/view/AKR20260113060500030 ■ 서울 시내버스 파업 길어지나…\"아직 교섭 일정도 못... 쿠팡의 물류 자회사인 쿠팡풀필먼트서비스(CFS)는 지난 2024년 4월 주휴수당 지급 기준에 '주 5일 이상 근무...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/001/0015844242?sid=100",
+      "published_at_utc": "2026-01-13T05:30:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "08eb8eb1e5ff",
+      "title": "Charity shortlisted after helping keep homes warm",
+      "summary": "Severn Wye has been shortlisted for the Health Service Journal Partnership Award.",
+      "source_name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cqj2d1x2yjgo?at_medium=RSS&at_campaign=rss",
+      "published_at_utc": "2026-01-13T06:12:49Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "081bb1a81ec8",
+      "title": "2026년 해양레저관광 전망…운영모델 설계가 성패 좌우",
+      "summary": "연안 대도시권 해변은 수요가 유지·강화될 수 있으나 혼잡과 환경부하 관리가 핵심 경쟁력으로 부각된다.... 관점에서는 항만·도시 수용력과 저탄소 전환 역량이 경쟁력이 될 것이다. 국내 해양레저관광 현황과 전망...",
+      "source_name": "Naver News",
+      "url": "https://www.hdhy.co.kr/news/articleView.html?idxno=33559",
+      "published_at_utc": "2026-01-13T08:40:00Z",
+      "category": "Crisis",
+      "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     }
   ],
-  "total_crisis": 220,
-  "generated_at": "2026-01-16T00:15:23Z"
+  "total_crisis": 202,
+  "generated_at": "2026-01-16T01:41:21Z"
 }
