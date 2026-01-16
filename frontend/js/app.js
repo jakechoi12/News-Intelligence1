@@ -800,8 +800,14 @@ function renderHeadlines() {
         `;
     }).join('');
     
-    // Add hover event listeners for insights panel
-    setupHeadlineHoverEvents();
+    // [주석처리] 시사점 패널 - 기능 비활성화
+    // setupHeadlineHoverEvents();
+    
+    // 시사점 패널 숨기기
+    const insightsPanel = document.getElementById('insights-panel');
+    if (insightsPanel) {
+        insightsPanel.style.display = 'none';
+    }
 }
 
 /**

@@ -382,47 +382,42 @@ class DataManager:
             }
             headlines.append(headline)
         
+        # [주석처리] 시사점 생성 기능 - API 할당량 문제로 비활성화
         # Generate insights in parallel batch if analyzer is available
-        if analyzer:
-            from concurrent.futures import ThreadPoolExecutor, as_completed
-            
-            logger.info("   🔍 Generating insights in parallel...")
-            
-            def generate_insights_for_article(headline_item, article_item):
-                try:
-                    result = analyzer.generate_insights(article_item)
-                    # LLM이 빈 문자열을 반환하면 빈 시사점 표시 (사용자 요청)
-                    if not result.get('trade') and not result.get('logistics') and not result.get('scm'):
-                        return {'trade': '', 'logistics': '', 'scm': ''}
-                    return result
-                except Exception as e:
-                    logger.debug(f"Failed to generate insights: {e}")
-                    return {'trade': '', 'logistics': '', 'scm': ''}
-            
-            with ThreadPoolExecutor(max_workers=3) as executor:
-                futures = {executor.submit(generate_insights_for_article, h, a): (i, h) 
-                          for i, (h, a) in enumerate(zip(headlines, top_articles))}
-                
-                for future in as_completed(futures):
-                    idx, headline_item = futures[future]
-                    try:
-                        insights = future.result()
-                        headlines[idx]['insights'] = insights
-                    except Exception as e:
-                        logger.debug(f"Insights generation error: {e}")
-                        headlines[idx]['insights'] = {
-                            'trade': '관련 시장 동향 모니터링 필요',
-                            'logistics': '물류 일정 및 비용 영향 검토 필요',
-                            'scm': '공급망 리스크 관리 점검 권장'
-                        }
-        else:
-            # Default insights if no analyzer
-            for headline in headlines:
-                headline['insights'] = {
-                    'trade': '관련 시장 동향 모니터링 필요',
-                    'logistics': '물류 일정 및 비용 영향 검토 필요',
-                    'scm': '공급망 리스크 관리 점검 권장'
-                }
+        # if analyzer:
+        #     from concurrent.futures import ThreadPoolExecutor, as_completed
+        #     
+        #     logger.info("   🔍 Generating insights in parallel...")
+        #     
+        #     def generate_insights_for_article(headline_item, article_item):
+        #         try:
+        #             result = analyzer.generate_insights(article_item)
+        #             if not result.get('trade') and not result.get('logistics') and not result.get('scm'):
+        #                 return {'trade': '', 'logistics': '', 'scm': ''}
+        #             return result
+        #         except Exception as e:
+        #             logger.debug(f"Failed to generate insights: {e}")
+        #             return {'trade': '', 'logistics': '', 'scm': ''}
+        #     
+        #     with ThreadPoolExecutor(max_workers=3) as executor:
+        #         futures = {executor.submit(generate_insights_for_article, h, a): (i, h) 
+        #                   for i, (h, a) in enumerate(zip(headlines, top_articles))}
+        #         
+        #         for future in as_completed(futures):
+        #             idx, headline_item = futures[future]
+        #             try:
+        #                 insights = future.result()
+        #                 headlines[idx]['insights'] = insights
+        #             except Exception as e:
+        #                 logger.debug(f"Insights generation error: {e}")
+        #                 headlines[idx]['insights'] = {'trade': '', 'logistics': '', 'scm': ''}
+        # else:
+        #     for headline in headlines:
+        #         headline['insights'] = {'trade': '', 'logistics': '', 'scm': ''}
+        
+        # 시사점 없이 빈 값으로 설정
+        for headline in headlines:
+            headline['insights'] = {}
         
         logger.info(f"   ✅ Generated {len(headlines)} headlines with insights")
         return headlines
