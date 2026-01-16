@@ -58,6 +58,11 @@ def load_news_data() -> dict:
     return load_json_file('news_data.json')
 
 
+def load_headlines_data() -> dict:
+    """Load headlines data from headlines_data.json"""
+    return load_json_file('headlines_data.json')
+
+
 def truncate_text(text: str, max_length: int = 60) -> str:
     """Truncate text with ellipsis"""
     if len(text) <= max_length:
@@ -65,14 +70,14 @@ def truncate_text(text: str, max_length: int = 60) -> str:
     return text[:max_length-3] + "..."
 
 
-def send_teams_notification(webhook_url: str, stats: dict, news: dict) -> bool:
+def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> bool:
     """
     Send notification to Teams channel with summary and headlines.
     
     Args:
         webhook_url: Teams Webhook URL
         stats: Collection statistics
-        news: News data with articles
+        headlines: Headlines data from headlines_data.json
         
     Returns:
         True if successful, False otherwise
@@ -88,8 +93,8 @@ def send_teams_notification(webhook_url: str, stats: dict, news: dict) -> bool:
     global_count = stats.get('global_count', 0)
     categories = stats.get('categories', {})
     
-    # Get top headlines (up to 5)
-    articles = news.get('articles', [])[:5]
+    # Get top headlines from headlines_data.json (up to 5)
+    articles = headlines.get('headlines', [])[:5]
     
     # Build headline items
     headline_items = []
@@ -238,7 +243,7 @@ def main():
     
     # Load data
     stats = load_collection_stats()
-    news = load_news_data()
+    headlines = load_headlines_data()
     
     if not stats:
         logger.warning("⚠️ No collection stats found. Using default values.")
@@ -250,10 +255,10 @@ def main():
         }
     
     logger.info(f"   📊 Stats: {stats.get('total_collected', 0)} articles")
-    logger.info(f"   📰 Headlines: {len(news.get('articles', []))} available")
+    logger.info(f"   📰 Headlines: {len(headlines.get('headlines', []))} available")
     
     # Send notification
-    success = send_teams_notification(webhook_url, stats, news)
+    success = send_teams_notification(webhook_url, stats, headlines)
     
     return 0 if success else 1
 

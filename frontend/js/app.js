@@ -740,8 +740,8 @@ function renderWordcloud() {
     // Prepare word list for WordCloud2 (더 많은 키워드 표시)
     const maxCount = Math.max(...keywords.map(k => k.count));
     const wordList = keywords.slice(0, 80).map(kw => {
-        // 최소 8px, 최대 24px로 축소하여 더 많은 키워드 표시
-        const size = Math.max(8, Math.min(24, (kw.count / maxCount) * 20 + 8));
+        // 최소 9px, 최대 26px (10% 확대)
+        const size = Math.max(9, Math.min(26, (kw.count / maxCount) * 22 + 9));
         return [kw.text, size];
     });
     

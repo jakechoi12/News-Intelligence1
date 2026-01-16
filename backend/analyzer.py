@@ -383,19 +383,30 @@ For example, "AI-based damage control system development success" is Ocean, not 
         
         if self.model:
             try:
-                return self._generate_insights_with_ai(title, summary)
+                result = self._generate_insights_with_ai(title, summary)
+                if result.get('trade') or result.get('logistics') or result.get('scm'):
+                    logger.debug(f"✅ Generated insights for: {title[:30]}...")
+                    return result
+                else:
+                    logger.debug(f"⚠️ Empty insights for: {title[:30]}...")
             except Exception as e:
-                logger.debug(f"AI insights generation failed: {e}")
+                logger.warning(f"AI insights generation failed for '{title[:30]}...': {e}")
+        else:
+            logger.debug(f"⚠️ No Gemini model available for insights")
         
         # LLM 실패 시 빈 시사점 반환 (UI에서 "시사점 없음" 표시)
         return {'trade': '', 'logistics': '', 'scm': ''}
     
     def _generate_insights_with_ai(self, title: str, summary: str) -> Dict[str, str]:
         """Generate insights using Gemini AI - comprehensive summary"""
+        
+        # summary가 없으면 title만 사용
+        content_for_analysis = summary if summary else title
+        
         prompt = f"""당신은 무역, 물류, SCM 전문 분석가입니다. 아래 뉴스 기사를 읽고 종합적인 시사점을 3줄로 요약해주세요.
 
 📰 기사 제목: {title}
-📝 기사 요약: {summary}
+📝 기사 내용: {content_for_analysis}
 
 요청사항:
 - 무역, 물류, SCM 관점을 종합하여 이 기사가 주는 핵심 시사점을 3줄로 작성
@@ -404,34 +415,52 @@ For example, "AI-based damage control system development success" is Ocean, not 
 - 일반적인 조언이 아닌 이 기사에 특화된 내용
 - 틀에 맞추지 말고 자연스럽게 종합적으로 작성
 
-아래 JSON 형식으로만 응답 (마크다운, 설명 없이):
-{{
-    "insight1": "첫 번째 시사점 (무역/물류/SCM 종합)",
-    "insight2": "두 번째 시사점 (무역/물류/SCM 종합)",
-    "insight3": "세 번째 시사점 (무역/물류/SCM 종합)"
-}}"""
+아래 JSON 형식으로만 응답 (코드블록, 마크다운, 추가 설명 없이 순수 JSON만):
+{{"insight1": "첫 번째 시사점", "insight2": "두 번째 시사점", "insight3": "세 번째 시사점"}}"""
+        
+        logger.debug(f"🔍 Generating insights for: {title[:40]}...")
 
         try:
             response = self.model.generate_content(prompt)
             text = response.text.strip()
+            logger.debug(f"📝 LLM raw response: {text[:200]}...")
             
-            # Clean up response
-            if text.startswith('```'):
-                text = text.split('\n', 1)[1]
-                text = text.rsplit('```', 1)[0]
+            # Clean up response - robust JSON extraction
+            import re
+            
+            # Pattern to match code blocks with any language specifier
+            code_block_pattern = r'```(?:json|JSON)?\s*\n?([\s\S]*?)\n?```'
+            match = re.search(code_block_pattern, text)
+            if match:
+                text = match.group(1).strip()
+            elif text.startswith('```'):
+                # Fallback: try simple split
+                lines = text.split('\n')
+                text = '\n'.join(lines[1:])  # Remove first line (```)
+                if '```' in text:
+                    text = text.rsplit('```', 1)[0]
+            
+            # Try to find JSON object in the text
+            json_match = re.search(r'\{[\s\S]*?\}', text)
+            if json_match:
+                text = json_match.group(0)
             
             result = json.loads(text)
             time.sleep(0.1)  # Rate limiting
             
-            # 기존 형식으로 변환 (하위 호환성)
-            return {
+            insights = {
                 'trade': result.get('insight1', ''),
                 'logistics': result.get('insight2', ''),
                 'scm': result.get('insight3', ''),
             }
+            logger.debug(f"✅ Parsed insights: trade={insights['trade'][:30]}...")
+            return insights
             
+        except json.JSONDecodeError as e:
+            logger.warning(f"AI insights JSON parsing error: {e}")
+            logger.debug(f"Failed to parse: {text[:200]}")
+            return {'trade': '', 'logistics': '', 'scm': ''}
         except Exception as e:
-            logger.debug(f"AI insights parsing error: {e}")
-            # LLM 실패 시 빈 시사점 반환
+            logger.warning(f"AI insights generation error: {e}")
             return {'trade': '', 'logistics': '', 'scm': ''}
 

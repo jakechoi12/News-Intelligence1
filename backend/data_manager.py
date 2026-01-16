@@ -390,14 +390,14 @@ class DataManager:
             
             def generate_insights_for_article(headline_item, article_item):
                 try:
-                    return analyzer.generate_insights(article_item)
+                    result = analyzer.generate_insights(article_item)
+                    # LLM이 빈 문자열을 반환하면 빈 시사점 표시 (사용자 요청)
+                    if not result.get('trade') and not result.get('logistics') and not result.get('scm'):
+                        return {'trade': '', 'logistics': '', 'scm': ''}
+                    return result
                 except Exception as e:
                     logger.debug(f"Failed to generate insights: {e}")
-                    return {
-                        'trade': '관련 시장 동향 모니터링 필요',
-                        'logistics': '물류 일정 및 비용 영향 검토 필요',
-                        'scm': '공급망 리스크 관리 점검 권장'
-                    }
+                    return {'trade': '', 'logistics': '', 'scm': ''}
             
             with ThreadPoolExecutor(max_workers=3) as executor:
                 futures = {executor.submit(generate_insights_for_article, h, a): (i, h) 
@@ -506,8 +506,8 @@ class DataManager:
             # 웹사이트/RSS 관련 불필요한 문구
             'appeared first', 'the post', 'first on', 'read more', 'click here',
             'on freightwaves', 'freightwaves', 'on air', 'cargo week', 'trade magazine',
-            'source: bloomberg', 'journal of',
-            # 일반적인 영어 구문
+            'source: bloomberg', 'journal of', 'yahoo finance', 'tradingview',
+            # 일반적인 영어 구문 (의미 없음)
             'a new', 'of long', 'is expected', 'will be', 'has been', 'have been',
             'continued to', 'according to', 'more than', 'as well', 'such as',
             'this week', 'last year', 'last week', 'this year', 'next year',
@@ -515,10 +515,24 @@ class DataManager:
             'the new', 'the first', 'the us', 'the global', 'the maritime',
             'and the', 'as the', 'after the', 'across the', 'state of',
             'return to', 'service to', 'performance in', 'tonnes of',
+            'a record', 'to red', 'time to', 'court to', 'and supply', 'to cut',
+            'the u.s', 'the future', 'billion in', 'the suez',
+            'expected to', 'set to', 'more the', 'the latest', 'the middle',
+            'returns to', 'two years', 'market is', 'to return', 'to supply',
+            'to close', 'the red', 'position in', 'teu in', 'in november',
+            'through the', 'all markets', 'and passenger', 'record year',
+            '2025 the', '2025 as', 'and jade', 'dragon and',
             # 날짜/시간 관련 (한국어)
             '지난', '오늘', '내일', '올해', '작년', '이번', '다음', '밝혔다', '전했다',
             '등 다양한', '다양한 산업', '수 있도록', '수 있다는', '이에 따라', '참석한 가운데',
-            '전년 대비', '포함)은', '이코노미', '클래스',
+            '전년 대비', '포함)은', '이코노미', '클래스', '밝혔다. 이번', '오는 2월',
+            '받을 수 있다', '지난해 11월', '전년동기 대비', '포토]',
+            # 스포츠/연예/불필요 키워드
+            '농구', '축구', '야구', '감독', '국가대표', '취임', '기자회견', '프레스센터', '프레스센타',
+            '열렸다', '광화문', '선수', '경기', '선수단', '코치', '올림픽', '월드컵',
+            # 운임 세부 정보 (물류 분석과 무관)
+            '왕복 총액운임', '총액운임', '유류할증료', '공항시설사용료', '이코노미 클래스',
+            '출발기준 왕복', '인천 출발기준',
         }
         
         # 조사/관사 블랙리스트 (불필요한 키워드 필터링)
@@ -530,9 +544,17 @@ class DataManager:
             'port of', 'to', 'for', 'in', 'with the', 'from the', 'that the',
             # 날짜 패턴 (한국어)
             '지난 15일', '지난 14일', '지난 16일', '오는 15일', '오는 16일',
-            '16일 밝혔다', '16일 오전', '지난해 12월',
-            # 깨진 텍스트
-            '…]', '…] the',
+            '16일 밝혔다', '16일 오전', '지난해 12월', '16일 서울',
+            # 깨진 텍스트/특수문자
+            '…]', '…] the', 'tradingview —', 'caribbean,', ', not',
+        }
+        
+        # 스포츠/연예/불필요 인명 패턴 (여러 단어 조합)
+        IRRELEVANT_PATTERNS = {
+            '마줄스', '니콜라이스', '마줄스 남자농구', '남자농구 국가대표', '감독 취임',
+            '취임 기자회견', '서울 광화문', '광화문 프레스', '프레스센타에서', '열렸다.',
+            # 항공권 가격 정보 패턴 (물류 분석과 무관)
+            '만원', '68만', '54만', '56만', '△뉴욕', '△샌프란시스코', '△호놀룰루', '△워싱턴', '△la'
         }
         
         keyword_counts = Counter()
@@ -583,13 +605,49 @@ class DataManager:
                 if len(kw.split()) >= 2:  # 2단어 이상만
                     keyword_counts[kw] += 1
         
+        # 불필요한 패턴 필터링 (스포츠, 연예, 가격 등)
+        import re
+        # 가격 패턴: 숫자+만원, △도시명, 숫자+원 등
+        PRICE_PATTERN = re.compile(r'(\d+만\d*원?|\△\w+|\d{2,}만|\d+원)')
+        
+        filtered_counts = Counter()
+        for word, count in keyword_counts.items():
+            # 불필요한 패턴 체크
+            if any(pattern in word for pattern in IRRELEVANT_PATTERNS):
+                continue
+            # 가격 패턴 체크 (항공권 가격 정보 등)
+            if PRICE_PATTERN.search(word):
+                continue
+            # 불필요한 stopword 체크
+            if any(sw in word for sw in STOP_WORDS if len(sw) > 3):
+                continue
+            # 특수문자만 있는 경우 제외
+            if re.match(r'^[\W\d]+$', word):
+                continue
+            filtered_counts[word] = count
+        
+        # 중복 제거: 짧은 구문이 긴 구문에 포함되면 짧은 구문 제거
+        final_counts = Counter()
+        sorted_keywords = sorted(filtered_counts.keys(), key=lambda x: len(x), reverse=True)
+        
+        for word in sorted_keywords:
+            # 이미 추가된 긴 키워드에 포함되어 있는지 확인
+            is_subset = False
+            for existing in final_counts:
+                if word in existing and word != existing:
+                    is_subset = True
+                    break
+            
+            if not is_subset:
+                final_counts[word] = filtered_counts[word]
+        
         # Format for wordcloud (더 많은 키워드 추출)
         wordcloud_data = {
             'keywords': [
                 {'text': word, 'count': count, 'size': min(count * 10, 100)}
-                for word, count in keyword_counts.most_common(100)  # 50 → 100
+                for word, count in final_counts.most_common(100)  # 50 → 100
             ],
-            'total_keywords': len(keyword_counts),
+            'total_keywords': len(final_counts),
             'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         }
         
