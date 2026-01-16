@@ -1,8 +1,46 @@
 {
   "countries": [
     {
+      "code": "US",
+      "count": 37,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "한은 \"美소비, 주가·고소득층 지출에 의존…충격 발생 시 경기 급락\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393873"
+        },
+        {
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
+        },
+        {
+          "title": "TD코언 \"스트래티지, 목표가 낮추지만 '매수' 유지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393868"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 26,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "한은 \"美소비, 주가·고소득층 지출에 의존…충격 발생 시 경기 급락\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393873"
+        },
+        {
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
+        },
+        {
+          "title": "고환율에 한미일 공동대응, 과거와 달라진 여건은",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393864"
+        }
+      ]
+    },
+    {
       "code": "IR",
-      "count": 33,
+      "count": 26,
       "risk_level": "high",
       "articles": [
         {
@@ -20,84 +58,46 @@
       ]
     },
     {
-      "code": "US",
-      "count": 30,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[오늘 외환딜러 환율 예상레인지]",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393835"
-        },
-        {
-          "title": "美·대만 무역협정이 반도체 공급망과 동북아 안보에 미칠 영향은",
-          "url": "https://www.newspim.com/news/view/20260116000405"
-        },
-        {
-          "title": "안보리서 맞선 미국-이란…\"모든 선택지 고려\" VS \"공격시 상응 조치\"",
-          "url": "https://www.mt.co.kr/world/2026/01/16/2026011610103453879"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 22,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "국채선물, 금통위 후폭풍 속 소폭 하락…저가매수 주목",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393860"
-        },
-        {
-          "title": "[이 주의 책]'부의 감각' 外",
-          "url": "https://n.news.naver.com/mnews/article/277/0005707805?sid=103"
-        },
-        {
-          "title": "대한항공, 4분기 매출 4조5516억원 기록… 영업이익은 5% 감소",
-          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=37851"
-        }
-      ]
-    },
-    {
       "code": "CN",
-      "count": 22,
+      "count": 24,
       "risk_level": "high",
       "articles": [
         {
-          "title": "사고 난 벤츠서 발견된 여성, 온몸에 테이프 '칭칭'…무슨 일?",
-          "url": "https://www.mt.co.kr/world/2026/01/16/2026011610281034334"
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
         },
         {
-          "title": "미샤, '짝퉁' 우려에도 테무 손잡은 까닭은…'실리' 택했다",
-          "url": "https://n.news.naver.com/mnews/article/015/0005238103?sid=101"
+          "title": "팩트로 시장을 설득하다…고려아연의 위기 커뮤니케이션 전략",
+          "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=60187"
         },
         {
-          "title": "5년새 두배 급증 중러 무역액, 지난해 급감 이유는?",
-          "url": "https://www.newspim.com/news/view/20260116000320"
+          "title": "Metals Decline as China Clamps Down on High-Frequency Trading",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-16/metals-decline-as-china-clamps-down-on-high-frequency-trading"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 14,
+      "count": 16,
       "risk_level": "high",
       "articles": [
         {
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
+        },
+        {
+          "title": "난방 없는 혹한 버티는 우크라…러, 항만·에너지 시설 연쇄 타격",
+          "url": "https://n.news.naver.com/mnews/article/056/0012106481?sid=104"
+        },
+        {
           "title": "절대반지의 유혹: 하이에크가 2026년의 ‘절대 권력’에게 묻다 [조원경...",
           "url": "https://n.news.naver.com/mnews/article/016/0002586806?sid=101"
-        },
-        {
-          "title": "5년새 두배 급증 중러 무역액, 지난해 급감 이유는?",
-          "url": "https://www.newspim.com/news/view/20260116000320"
-        },
-        {
-          "title": "Seafarer Injured in Russian Strike on Port of Chernomorsk",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1FpUnJyT0RXV0FCNVlCeDNqVUwtVzRsTVNwRUxhV2pjLTd2UTVkaFp0emkweGoyN3E3S1RpTnF0anNHamFFTkNLb296b05YOEc3cno2Y1ZuMFJBVnlheWhzbUl6TDV6N1YtRzFiTDllMU44ZzU5RHowTzBQWEpTSEpibl9UQ0VjUG4zUVZ0OWYyQ0xwellVdDZNcUQ?oc=5"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 12,
+      "count": 13,
       "risk_level": "high",
       "articles": [
         {
@@ -116,9 +116,13 @@
     },
     {
       "code": "GB",
-      "count": 6,
+      "count": 8,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "BIFA Freight Service Awards 2025: Industry leaders recognised at London ceremony",
+          "url": "https://aircargoweek.com/bifa-freight-service-awards-2025-industry-leaders-recognised-at-london-ceremony/"
+        },
         {
           "title": "Russian ballistic missile strike on Chornomorsk port damages civilian vessel - Kuleba",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGhSbllXRllob1pPNDh6TE8tUDFTa2ZFMm9HbXRFeWRsMWxaT3EtcG5aMEZYaENtQVBwbmhVZ0hOYmJqdGwtSHMycGNLMVZKb3FaVVl5anpjYk41MXVMQ1lWRUdjMjVhbmxROV8yd3lyZ09FWGczSWx3X3lPeVJ6Q0hMeVgyeWU3QmNWbWNkSkNiZG51OW54MnN1Vm8xYzg4a2lMVHluVnFZVTlPM0pubUdPbWxIQ204Tm9SddIBwgFBVV95cUxPdkpwbDFvSmlySHNmOGxrWFlGWElUdHBpV0xkejBwS2pGcVNHX3lvSmJEUkdma1BsQmxSRVlkaFZ5ejVCWVAza0R1RlRhX1JuS093SHdoWG5YQmVLRHpfY1djeG9YaUZjckdsaE81cmhxSElzREZJWnBnaUNiYnZjRlpraTZrQmh5ZE41eWFRc2VJRDBTWlRta3pGbEFab1VoYkpUODNRMklPTHRjcE5nQUtiQTFDcDBlMXVSLTBaZWVjQQ?oc=5"
@@ -126,29 +130,25 @@
         {
           "title": "State-level asymmetric warfare generates higher maritime risk",
           "url": "https://container-news.com/state-level-asymmetric-warfare-generates-higher-maritime-risk/"
-        },
-        {
-          "title": "Kukdong MES eyes global container leasing business as prices slump",
-          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 4,
-      "risk_level": "medium",
+      "count": 6,
+      "risk_level": "high",
       "articles": [
+        {
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
+        },
+        {
+          "title": "고환율에 한미일 공동대응, 과거와 달라진 여건은",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393864"
+        },
         {
           "title": "[오늘 외환딜러 환율 예상레인지]",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393835"
-        },
-        {
-          "title": "'실종' 간호사, 술집 벽 안에 시신으로...공기청정기 5대로 냄새 감췄다",
-          "url": "https://www.mt.co.kr/world/2026/01/16/2026011609015492783"
-        },
-        {
-          "title": "Yen Watchers Face Double Whammy of BOJ, Election Uncertainty",
-          "url": "https://www.bloomberg.com/news/articles/2026-01-15/yen-watchers-face-double-whammy-of-boj-election-uncertainty"
         }
       ]
     },
@@ -210,25 +210,6 @@
       ]
     },
     {
-      "code": "YE",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Is the Yemeni government getting ready to attack the Houthis?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSElsdEltNF94NExRSHJ2Y2JUN05HT1hVSkRBQlNfQ3E5aWNuSTlLTjRMeWdRRHhPLUpxbFhDZlRNUG9oX0xaQlBJMi02ZFN6TENsemU2djlieFR0Z2xaTks4VEdyVHlZUHBJZHRTX3dJQXBfUWhjeExjYjBvSjh2WEl0cHRPN1NiREpsMTJISkJLR1VyUmVrYXo4c01tZ9IBowFBVV95cUxQczBJbDVERGpZbUl2Xy1OZWNJcU8zYXE4RHhxZUJMUTRlYXdDR1pRX0NpX3RXTFhsYU9tbVNIaldMZDBJdkh3NDc5SUdOWEx6TU5uanMtQTRqYnIzekxaZ0k5UjJ6WFBYWWNRT2JJdUs2MWZWU2QtcDl0R2RhWUY1NTlTQnNQclcwa3BZdjZiUDlxSGRqb01lVGZ6Y2Z5a2lYejhR?oc=5"
-        },
-        {
-          "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
-          "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104"
-        },
-        {
-          "title": "주이스라엘 미국대사 \"현재는 이란 군사개입 신호 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0013707449?sid=104"
-        }
-      ]
-    },
-    {
       "code": "FR",
       "count": 2,
       "risk_level": "medium",
@@ -240,6 +221,21 @@
         {
           "title": "JD.com plugs security gaps after Paris warehouse theft",
           "url": "https://www.freightwaves.com/news/jd-com-plugs-security-gaps-after-paris-warehouse-theft"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Is the Yemeni government getting ready to attack the Houthis?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSElsdEltNF94NExRSHJ2Y2JUN05HT1hVSkRBQlNfQ3E5aWNuSTlLTjRMeWdRRHhPLUpxbFhDZlRNUG9oX0xaQlBJMi02ZFN6TENsemU2djlieFR0Z2xaTks4VEdyVHlZUHBJZHRTX3dJQXBfUWhjeExjYjBvSjh2WEl0cHRPN1NiREpsMTJISkJLR1VyUmVrYXo4c01tZ9IBowFBVV95cUxQczBJbDVERGpZbUl2Xy1OZWNJcU8zYXE4RHhxZUJMUTRlYXdDR1pRX0NpX3RXTFhsYU9tbVNIaldMZDBJdkh3NDc5SUdOWEx6TU5uanMtQTRqYnIzekxaZ0k5UjJ6WFBYWWNRT2JJdUs2MWZWU2QtcDl0R2RhWUY1NTlTQnNQclcwa3BZdjZiUDlxSGRqb01lVGZ6Y2Z5a2lYejhR?oc=5"
+        },
+        {
+          "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
+          "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104"
         }
       ]
     },
@@ -267,5 +263,5 @@
     }
   ],
   "total_crisis_countries": 15,
-  "generated_at": "2026-01-16T02:34:01Z"
+  "generated_at": "2026-01-16T03:33:39Z"
 }

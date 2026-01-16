@@ -1,28 +1,8 @@
 {
   "keywords": [
     {
-      "text": "red sea",
-      "count": 47,
-      "size": 100
-    },
-    {
-      "text": "global trade",
-      "count": 46,
-      "size": 100
-    },
-    {
       "text": "long beach",
-      "count": 34,
-      "size": 100
-    },
-    {
-      "text": "suez canal",
-      "count": 31,
-      "size": 100
-    },
-    {
-      "text": "cosco shipping",
-      "count": 30,
+      "count": 33,
       "size": 100
     },
     {
@@ -31,33 +11,8 @@
       "size": 100
     },
     {
-      "text": "air cargo",
-      "count": 27,
-      "size": 100
-    },
-    {
-      "text": "supply chains",
-      "count": 26,
-      "size": 100
-    },
-    {
-      "text": "trade surplus",
-      "count": 23,
-      "size": 100
-    },
-    {
-      "text": "경기 회복",
-      "count": 22,
-      "size": 100
-    },
-    {
-      "text": "freight rates",
-      "count": 20,
-      "size": 100
-    },
-    {
-      "text": "니콜라이스 마줄스",
-      "count": 16,
+      "text": "hong kong",
+      "count": 18,
       "size": 100
     },
     {
@@ -71,287 +26,12 @@
       "size": 100
     },
     {
-      "text": "16일 서울",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "hong kong",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "trade policy",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "supreme court",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "감독 취임",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "저궤도 위성통신",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "마줄스 남자농구",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "남자농구 국가대표",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "국가대표 감독",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "취임 기자회견이",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "기자회견이 16일",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "서울 광화문",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "광화문 프레스센타에서",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "프레스센타에서 열렸다",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "열렸다. 마줄스",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "니콜라이스 마줄스 남자농구",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "마줄스 남자농구 국가대표",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "남자농구 국가대표 감독",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "국가대표 감독 취임",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "감독 취임 기자회견이",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "취임 기자회견이 16일",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "기자회견이 16일 서울",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "16일 서울 광화문",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "서울 광화문 프레스센타에서",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "광화문 프레스센타에서 열렸다",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "프레스센타에서 열렸다. 마줄스",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "singapore port",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "ai 기반",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "마줄스 감독이",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "열렸다. 마줄스 감독이",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "mecl service",
-      "count": 12,
-      "size": 100
-    },
-    {
       "text": "robinson worldwide",
       "count": 12,
       "size": 100
     },
     {
-      "text": "자율운항 솔루션",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "김 부회장은",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "port authority",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "shipping lines",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "the suez",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "스페이스x의 저궤도",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "위성통신 서비스",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "저궤도 위성통신 서비스",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "밝혔다. 이번",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "maersk resumes",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "a record",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "to red",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "oil tanker",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "25% tariff",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "tariff on",
-      "count": 10,
-      "size": 100
-    },
-    {
       "text": "global supply",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "왕복 총액운임(유류할증료",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "총액운임(유류할증료 및",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "및 공항시설사용료",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "공항시설사용료 포함)은",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "왕복 총액운임(유류할증료 및",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "총액운임(유류할증료 및 공항시설사용료",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "및 공항시설사용료 포함)은",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "공항시설사용료 포함)은 이코노미",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "cma cgm",
       "count": 10,
       "size": 100
     },
@@ -361,42 +41,12 @@
       "size": 100
     },
     {
-      "text": "지난해 11월",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "위기를 극복하고",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "스페이스x의 저궤도 위성통신",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "포토] 마줄스",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "and supply",
-      "count": 9,
-      "size": 90
+      "text": "tariff on",
+      "count": 10,
+      "size": 100
     },
     {
       "text": "$1.2 trillion",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "수에즈 운하를",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "despite trump",
       "count": 9,
       "size": 90
     },
@@ -406,101 +56,451 @@
       "size": 90
     },
     {
-      "text": "middle east",
+      "text": "oil tanker",
       "count": 9,
       "size": 90
     },
     {
-      "text": "to cut",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "전년동기 대비",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "간 신규항로",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "해운부문 계열사",
+      "text": "스페이스x의 저궤도 위성통신",
       "count": 8,
       "size": 80
     },
     {
-      "text": "받을 수 있다",
+      "text": "maersk resumes",
       "count": 8,
       "size": 80
     },
     {
-      "text": "trade deal",
+      "text": "부산항만공사(bpa, 사장",
       "count": 8,
       "size": 80
     },
     {
-      "text": "오는 2월",
+      "text": "maersk returns",
       "count": 8,
       "size": 80
     },
     {
-      "text": "통관 단계에서",
+      "text": "통관 단계에서 제출하던",
       "count": 8,
       "size": 80
     },
     {
-      "text": "time to",
+      "text": "spot market",
       "count": 8,
       "size": 80
     },
     {
-      "text": "tariffs on",
+      "text": "record $1.2",
       "count": 8,
       "size": 80
     },
     {
-      "text": "court to",
+      "text": "on china",
       "count": 8,
       "size": 80
     },
     {
-      "text": "the u.s",
+      "text": "on its",
       "count": 8,
       "size": 80
     },
     {
-      "text": "the future",
-      "count": 8,
-      "size": 80
+      "text": "운송·이동 분야에서는 액화천연가스(lng",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "billion in",
-      "count": 8,
-      "size": 80
+      "text": "분야에서는 액화천연가스(lng) 화물창",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "강경우 한양대",
-      "count": 8,
-      "size": 80
+      "text": "surplus despite trump",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "컨테이너 물동량은",
-      "count": 8,
-      "size": 80
+      "text": "모듈(mcm) 관련 신소재·부품",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "missile strike",
-      "count": 8,
-      "size": 80
+      "text": "액화천연가스(lng) 화물창 등",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "chornomorsk port",
-      "count": 8,
-      "size": 80
+      "text": "critical minerals",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "broker liability",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "미래형 운송·이동 분야에서는",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "차세대 멀티칩 모듈(mcm",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "멀티칩 모듈(mcm) 관련",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "기술이, 미래형 운송·이동",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "화학산업의 위기를 극복하고",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "2025 singapore",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "반도체 분야에서는 차세대",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "분야에서는 차세대 멀티칩",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "신소재·부품 개발 기술이",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "단계에서 제출하던 서류를",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "jade services",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "최대 50% 세액공제를",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "50% 세액공제를 받을",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "관련 신소재·부품 개발",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "탈탄소는 단일 기술이나",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "of rotterdam",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "개발 기술이, 미래형",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "marine fuel",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "세액공제를 받을 수",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "that broke",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maersk to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "strike on",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ai chips",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "its way",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "flx one",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "way to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "technology international",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "한양대 교통물류공학과 명예교수는",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "기술 연구개발(r&d) 비용은",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "연구개발(r&d) 비용은 최대",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "정책입안자를 아우르는 밸류체인",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "disney adventure",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "from cost center",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "강경우 한양대 교통물류공학과",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "enhances dragon",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "trump’s tariffs",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "parcel delivery",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "해운부문 계열사 대한해운이",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hd현대 아비커스, hmm",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "해당 기술 연구개발(r&d",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "million tonnes",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "2025년 조달서비스 이용",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to competitive",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "trillion, even",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "키워드 '리스크 상수화와",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "아우르는 밸류체인 전반에",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "lng bunkering",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "11 bankruptcy",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "2026년 병오년을 맞아",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "위기를 극복하고 근원적",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "단일 기술이나 정책으로",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "관계자, 에너지 공급자",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "canaveral on",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to singapore",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "대해 배출권을 확보해야",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "maersk ramps",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "msc enhances",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to modernize",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the trucking",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "henry hudson",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "u.s. tariffs",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "posts record",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "뉴스 키워드 '리스크",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "밸류체인 전반에 걸친",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "감사하다. 함께 일할",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "of commerce",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "전량에 대해 배출권을",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "los angeles",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "비용은 최대 50%",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "화물창 등 첨단선박",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "전반에 걸친 협력이",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "efforts to",
+      "count": 6,
+      "size": 60
     }
   ],
-  "total_keywords": 79109,
-  "generated_at": "2026-01-16T02:34:02Z"
+  "total_keywords": 44838,
+  "generated_at": "2026-01-16T03:34:48Z"
 }
