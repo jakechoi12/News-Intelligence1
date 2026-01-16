@@ -1,6 +1,46 @@
 {
   "alerts": [
     {
+      "id": "9820e54e51cd",
+      "title": "[중화학노트] 권오갑 HD현대 명예회장, 전임 노조 지부장 ‘상생 오찬’...",
+      "summary": "◆ SM상선 건설부문, 2026년 ‘중대재해 ZERO’ 선포식 SM그룹의 건설부문 계열사 SM상선 건설부문이 지난 5일 서울 서대문구 SM그룹 신촌사옥에서 2026년 중대재해 ZERO(0) 달성을 위한 선포식을 열었다. 새해 시무식과 함께...",
+      "source_name": "Naver News",
+      "url": "https://news.dealsitetv.com/articles/163885",
+      "published_at_utc": "2026-01-13T00:18:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "370c4204a96f",
+      "title": "서울 시내버스 전면 파업… 오세훈 시장은?",
+      "summary": "오세훈 서울 시장이 12일 오후 광운대역 물류부지 개발 상황을 점검하고 있다 (연합뉴스) 이번 파업은 전날 이미 예고된 상황이었다. 그럼에도 시민들은 “사전 대응이 있었느냐”를 묻고 있다. 오세훈 서울시장은 파업이...",
+      "source_name": "Naver News",
+      "url": "https://wemakenews.co.kr/news/view.php?no=24294",
+      "published_at_utc": "2026-01-13T01:02:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "e42b61273b65",
+      "title": "\"미국만 믿다가는 낭패\"...사우디, 중국 전투기 구매 추진",
+      "summary": "매체는 지역 전문가의 발언을 인용해 \"2019년 후티 반군이 사우디 아람코의 석유 시설을 공격했을 때, 미국이 이에 대응하지 않기로 결정한 사실 등으로 인해 사우디의 안보 우려가 높아지고 있다\"고 분석했다. 또한...",
+      "source_name": "Naver News",
+      "url": "https://www.newspim.com/news/view/20260113000365",
+      "published_at_utc": "2026-01-13T01:15:00Z",
+      "category": "Crisis",
+      "country_tags": [
+        "CN",
+        "SA",
+        "US"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
       "id": "c549435ff091",
       "title": "Docks empty, ships absent: Eilat Port in deep crisis",
       "summary": "Docks empty, ships absent: Eilat Port in deep crisis Ynetnews",
@@ -13,125 +53,90 @@
       "severity": "medium"
     },
     {
-      "id": "190b184f9396",
-      "title": "[기획] 정책 미스로 수십조원 경제손실 예고… 산업계‧소비자 '날벼락...",
-      "summary": "이에 한국로지스틱스학회는 새벽 배송과 주 7일 배송이 중단되면 택배 주문량이 약 40% 감소하게 되고, 연간... 소규모 사업장은 파업으로 인한 영업 중단 시 피해를 고스란히 떠안을 수밖에 없기 때문이다. 경제...",
+      "id": "20d5fccbc81e",
+      "title": "[블룸버그 칼럼]더 냉혹해지는 세계질서, 美에 부메랑 될 수도",
+      "summary": "한 초강대국이 취약한 법적 근거 위에서 마약 운반선을 공격하고, 한밤중에 외국 정상들을 납치하고 있다.... 예멘의 후티 반군을 상대로는 짧지만 강경한 군사작전을 벌여 해상 교역을 확보하겠다는 목표를 내세웠다....",
       "source_name": "Naver News",
-      "url": "http://www.m-i.kr/news/articleView.html?idxno=1324784",
-      "published_at_utc": "2026-01-13T05:28:00Z",
+      "url": "https://n.news.naver.com/mnews/article/277/0005705902?sid=104",
+      "published_at_utc": "2026-01-13T01:49:00Z",
       "category": "Crisis",
       "country_tags": [
-        "KR"
+        "YE"
       ],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "08eb8eb1e5ff",
-      "title": "Charity shortlisted after helping keep homes warm",
-      "summary": "Severn Wye has been shortlisted for the Health Service Journal Partnership Award.",
-      "source_name": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/cqj2d1x2yjgo?at_medium=RSS&at_campaign=rss",
-      "published_at_utc": "2026-01-13T06:12:49Z",
+      "id": "5ff99f7824d8",
+      "title": "대기업 오너 등기임원 겸직 줄어…\"상법 개정·중대재해법 영향\"",
+      "summary": "장금상선그룹 회장, 이순형 세아그룹 회장, 김익래 다우키움그룹 전 회장, 정몽원 HL그룹 회장 등도 각각 3곳에서 등기임원에 올라 있다. 친인척의 등기임원 등재 규모를 보면 SM그룹이 51건으로 가장 많고, GS그룹...",
+      "source_name": "Naver News",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=76786",
+      "published_at_utc": "2026-01-13T02:30:00Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "959677c077c6",
-      "title": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports",
-      "summary": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports Middle East Monitor",
-      "source_name": "Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnMzSG5Lc3BEa1JGMXlOck5DbkZUeTlGQ2hhLUZhZkV0dnpwS0lXWE9jVzJoWk1ibjQ0dHRNYXF4WWREMHU2OUlLaVg1V1NGZ2wyV2VPNFNGZ2JLdmxfc0ZjX3dOdUJ6QTU3MUFraVlodGZhd2p6alZhcVFzcUJHU0drMTZxZGIzaGgyWWRHT3FHMU5IcFlqaHJpelZyZUF4NmhwRndaX056Sk56UHNRUDhsaDBTbHB0RmJ4MEJtZ9IBxAFBVV95cUxPR0lGT1V2NERBU2p5MEtzY1BGWUVfYmxCVXlzTVA3UG5uYjdlVzNvVnM1Ymd6QUNUZndPVjVhamlLazZqLS1OMWRjdE9KOGllUmRmOW1CM09PYlJOYUFZSjJDRXhZOFVwbUdEVkI0VjlnTlVRbzFyQ1k2ZlNia2hpU3lUWjBYMUlGMXV1ekp4d1BpTU1yN2dnU3haUUV2c244MUlkOExITWFueEYydEdpdXN6NDJGZDJ2LVltdnhKYUVuY2Q2?oc=5",
-      "published_at_utc": "2026-01-13T09:04:00Z",
+      "id": "b9686ab25d27",
+      "title": "이란 시위, 1주일이 최대고비…하메네이 신정체제 무너져야",
+      "summary": "왜 그러냐면 이스라엘이 공격했을 때 그다음에 미국이 공격했을 때 방공망 자체가 전혀 작동도 안 됐고... 현재 후티 반군들 이들이 다 이란이 사실 군사적 지원을 해줬거든요. 사실 국민들 입장에서는 자기네들이...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/079/0004104464?sid=104",
+      "published_at_utc": "2026-01-13T02:42:00Z",
+      "category": "Crisis",
+      "country_tags": [
+        "IR",
+        "US"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "d8996e68f0a8",
+      "title": "주이스라엘 미국대사 \"현재는 이란 군사개입 신호 없어\"",
+      "summary": "그러면서 \"미국이 작년 이란을 공격한 것은 핵무기 제조와 우라늄 농축을 하지 말라는 경고였으나 그들은... 아울러 \"이란 정권 붕괴는 하마스, 레바논 헤즈볼라, 예멘 후티반군 등 이란의 역내 대리세력에 대한 자금 지원이...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/003/0013707449?sid=104",
+      "published_at_utc": "2026-01-13T02:49:00Z",
+      "category": "Crisis",
+      "country_tags": [
+        "YE",
+        "IR",
+        "US"
+      ],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "c39817a54d30",
+      "title": "통상임금 놓고 노사 힘겨루기…서울 시민의 발 잡았다",
+      "summary": "파업 시에도 최소 운행률을 확보하도록 제도적 장치를 마련해 시민 피해를 줄여야 한다는 목소리도 나온다. 강경우 한양대 교통물류공학과 명예교수는 “준공영제는 원래 공공이 소유하고 민간이 운영하는 구조인데...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/020/0003688957?sid=102",
+      "published_at_utc": "2026-01-13T04:39:00Z",
       "category": "Crisis",
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
     },
     {
-      "id": "f0d7517cbb1e",
-      "title": "Korean Air selects Lödige Industries to modernise JFK cargo terminal",
-      "summary": "Korean Air Cargo is set to modernise its JFK cargo terminal with advanced automation systems from Lödige Industries. The upgrade includes automated Elevating Transfer Vehicles, a new refrigerated ware...",
-      "source_name": "Air Cargo Week",
-      "url": "https://aircargoweek.com/korean-air-selects-lodige-industries-to-modernize-jfk-cargo-terminal/",
-      "published_at_utc": "2026-01-13T09:36:36Z",
+      "id": "f329cea0cd1e",
+      "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
+      "summary": "소말리아는 아덴만을 사이에 두고 예멘과 마주 보는 곳으로, 후티(친이란 예멘 반군)와 갈등 중인 이스라엘은... 테러 공격을 받아 직원들이 숨지거나 다쳤다\"고 밝히기도 했다. 중동연구소의 굴레드 아메드는 중동의...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104",
+      "published_at_utc": "2026-01-13T05:21:00Z",
       "category": "Crisis",
       "country_tags": [
-        "KR"
-      ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "085c4061227c",
-      "title": "Trump briefed on military and covert options for Iran, sources say",
-      "summary": "The US president also imposes a 25% tariff on countries that \"do business\" with Tehran, while Iran's foreign minister says his country is \"ready for war\".",
-      "source_name": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
-      "published_at_utc": "2026-01-13T10:59:57Z",
-      "category": "Crisis",
-      "country_tags": [
+        "YE",
         "IR"
       ],
       "goldstein_scale": null,
       "severity": "medium"
-    },
-    {
-      "id": "d2643dfd2e78",
-      "title": "머스크 컨테이너선, 홍해 두 번째 시범통항 성공",
-      "summary": "머스크가 홍해 항로에 대한 두 번째 시범운항을 성공리에 마치면서 동서항로 복귀 신호탄을 쏘아올릴지 주목된다.미국 국적선인 ‘머스크 덴버(Maersk Denver)’호는 지난 1월 11일부터 12일까지 양일간 바브엘만데브 해협을 무사히 통과한 것으로 알려졌다. 이는 후티 공격 위협으로 항로가 중단된 지 약 2년 만에 이루어진 두 번째 성과다.앞서 머스크는 지...",
-      "source_name": "해양한국",
-      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=55888",
-      "published_at_utc": "2026-01-13T11:35:55Z",
-      "category": "Crisis",
-      "country_tags": [
-        "US",
-        "IN"
-      ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "0472dce8745b",
-      "title": "Major airports shut across Central Europe amid severe icing: Ongoing disruptions",
-      "summary": "On January 13, 2026, extreme icy weather led to temporary airport closures in Vienna, Budapest, and Bratislava, severely disrupting air traffic across Central Europe. Runways at Vienna and Budapest we...",
-      "source_name": "Air Cargo Week",
-      "url": "https://aircargoweek.com/icy-weather-forces-airport-closures-across-central-europe/",
-      "published_at_utc": "2026-01-13T11:48:31Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "266a130d5f66",
-      "title": "BPA, 안전보건 상생협력사업 우수기업 재인증",
-      "summary": "부산항만공사(BPA, 사장 송상근)는 고용노동부와 한국산업안전보건공단이 주관하는 ‘대·중소기업 안전보건 상생협력사업’의 2025년도 우수사업장으로 9일 최종 선정되었다고 밝혔다.‘대·중소기업 안전보건 상생협력사업’은 대기업·공공기관이 모기업이 되어 협력업체 및 지역중소기업과 컨소시엄을 구성해 자율적인 안전보건 개선 활동을 추진하는 정부 지원 사업이다. 모기...",
-      "source_name": "한국해운신문",
-      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329584",
-      "published_at_utc": "2026-01-13T11:55:43Z",
-      "category": "Crisis",
-      "country_tags": [
-        "KR"
-      ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "b348bf8e8bd6",
-      "title": "CargoAi posts record quarter with 60 percent growth",
-      "summary": "CargoAi closed Q4 2025 with its strongest performance to date, achieving 60 percent year-on-year growth in e-bookings and turning cash-positive. The self-funded digital airfreight platform added 30 ne...",
-      "source_name": "Air Cargo Week",
-      "url": "https://aircargoweek.com/cargoai-posts-record-quarter-with-60-percent-growth/",
-      "published_at_utc": "2026-01-13T13:59:17Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
     }
   ],
-  "total_crisis": 108,
-  "generated_at": "2026-01-15T16:53:09Z"
+  "total_crisis": 220,
+  "generated_at": "2026-01-16T00:15:23Z"
 }

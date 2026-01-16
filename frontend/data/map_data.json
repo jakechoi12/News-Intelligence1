@@ -2,9 +2,13 @@
   "countries": [
     {
       "code": "US",
-      "count": 25,
+      "count": 39,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "[뉴욕채권] 단기물 약세 속 혼조…실업보험 예상 밖 감소 vs 유가 급락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393785"
+        },
         {
           "title": "시카고 연은 총재 \"연준 독립성 사라지면 인플레 급등 가능\"",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393762"
@@ -12,196 +16,192 @@
         {
           "title": "美 주간 신규 실업보험 청구 19.8만명…예상치 하회(상보)",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393758"
-        },
-        {
-          "title": "달러-원, 뉴욕장서 1,460원 후반대 거래",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393754"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 22,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[도쿄증시-마감] 美 증시 부진과 엔비디아 악재에 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393737"
-        },
-        {
-          "title": "美·이란 접촉에 걸프 긴장 완화… 국제 유가 하락",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3364106"
-        },
-        {
-          "title": "트럼프 공격 임박했나…미 항모 전진배치, 이란은 영공폐쇄",
-          "url": "https://n.news.naver.com/mnews/article/025/0003497063?sid=104"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 18,
+      "count": 34,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[亞증시-종합] 美 증시 부진 속 대체로 하락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393748"
+          "title": "한은 \"韓 수출, 반도체·車 선방…철강·화공은 밀렸다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393771"
         },
         {
-          "title": "韓→美 ‘컨’ 물량 2.8% 줄어든 ‘233만TEU’",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59404"
+          "title": "中지도부, 캐나다 총리와 잇단 회담…\"협력 심화하자\"",
+          "url": "https://n.news.naver.com/mnews/article/001/0015850580?sid=104"
         },
         {
-          "title": "[중국증시-마감] 차익실현 등에 하락세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393743"
+          "title": "신(新) 제조업 패권시대 [정삼기의 경영프리즘]",
+          "url": "https://n.news.naver.com/mnews/article/015/0005237992?sid=101"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 33,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[뉴욕채권] 단기물 약세 속 혼조…실업보험 예상 밖 감소 vs 유가 급락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393785"
+        },
+        {
+          "title": "“미국에 좌지우지” 국제유가 美 이란 군사개입 우려 완화에 급락",
+          "url": "https://n.news.naver.com/mnews/article/050/0000101097?sid=101"
+        },
+        {
+          "title": "Oil Holds Biggest Drop Since June as Iran Concerns Subside",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-15/latest-oil-market-news-and-analysis-for-jan-16"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 14,
+      "count": 22,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "\"주식 찍는 것보다 없애는 게 더 많다\"…韓 증시 수급 대전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393795"
+        },
+        {
+          "title": "한은 \"韓 수출, 반도체·車 선방…철강·화공은 밀렸다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393771"
+        },
         {
           "title": "달러-원, 뉴욕장서 1,460원 후반대 거래",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393754"
-        },
-        {
-          "title": "[서환-마감] '베선트 효과'에 11거래일만 하락…낙폭은 제한",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393745"
-        },
-        {
-          "title": "증권가가 본 새해 첫 금통위는…\"사실상 환통위…인하 사이클 명백히 종료\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393715"
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Russia Oil and Gas Revenue Dives to Five-Year Low in Budget Hit",
-          "url": "https://www.bloomberg.com/news/articles/2026-01-15/russia-oil-and-gas-revenue-dives-to-five-year-low-in-budget-hit"
-        },
-        {
-          "title": "State-level asymmetric warfare generates higher maritime risk",
-          "url": "https://container-news.com/state-level-asymmetric-warfare-generates-higher-maritime-risk/"
-        },
-        {
-          "title": "Kukdong MES eyes global container leasing business as prices slump",
-          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[亞증시-종합] 美 증시 부진 속 대체로 하락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393748"
-        },
-        {
-          "title": "[도쿄증시-마감] 美 증시 부진과 엔비디아 악재에 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393737"
-        },
-        {
-          "title": "\"덫에 걸린 일본\"…금리 올리면 '재정 파탄' 버티면 '엔화 붕괴'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393730"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 6,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Russia Oil and Gas Revenue Dives to Five-Year Low in Budget Hit",
-          "url": "https://www.bloomberg.com/news/articles/2026-01-15/russia-oil-and-gas-revenue-dives-to-five-year-low-in-budget-hit"
+          "title": "난방 없는 혹한 버티는 우크라…러, 항만·에너지 시설 연쇄 타격",
+          "url": "https://n.news.naver.com/mnews/article/056/0012106237?sid=104"
         },
         {
-          "title": "Russian oil output edges down 0.7% in 2025, OPEC data shows",
-          "url": "https://www.hellenicshippingnews.com/russian-oil-output-edges-down-0-7-in-2025-opec-data-shows/"
+          "title": "Seafarer Injured in Russian Strike on Port of Chernomorsk",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1FpUnJyT0RXV0FCNVlCeDNqVUwtVzRsTVNwRUxhV2pjLTd2UTVkaFp0emkweGoyN3E3S1RpTnF0anNHamFFTkNLb296b05YOEc3cno2Y1ZuMFJBVnlheWhzbUl6TDV6N1YtRzFiTDllMU44ZzU5RHowTzBQWEpTSEpibl9UQ0VjUG4zUVZ0OWYyQ0xwellVdDZNcUQ?oc=5"
         },
         {
-          "title": "Russia watches as ally Iran edges closer to collapse. Here's why it matters for Moscow",
-          "url": "https://www.cnbc.com/2026/01/14/russia-iran-unrest-collapse-trump-moscow.html"
+          "title": "Russian oil tanker enroute to India reversed course, trade disruption because of sanctions?",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOVE4tU0hwSnJLaXFVdDgzZ1c3UFFPam5OZUJsUTBYbWQwekJDUU1kV0ZNdDNfdzZIYjMzTThYUzlKZlBrcWlQd3NnRS1iRnRHSWlabVR5SGhqTWwxdGpNREpZU1lhMWgwSGF0NWZaOGlteEt1QmpTWlptSTU2c0RQQ2cwZTVNbVFYOHdwdkdPNWRIbmo5Y2NoTF92RGMzcmJDclBuc1FrTC1FSXpmSWpDVUI2clpUUnYwS1pVWVp3X3FlRTJCYVBfc0RwX0NSZnJweV9FX2VYQ0hmTHBIWVFxYmxzdnpPbXIxTHlIbHVianc2b2U3S0ozbGRNd1ZrM0Y2cmozek5laUZBZm1EXzNyRkNGQkdCMEtlRG1nUEZoZ3BrTzhYNkRkRExTNGhScDB3ekkyQVZKNlcwLUJ4RnBRUmhMZnlBMWRiZHd4TUpwTDZsaGRYUWZYSm5raHFWV2VvVzRMb1I0UGpXdms?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'IQ 204' 12살 백강현, 옥스퍼드대 떨어졌다...\"의미 있는 도전\"",
+          "url": "https://www.mt.co.kr/society/2026/01/16/2026011607134911383"
+        },
+        {
+          "title": "BIFA Freight Service Awards 2025: Industry leaders recognised at London ceremony",
+          "url": "https://aircargoweek.com/bifa-freight-service-awards-2025-industry-leaders-recognised-at-london-ceremony/"
+        },
+        {
+          "title": "State-level asymmetric warfare generates higher maritime risk",
+          "url": "https://container-news.com/state-level-asymmetric-warfare-generates-higher-maritime-risk/"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 5,
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
+          "title": "“대형마트 발 묶은 낡은 규제, 쿠팡 갑질 키워…유통법 대수술 시급”",
+          "url": "https://n.news.naver.com/mnews/article/018/0006201675?sid=101"
+        },
+        {
+          "title": "Russian oil tanker enroute to India reversed course, trade disruption because of sanctions?",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOVE4tU0hwSnJLaXFVdDgzZ1c3UFFPam5OZUJsUTBYbWQwekJDUU1kV0ZNdDNfdzZIYjMzTThYUzlKZlBrcWlQd3NnRS1iRnRHSWlabVR5SGhqTWwxdGpNREpZU1lhMWgwSGF0NWZaOGlteEt1QmpTWlptSTU2c0RQQ2cwZTVNbVFYOHdwdkdPNWRIbmo5Y2NoTF92RGMzcmJDclBuc1FrTC1FSXpmSWpDVUI2clpUUnYwS1pVWVp3X3FlRTJCYVBfc0RwX0NSZnJweV9FX2VYQ0hmTHBIWVFxYmxzdnpPbXIxTHlIbHVianc2b2U3S0ozbGRNd1ZrM0Y2cmozek5laUZBZm1EXzNyRkNGQkdCMEtlRG1nUEZoZ3BrTzhYNkRkRExTNGhScDB3ekkyQVZKNlcwLUJ4RnBRUmhMZnlBMWRiZHd4TUpwTDZsaGRYUWZYSm5raHFWV2VvVzRMb1I0UGpXdms?oc=5"
+        },
+        {
           "title": "[다산칼럼] 병오년 한국 경제, 위기를 넘어 재도약으로",
           "url": "https://n.news.naver.com/mnews/article/015/0005237901?sid=110"
-        },
-        {
-          "title": "Maersk returns to Red Sea with India-US service",
-          "url": "https://www.freightwaves.com/news/maersk-returns-to-red-sea-with-india-us-service"
-        },
-        {
-          "title": "Maersk sets the pace for Red Sea return with service reschedule",
-          "url": "https://theloadstar.com/maersk-sets-the-pace-for-red-sea-return-with-service-reschedule/"
         }
       ]
     },
     {
-      "code": "UA",
-      "count": 3,
+      "code": "JP",
+      "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Russia Oil and Gas Revenue Dives to Five-Year Low in Budget Hit",
-          "url": "https://www.bloomberg.com/news/articles/2026-01-15/russia-oil-and-gas-revenue-dives-to-five-year-low-in-budget-hit"
+          "title": "Yen Watchers Face Double Whammy of BOJ, Election Uncertainty",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-15/yen-watchers-face-double-whammy-of-boj-election-uncertainty"
         },
         {
-          "title": "Russian oil output edges down 0.7% in 2025, OPEC data shows",
-          "url": "https://www.hellenicshippingnews.com/russian-oil-output-edges-down-0-7-in-2025-opec-data-shows/"
+          "title": "트럼프, 반도체 25% 관세 부과…“범위 더 확대할 것”[글로벌 뉴스]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004579450?sid=104"
         },
         {
-          "title": "The Silent Profit Killer in Transportation & Logistics",
-          "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
+          "title": "국가대표 AI 선발전…네이버 탈락, LG가 선두 질주 [CEO 뉴스]",
+          "url": "https://n.news.naver.com/mnews/article/011/0004579448?sid=101"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 3,
+      "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "\"트럼프, 어떻게든 이란 공격\" 기름값 또 오를까",
-          "url": "https://radio.ytn.co.kr/program/?f=2&id=106899&s_mcd=0478&s_hcd=01"
+          "title": "Is the Yemeni government getting ready to attack the Houthis?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSElsdEltNF94NExRSHJ2Y2JUN05HT1hVSkRBQlNfQ3E5aWNuSTlLTjRMeWdRRHhPLUpxbFhDZlRNUG9oX0xaQlBJMi02ZFN6TENsemU2djlieFR0Z2xaTks4VEdyVHlZUHBJZHRTX3dJQXBfUWhjeExjYjBvSjh2WEl0cHRPN1NiREpsMTJISkJLR1VyUmVrYXo4c01tZ9IBowFBVV95cUxQczBJbDVERGpZbUl2Xy1OZWNJcU8zYXE4RHhxZUJMUTRlYXdDR1pRX0NpX3RXTFhsYU9tbVNIaldMZDBJdkh3NDc5SUdOWEx6TU5uanMtQTRqYnIzekxaZ0k5UjJ6WFBYWWNRT2JJdUs2MWZWU2QtcDl0R2RhWUY1NTlTQnNQclcwa3BZdjZiUDlxSGRqb01lVGZ6Y2Z5a2lYejhR?oc=5"
         },
         {
-          "title": "\"트럼프, 어떻게든 이란 공격\" 기름값 또 오를까",
-          "url": "https://n.news.naver.com/mnews/article/052/0002301358?sid=104"
+          "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
+          "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104"
         },
         {
-          "title": "베네수엘라 급습한 美, '이란 사태' 무력 개입 쉽지않은 까닭",
-          "url": "https://n.news.naver.com/mnews/article/025/0003496932?sid=104"
+          "title": "주이스라엘 미국대사 \"현재는 이란 군사개입 신호 없어\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0013707449?sid=104"
         }
       ]
     },
     {
       "code": "TW",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "US to cut tariffs on Taiwanese goods after investment pledge",
+          "url": "https://www.bbc.com/news/articles/c3dmpr37yxlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "1월 16일 출근길 팟캐스트 비트코인 9만 7천 달러 시대... \"월스트리트가...",
+          "url": "https://www.tokenpost.kr/news/insights/324071"
+        },
+        {
+          "title": "Taiwan greatest geopolitical risk to markets – UBP outlook",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOG5zNXVGd29HdnVsdEJJc25XWUlmZ0cySEV2Nnk2dm1pZUZtZmFsQkJmdDZIVlBjRWd5eVFPX0pKSHF4RzAyMWVULS1KYmdiaDVKVWhwTnRJNy1hcDJSc1M0UjZrRDZzN1ljY3VFa3dIZERTOHJQWUhfNGZMamludENMZk9BYmt0VWc?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "[亞증시-종합] 美 증시 부진 속 대체로 하락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393748"
+          "title": "'2회 연속 亞 8강 탈락' 한국축구 굴욕 역사, 이민성호가 끊을 수 있을까",
+          "url": "https://www.mt.co.kr/sports/2026/01/16/2026011600141259273"
         },
         {
-          "title": "Oil drops as Trump backs away from Iran threats, stocks edge up",
-          "url": "https://www.hellenicshippingnews.com/oil-drops-as-trump-backs-away-from-iran-threats-stocks-edge-up/"
+          "title": "\"미국만 믿다가는 낭패\"...사우디, 중국 전투기 구매 추진",
+          "url": "https://www.newspim.com/news/view/20260113000365"
         }
       ]
     },
@@ -221,28 +221,43 @@
       ]
     },
     {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "The Silent Profit Killer in Transportation & Logistics",
+          "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
+        },
+        {
+          "title": "트럼프, 이란에 “도움 가고 있다”... 중동에 美 항모 없는데 어떻게?",
+          "url": "https://n.news.naver.com/mnews/article/023/0003952941?sid=104"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Singapore’s LSFO arbitrage arrivals from West look to rebound in Jan from Dec",
+          "url": "https://www.hellenicshippingnews.com/singapores-lsfo-arbitrage-arrivals-from-west-look-to-rebound-in-jan-from-dec/"
+        }
+      ]
+    },
+    {
       "code": "FR",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "마크롱 \"프랑스군, 그린란드에 이미 도착…추가 병력 배치 예정\"",
-          "url": "https://www.mt.co.kr/world/2026/01/15/2026011521594051052"
-        }
-      ]
-    },
-    {
-      "code": "NL",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "[사고] ‘북극항로와 에너지 안보의 기회’ 세미나 20일 개최",
-          "url": "https://www.ekn.kr/web/view.php?key=20260114020468555"
+          "title": "JD.com plugs security gaps after Paris warehouse theft",
+          "url": "https://www.freightwaves.com/news/jd-com-plugs-security-gaps-after-paris-warehouse-theft"
         }
       ]
     }
   ],
-  "total_crisis_countries": 14,
-  "generated_at": "2026-01-15T16:53:09Z"
+  "total_crisis_countries": 15,
+  "generated_at": "2026-01-16T00:15:23Z"
 }
