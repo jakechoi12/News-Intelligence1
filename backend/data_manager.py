@@ -3,10 +3,10 @@ Data Manager for JSON Generation
 
 Generates JSON files for frontend consumption:
 - news_data.json
+- headlines_data.json
 - economic_data.json
 - map_data.json
 - wordcloud_data.json
-- alerts_data.json
 - last_update.json
 """
 
@@ -78,17 +78,17 @@ class DataManager:
         # Generate headlines with insights
         headlines = self._generate_headlines(processed_articles, analyzer)
         
-        # Generate news data
-        files['news'] = self._generate_news_data(processed_articles, headlines)
+        # Generate news data (without headlines)
+        files['news'] = self._generate_news_data(processed_articles)
+        
+        # Generate headlines data (separate file)
+        files['headlines'] = self._generate_headlines_data(headlines)
         
         # Generate map data
         files['map'] = self._generate_map_data(processed_articles)
         
         # Generate wordcloud data
         files['wordcloud'] = self._generate_wordcloud_data(processed_articles)
-        
-        # Generate alerts data
-        files['alerts'] = self._generate_alerts_data(processed_articles)
         
         # Generate economic data (use mock if not provided)
         if economic_data:
@@ -99,12 +99,118 @@ class DataManager:
         # Generate last update info
         files['last_update'] = self._generate_last_update(start_time)
         
+        # Archive data
+        self._archive_data()
+        
         logger.info(f"{'='*60}")
         logger.info(f"✅ JSON generation complete")
         logger.info(f"   Files generated: {len(files)}")
         logger.info(f"{'='*60}")
         
         return files
+    
+    def _archive_data(self):
+        """
+        Archive data to daily/weekly/monthly folders.
+        - daily/: Keep 14 days (weekdays only)
+        - weekly/: Keep 12 weeks (every Friday)
+        - monthly/: Keep 12 months (first weekday of month)
+        """
+        import shutil
+        from datetime import timedelta
+        
+        today = datetime.now(timezone.utc)
+        date_str = today.strftime('%Y-%m-%d')
+        weekday = today.weekday()  # 0=Monday, 4=Friday
+        day_of_month = today.day
+        
+        # Create archive directories
+        daily_dir = os.path.join(self.output_dir, 'archive', 'daily', date_str)
+        weekly_dir = os.path.join(self.output_dir, 'archive', 'weekly')
+        monthly_dir = os.path.join(self.output_dir, 'archive', 'monthly')
+        
+        os.makedirs(daily_dir, exist_ok=True)
+        os.makedirs(weekly_dir, exist_ok=True)
+        os.makedirs(monthly_dir, exist_ok=True)
+        
+        # Files to archive
+        files_to_archive = [
+            'news_data.json',
+            'headlines_data.json', 
+            'economic_data.json',
+            'map_data.json',
+            'wordcloud_data.json',
+            'last_update.json',
+        ]
+        
+        # 1. Daily archive (always)
+        for filename in files_to_archive:
+            src = os.path.join(self.output_dir, filename)
+            if os.path.exists(src):
+                shutil.copy2(src, os.path.join(daily_dir, filename))
+        logger.info(f"   📁 Daily archive: {date_str}")
+        
+        # 2. Weekly archive (every Friday)
+        if weekday == 4:  # Friday
+            week_str = today.strftime('%Y-W%W')
+            week_dir = os.path.join(weekly_dir, week_str)
+            os.makedirs(week_dir, exist_ok=True)
+            for filename in files_to_archive:
+                src = os.path.join(self.output_dir, filename)
+                if os.path.exists(src):
+                    shutil.copy2(src, os.path.join(week_dir, filename))
+            logger.info(f"   📁 Weekly archive: {week_str}")
+        
+        # 3. Monthly archive (first weekday of month, days 1-3)
+        if day_of_month <= 3 and weekday < 5:  # First 3 days, weekday only
+            month_str = today.strftime('%Y-%m')
+            month_dir = os.path.join(monthly_dir, month_str)
+            if not os.path.exists(month_dir):  # Only if not already archived this month
+                os.makedirs(month_dir, exist_ok=True)
+                for filename in files_to_archive:
+                    src = os.path.join(self.output_dir, filename)
+                    if os.path.exists(src):
+                        shutil.copy2(src, os.path.join(month_dir, filename))
+                logger.info(f"   📁 Monthly archive: {month_str}")
+        
+        # 4. Cleanup old archives
+        self._cleanup_old_archives()
+    
+    def _cleanup_old_archives(self):
+        """Remove old archives beyond retention period"""
+        import shutil
+        from datetime import timedelta
+        
+        today = datetime.now(timezone.utc)
+        
+        # Daily: Keep 14 days
+        daily_base = os.path.join(self.output_dir, 'archive', 'daily')
+        if os.path.exists(daily_base):
+            cutoff_daily = today - timedelta(days=14)
+            for folder in os.listdir(daily_base):
+                try:
+                    folder_date = datetime.strptime(folder, '%Y-%m-%d').replace(tzinfo=timezone.utc)
+                    if folder_date < cutoff_daily:
+                        shutil.rmtree(os.path.join(daily_base, folder))
+                        logger.debug(f"   🗑️ Removed old daily: {folder}")
+                except ValueError:
+                    pass
+        
+        # Weekly: Keep 12 weeks
+        weekly_base = os.path.join(self.output_dir, 'archive', 'weekly')
+        if os.path.exists(weekly_base):
+            folders = sorted(os.listdir(weekly_base), reverse=True)
+            for folder in folders[12:]:  # Keep only latest 12
+                shutil.rmtree(os.path.join(weekly_base, folder))
+                logger.debug(f"   🗑️ Removed old weekly: {folder}")
+        
+        # Monthly: Keep 12 months
+        monthly_base = os.path.join(self.output_dir, 'archive', 'monthly')
+        if os.path.exists(monthly_base):
+            folders = sorted(os.listdir(monthly_base), reverse=True)
+            for folder in folders[12:]:  # Keep only latest 12
+                shutil.rmtree(os.path.join(monthly_base, folder))
+                logger.debug(f"   🗑️ Removed old monthly: {folder}")
     
     def _process_articles(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Process and prepare articles for output"""
@@ -267,6 +373,7 @@ class DataManager:
             headline = {
                 'id': article['id'],
                 'title': article['title'],
+                'content_summary': article.get('content_summary', ''),  # For LLM insight generation
                 'source_name': article['source_name'],
                 'url': article['url'],
                 'published_at_utc': article['published_at_utc'],
@@ -320,11 +427,10 @@ class DataManager:
         logger.info(f"   ✅ Generated {len(headlines)} headlines with insights")
         return headlines
     
-    def _generate_news_data(self, articles: List[Dict[str, Any]], headlines: List[Dict[str, Any]] = None) -> str:
-        """Generate news_data.json"""
+    def _generate_news_data(self, articles: List[Dict[str, Any]]) -> str:
+        """Generate news_data.json (without headlines)"""
         data = {
             'articles': articles,
-            'headlines': headlines or [],
             'total': len(articles),
             'kr_count': self.stats['kr_count'],
             'global_count': self.stats['global_count'],
@@ -335,7 +441,20 @@ class DataManager:
         
         filepath = os.path.join(self.output_dir, 'news_data.json')
         self._write_json(filepath, data)
-        logger.info(f"   ✅ news_data.json: {len(articles)} articles, {len(headlines or [])} headlines")
+        logger.info(f"   ✅ news_data.json: {len(articles)} articles")
+        return filepath
+    
+    def _generate_headlines_data(self, headlines: List[Dict[str, Any]]) -> str:
+        """Generate headlines_data.json (separate file for headlines)"""
+        data = {
+            'headlines': headlines,
+            'total': len(headlines),
+            'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+        }
+        
+        filepath = os.path.join(self.output_dir, 'headlines_data.json')
+        self._write_json(filepath, data)
+        logger.info(f"   ✅ headlines_data.json: {len(headlines)} headlines")
         return filepath
     
     def _generate_map_data(self, articles: List[Dict[str, Any]]) -> str:
@@ -383,15 +502,37 @@ class DataManager:
             'freight', 'logistics', 'shipping', 'port', 'container', 'cargo', 
             'trade', 'import', 'export', 'supply chain', 'supplychain',
             '물류', '해운', '항만', '컨테이너', '수출', '수입', '무역', '화물', '운송', '공급망',
-            'news', 'article', 'report', 'update', 'breaking', 'said', 'according'
+            'news', 'article', 'report', 'update', 'breaking', 'said', 'according',
+            # 웹사이트/RSS 관련 불필요한 문구
+            'appeared first', 'the post', 'first on', 'read more', 'click here',
+            'on freightwaves', 'freightwaves', 'on air', 'cargo week', 'trade magazine',
+            'source: bloomberg', 'journal of',
+            # 일반적인 영어 구문
+            'a new', 'of long', 'is expected', 'will be', 'has been', 'have been',
+            'continued to', 'according to', 'more than', 'as well', 'such as',
+            'this week', 'last year', 'last week', 'this year', 'next year',
+            'from the', 'with the', 'from a', 'with a', 'that could', 'to be',
+            'the new', 'the first', 'the us', 'the global', 'the maritime',
+            'and the', 'as the', 'after the', 'across the', 'state of',
+            'return to', 'service to', 'performance in', 'tonnes of',
+            # 날짜/시간 관련 (한국어)
+            '지난', '오늘', '내일', '올해', '작년', '이번', '다음', '밝혔다', '전했다',
+            '등 다양한', '다양한 산업', '수 있도록', '수 있다는', '이에 따라', '참석한 가운데',
+            '전년 대비', '포함)은', '이코노미', '클래스',
         }
         
         # 조사/관사 블랙리스트 (불필요한 키워드 필터링)
         PREPOSITIONS = {
-            'in', 'on', 'at', 'to', 'for', 'of', 'the', 'a', 'an',
-            'in the', 'to the', 'for the', 'of the', 'on the', 'at the',
-            'in 2024', 'in 2025', 'in 2026', 'first on', 'the post',
-            'port of', 'to', 'for', 'in'
+            'in', 'on', 'at', 'to', 'for', 'of', 'the', 'a', 'an', 'and', 'or', 'but',
+            'in the', 'to the', 'for the', 'of the', 'on the', 'at the', 'by the',
+            'in 2024', 'in 2025', 'in 2026', 'for 2026', 'in december',
+            'first on', 'the post', 'post appeared', 'on global',
+            'port of', 'to', 'for', 'in', 'with the', 'from the', 'that the',
+            # 날짜 패턴 (한국어)
+            '지난 15일', '지난 14일', '지난 16일', '오는 15일', '오는 16일',
+            '16일 밝혔다', '16일 오전', '지난해 12월',
+            # 깨진 텍스트
+            '…]', '…] the',
         }
         
         keyword_counts = Counter()
@@ -455,48 +596,6 @@ class DataManager:
         filepath = os.path.join(self.output_dir, 'wordcloud_data.json')
         self._write_json(filepath, wordcloud_data)
         logger.info(f"   ✅ wordcloud_data.json: {len(keyword_counts)} keywords")
-        return filepath
-    
-    def _generate_alerts_data(self, articles: List[Dict[str, Any]]) -> str:
-        """Generate alerts_data.json with critical alerts"""
-        # Filter crisis articles
-        crisis_articles = [
-            a for a in articles 
-            if a.get('is_crisis') or (a.get('category') == 'Crisis')
-        ]
-        
-        # Sort by severity (Goldstein scale if available, then by recency)
-        crisis_articles.sort(
-            key=lambda x: (x.get('goldstein_scale', 0), x.get('published_at_utc', '')),
-            reverse=False  # Lower Goldstein = more severe
-        )
-        
-        # Take top 10 alerts
-        top_alerts = crisis_articles[:10]
-        
-        alerts_data = {
-            'alerts': [
-                {
-                    'id': a['id'],
-                    'title': a['title'],
-                    'summary': a['content_summary'][:200] + '...' if len(a.get('content_summary', '')) > 200 else a.get('content_summary', ''),
-                    'source_name': a['source_name'],
-                    'url': a['url'],
-                    'published_at_utc': a['published_at_utc'],
-                    'category': a['category'],
-                    'country_tags': a.get('country_tags', []),
-                    'goldstein_scale': a.get('goldstein_scale'),
-                    'severity': 'critical' if a.get('goldstein_scale', 0) <= -5 else 'high' if a.get('goldstein_scale', 0) <= -2 else 'medium',
-                }
-                for a in top_alerts
-            ],
-            'total_crisis': len(crisis_articles),
-            'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-        }
-        
-        filepath = os.path.join(self.output_dir, 'alerts_data.json')
-        self._write_json(filepath, alerts_data)
-        logger.info(f"   ✅ alerts_data.json: {len(top_alerts)} alerts")
         return filepath
     
     def _generate_economic_data(self, economic_data: Dict[str, Any]) -> str:

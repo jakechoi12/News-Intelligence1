@@ -6,12 +6,11 @@
 // State
 const state = {
     newsData: null,
-    alertsData: null,
     mapData: null,
     wordcloudData: null,
     economicData: null,
     lastUpdate: null,
-    headlinesData: null,  // For headline insights hover
+    headlinesData: null,  // Headlines with insights
     
     // Filters
     currentFilter: 'all',
@@ -77,7 +76,7 @@ async function init() {
         // Load all data in parallel
         await Promise.all([
             loadNewsData(),
-            loadAlertsData(),
+            loadHeadlinesData(),
             loadMapData(),
             loadWordcloudData(),
             loadEconomicData(),
@@ -119,14 +118,14 @@ async function loadNewsData() {
     }
 }
 
-async function loadAlertsData() {
+async function loadHeadlinesData() {
     try {
-        const response = await fetch(`${DATA_BASE_URL}/alerts_data.json`);
-        if (!response.ok) throw new Error('Failed to load alerts data');
-        state.alertsData = await response.json();
-        console.log(`🚨 Loaded ${state.alertsData.alerts?.length || 0} alerts`);
+        const response = await fetch(`${DATA_BASE_URL}/headlines_data.json`);
+        if (!response.ok) throw new Error('Failed to load headlines data');
+        state.headlinesData = await response.json();
+        console.log(`📰 Loaded ${state.headlinesData.headlines?.length || 0} headlines`);
     } catch (e) {
-        state.alertsData = { alerts: [] };
+        state.headlinesData = { headlines: [] };
     }
 }
 
@@ -738,16 +737,17 @@ function renderWordcloud() {
         return;
     }
     
-    // Prepare word list for WordCloud2
+    // Prepare word list for WordCloud2 (더 많은 키워드 표시)
     const maxCount = Math.max(...keywords.map(k => k.count));
-    const wordList = keywords.slice(0, 30).map(kw => {
-        const size = Math.max(14, Math.min(48, (kw.count / maxCount) * 48 + 14));
+    const wordList = keywords.slice(0, 80).map(kw => {
+        // 최소 8px, 최대 24px로 축소하여 더 많은 키워드 표시
+        const size = Math.max(8, Math.min(24, (kw.count / maxCount) * 20 + 8));
         return [kw.text, size];
     });
     
-    // Set canvas size
+    // Set canvas size (높이 증가로 더 많은 키워드 표시)
     canvas.width = canvas.parentElement.offsetWidth || 400;
-    canvas.height = 280;
+    canvas.height = 320;
     
     // Clear canvas
     const ctx = canvas.getContext('2d');
@@ -757,17 +757,19 @@ function renderWordcloud() {
     // Render wordcloud
     WordCloud(canvas, {
         list: wordList,
-        gridSize: 8,
-        weightFactor: 1.5,
+        gridSize: 4,  // 더 촘촘하게
+        weightFactor: 1.0,  // 가중치 축소
         fontFamily: 'Noto Sans KR, sans-serif',
         color: function() {
             const colors = ['#6366f1', '#818cf8', '#a78bfa', '#c4b5fd', '#3b82f6', '#60a5fa', '#10b981'];
             return colors[Math.floor(Math.random() * colors.length)];
         },
         backgroundColor: '#16161f',
-        rotateRatio: 0.3,
+        rotateRatio: 0.15,  // 회전 최소화 (긴 단어 가독성)
         shape: 'circle',
-        ellipticity: 0.8,
+        ellipticity: 0.65,
+        drawOutOfBound: false,  // 캔버스 밖으로 나가지 않도록
+        shrinkToFit: true,  // 공간에 맞게 축소
     });
 }
 
@@ -779,8 +781,8 @@ function renderHeadlines() {
     const insightsPanel = document.getElementById('insights-panel');
     if (!container) return;
     
-    // Use headlines from news_data if available, otherwise use top articles
-    const headlines = state.newsData?.headlines || [];
+    // Use headlines from headlines_data.json, fallback to top articles
+    const headlines = state.headlinesData?.headlines || [];
     const articles = state.newsData?.articles || [];
     const topItems = headlines.length > 0 ? headlines.slice(0, 6) : articles.slice(0, 6);
     
@@ -788,9 +790,6 @@ function renderHeadlines() {
         container.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 20px;">No headlines available</p>';
         return;
     }
-    
-    // Store headlines data for hover events
-    state.headlinesData = topItems;
     
     container.innerHTML = topItems.map((item, idx) => {
         return `
@@ -814,10 +813,13 @@ function setupHeadlineHoverEvents() {
     
     if (!insightsPanel) return;
     
+    // Get headlines array from headlines_data.json
+    const headlines = state.headlinesData?.headlines || [];
+    
     headlineItems.forEach(item => {
         item.addEventListener('mouseenter', (e) => {
             const idx = parseInt(e.currentTarget.dataset.headlineIdx);
-            const headline = state.headlinesData?.[idx];
+            const headline = headlines[idx];
             
             if (headline) {
                 showInsights(headline, insightsPanel);

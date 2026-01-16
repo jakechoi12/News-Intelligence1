@@ -307,8 +307,12 @@ For example, "AI-based damage control system development success" is Ocean, not 
         
         negative_count = sum(1 for kw in NEGATIVE_KEYWORDS if kw in text_lower)
         
-        positive_keywords = ['growth', 'increase', 'rise', 'recovery', 'improve', 'success',
-                            '성장', '증가', '상승', '회복', '개선', '호조']
+        positive_keywords = [
+            'growth', 'increase', 'rise', 'recovery', 'improve', 'success', 'award',
+            'achievement', 'record', 'best', 'leading', 'innovation', 'partnership',
+            '성장', '증가', '상승', '회복', '개선', '호조', '우수', '인증', '수상',
+            '상생', '협력', '달성', '성공', '최고', '선정', '혁신', '도입', '체결'
+        ]
         positive_count = sum(1 for kw in positive_keywords if kw in text_lower)
         
         if negative_count > positive_count:
@@ -366,13 +370,13 @@ For example, "AI-based damage control system development success" is Ocean, not 
     
     def generate_insights(self, article: Dict[str, Any]) -> Dict[str, str]:
         """
-        Generate trade/logistics/SCM insights for a headline article.
+        Generate trade/logistics/SCM insights for a headline article using LLM.
         
         Args:
             article: Article dictionary with title and content_summary
             
         Returns:
-            Dictionary with 'trade', 'logistics', 'scm' insights
+            Dictionary with 'trade', 'logistics', 'scm' insights (empty if LLM fails)
         """
         title = article.get('title', '')
         summary = article.get('content_summary', '')
@@ -383,8 +387,8 @@ For example, "AI-based damage control system development success" is Ocean, not 
             except Exception as e:
                 logger.debug(f"AI insights generation failed: {e}")
         
-        # Rule-based fallback
-        return self._generate_insights_with_rules(title, summary)
+        # LLM 실패 시 빈 시사점 반환 (UI에서 "시사점 없음" 표시)
+        return {'trade': '', 'logistics': '', 'scm': ''}
     
     def _generate_insights_with_ai(self, title: str, summary: str) -> Dict[str, str]:
         """Generate insights using Gemini AI - comprehensive summary"""
@@ -428,52 +432,6 @@ For example, "AI-based damage control system development success" is Ocean, not 
             
         except Exception as e:
             logger.debug(f"AI insights parsing error: {e}")
-            return self._generate_insights_with_rules(title, summary)
-    
-    def _generate_insights_with_rules(self, title: str, summary: str) -> Dict[str, str]:
-        """
-        Generate insights using rule-based approach.
-        Used as fallback when AI is unavailable.
-        """
-        # Default simple insights when AI is not available
-        return {
-            'trade': '관련 시장 동향 모니터링 및 영향 분석 필요',
-            'logistics': '물류 일정 및 비용 영향 검토 필요',
-            'scm': '공급망 리스크 관리 점검 권장',
-        }
-    
-    def _extract_location_from_text(self, text: str) -> str:
-        """Extract primary location/port from text"""
-        locations = {
-            '부산': '부산항', '인천': '인천항', '광양': '광양항', '평택': '평택항',
-            'busan': '부산항', 'shanghai': '상하이항', 'singapore': '싱가포르항',
-            'rotterdam': '로테르담항', 'los angeles': 'LA항', 'long beach': '롱비치항',
-            'red sea': '홍해', '홍해': '홍해', 'suez': '수에즈운하', '수에즈': '수에즈운하',
-            'panama': '파나마운하', '파나마': '파나마운하',
-            '중국': '중국', 'china': '중국', '미국': '미국', 'us': '미국',
-            '유럽': '유럽', 'europe': '유럽', '일본': '일본', 'japan': '일본',
-        }
-        
-        text_lower = text.lower()
-        for keyword, location in locations.items():
-            if keyword in text_lower:
-                return location
-        return ""
-    
-    def _extract_company_from_text(self, text: str) -> str:
-        """Extract primary company/carrier from text"""
-        companies = {
-            'maersk': 'Maersk', 'msc': 'MSC', 'cosco': 'COSCO', 'cma cgm': 'CMA CGM',
-            'evergreen': 'Evergreen', 'hmm': 'HMM', 'one': 'ONE', 'hapag': 'Hapag-Lloyd',
-            '머스크': 'Maersk', '에버그린': 'Evergreen',
-            'fedex': 'FedEx', 'ups': 'UPS', 'dhl': 'DHL',
-            'tesla': 'Tesla', 'apple': 'Apple', 'samsung': '삼성', '삼성': '삼성',
-            'tsmc': 'TSMC', 'nvidia': 'NVIDIA',
-        }
-        
-        text_lower = text.lower()
-        for keyword, company in companies.items():
-            if keyword in text_lower:
-                return company
-        return ""
+            # LLM 실패 시 빈 시사점 반환
+            return {'trade': '', 'logistics': '', 'scm': ''}
 

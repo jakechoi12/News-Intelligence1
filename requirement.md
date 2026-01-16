@@ -1,7 +1,7 @@
 # News Intelligence 요구정의서
 
-> **최종 업데이트**: 2026-01-15
-> **버전**: v2.5 (프로토타입 배포용)
+> **최종 업데이트**: 2026-01-16
+> **버전**: v2.6 (프로토타입 배포용)
 
 ---
 
@@ -690,6 +690,7 @@ NAVER_NEWS_QUERIES = [
 수집된 기사 중 물류/무역/경제와 무관한 기사를 자동으로 제거:
 
 **필터링 대상:**
+
 * 결혼/혼인 관련: `[화촉]`, `결혼`, `결혼식`, `wedding`
 * 부동산 광고: `견본주택`, `분양`, `입주`, `리버블시티`, `자이`, `아파트.*광고`
 * 여권/비자 랭킹: `여권.*순위`, `여권.*\d+위`, `비자.*면제`, `passport.*rank`
@@ -699,6 +700,7 @@ NAVER_NEWS_QUERIES = [
 * 연예인 사건사고: `전신.*화상`, `휠체어.*귀국` (물류 무관)
 
 **필터링 방식:**
+
 * 제목과 요약에서 정규표현식 패턴 매칭
 * 매칭되는 기사는 수집 결과에서 제외
 * 필터링된 기사 수를 로그에 기록
@@ -713,6 +715,7 @@ NAVER_NEWS_QUERIES = [
 * 환경변수: `GEMINI_API_KEY`
 
 **성능 최적화 (v2.3)**
+
 * **배치 처리**: 20개씩 묶어서 처리
 * **병렬 처리**: 최대 5개 스레드로 동시 분석
 * **시사점 생성**: 최대 3개 스레드로 병렬 처리
@@ -722,16 +725,17 @@ NAVER_NEWS_QUERIES = [
 
 AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 
-| 카테고리 | 설명                            | Alert 사용 |
-| -------- | ------------------------------- | ---------- |
-| Crisis   | 파업, 사고, 분쟁 등 (실제 진행 중인 사건) | ✅   |
-| Ocean    | 해운, 조선, 해양연구, KRISO 등  |            |
-| Air      | 항공                            |            |
-| Inland   | 내륙 운송                       |            |
-| Economy  | 경제, 운임, 수요                |            |
-| ETC      | 기타                            |            |
+| 카테고리 | 설명                                      | Alert 사용 |
+| -------- | ----------------------------------------- | ---------- |
+| Crisis   | 파업, 사고, 분쟁 등 (실제 진행 중인 사건) | ✅         |
+| Ocean    | 해운, 조선, 해양연구, KRISO 등            |            |
+| Air      | 항공                                      |            |
+| Inland   | 내륙 운송                                 |            |
+| Economy  | 경제, 운임, 수요                          |            |
+| ETC      | 기타                                      |            |
 
 **카테고리 분류 규칙 (v2.4):**
+
 * 기술 개발, R&D 성공, 국산화 뉴스는 **Crisis가 아님**
 * 예: "AI 기반 손상통제지원시스템 국산화 성공" → Ocean (기술 개발이므로)
 * 해양/조선/해사 관련 연구소(KRISO, 해수부 등) 뉴스 → Ocean
@@ -777,12 +781,19 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 
 ```
 /frontend/data/
-├── news_data.json          # 뉴스 데이터
+├── news_data.json          # 뉴스 데이터 (기사 목록)
+├── headlines_data.json     # 헤드라인 데이터 (별도 파일, v2.6)
 ├── economic_data.json      # 경제 지표 데이터
 ├── map_data.json           # 지도 데이터 (국가별 crisis 카운트)
 ├── wordcloud_data.json     # 워드클라우드 키워드
-├── alerts_data.json        # Critical Alerts
-└── last_update.json        # 마지막 업데이트 정보
+├── last_update.json        # 마지막 업데이트 정보
+└── archive/                # 아카이브 (v2.6)
+    ├── daily/              # 14일 보관
+    │   └── 2026-01-16/
+    ├── weekly/             # 12주 보관 (매주 금요일)
+    │   └── 2026-W03/
+    └── monthly/            # 12개월 보관 (매월 첫 평일)
+        └── 2026-01/
 ```
 
 ### 7.3 news_data.json 스키마
@@ -810,10 +821,22 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
       "num_sources": 15
     }
   ],
+  "total": 156,
+  "kr_count": 45,
+  "global_count": 111,
+  "generated_at": "2026-01-15T01:00:00Z"
+}
+```
+
+### 7.3.1 headlines_data.json 스키마 (v2.6 신규)
+
+```json
+{
   "headlines": [
     {
       "id": "article_id",
       "title": "뉴스 제목",
+      "content_summary": "기사 요약 (LLM 시사점 생성용)",
       "source_name": "출처",
       "url": "원문 링크",
       "published_at_utc": "2026-01-15T01:00:00Z",
@@ -825,11 +848,16 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
       }
     }
   ],
-  "total": 156,
-  "kr_count": 45,
-  "global_count": 111
+  "total": 6,
+  "generated_at": "2026-01-15T01:00:00Z"
 }
 ```
+
+**시사점 생성 방식 (v2.6):**
+
+* **LLM(Gemini)만 사용**: title + content_summary 기반으로 AI가 시사점 생성
+* **Rule-based fallback 제거**: LLM 실패 시 빈 시사점 반환
+* **UI 표시**: 시사점이 없으면 "시사점 분석 데이터가 없습니다" 표시
 
 ### 7.4 economic_data.json 스키마
 
@@ -878,7 +906,31 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 }
 ```
 
-### 7.5 last_update.json 스키마
+### 7.5 데이터 아카이브 (v2.6 신규)
+
+**아카이브 정책:**
+
+| 구분    | 보관 위치                      | 보관 기간 | 생성 조건    |
+| ------- | ------------------------------ | --------- | ------------ |
+| Daily   | `/archive/daily/YYYY-MM-DD/` | 14일      | 매 수집 시   |
+| Weekly  | `/archive/weekly/YYYY-WXX/`  | 12주      | 매주 금요일  |
+| Monthly | `/archive/monthly/YYYY-MM/`  | 12개월    | 매월 첫 평일 |
+
+**아카이브 대상 파일:**
+
+* news_data.json
+* headlines_data.json
+* economic_data.json
+* map_data.json
+* wordcloud_data.json
+* last_update.json
+
+**자동 정리:**
+
+* 보관 기간이 지난 아카이브는 자동 삭제
+* 예상 용량: 일 350KB → 월 ~7MB → 연 ~82MB (GitHub 1GB 한도 내)
+
+### 7.6 last_update.json 스키마
 
 ```json
 {
@@ -910,6 +962,7 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 ### 8.1 대시보드 레이아웃 (v2.1 Updated)
 
 **레이아웃 원칙**
+
 - 단일 컬럼 레이아웃 (사이드바 제거)
 - 정보 우선순위에 따른 상단-하단 배치
 - 경제 지표는 상단 티커로 항상 표시
@@ -970,6 +1023,7 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 ```
 
 **변경 사항 요약 (v2.1)**
+
 - 헤더에 Daily Summary 통합 (Total, Korea, Global, Crisis)
 - Critical Alerts 화면에서 제거 (추후 고도화)
 - Economic Indicators: 구글 파이낸스 스타일 (대표 지표 + 증감률)
@@ -979,12 +1033,13 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 ### 8.2 Daily Summary (수집 요약)
 
 * 최근 24시간 이내 수집된 뉴스 개수
-  * 한국 뉴스 / 글로벌 뉴스 개수
+* 한국 뉴스 / 글로벌 뉴스 개수
 * 마지막 업데이트 시간(UTC + KST)
 
 ### 8.3 Distribution 차트 (가로 바 차트)
 
 **Category Distribution**
+
 * 가로 바 차트로 각 카테고리 비율 표시
 * 색상 (굵은 범례와 함께):
   - **Crisis**: #ef4444 (빨강)
@@ -995,11 +1050,13 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
   - **ETC**: #6b7280 (회색)
 
 **Country Distribution**
+
 * 가로 바 차트로 국가별 뉴스 비율 표시
 * 상위 6개국 + Others로 표시
 * 각 국가별 고유 색상 부여
 
 **범례 스타일**
+
 * 굵은 글씨 (font-weight: 600)
 * 색상 점 + 라벨 + 퍼센트
 * 호버 시 해당 섹션 강조
@@ -1025,6 +1082,7 @@ AI를 사용하여 뉴스를 아래 중 하나로 자동 분류한다.
 **일반 키워드 필터링 강화 (v2.3)**
 
 다음과 같은 일반적인 업계 용어는 워드클라우드에서 제외:
+
 ```
 freight, logistics, shipping, port, container, cargo, trade, 
 import, export, supply chain, 물류, 해운, 항만, 컨테이너, 
@@ -1044,15 +1102,17 @@ import, export, supply chain, 물류, 해운, 항만, 컨테이너,
   3. 고유명사 (회사명, 항만명, 국가/지역명)
   4. 이슈 키워드 (사건/현상)
 
-**8.5.2 주요 뉴스 헤드라인 (v2.5 개선)**
+**8.5.2 주요 뉴스 헤드라인 (v2.6 개선)**
 
 * 목적: 그날의 **진짜 중요한 뉴스**를 파악
 * 선정 기준: **유사 기사 그룹핑 + 한국/글로벌 균형**
-* 동작 방식 (v2.5):
+* **별도 JSON 파일**: `headlines_data.json`으로 분리 (v2.6)
+* 동작 방식 (v2.6):
   1. 제목 유사도(Jaccard Similarity 40% 이상)로 기사 그룹핑
   2. 그룹 크기(같은 주제 기사 수) 순으로 정렬
   3. 한국/글로벌 각각 3개씩 선택 (가장 많이 다뤄진 주제 우선)
-  4. 각 헤드라인에 대해 AI 시사점 생성 (병렬 처리)
+  4. 각 헤드라인에 **content_summary 포함** (시사점 생성용)
+  5. 각 헤드라인에 대해 **LLM 시사점 생성** (병렬 처리, rule-based fallback 제거)
 * 클릭 시 원문 이동
 
 **헤드라인 선정 알고리즘 상세:**
@@ -1078,11 +1138,13 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
 ```
 
 **왜 유사 기사 그룹핑인가?**
+
 * 여러 매체에서 같은 이슈를 다루면 → **오늘의 주요 뉴스**
 * 단순 최신순보다 **중요도 기반** 선정이 더 의미 있음
 * `group_count`로 몇 개 매체에서 다뤘는지 표시 가능
 
 **왜 한국/글로벌 혼합인가?**
+
 * 한국 기사만 나오면 글로벌 트렌드를 놓칠 수 있음
 * 글로벌 기사만 나오면 국내 영향도를 파악하기 어려움
 * 균형 있는 뉴스 섭취를 위해 3:3 혼합
@@ -1101,11 +1163,12 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
 └─────────────────────────────────────────────────────┘
 ```
 
-* **틀 없이 종합 분석**: 무역/물류/SCM 관점을 자연스럽게 종합하여 3줄로 요약 (v2.4)
+* **틀 없이 종합 분석**: 무역/물류/SCM 관점을 자연스럽게 종합하여 3줄로 요약
 * 각 줄은 30~50자 내외의 한국어 문장
 * 구체적인 수치, 지역, 기업명, 영향 범위 포함
-* AI(Gemini)가 기사 내용 기반으로 자동 생성
-* AI 실패 시 기본 메시지만 제공 (복잡한 rule-based 가이드라인 제거)
+* AI(Gemini)가 **title + content_summary** 기반으로 자동 생성 (v2.6)
+* **LLM 전용**: Rule-based fallback 완전 제거 (v2.6)
+* LLM 실패 시 빈 시사점 반환 → UI에서 "시사점 분석 데이터가 없습니다" 표시
 
 **8.5.3 지도 (Crisis Heatmap)**
 
@@ -1115,9 +1178,9 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
   * Crisis 뉴스 1건 = 1점
   * 누적 계산
 * 색상 표현:
-    * 1~2건: 연한 빨강
-    * 3~5건: 중간 빨강
-    * 6건 이상: 진한 빨강
+  * 1~2건: 연한 빨강
+  * 3~5건: 중간 빨강
+  * 6건 이상: 진한 빨강
 * 마우스 오버: 국가명, 건수, 뉴스 목록
 
 ### 8.6 경제 지표 그래프 (구글 파이낸스 스타일)
@@ -1171,12 +1234,14 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
 ```
 
 **기간별 X축 표시**
+
 * 1M: 일별 (1일, 8일, 15일, 22일, 29일)
 * 3M: 주별 (1월, 2월, 3월)
 * 6M: 월별 (1월, 3월, 5월)
 * 1Y: 분기별 (Q1, Q2, Q3, Q4)
 
 **지표 리스트 (증감률 표시)**
+
 * 선택되지 않은 지표들은 증감률만 간략히 표시
 * 클릭 시 해당 지표가 메인 차트로 전환
 * 상승: 초록색, 하락: 빨간색
@@ -1236,10 +1301,12 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
     * Mentions / Sources
 
 **필터링**
+
 * [All] [Korea] [Global] 탭으로 필터링
 * 카테고리 필터 (Distribution 차트 클릭 시 연동)
 
 **정렬 및 페이지네이션**
+
 * 정렬: 발행시간 기준 최신순
 * 페이지네이션: 한 페이지에 최대 10개
 
@@ -1249,14 +1316,15 @@ global_headlines = [g for g in groups if g.news_type == 'GLOBAL'][:3]
 
 GitHub Pages는 정적 호스팅이므로 REST API 대신 JSON 파일을 직접 fetch
 
-| 데이터          | 파일 경로                     |
-| --------------- | ----------------------------- |
-| 뉴스 목록       | `/data/news_data.json`      |
-| 경제 지표       | `/data/economic_data.json`  |
-| 지도 데이터     | `/data/map_data.json`       |
-| 워드클라우드    | `/data/wordcloud_data.json` |
-| Critical Alerts | `/data/alerts_data.json`    |
-| 업데이트 상태   | `/data/last_update.json`    |
+| 데이터        | 파일 경로                     |
+| ------------- | ----------------------------- |
+| 뉴스 목록     | `/data/news_data.json`      |
+| 헤드라인      | `/data/headlines_data.json` |
+| 경제 지표     | `/data/economic_data.json`  |
+| 지도 데이터   | `/data/map_data.json`       |
+| 워드클라우드  | `/data/wordcloud_data.json` |
+| 업데이트 상태 | `/data/last_update.json`    |
+| 아카이브      | `/data/archive/daily          |
 
 프론트엔드 필터링:
 
@@ -1320,10 +1388,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+    
       - name: Install dependencies
         run: pip install -r requirements.txt
-    
+  
       - name: Run collection
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -1331,7 +1399,7 @@ jobs:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python backend/run_collection.py
-    
+  
       - name: Commit data files
         run: |
           git config user.name github-actions
@@ -1339,7 +1407,7 @@ jobs:
           git add frontend/data/
           git commit -m "📊 Daily news update $(date +%Y-%m-%d)" || exit 0
           git push
-      
+    
       - name: Send Teams notification
         env:
           TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
@@ -1431,43 +1499,43 @@ jobs:
 
 ---
 
-## 12. 작업 계획 및 일정
+## 12. 작업 계획
 
-### 12.1 Phase 1: 프로젝트 구조 재정리 (1일)
+### 12.1 Phase 1: 프로젝트 구조 재정리
 
 - [ ] 새 GitHub Repository 생성
 - [ ] 디렉토리 구조 설정 (frontend/, backend/, .github/)
 - [ ] 기존 코드 마이그레이션
 - [ ] requirements.txt 정리
 
-### 12.2 Phase 2: 백엔드 수집 스크립트 (2일)
+### 12.2 Phase 2: 백엔드 수집 스크립트
 
 - [ ] JSON 생성 스크립트 개발 (`run_collection.py`)
 - [ ] 검색 쿼리 업데이트 (Google News, Naver News)
 - [ ] 경제 지표 수집 로직 통합
 - [ ] AI 분석 로직 확인/개선
 
-### 12.3 Phase 3: 프론트엔드 개선 (3일)
+### 12.3 Phase 3: 프론트엔드 개선
 
 - [ ] HTML 구조 재정비
 - [ ] JSON fetch 로직 구현
-- [ ] 경제 지표 섹션 추가 (토스 스타일)
+- [ ] 경제 지표 섹션 추가
 - [ ] 미니 차트 컴포넌트 개발
 - [ ] 반응형 레이아웃 개선
 
-### 12.4 Phase 4: 자동화 설정 (0.5일)
+### 12.4 Phase 4: 자동화 설정
 
 - [ ] GitHub Actions 워크플로우 작성
 - [ ] GitHub Secrets 설정
 - [ ] GitHub Pages 활성화
 
-### 12.5 Phase 5: 팀즈 알람 (0.5일)
+### 12.5 Phase 5: 팀즈 알람
 
 - [ ] Teams Webhook 알림 스크립트 개발
 - [ ] 메시지 템플릿 구현
 - [ ] 테스트
 
-### 12.6 Phase 6: 테스트 및 배포 (1일)
+### 12.6 Phase 6: 테스트 및 배포
 
 - [ ] 전체 플로우 테스트
 - [ ] 버그 수정
