@@ -1,32 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c549435ff091",
-      "title": "Docks empty, ships absent: Eilat Port in deep crisis",
-      "summary": "Docks empty, ships absent: Eilat Port in deep crisis Ynetnews",
-      "source_name": "Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQWlDa3FiYTRzdnpUWURqa01tcHR2d1IyejI1TUtfNzZzakJPaENzd25FdGdiYmEzN20tTk4wWnZSck9BQ1ZpMUtxc0dBU0o0Rkx2TW5n?oc=5",
-      "published_at_utc": "2026-01-13T01:45:28Z",
-      "category": "Crisis",
-      "country_tags": [],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
-      "id": "20d5fccbc81e",
-      "title": "[블룸버그 칼럼]더 냉혹해지는 세계질서, 美에 부메랑 될 수도",
-      "summary": "한 초강대국이 취약한 법적 근거 위에서 마약 운반선을 공격하고, 한밤중에 외국 정상들을 납치하고 있다.... 예멘의 후티 반군을 상대로는 짧지만 강경한 군사작전을 벌여 해상 교역을 확보하겠다는 목표를 내세웠다....",
-      "source_name": "Naver News",
-      "url": "https://n.news.naver.com/mnews/article/277/0005705902?sid=104",
-      "published_at_utc": "2026-01-13T01:49:00Z",
-      "category": "Crisis",
-      "country_tags": [
-        "YE"
-      ],
-      "goldstein_scale": null,
-      "severity": "medium"
-    },
-    {
       "id": "5ff99f7824d8",
       "title": "대기업 오너 등기임원 겸직 줄어…\"상법 개정·중대재해법 영향\"",
       "summary": "장금상선그룹 회장, 이순형 세아그룹 회장, 김익래 다우키움그룹 전 회장, 정몽원 HL그룹 회장 등도 각각 3곳에서 등기임원에 올라 있다. 친인척의 등기임원 등재 규모를 보면 SM그룹이 51건으로 가장 많고, GS그룹...",
@@ -131,8 +105,32 @@
       "country_tags": [],
       "goldstein_scale": null,
       "severity": "medium"
+    },
+    {
+      "id": "34a86cb4fa7e",
+      "title": "Enterprise security faces a three-front war: cybercrime, AI misuse, and supply chains",
+      "summary": "Enterprise security faces a three-front war: cybercrime, AI misuse, and supply chains Help Net Security",
+      "source_name": "Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamxuU2Fjb1p2bmVTUXRIQnppOUdHZDVaaUVwRVdrVXFweTVtdHVrT1BmMEM2ZlhhOG5iZVlYQWxKSVVrTU9rM2pjVWRDV1d4cnR1SG9zcnhzUWlkWUxQQ3dla0J5MnB2c3pKM1FXblR4SGxfM1ljSVBKcy1Wb1pDM3dfTGRLYzlR?oc=5",
+      "published_at_utc": "2026-01-13T08:45:21Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
+    },
+    {
+      "id": "959677c077c6",
+      "title": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports",
+      "summary": "Houthi attacks slash Eilat port revenue to near zero, Israeli newspaper reports Middle East Monitor",
+      "source_name": "Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnMzSG5Lc3BEa1JGMXlOck5DbkZUeTlGQ2hhLUZhZkV0dnpwS0lXWE9jVzJoWk1ibjQ0dHRNYXF4WWREMHU2OUlLaVg1V1NGZ2wyV2VPNFNGZ2JLdmxfc0ZjX3dOdUJ6QTU3MUFraVlodGZhd2p6alZhcVFzcUJHU0drMTZxZGIzaGgyWWRHT3FHMU5IcFlqaHJpelZyZUF4NmhwRndaX056Sk56UHNRUDhsaDBTbHB0RmJ4MEJtZ9IBxAFBVV95cUxPR0lGT1V2NERBU2p5MEtzY1BGWUVfYmxCVXlzTVA3UG5uYjdlVzNvVnM1Ymd6QUNUZndPVjVhamlLazZqLS1OMWRjdE9KOGllUmRmOW1CM09PYlJOYUFZSjJDRXhZOFVwbUdEVkI0VjlnTlVRbzFyQ1k2ZlNia2hpU3lUWjBYMUlGMXV1ekp4d1BpTU1yN2dnU3haUUV2c244MUlkOExITWFueEYydEdpdXN6NDJGZDJ2LVltdnhKYUVuY2Q2?oc=5",
+      "published_at_utc": "2026-01-13T09:04:00Z",
+      "category": "Crisis",
+      "country_tags": [],
+      "goldstein_scale": null,
+      "severity": "medium"
     }
   ],
-  "total_crisis": 202,
-  "generated_at": "2026-01-16T01:41:21Z"
+  "total_crisis": 206,
+  "generated_at": "2026-01-16T02:01:35Z"
 }

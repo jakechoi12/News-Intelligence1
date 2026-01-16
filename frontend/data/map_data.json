@@ -2,7 +2,7 @@
   "countries": [
     {
       "code": "US",
-      "count": 40,
+      "count": 39,
       "risk_level": "high",
       "articles": [
         {
@@ -14,8 +14,8 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393808"
         },
         {
-          "title": "트럼프 반도체 포고령…韓반도체의 위기와 기회[Why&Next]",
-          "url": "https://n.news.naver.com/mnews/article/277/0005707745?sid=101"
+          "title": "트럼프, 반도체 '232조 포고문' 서명…AI칩 25% 관세 '1단계' 가동",
+          "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=100280"
         }
       ]
     },
@@ -25,22 +25,22 @@
       "risk_level": "high",
       "articles": [
         {
+          "title": "미샤, ‘짝퉁’ 우려에도 테무와 손잡은 까닭…美 Z세대 공략 ‘실리’...",
+          "url": "https://n.news.naver.com/mnews/article/015/0005238103?sid=101"
+        },
+        {
+          "title": "[에너지 논단] 2025년 글로벌 수소 시장 현황과 전망",
+          "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=221956"
+        },
+        {
           "title": "5년새 두배 급증 중러 무역액, 지난해 급감 이유는?",
           "url": "https://www.newspim.com/news/view/20260116000320"
-        },
-        {
-          "title": "China’s $1.2 Trillion Windfall Quietly Seeps Into Global Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-01-16/china-s-1-2-trillion-windfall-quietly-seeps-into-global-markets"
-        },
-        {
-          "title": "\"中경쟁사 파산위기\" 효성티앤씨 52주 신고가",
-          "url": "https://www.mt.co.kr/stock/2026/01/16/2026011609493486006"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 30,
+      "count": 31,
       "risk_level": "high",
       "articles": [
         {
@@ -78,7 +78,7 @@
     },
     {
       "code": "RU",
-      "count": 13,
+      "count": 14,
       "risk_level": "high",
       "articles": [
         {
@@ -101,22 +101,22 @@
       "risk_level": "high",
       "articles": [
         {
+          "title": "문소리 WFP 친선대사, 케냐 방문 후기…\"계속 함께하고파\"",
+          "url": "https://m.entertain.naver.com/article/311/0001964378"
+        },
+        {
           "title": "문소리 WFP 친선대사, 케냐 방문 후기 \"제로 헝거가 올 때까지 함께하고...",
           "url": "https://m.entertain.naver.com/article/416/0000320333"
         },
         {
           "title": "‘WFP 친선대사’ 문소리, 케냐 방문 후기 공개",
           "url": "https://m.entertain.naver.com/article/144/0001092076"
-        },
-        {
-          "title": "문소리 WFP 친선대사, 케냐 방문 후기 영상 공개",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202601160109"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 8,
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
@@ -124,18 +124,18 @@
           "url": "https://aircargoweek.com/bifa-freight-service-awards-2025-industry-leaders-recognised-at-london-ceremony/"
         },
         {
-          "title": "State-level asymmetric warfare generates higher maritime risk",
-          "url": "https://container-news.com/state-level-asymmetric-warfare-generates-higher-maritime-risk/"
+          "title": "Russian ballistic missile strike on Chornomorsk port damages civilian vessel - Kuleba",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGhSbllXRllob1pPNDh6TE8tUDFTa2ZFMm9HbXRFeWRsMWxaT3EtcG5aMEZYaENtQVBwbmhVZ0hOYmJqdGwtSHMycGNLMVZKb3FaVVl5anpjYk41MXVMQ1lWRUdjMjVhbmxROV8yd3lyZ09FWGczSWx3X3lPeVJ6Q0hMeVgyeWU3QmNWbWNkSkNiZG51OW54MnN1Vm8xYzg4a2lMVHluVnFZVTlPM0pubUdPbWxIQ204Tm9SddIBwgFBVV95cUxPdkpwbDFvSmlySHNmOGxrWFlGWElUdHBpV0xkejBwS2pGcVNHX3lvSmJEUkdma1BsQmxSRVlkaFZ5ejVCWVAza0R1RlRhX1JuS093SHdoWG5YQmVLRHpfY1djeG9YaUZjckdsaE81cmhxSElzREZJWnBnaUNiYnZjRlpraTZrQmh5ZE41eWFRc2VJRDBTWlRta3pGbEFab1VoYkpUODNRMklPTHRjcE5nQUtiQTFDcDBlMXVSLTBaZWVjQQ?oc=5"
         },
         {
-          "title": "Kukdong MES eyes global container leasing business as prices slump",
-          "url": "https://theloadstar.com/kukdong-mes-eyes-global-container-leasing-business-as-prices-slump/"
+          "title": "State-level asymmetric warfare generates higher maritime risk",
+          "url": "https://container-news.com/state-level-asymmetric-warfare-generates-higher-maritime-risk/"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 7,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
@@ -147,35 +147,20 @@
           "url": "https://www.mt.co.kr/world/2026/01/16/2026011609015492783"
         },
         {
-          "title": "KRISO, 선박사고 대응 AI시스템 국산화…외산의 1/4 비용",
-          "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/93145"
-        }
-      ]
-    },
-    {
-      "code": "YE",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Is the Yemeni government getting ready to attack the Houthis?",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSElsdEltNF94NExRSHJ2Y2JUN05HT1hVSkRBQlNfQ3E5aWNuSTlLTjRMeWdRRHhPLUpxbFhDZlRNUG9oX0xaQlBJMi02ZFN6TENsemU2djlieFR0Z2xaTks4VEdyVHlZUHBJZHRTX3dJQXBfUWhjeExjYjBvSjh2WEl0cHRPN1NiREpsMTJISkJLR1VyUmVrYXo4c01tZ9IBowFBVV95cUxQczBJbDVERGpZbUl2Xy1OZWNJcU8zYXE4RHhxZUJMUTRlYXdDR1pRX0NpX3RXTFhsYU9tbVNIaldMZDBJdkh3NDc5SUdOWEx6TU5uanMtQTRqYnIzekxaZ0k5UjJ6WFBYWWNRT2JJdUs2MWZWU2QtcDl0R2RhWUY1NTlTQnNQclcwa3BZdjZiUDlxSGRqb01lVGZ6Y2Z5a2lYejhR?oc=5"
-        },
-        {
-          "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
-          "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104"
-        },
-        {
-          "title": "주이스라엘 미국대사 \"현재는 이란 군사개입 신호 없어\"",
-          "url": "https://n.news.naver.com/mnews/article/003/0013707449?sid=104"
+          "title": "Yen Watchers Face Double Whammy of BOJ, Election Uncertainty",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-15/yen-watchers-face-double-whammy-of-boj-election-uncertainty"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 3,
+      "count": 4,
       "risk_level": "medium",
       "articles": [
+        {
+          "title": "한-NATO 정책협의회 개최…\"가치 공유 우방국 간 협력 중요\"",
+          "url": "https://www.mt.co.kr/politics/2026/01/16/2026011610160184312"
+        },
         {
           "title": "5년새 두배 급증 중러 무역액, 지난해 급감 이유는?",
           "url": "https://www.newspim.com/news/view/20260116000320"
@@ -183,10 +168,6 @@
         {
           "title": "The Silent Profit Killer in Transportation & Logistics",
           "url": "https://www.freightwaves.com/news/the-silent-profit-killer-in-transportation-logistics"
-        },
-        {
-          "title": "트럼프, 이란에 “도움 가고 있다”... 중동에 美 항모 없는데 어떻게?",
-          "url": "https://n.news.naver.com/mnews/article/023/0003952941?sid=104"
         }
       ]
     },
@@ -229,6 +210,25 @@
       ]
     },
     {
+      "code": "YE",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Is the Yemeni government getting ready to attack the Houthis?",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSElsdEltNF94NExRSHJ2Y2JUN05HT1hVSkRBQlNfQ3E5aWNuSTlLTjRMeWdRRHhPLUpxbFhDZlRNUG9oX0xaQlBJMi02ZFN6TENsemU2djlieFR0Z2xaTks4VEdyVHlZUHBJZHRTX3dJQXBfUWhjeExjYjBvSjh2WEl0cHRPN1NiREpsMTJISkJLR1VyUmVrYXo4c01tZ9IBowFBVV95cUxQczBJbDVERGpZbUl2Xy1OZWNJcU8zYXE4RHhxZUJMUTRlYXdDR1pRX0NpX3RXTFhsYU9tbVNIaldMZDBJdkh3NDc5SUdOWEx6TU5uanMtQTRqYnIzekxaZ0k5UjJ6WFBYWWNRT2JJdUs2MWZWU2QtcDl0R2RhWUY1NTlTQnNQclcwa3BZdjZiUDlxSGRqb01lVGZ6Y2Z5a2lYejhR?oc=5"
+        },
+        {
+          "title": "中왕이 소말리아 방문취소에 해석 분분…'안전위험 우려' 관측도",
+          "url": "https://n.news.naver.com/mnews/article/001/0015844224?sid=104"
+        },
+        {
+          "title": "주이스라엘 미국대사 \"현재는 이란 군사개입 신호 없어\"",
+          "url": "https://n.news.naver.com/mnews/article/003/0013707449?sid=104"
+        }
+      ]
+    },
+    {
       "code": "FR",
       "count": 2,
       "risk_level": "medium",
@@ -267,5 +267,5 @@
     }
   ],
   "total_crisis_countries": 15,
-  "generated_at": "2026-01-16T01:41:20Z"
+  "generated_at": "2026-01-16T02:01:35Z"
 }
