@@ -93,8 +93,8 @@ def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> b
     global_count = stats.get('global_count', 0)
     categories = stats.get('categories', {})
     
-    # Get top headlines from headlines_data.json (up to 5)
-    articles = headlines.get('headlines', [])[:5]
+    # Get top headlines from headlines_data.json (up to 6)
+    articles = headlines.get('headlines', [])[:6]
     
     # Build headline items
     headline_items = []
