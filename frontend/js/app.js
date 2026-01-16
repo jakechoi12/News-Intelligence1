@@ -725,49 +725,35 @@ function formatChartDate(dateStr, period) {
 }
 
 /**
- * Sailboat shape function for WordCloud2
- * Creates a sailboat silhouette with sail and hull
+ * Cloud shape function for WordCloud2
+ * Creates a fluffy cloud silhouette
  */
-function sailboatShape(theta) {
-    // Normalize theta to 0-2π
-    let t = theta;
-    while (t < 0) t += 2 * Math.PI;
-    while (t >= 2 * Math.PI) t -= 2 * Math.PI;
+function cloudShape(theta) {
+    // Cloud shape using multiple overlapping circles
+    const cos = Math.cos(theta);
+    const sin = Math.sin(theta);
     
-    const cos = Math.cos(t);
-    const sin = Math.sin(t);
+    // Create bumpy cloud effect with sine waves
+    const bumps = Math.sin(theta * 5) * 0.15;
+    const bumps2 = Math.sin(theta * 3) * 0.1;
     
-    // Sailboat: tall triangular sail on top, boat hull on bottom
+    // Base ellipse shape (wider than tall)
+    let r = 0.6 + bumps + bumps2;
     
-    // Top half (sail area) - sin > 0
-    if (sin > 0) {
-        // Triangular sail - narrows toward top
-        // The higher up (more sin), the narrower (less radius)
-        const sailWidth = 0.8 - sin * 0.6;  // Gets narrower at top
-        
-        // Left side of sail (cos < 0)
-        if (cos < 0) {
-            return sailWidth * (1 - Math.abs(cos) * 0.3);
-        }
-        // Right side of sail (cos >= 0) - main sail is on right
-        else {
-            return sailWidth * (1 + cos * 0.4);
-        }
+    // Make it wider horizontally
+    r += Math.abs(cos) * 0.2;
+    
+    // Flatten the bottom slightly
+    if (sin < 0) {
+        r -= Math.abs(sin) * 0.15;
     }
-    // Bottom half (hull area) - sin <= 0
-    else {
-        // Boat hull - curved bottom
-        const depth = Math.abs(sin);
-        
-        // Hull shape: wide in middle, tapered at ends
-        if (Math.abs(cos) > 0.7) {
-            // Bow and stern - tapered
-            return 0.3 + (1 - Math.abs(cos)) * 0.4;
-        } else {
-            // Middle of hull - wider, curved bottom
-            return 0.5 + (1 - depth) * 0.3;
-        }
+    
+    // Add more bumps on top
+    if (sin > 0.3) {
+        r += Math.sin(theta * 4) * 0.12;
     }
+    
+    return Math.max(0.3, Math.min(1, r));
 }
 
 /**
@@ -812,8 +798,8 @@ function renderWordcloud() {
         },
         backgroundColor: '#16161f',
         rotateRatio: 0.1,  // 회전 최소화 (긴 단어 가독성)
-        shape: sailboatShape,  // 돛단배 모양
-        ellipticity: 0.4,  // 가로로 넓게
+        shape: cloudShape,  // 구름 모양
+        ellipticity: 0.6,  // 구름형 비율
         drawOutOfBound: false,  // 캔버스 밖으로 나가지 않도록
         shrinkToFit: true,  // 공간에 맞게 축소
     });
