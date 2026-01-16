@@ -1272,10 +1272,22 @@ function formatTime(dateStr) {
     try {
         const date = new Date(dateStr);
         const now = new Date();
-        const diffMs = now - date;
+        let diffMs = now - date;
         
-        // 음수 처리 (미래 시간) 또는 5분 이하
-        if (diffMs < 0 || diffMs < 300000) {
+        // 미래 시간인 경우: KST로 잘못 저장된 것으로 간주하고 9시간 보정
+        if (diffMs < 0) {
+            // KST 시간이 UTC로 잘못 저장된 경우 보정 (9시간 차이)
+            const correctedDate = new Date(date.getTime() - 9 * 60 * 60 * 1000);
+            diffMs = now - correctedDate;
+            
+            // 보정 후에도 미래면 "오늘" 표시
+            if (diffMs < 0) {
+                return '오늘';
+            }
+        }
+        
+        // 5분 이하
+        if (diffMs <= 300000) {
             return '방금 전';
         }
         
