@@ -6,22 +6,22 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "일론 머스크의 韓저출산 언급한 기획처 장관 대행 \"뼈아픈 지적\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393905"
-        },
-        {
           "title": "인천해사고, 발전기금 명예의 전당 제막",
           "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329630"
         },
         {
           "title": "[반도체 현안점검] 트럼프 포고령 '예의주시'…90일 협상 시험대",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393897"
+        },
+        {
+          "title": "[금통위 쇼크] 공사채도 후폭풍…오버 발행에 모집 취소까지",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393893"
         }
       ]
     },
     {
       "code": "US",
-      "count": 31,
+      "count": 30,
       "risk_level": "high",
       "articles": [
         {
@@ -35,25 +35,6 @@
         {
           "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 24,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
-        },
-        {
-          "title": "\"기안84도 이런 날엔 '러닝' 멈춰야\"…전국 덮친 미세먼지, 의사의 경고",
-          "url": "https://www.mt.co.kr/thebio/2026/01/16/2026011613300628355"
-        },
-        {
-          "title": "올해 글로벌 자동차 시장 0.2% 성장… 미·중 둔화에 '제로 성장' 위기",
-          "url": "https://n.news.naver.com/mnews/article/417/0001124950?sid=103"
         }
       ]
     },
@@ -73,6 +54,25 @@
         {
           "title": "Oil falls more than 4% as traders see Trump backing away from Iran strike threats",
           "url": "https://www.cnbc.com/2026/01/15/oil-prices-sink-more-than-2percent-as-trump-remarks-calm-concern-about-iran.html"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 23,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 호감도, 5개월전보다 5%p↓…시진핑은 11%p↑[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4393872"
+        },
+        {
+          "title": "\"기안84도 이런 날엔 '러닝' 멈춰야\"…전국 덮친 미세먼지, 의사의 경고",
+          "url": "https://www.mt.co.kr/thebio/2026/01/16/2026011613300628355"
+        },
+        {
+          "title": "올해 글로벌 자동차 시장 0.2% 성장… 미·중 둔화에 '제로 성장' 위기",
+          "url": "https://n.news.naver.com/mnews/article/417/0001124950?sid=103"
         }
       ]
     },
@@ -97,7 +97,7 @@
     },
     {
       "code": "RU",
-      "count": 13,
+      "count": 14,
       "risk_level": "high",
       "articles": [
         {
@@ -255,5 +255,5 @@
     }
   ],
   "total_crisis_countries": 15,
-  "generated_at": "2026-01-16T06:50:20Z"
+  "generated_at": "2026-01-16T06:35:59Z"
 }

@@ -1,22 +1,22 @@
 {
   "headlines": [
     {
-      "id": "9da1b5055a2e",
-      "title": "노동부, '불법파견·블랙리스트' 쿠팡 근로감독 착수",
-      "content_summary": "사진은 이날 서울 한 쿠팡 물류센터 모습. (사진=연합뉴스) 노동부는 16일 쿠팡본사, 쿠팡CFS, 쿠팡CLS 및 배송캠프에 대해 이날부터 근로감독에 착수한다고 밝혔다. 감독에는 근로감독관 17명을 투입한다. 노동부는 지난...",
-      "source_name": "Naver News",
-      "url": "https://n.news.naver.com/mnews/article/018/0006202140?sid=101",
-      "published_at_utc": "2026-01-16T06:43:00Z",
-      "group_count": 11,
-      "insights": {}
-    },
-    {
       "id": "2efda0434514",
       "title": "아비커스, HMM 선대에 자율운항 솔루션 공급",
       "content_summary": "HD현대의 선박 자율 운항 전문 회사인 아비커스(Avikus)가 HMM으로부터 대규모 수주에 성공하며 자율 운항 사업 확대에 속도를 내고 있다.HD현대는 1월 15일 판교 글로벌R&D센터(GRC)에서 최원혁 HMM 대표, 김형관 HD한국조선해양 대표, 강재호·임도형 아비커스 대표가 참석한 가운데 대형 선박용 자율 운항 솔루션인 하이나스 컨트롤(HiNAS Control)의 공급계약을 체결했다고 밝혔다.이날 계약을 통해 아비커스는 HMM이 운용 중인 40척의 선박에 하이나스 컨트롤을 공급하게 됐다. 단일 공급계약으로는 역대 최대 규모로",
       "source_name": "한국해운신문",
       "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329629",
       "published_at_utc": "2026-01-16T14:46:16Z",
+      "group_count": 11,
+      "insights": {}
+    },
+    {
+      "id": "f483d756234c",
+      "title": "노동부, 쿠팡 블랙리스트·불법파견 의혹도 근로감독",
+      "content_summary": "쿠팡의 물류전문 자회사 쿠팡CFS는 ‘PNG 리스트’라고 불리는 블랙리스트 문건을 활용해 노동자들의 재취업을 제한했다는 의혹을 받고 있다. 지난 2024년 2월 김준호씨의 내부고발 이후 노동부가 조사에 착수했지만, 약...",
+      "source_name": "Naver News",
+      "url": "https://n.news.naver.com/mnews/article/032/0003422037?sid=102",
+      "published_at_utc": "2026-01-16T06:32:00Z",
       "group_count": 9,
       "insights": {}
     },
@@ -31,6 +31,16 @@
       "insights": {}
     },
     {
+      "id": "50fd4ef6bec1",
+      "title": "China's Trade Surplus Surges to Record $1.2 Trillion, Even With U.S. Tariffs",
+      "content_summary": "China's Trade Surplus Surges to Record $1.2 Trillion, Even With U.S. Tariffs Manufacturing.net",
+      "source_name": "Manufacturing.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktXSElFejdtd21oMFU1MDNQdHh3NmdaT243Z2JSQUdiY2R6d0ZTdkNFeFJvMWFWUlNYNFZWNnphSTRMbFBzR04xWGR4eldNbW5QOFVXVGN5S3UyRTNid2pyUWw4QS15Q2RQMHl1R0JwRWNoZXF3TWFfTm1OVmxrQ1NPdC1NV0UyLWNQcWJ6MV96NFB0QnFsVDJyRFF1STlGWF85OHhMbjY3ejR2Z3dwQ3ZtbDZCMHBLVVh6Qw?oc=5",
+      "published_at_utc": "2026-01-14T15:36:34Z",
+      "group_count": 5,
+      "insights": {}
+    },
+    {
       "id": "6d36193dc15b",
       "title": "Singapore Ports Achieve Record-Breaking Performance In 2025",
       "content_summary": "Singapore Ports Achieve Record-Breaking Performance In 2025 Marine Insight",
@@ -41,26 +51,16 @@
       "insights": {}
     },
     {
-      "id": "50fd4ef6bec1",
-      "title": "China's Trade Surplus Surges to Record $1.2 Trillion, Even With U.S. Tariffs",
-      "content_summary": "China's Trade Surplus Surges to Record $1.2 Trillion, Even With U.S. Tariffs Manufacturing.net",
-      "source_name": "Manufacturing.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktXSElFejdtd21oMFU1MDNQdHh3NmdaT243Z2JSQUdiY2R6d0ZTdkNFeFJvMWFWUlNYNFZWNnphSTRMbFBzR04xWGR4eldNbW5QOFVXVGN5S3UyRTNid2pyUWw4QS15Q2RQMHl1R0JwRWNoZXF3TWFfTm1OVmxrQ1NPdC1NV0UyLWNQcWJ6MV96NFB0QnFsVDJyRFF1STlGWF85OHhMbjY3ejR2Z3dwQ3ZtbDZCMHBLVVh6Qw?oc=5",
-      "published_at_utc": "2026-01-14T15:36:34Z",
-      "group_count": 4,
-      "insights": {}
-    },
-    {
-      "id": "88f347677394",
-      "title": "CapitaLand Ascendas REIT acquires $94.5m US logistics site from DHL unit",
-      "content_summary": "CapitaLand Ascendas REIT acquires $94.5m US logistics site from DHL unit Singapore Business Review",
-      "source_name": "Singapore Business Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdk42SXl2bEw4U3VnZDEtSTdnTXUybEtvZHBEc2RqekZpLTNCcEU0NmJUOUtjMzRESldZWVY5MjhJdGI4UGk4dDBna0djSVRfQjJfSDV2QU8zQjZsQXhLckRraW1yYng5bUlmV3VCMmVGREZCaE9tSGVBQ1hRY2xYZ0NVWXVFNXpObE5FNHJnV243RHgtVmpISWtmd3F3a2NOUDlnanlwLTJGNlRoTmc?oc=5",
-      "published_at_utc": "2026-01-16T06:38:39Z",
+      "id": "988d0a9c98b6",
+      "title": "Disney Adventure stops in Port Canaveral on its way to Singapore",
+      "content_summary": "Disney Adventure stops in Port Canaveral on its way to Singapore Orlando Sentinel",
+      "source_name": "Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNENfV3VjZDBQNmJ6SUNoZHVYTnMzQldZcUswSFdMeVZwRThVVzZLNVoxZlpOWHJSdG5aUzVWTVlrUTh3aDhPUVZBZFZhNWdlLUVCSDhEREpVVVhnTFo2bWNqQ1lDenpKTmVKcER5N1kyQ1pFSDdQdzVldFpCMDBqR2tLeXVGRHZmQ0RzOUFaSVR5VmRxY2J5RGJQVXRVOUZrckhFYl9NcFBJc0dR?oc=5",
+      "published_at_utc": "2026-01-15T22:05:00Z",
       "group_count": 3,
       "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-01-16T06:50:20Z"
+  "generated_at": "2026-01-16T06:35:59Z"
 }
