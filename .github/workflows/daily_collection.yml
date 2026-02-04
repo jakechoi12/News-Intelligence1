@@ -34,7 +34,6 @@ jobs:
           ECOS_API_KEY: ${{ secrets.ECOS_API_KEY }}
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
           PYTHONIOENCODING: utf-8
         run: python backend/run_collection.py
       
@@ -75,16 +74,6 @@ jobs:
             echo "No changes to commit"
           fi
       
-      - name: Send Teams notification
-        if: success()
-        env:
-          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
-        run: |
-          if [ -n "$TEAMS_WEBHOOK_URL" ]; then
-            python backend/notify_teams.py
-          else
-            echo "⚠️ TEAMS_WEBHOOK_URL not set, skipping notification"
-          fi
 
   # Deploy to GitHub Pages
   deploy:
