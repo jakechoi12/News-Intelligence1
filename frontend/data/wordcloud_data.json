@@ -2,22 +2,27 @@
   "keywords": [
     {
       "text": "panama canal",
-      "count": 57,
+      "count": 65,
       "size": 100
     },
     {
       "text": "disney adventure",
-      "count": 25,
-      "size": 100
-    },
-    {
-      "text": "financial performance",
-      "count": 21,
+      "count": 32,
       "size": 100
     },
     {
       "text": "gemini service",
+      "count": 21,
+      "size": 100
+    },
+    {
+      "text": "financial performance",
       "count": 19,
+      "size": 100
+    },
+    {
+      "text": "to transit",
+      "count": 18,
       "size": 100
     },
     {
@@ -26,33 +31,18 @@
       "size": 100
     },
     {
-      "text": "operating profit",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "fak rates",
-      "count": 15,
-      "size": 100
-    },
-    {
       "text": "critical minerals",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "strait of hormuz",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "baggage rules",
-      "count": 13,
+      "count": 17,
       "size": 100
     },
     {
       "text": "of rotterdam",
-      "count": 13,
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "stock price",
+      "count": 14,
       "size": 100
     },
     {
@@ -61,8 +51,33 @@
       "size": 100
     },
     {
+      "text": "q4 earnings",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "a strong",
+      "count": 13,
+      "size": 100
+    },
+    {
       "text": "of its",
       "count": 13,
+      "size": 100
+    },
+    {
+      "text": "maersk, hapag-lloyd",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "maritime security",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "strait of hormuz",
+      "count": 12,
       "size": 100
     },
     {
@@ -76,32 +91,52 @@
       "size": 100
     },
     {
-      "text": "to transit",
+      "text": "fak rates",
       "count": 12,
-      "size": 100
-    },
-    {
-      "text": "전년 동기 대비",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "financial results",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "stock price",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "maersk, hapag-lloyd",
-      "count": 10,
       "size": 100
     },
     {
       "text": "customs brokerage",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "operating profit",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "los angeles",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "전년 동기 대비",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "service through red",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "financial results",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "adventure becomes",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "becomes largest",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "interest rates",
       "count": 10,
       "size": 100
     },
@@ -111,62 +146,32 @@
       "size": 100
     },
     {
-      "text": "stock market",
+      "text": "largest cruise",
       "count": 10,
       "size": 100
     },
     {
-      "text": "los angeles",
+      "text": "one gemini",
       "count": 10,
       "size": 100
     },
     {
-      "text": "q4 earnings",
+      "text": "sea with",
       "count": 10,
       "size": 100
     },
     {
-      "text": "far east",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "sub-saharan africa",
+      "text": "us-flagged tanker",
       "count": 9,
       "size": 90
     },
     {
-      "text": "maritime security",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "interest rates",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "joint venture",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "earnings beat",
+      "text": "iranian gunboats",
       "count": 9,
       "size": 90
     },
     {
       "text": "truck parking",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "indian ocean",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "central bank",
       "count": 9,
       "size": 90
     },
@@ -186,22 +191,7 @@
       "size": 90
     },
     {
-      "text": "a strong",
-      "count": 9,
-      "size": 90
-    },
-    {
       "text": "digital transformation",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "service through red",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "maritime education",
       "count": 8,
       "size": 80
     },
@@ -211,27 +201,22 @@
       "size": 80
     },
     {
-      "text": "adventure becomes",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "us-flagged tanker",
-      "count": 8,
-      "size": 80
-    },
-    {
       "text": "baltic dry index",
       "count": 8,
       "size": 80
     },
     {
-      "text": "as overcapacity",
+      "text": "worldwide (chrw",
       "count": 8,
       "size": 80
     },
     {
-      "text": "becomes largest",
+      "text": "joint venture",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "earnings beat",
       "count": 8,
       "size": 80
     },
@@ -241,7 +226,7 @@
       "size": 80
     },
     {
-      "text": "earnings call",
+      "text": "ai disruption",
       "count": 8,
       "size": 80
     },
@@ -261,27 +246,12 @@
       "size": 80
     },
     {
-      "text": "old dominion",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "china warns",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "rates from",
+      "text": "the panama",
       "count": 8,
       "size": 80
     },
     {
       "text": "with naval",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "one gemini",
       "count": 8,
       "size": 80
     },
@@ -296,12 +266,7 @@
       "size": 80
     },
     {
-      "text": "sea with",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "of 2026",
+      "text": "chrw) is",
       "count": 8,
       "size": 80
     },
@@ -316,7 +281,7 @@
       "size": 70
     },
     {
-      "text": "safety inspection",
+      "text": "maritime education",
       "count": 7,
       "size": 70
     },
@@ -326,7 +291,7 @@
       "size": 70
     },
     {
-      "text": "maritime safety",
+      "text": "united states",
       "count": 7,
       "size": 70
     },
@@ -336,7 +301,7 @@
       "size": 70
     },
     {
-      "text": "ai disruption",
+      "text": "earnings call",
       "count": 7,
       "size": 70
     },
@@ -346,7 +311,17 @@
       "size": 70
     },
     {
+      "text": "asia pacific",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "north africa",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "old dominion",
       "count": 7,
       "size": 70
     },
@@ -356,12 +331,12 @@
       "size": 70
     },
     {
-      "text": "chapter 11",
+      "text": "china warns",
       "count": 7,
       "size": 70
     },
     {
-      "text": "africa and",
+      "text": "chapter 11",
       "count": 7,
       "size": 70
     },
@@ -401,9 +376,9 @@
       "size": 70
     },
     {
-      "text": "2026 as",
-      "count": 7,
-      "size": 70
+      "text": "arbitration proceedings",
+      "count": 6,
+      "size": 60
     },
     {
       "text": "industrial production",
@@ -426,12 +401,22 @@
       "size": 60
     },
     {
-      "text": "last-mile delivery",
+      "text": "begins arbitration",
       "count": 6,
       "size": 60
     },
     {
       "text": "attempted sabotage",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "technology stocks",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "safety inspection",
       "count": 6,
       "size": 60
     },
@@ -451,7 +436,17 @@
       "size": 60
     },
     {
-      "text": "iranian gunboats",
+      "text": "proceedings over",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "인포맥스 금융정보 단말기에서",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "economic policy",
       "count": 6,
       "size": 60
     },
@@ -461,7 +456,17 @@
       "size": 60
     },
     {
-      "text": "and hapag-lloyd",
+      "text": "as overcapacity",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hapag-lloyd and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "workers strike",
       "count": 6,
       "size": 60
     },
@@ -486,21 +491,16 @@
       "size": 60
     },
     {
-      "text": "zim integrated",
+      "text": "ruling against",
       "count": 6,
       "size": 60
     },
     {
-      "text": "largest cruise",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "united states",
+      "text": "momentum stock",
       "count": 6,
       "size": 60
     }
   ],
-  "total_keywords": 30514,
-  "generated_at": "2026-02-06T09:16:47Z"
+  "total_keywords": 30475,
+  "generated_at": "2026-02-06T09:28:15Z"
 }

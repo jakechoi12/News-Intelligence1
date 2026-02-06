@@ -2,9 +2,13 @@
   "countries": [
     {
       "code": "US",
-      "count": 87,
+      "count": 90,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "[중국증시-마감] 위험 회피심리에 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397816"
+        },
         {
           "title": "[증시-마감] 버텨준 삼전·하닉…코스피, 낙폭 줄이며 5,100선 턱밑",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397784"
@@ -12,18 +16,18 @@
         {
           "title": "머스크 2025년 한해 순이익 53% 감소",
           "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329939"
-        },
-        {
-          "title": "[월가 톡톡] 앤트로픽 광고에 긁혔나…알트먼 \"재미있네\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397782"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 65,
+      "count": 68,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "달러-원, 연장거래서 1,460.00원 거래 '딜 미스'…취소 완료",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397815"
+        },
         {
           "title": "한신평, 롯데손보 후순위채 신용등급 'BBB+'로 하향 조정",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397813"
@@ -31,25 +35,21 @@
         {
           "title": "SK가스, 4분기 영업이익 368억·70%↓…매출 2조원 넘겨",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397811"
-        },
-        {
-          "title": "이 대통령 아파트값 경고부터 한국 증시 변동성, 사상 최대 해외 주식 투자까지 이시각 주요뉴스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397804"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 30,
+      "count": 29,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[오전 주요 국제금융뉴스](06일)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397778"
+          "title": "[중국증시-마감] 위험 회피심리에 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397816"
         },
         {
-          "title": "해진공·블룸버그, ‘공급망 대격변’ 해운 생존전략 모색",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56071"
+          "title": "[오전 주요 국제금융뉴스](06일)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397778"
         },
         {
           "title": "EU, 中 전자상거래 화물 본격 과세 시작",
@@ -59,7 +59,7 @@
     },
     {
       "code": "IR",
-      "count": 19,
+      "count": 21,
       "risk_level": "high",
       "articles": [
         {
@@ -96,65 +96,8 @@
       ]
     },
     {
-      "code": "GB",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Average house price tops £300,000 for first time, says Halifax",
-          "url": "https://www.bbc.com/news/articles/c0jvjp14qjzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "손흥민 떠나니 '통제 불능' 난장판... 로메로 \"수치스럽다\" 항명→토트넘 감독 \"나라면 그렇게 안 해\" 해명 '진땀'",
-          "url": "https://www.mt.co.kr/sports/2026/02/06/2026020617061193310"
-        },
-        {
-          "title": "FTSE 100 Falls, Pound Rebounds",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-02-06/ftse-100-live-glencore-pound-bonds-oil-prices-silver-gold-tech-stocks-bitcoin-what-s-moving-uk-markets-right-now-markets-today-mlaiwbbm"
-        }
-      ]
-    },
-    {
-      "code": "BD",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Strike at Chattogram Port: Travel ban sought against 15 employees",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJ3SWNveDhBRXJldmd2UnBBYVlIdlA1TXdGNnJkdlI1cjVlMEhVUEdVODd5SlBHTF9yVWZ5MW82bnFic3V1bWRidmdfUy1URXM2bnlDZVRTNUtCQjVNNTd3TDNfN3pKQ0dydFVPcU9TUm9tVm5jbFFkcEtnMzMxRHlfZ3JfQ2p0UlY0LUE5ZURweGpDNHBJTGdLNFJlMkp2eHNEOGN4MFlvYjF0?oc=5"
-        },
-        {
-          "title": "Chattogram Port Shutdown | Ctg port grinds to a halt as workers strike over NCT lease",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWI5eEViQkRaclEzS0Foa0NKUzhfQnlKcFN1TDNJSjhyUlFUS1JUeHJJYTVjWHN4MWxMUmVNaDZQcF9wRkRYeG15RDhfNmhnaWxNN2RxdWFEUi13QlpKWUNKaWx1UE5CaV9fbV84aUNCV2ZhTkZFd2RvOGJwUDc5OFIxRXlWa21IdlR4M0xSLXpZM1pydTJPenZWUVlDYjY4LXNN?oc=5"
-        },
-        {
-          "title": "Chattogram Port Workers Pause Strike, Garment Industry Warns of Economic Fallout",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObmh2aldTMHNXejFzazJEUTZfQjZqMVVLbERDYW9Ha1c1c2F6QXpucWVZam5DRm90YWFBZkNwWms4cG1QZUtIb2dxNTZneXlEMXBsdmllckdORTRlWGlWOEZGaTdyVm15ZGJhTTlfSDJkT0lsQUVRVlVfNk9vdkZrSDdKVWhPY1ZxZEZNTjM0cndnWm1MdHhMZDlwemZ1QmUwZEgzbUZFUEZ1NmRWekFnRXpEWWJ3Q3ZmM0hJVkhRTWZ0bjlfY2VJbUdzWXJ5Uk1sb2x1WWxndEY4MXhsUFNUd0d6VHgySFNwMl9sTFhoUFpCQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "HK",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "China's Hong Kong-listed tech stocks enter bear market as tax and AI fears take hold",
-          "url": "https://www.cnbc.com/2026/02/05/china-tech-hsi-enters-bear-market-as-tax-ai-fears-take-hold.html"
-        },
-        {
-          "title": "Hong Kong’s CK Hutchison takes Panama to arbitration over canal ports ruling",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wcHItNm9qajR5QUV6bE1VejZyTWtOV1podHBLQ2VsbXBBR19udndSMDRNNWdtV0JBTkduU3hjRGpldmJLRXp3bG5mUExzWG1kRVMzS3hmWl93LW00ME11YjlIWl9rcUJFQzFZQkpzemw?oc=5"
-        },
-        {
-          "title": "Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTVBT1gwempqUlN4bnRnZFBsSjRpZkpWNTU5SUdSaU9XYVVPbDZtR0FWcGp4bE1NVjVGZ1BZMzBBa1BCMEMzd2xudDB2OUhneVMxZE5KWE45bUIwYkxVaEoxYnJ0RXAzc1NVWXhyZmt0SmFWSVNneGVlVTYzZGRZTWRXbmRjOVRKeVBSLWJHOUhEUQ?oc=5"
-        }
-      ]
-    },
-    {
       "code": "EU",
-      "count": 9,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
@@ -168,6 +111,63 @@
         {
           "title": "EU, 中 전자상거래 화물 본격 과세 시작",
           "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59551"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Average house price tops £300,000 for first time, says Halifax",
+          "url": "https://www.bbc.com/news/articles/c0jvjp14qjzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "손흥민 떠나니 '통제 불능' 난장판... 로메로 \"수치스럽다\" 항명→토트넘 감독 \"나라면 그렇게 안 해\" 해명 '진땀'",
+          "url": "https://www.mt.co.kr/sports/2026/02/06/2026020617061193310"
+        },
+        {
+          "title": "더 멀리 날려고 '음경확대술' 받았다?…도핑 논란에 밀라노 '발칵'",
+          "url": "https://www.mt.co.kr/world/2026/02/06/2026020616580619668"
+        }
+      ]
+    },
+    {
+      "code": "BD",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Chattogram Port reopens, strike to resume if demands unmet",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnQ3piWGZQYk1jbDBlZXV3YlRna3dkV0lTUjgtNmE0bUZ3VnVNSGFac1ZUN2ZidHlVdmlybnppZzRVbU5BVDBvSFVjUXBMUzAyWHE3SkxrdTRHZjhydExkVdIBbkFVX3lxTE9OOHRFV0I3M0hHaG5KT1FSOXRiWTNvMTQ3N3JHTnJJLV8zSU1lOEp5SzRaNkNnTHVFOVlBQV9wMEZ5S1RSS2tkMlIxTllnVDdvc2wxWUlIR2hKZXZ5SjFyZnhKamNlTFRxWnVGQS1B?oc=5"
+        },
+        {
+          "title": "Strike at Chattogram Port: Travel ban sought against 15 employees",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJ3SWNveDhBRXJldmd2UnBBYVlIdlA1TXdGNnJkdlI1cjVlMEhVUEdVODd5SlBHTF9yVWZ5MW82bnFic3V1bWRidmdfUy1URXM2bnlDZVRTNUtCQjVNNTd3TDNfN3pKQ0dydFVPcU9TUm9tVm5jbFFkcEtnMzMxRHlfZ3JfQ2p0UlY0LUE5ZURweGpDNHBJTGdLNFJlMkp2eHNEOGN4MFlvYjF0?oc=5"
+        },
+        {
+          "title": "Chattogram Port Shutdown | Ctg port grinds to a halt as workers strike over NCT lease",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWI5eEViQkRaclEzS0Foa0NKUzhfQnlKcFN1TDNJSjhyUlFUS1JUeHJJYTVjWHN4MWxMUmVNaDZQcF9wRkRYeG15RDhfNmhnaWxNN2RxdWFEUi13QlpKWUNKaWx1UE5CaV9fbV84aUNCV2ZhTkZFd2RvOGJwUDc5OFIxRXlWa21IdlR4M0xSLXpZM1pydTJPenZWUVlDYjY4LXNN?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "HK",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Hong Kong’s CK Hutchison takes Panama to arbitration over canal ports ruling",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wcHItNm9qajR5QUV6bE1VejZyTWtOV1podHBLQ2VsbXBBR19udndSMDRNNWdtV0JBTkduU3hjRGpldmJLRXp3bG5mUExzWG1kRVMzS3hmWl93LW00ME11YjlIWl9rcUJFQzFZQkpzemw?oc=5"
+        },
+        {
+          "title": "Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTVBT1gwempqUlN4bnRnZFBsSjRpZkpWNTU5SUdSaU9XYVVPbDZtR0FWcGp4bE1NVjVGZ1BZMzBBa1BCMEMzd2xudDB2OUhneVMxZE5KWE45bUIwYkxVaEoxYnJ0RXAzc1NVWXhyZmt0SmFWSVNneGVlVTYzZGRZTWRXbmRjOVRKeVBSLWJHOUhEUQ?oc=5"
+        },
+        {
+          "title": "Hong Kong firm begins arbitration proceedings over ruling against its Panama Canal port contract",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVmVFWTJBTVZfaFE4NHlleHMyTXRnMHNRQk1lX3RVZTlDV3lVOXM2bWpQUUtzMFJ1VlQ2aW5vdWExZnZseVZlNXdadzlHdVRzUnE3NXZqd3VCeHl1Wmg0dFBWbVU3Q0VYR2MzRHp5OGJITDd2R1lvZlRNeXVXM0RkZGtHTFllNjZhNEpGNDNvZXBQdUFJNHBZVlZKWmFPRVo4NmxCck9uTXhCU1Y1cHg2dFkyeGtpa1ZrMVdkdkJSekZUZlhGbEhaSmFXYkVYRGpqYzhTdVUzRXRnQXVVRjJNYXlxMDBzT3RlblVxajg5bDVOdTcwQlhWRUc4Vm5ydGxERVNKRG8zbFU0U3NZZ1d6NEo4bG1KZw?oc=5"
         }
       ]
     },
@@ -211,7 +211,7 @@
     },
     {
       "code": "JP",
-      "count": 7,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
@@ -230,7 +230,7 @@
     },
     {
       "code": "UA",
-      "count": 5,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
@@ -238,18 +238,18 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397769"
         },
         {
-          "title": "Ukrainian forces strike Russian logistics hub, drone control points, EW assets",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3kxLS14ZjZmNXFWZ1MyNVZOX2NKeFBoOVY0bFdRLXh5c3lzU2VoeEJhTWZ3MDVhVDgzbEVZd1lkMXBHSUFtVk14eU9hRXN2aE4yTEZPTTA5eXhtTzdqVnM2Zk1HYjdXeVVIVGdyaXBMTkJhYi1jZl9jVHlvZWZaV3dzT1pnblJuMnN2cnUyV0pDdHNJSEN3RVhBX2VLZGp2THA0eVRiLXVCQThXT3RxSEQzSXMyVlIwQzNETURPVzVHTjdJ0gHKAUFVX3lxTFBBOGpXMFpydUtQbk85eWN4N2dRclhwdmdUbWpGVkl5VFhBV1haYmpjLWtET3NzNWdzOU5LQVRiOGpyY0poWk1tNDVmck14RHpaUmw0TmtSNjVuY2FoVGd1ZWREU180YzVsTzhEYTRHQ3d6N21vTWt1Yzl2X09mcTZnbGxHZC1HZnNVVHZsVXhyeDRaeHQwdnQ1TVdxUmgzQjRLOHprWWJTTVpBcmJQNDE3N3RzeEFSVW9FeFk5Wm5mR3BDMW5yWDNHenc?oc=5"
+          "title": "[박소운의 종가 공략] 우크라 재건 '가시화' 수순.. 현지 법인 설립 완료 'SG'",
+          "url": "https://www.mt.co.kr/stock/2026/02/06/2026020617067074954"
         },
         {
-          "title": "Russia’s logistics hub, drone control points and electronic warfare systems are hit, Ukraine's General Staff",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiOWx5ZWJoODAwc1JmQXdfcXVQTnp0ZklnTlVPU2p1eG4zRW93TmRHTk5yaUpHZGRXMGZsaUR6TVhIV2tsQ3Q0NDRGSjQ5dnRRTFFvTUZyc0V1LVBjWV9PR2hxdk1lSmxicDY0UkRUQXnSAXBBVV95cUxQYjlseWViaDgwMHNSZkF3X3F1UE56dGZJZ05VT1NqdXhuM0Vvd05kR05OcmlKR2RkVzBmbGlEek1YSFdrbEN0NDQ0Rko0OXZ0UUxRb01GcnNFdS1QY1lfT0docXZNZUpsYnA2NFJEVEF5?oc=5"
+          "title": "Ukrainian forces strike Russian logistics hub, drone control points, EW assets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV3kxLS14ZjZmNXFWZ1MyNVZOX2NKeFBoOVY0bFdRLXh5c3lzU2VoeEJhTWZ3MDVhVDgzbEVZd1lkMXBHSUFtVk14eU9hRXN2aE4yTEZPTTA5eXhtTzdqVnM2Zk1HYjdXeVVIVGdyaXBMTkJhYi1jZl9jVHlvZWZaV3dzT1pnblJuMnN2cnUyV0pDdHNJSEN3RVhBX2VLZGp2THA0eVRiLXVCQThXT3RxSEQzSXMyVlIwQzNETURPVzVHTjdJ0gHKAUFVX3lxTFBBOGpXMFpydUtQbk85eWN4N2dRclhwdmdUbWpGVkl5VFhBV1haYmpjLWtET3NzNWdzOU5LQVRiOGpyY0poWk1tNDVmck14RHpaUmw0TmtSNjVuY2FoVGd1ZWREU180YzVsTzhEYTRHQ3d6N21vTWt1Yzl2X09mcTZnbGxHZC1HZnNVVHZsVXhyeDRaeHQwdnQ1TVdxUmgzQjRLOHprWWJTTVpBcmJQNDE3N3RzeEFSVW9FeFk5Wm5mR3BDMW5yWDNHenc?oc=5"
         }
       ]
     },
     {
       "code": "CA",
-      "count": 5,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
@@ -257,12 +257,12 @@
           "url": "https://www.bbc.com/news/articles/cvgd2j80klmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "Congress Should End the U.S.-Canada Trade “Emergency”",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGUwLUt0M3dxWVVfYTh5cmkxcjlfXzZiX3RNOGdmV2ttQ1hOaXdWSmxMWjRyYTBwdnh3WG0zQ0RHZmc1ekttWjFDZG8xZWJLR3dwdEx3a2NBY0dWbGNLVDV0aloyV3hTVzIwWEpTajFTZWhDNDJ3U292QUVVUDdUcGFiSlpuU3pHa1Y1VkMwZmU5bm8?oc=5"
-        },
-        {
           "title": "Carney Increases E.V. Investments as Trump’s Trade Policy Disrupts Canada’s Auto Industry",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGc2ZEZhNUVfdFFDTUtta1FKMTZnVjd4QkQzVktMVzN0TDQxc2VXMnBqdGU0eXpZUmx6RThRV0E1S3JROHhrQ2huZkNNRXRONGxYV0NLbzhMR3RMQTE5ek5SMHVDNVVJTEVhMjZGNWhuYVJ1dndFM215RU02YlcxT29WVFJLdjMxV3NMZWJiWF9pMkVRTmJFdkhBdjk?oc=5"
+        },
+        {
+          "title": "Congress Should End the U.S.-Canada Trade “Emergency”",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGUwLUt0M3dxWVVfYTh5cmkxcjlfXzZiX3RNOGdmV2ttQ1hOaXdWSmxMWjRyYTBwdnh3WG0zQ0RHZmc1ekttWjFDZG8xZWJLR3dwdEx3a2NBY0dWbGNLVDV0aloyV3hTVzIwWEpTajFTZWhDNDJ3U292QUVVUDdUcGFiSlpuU3pHa1Y1VkMwZmU5bm8?oc=5"
         }
       ]
     },
@@ -320,6 +320,25 @@
         {
           "title": "Greek, Romanian Hamburg port workers arrested for trying to sabotage German warships",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0RaRm1Lb2RvUjdYcFVYb04zT1pnZWZndDRzQXh4dkMtdER3U3FLR2VGWUpIWUIwNjJrMHB5TTZaMVBuWFhqNE1PSUNMR3I5ampSTVR2U3FULWxiRXEwR1FCazd2Z1RqTncwU2tBdlNuZGRTbEZ5QVlPcEhWNjY0UVhnX3phOUFMVTFjS1dLdzFPb1VqcndyMVIyWDd4bzJwZEdETFM3dHkxVW5EZTJyRWU2U3BWeTVnaHc4OTNBOFRJNFdG?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IT",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "EU, 中 전자상거래 화물 본격 과세 시작",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59551"
+        },
+        {
+          "title": "더 멀리 날려고 '음경확대술' 받았다?…도핑 논란에 밀라노 '발칵'",
+          "url": "https://www.mt.co.kr/world/2026/02/06/2026020616580619668"
+        },
+        {
+          "title": "China ecommerce air cargo adjusts as EU tightens rules",
+          "url": "https://theloadstar.com/china-ecommerce-air-flow-adjusts-as-eu-tightens-rules/"
         }
       ]
     },
@@ -411,21 +430,6 @@
       ]
     },
     {
-      "code": "IT",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "EU, 中 전자상거래 화물 본격 과세 시작",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59551"
-        },
-        {
-          "title": "China ecommerce air cargo adjusts as EU tightens rules",
-          "url": "https://theloadstar.com/china-ecommerce-air-flow-adjusts-as-eu-tightens-rules/"
-        }
-      ]
-    },
-    {
       "code": "LU",
       "count": 2,
       "risk_level": "medium",
@@ -512,17 +516,17 @@
       ]
     },
     {
-      "code": "ZA",
+      "code": "EC",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "Cape Town to Slap Tax Hike on Airbnb Owners",
-          "url": "https://www.bloomberg.com/news/videos/2026-02-06/cape-town-to-slap-tax-hike-on-airbnb-owners-video"
+          "title": "HD현대마린솔루션, 에콰도르 발전 설비 정비",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329933"
         }
       ]
     }
   ],
-  "total_crisis_countries": 47,
-  "generated_at": "2026-02-06T09:16:17Z"
+  "total_crisis_countries": 49,
+  "generated_at": "2026-02-06T09:27:46Z"
 }

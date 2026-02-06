@@ -1,19 +1,19 @@
 {
-  "executed_at_utc": "2026-02-06T09:16:47Z",
-  "executed_at_kst": "2026-02-06T18:16:47+09:00",
-  "total_collected": 1055,
+  "executed_at_utc": "2026-02-06T09:28:15Z",
+  "executed_at_kst": "2026-02-06T18:28:15+09:00",
+  "total_collected": 1058,
   "kr_count": 315,
-  "global_count": 740,
-  "crisis_count": 149,
+  "global_count": 743,
+  "crisis_count": 153,
   "categories": {
     "Economy": 383,
-    "Crisis": 74,
-    "Ocean": 269,
-    "Air": 76,
-    "Inland": 118,
-    "ETC": 135
+    "Crisis": 78,
+    "Ocean": 273,
+    "Air": 75,
+    "Inland": 117,
+    "ETC": 132
   },
-  "duration_seconds": 446.92,
+  "duration_seconds": 439.74,
   "success": true,
   "errors": []
 }
