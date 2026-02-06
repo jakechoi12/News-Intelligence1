@@ -76,11 +76,12 @@ jobs:
       
       - name: Send Teams notification
         if: success()
+        continue-on-error: true  # Teams 알림 실패해도 워크플로는 성공 처리
         env:
           TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
         run: |
           if [ -n "$TEAMS_WEBHOOK_URL" ]; then
-            python backend/notify_teams.py
+            python backend/notify_teams.py || echo "⚠️ Teams notification failed, but continuing..."
           else
             echo "⚠️ TEAMS_WEBHOOK_URL not set, skipping notification"
           fi
