@@ -96,34 +96,111 @@ def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> b
     # Get top headlines from headlines_data.json (up to 6)
     articles = headlines.get('headlines', [])[:6]
     
-    # Build headline text
-    headline_text = ""
+    # Build headline items
+    headline_items = []
     for i, article in enumerate(articles, 1):
         title = truncate_text(article.get('title', ''), 55)
         source = article.get('source_name', '')
-        headline_text += f"\n{i}. [{source}] {title}"
+        headline_items.append({
+            "type": "TextBlock",
+            "text": f"{i}. [{source}] {title}",
+            "wrap": True,
+            "size": "small",
+            "spacing": "small"
+        })
     
-    # Build category text
-    category_text = ""
+    # Build adaptive card message
+    body = [
+        {
+            "type": "TextBlock",
+            "text": "📰 News Intelligence - Daily Report",
+            "weight": "bolder",
+            "size": "large",
+            "color": "accent"
+        },
+        {
+            "type": "TextBlock",
+            "text": f"🕐 {kst_time} (KST)",
+            "spacing": "small",
+            "isSubtle": True
+        },
+        # Summary Section
+        {
+            "type": "ColumnSet",
+            "spacing": "medium",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {"type": "TextBlock", "text": "📊 총 수집", "weight": "bolder", "size": "small"},
+                        {"type": "TextBlock", "text": f"{total}건", "size": "extraLarge", "color": "accent"}
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {"type": "TextBlock", "text": "🇰🇷 한국", "weight": "bolder", "size": "small"},
+                        {"type": "TextBlock", "text": f"{kr_count}건", "size": "extraLarge"}
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [
+                        {"type": "TextBlock", "text": "🌍 글로벌", "weight": "bolder", "size": "small"},
+                        {"type": "TextBlock", "text": f"{global_count}건", "size": "extraLarge"}
+                    ]
+                }
+            ]
+        },
+    ]
+    
+    # Add Headlines section
+    if headline_items:
+        body.append({
+            "type": "Container",
+            "spacing": "medium",
+            "items": [
+                {"type": "TextBlock", "text": "📋 Today's Headlines", "weight": "bolder", "spacing": "small"},
+                *headline_items
+            ]
+        })
+    
+    # Add category breakdown (exclude Crisis from display)
     if categories:
         filtered_categories = {k: v for k, v in categories.items() if k != 'Crisis'}
         category_text = " | ".join([f"{cat}: {cnt}" for cat, cnt in list(filtered_categories.items())[:5]])
+        body.append({
+            "type": "TextBlock",
+            "text": f"📁 {category_text}",
+            "spacing": "medium",
+            "size": "small",
+            "isSubtle": True,
+            "wrap": True
+        })
     
-    # Simple text message for Power Automate
     message = {
-        "title": "📰 News Intelligence - Daily Report",
-        "text": f"""**🕐 {kst_time} (KST)**
-
-**📊 수집 현황**
-- 총 수집: **{total}건**
-- 🇰🇷 한국: {kr_count}건
-- 🌍 글로벌: {global_count}건
-
-**📋 Today's Headlines**{headline_text}
-
-📁 {category_text}
-
-[📱 대시보드 열기](https://jakechoi12.github.io/News-Intelligence/)"""
+        "type": "message",
+        "attachments": [
+            {
+                "contentType": "application/vnd.microsoft.card.adaptive",
+                "content": {
+                    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                    "type": "AdaptiveCard",
+                    "version": "1.4",
+                    "body": body,
+                    "actions": [
+                        {
+                            "type": "Action.OpenUrl",
+                            "title": "📱 대시보드 열기",
+                            "url": "https://jakechoi12.github.io/News-Intelligence/"
+                        }
+                    ]
+                }
+            }
+        ]
     }
     
     try:
