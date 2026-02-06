@@ -2,12 +2,17 @@
   "keywords": [
     {
       "text": "panama canal",
-      "count": 56,
+      "count": 58,
       "size": 100
     },
     {
       "text": "disney adventure",
-      "count": 25,
+      "count": 26,
+      "size": 100
+    },
+    {
+      "text": "critical minerals",
+      "count": 20,
       "size": 100
     },
     {
@@ -21,17 +26,32 @@
       "size": 100
     },
     {
-      "text": "new york",
-      "count": 18,
-      "size": 100
-    },
-    {
-      "text": "critical minerals",
+      "text": "financial results",
       "count": 17,
       "size": 100
     },
     {
-      "text": "of rotterdam",
+      "text": "operating profit",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "financial performance",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "q4 earnings",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "fak rates",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "new york",
       "count": 15,
       "size": 100
     },
@@ -41,22 +61,17 @@
       "size": 100
     },
     {
-      "text": "q4 earnings",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "fak rates",
-      "count": 14,
-      "size": 100
-    },
-    {
       "text": "ahead of",
       "count": 14,
       "size": 100
     },
     {
-      "text": "operating profit",
+      "text": "court ruling",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "of rotterdam",
       "count": 13,
       "size": 100
     },
@@ -66,22 +81,12 @@
       "size": 100
     },
     {
-      "text": "financial performance",
-      "count": 12,
-      "size": 100
-    },
-    {
       "text": "maersk, hapag-lloyd",
       "count": 12,
       "size": 100
     },
     {
       "text": "hapag-lloyd to",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "court ruling",
       "count": 12,
       "size": 100
     },
@@ -96,6 +101,11 @@
       "size": 100
     },
     {
+      "text": "전년 동기 대비",
+      "count": 12,
+      "size": 100
+    },
+    {
       "text": "maritime security",
       "count": 11,
       "size": 100
@@ -106,12 +116,7 @@
       "size": 100
     },
     {
-      "text": "전년 동기 대비",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "a strong",
+      "text": "interest rates",
       "count": 11,
       "size": 100
     },
@@ -121,17 +126,12 @@
       "size": 100
     },
     {
-      "text": "financial results",
-      "count": 10,
-      "size": 100
-    },
-    {
       "text": "customs brokerage",
       "count": 10,
       "size": 100
     },
     {
-      "text": "인포맥스 금융정보 단말기에서",
+      "text": "us-flagged tanker",
       "count": 10,
       "size": 100
     },
@@ -141,17 +141,12 @@
       "size": 100
     },
     {
-      "text": "기사는 인포맥스 금융정보",
+      "text": "earnings beat",
       "count": 10,
       "size": 100
     },
     {
       "text": "maersk posts",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "stock price",
       "count": 10,
       "size": 100
     },
@@ -171,32 +166,12 @@
       "size": 90
     },
     {
-      "text": "maritime education",
-      "count": 9,
-      "size": 90
-    },
-    {
       "text": "sub-saharan africa",
       "count": 9,
       "size": 90
     },
     {
-      "text": "us-flagged tanker",
-      "count": 9,
-      "size": 90
-    },
-    {
       "text": "economic impact",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "interest rates",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "earnings call",
       "count": 9,
       "size": 90
     },
@@ -221,7 +196,32 @@
       "size": 90
     },
     {
+      "text": "asia pacific",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "pre-tax loss",
+      "count": 9,
+      "size": 90
+    },
+    {
       "text": "long beach",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "a strong",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "2026 as",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "up to",
       "count": 9,
       "size": 90
     },
@@ -231,7 +231,7 @@
       "size": 80
     },
     {
-      "text": "chameleon carrier",
+      "text": "safety inspection",
       "count": 8,
       "size": 80
     },
@@ -266,12 +266,12 @@
       "size": 80
     },
     {
-      "text": "earnings beat",
+      "text": "february 2026",
       "count": 8,
       "size": 80
     },
     {
-      "text": "february 2026",
+      "text": "earnings call",
       "count": 8,
       "size": 80
     },
@@ -286,7 +286,12 @@
       "size": 80
     },
     {
-      "text": "pre-tax loss",
+      "text": "north africa",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ck hutchison",
       "count": 8,
       "size": 80
     },
@@ -296,12 +301,17 @@
       "size": 80
     },
     {
+      "text": "stock price",
+      "count": 8,
+      "size": 80
+    },
+    {
       "text": "suez return",
       "count": 8,
       "size": 80
     },
     {
-      "text": "robinson q4",
+      "text": "china warns",
       "count": 8,
       "size": 80
     },
@@ -331,7 +341,7 @@
       "size": 80
     },
     {
-      "text": "dp world",
+      "text": "iron ore",
       "count": 8,
       "size": 80
     },
@@ -356,7 +366,27 @@
       "size": 70
     },
     {
+      "text": "market expectations",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "maritime executive",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "economic downturn",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maritime industry",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "chameleon carrier",
       "count": 7,
       "size": 70
     },
@@ -371,7 +401,27 @@
       "size": 70
     },
     {
-      "text": "인천항만공사(ipa, 사장",
+      "text": "인포맥스 금융정보 단말기에서",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "carrier network",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "winter weather",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "lunar new year",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "기사는 인포맥스 금융정보",
       "count": 7,
       "size": 70
     },
@@ -381,22 +431,22 @@
       "size": 70
     },
     {
-      "text": "north africa",
-      "count": 7,
-      "size": 70
-    },
-    {
       "text": "tech stocks",
       "count": 7,
       "size": 70
     },
     {
-      "text": "delivery of",
+      "text": "the largest",
       "count": 7,
       "size": 70
     },
     {
-      "text": "the largest",
+      "text": "los angeles",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "net profit",
       "count": 7,
       "size": 70
     },
@@ -416,6 +466,11 @@
       "size": 70
     },
     {
+      "text": "oil tanker",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "rlcold to",
       "count": 7,
       "size": 70
@@ -431,17 +486,12 @@
       "size": 70
     },
     {
-      "text": "iron ore",
-      "count": 7,
-      "size": 70
-    },
-    {
       "text": "to take",
       "count": 7,
       "size": 70
     },
     {
-      "text": "2026 as",
+      "text": "to keep",
       "count": 7,
       "size": 70
     },
@@ -449,58 +499,8 @@
       "text": "as it",
       "count": 7,
       "size": 70
-    },
-    {
-      "text": "up to",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "indian subcontinent",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "attempted sabotage",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "seafarer training",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "safety inspection",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "customs clearance",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "tanker approached",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "facility closures",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "industry leaders",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "safety concerns",
-      "count": 6,
-      "size": 60
     }
   ],
-  "total_keywords": 30055,
-  "generated_at": "2026-02-06T07:39:30Z"
+  "total_keywords": 30119,
+  "generated_at": "2026-02-06T08:01:32Z"
 }
