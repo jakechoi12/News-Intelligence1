@@ -4,7 +4,7 @@
 
 > 내부 구성원들이 무역, 물류, 경제, 금융에 영향을 주는 국내·글로벌 뉴스를 빠르게 파악할 수 있도록 돕는 서비스
 
-🔗 **Live Demo**: https://rosy-jihye-noh.github.io/News-Intelligence/
+🔗 **Live Demo**: https://jakechoi12.github.io/News-Intelligence1/
 
 ---
 
@@ -41,8 +41,8 @@
 
 ```bash
 # 저장소 클론
-git clone https://github.com/Rosy-Jihye-Noh/News-Intelligence.git
-cd News-Intelligence
+git clone https://github.com/jakechoi12/News-Intelligence1.git
+cd News-Intelligence1
 
 # 가상환경 생성 및 활성화
 python -m venv venv

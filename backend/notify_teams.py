@@ -195,7 +195,7 @@ def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> b
                         {
                             "type": "Action.OpenUrl",
                             "title": "📱 대시보드 열기",
-                            "url": "https://jakechoi12.github.io/News-Intelligence/"
+                            "url": "https://jakechoi12.github.io/News-Intelligence1/"
                         }
                     ]
                 }
