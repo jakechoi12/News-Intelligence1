@@ -74,6 +74,16 @@ jobs:
             echo "No changes to commit"
           fi
       
+      - name: Send Teams notification
+        if: success()
+        env:
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+        run: |
+          if [ -n "$TEAMS_WEBHOOK_URL" ]; then
+            python backend/notify_teams.py
+          else
+            echo "⚠️ TEAMS_WEBHOOK_URL not set, skipping notification"
+          fi
 
   # Deploy to GitHub Pages
   deploy:
