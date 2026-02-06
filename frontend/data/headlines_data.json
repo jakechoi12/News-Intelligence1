@@ -1,26 +1,6 @@
 {
   "headlines": [
     {
-      "id": "6c9c841ecbcd",
-      "title": "해진공·블룸버그, ‘공급망 대격변’ 해운 생존전략 모색",
-      "content_summary": "한국해양진흥공사가 세계 금융무역 정보의 핵심인 블룸버그와 함께 국내 기업들이 글로벌 공급망 재편이라는 급변하는 환경 속에서 대응 전략을 수립할 수 있는 자리를 마련한다.한국해양진흥공사(사장 안병길, 이하 해진공)는 오는 11일 오전 부산 본사에서 공급망 관련 산업 종사자 및 공공기관 관계자 등을 대상으로 ‘해상공급망 세미나’를 블룸버그와 공동으로 개최한다고 5일 밝혔다. 세미나는 중동 지역 분쟁과 미·중 전략 경쟁 심화 등 지정학적 위험 확대와 유럽연합(EU)의 탄소국경조정제도(CBAM), 배출권거래제(ETS) 등 국제 환경·탄소",
-      "source_name": "해양한국",
-      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56071",
-      "published_at_utc": "2026-02-06T10:28:49Z",
-      "group_count": 10,
-      "insights": {}
-    },
-    {
-      "id": "15c83380f859",
-      "title": "마스오토, 美서 전 세계 최장 자율주행 화물운송 본격화",
-      "content_summary": "육상화물 운송시장에서도 본격적인 자율주행이 본격화될 것으로 보인다. 화물트럭 스타트업 마스오토(MARS AUTO, 대표 박일수)가 현대모비스, 롯데글로벌로지스, LX판토스 등 국내 주요 물류·제조 기업들과 함께 ‘Team Korea’를 구성, 미국에서 전 세계 최장거리 자율주행 화물운송 프로젝트를 시작했기 때문이다. 이번 프로젝트는 현대모비스, 롯데글로벌로지스, LX판토스가 참여하며, 마스오토는 자율주행 트럭과 전체 운송 오퍼레이션을 총괄하고, 참여 기업들은 각 사가 보유한 인프라와 네트워크를 기반으로 화물운송을 수행하는 동시에 자",
-      "source_name": "물류신문",
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=319930",
-      "published_at_utc": "2026-02-06T09:35:10Z",
-      "group_count": 10,
-      "insights": {}
-    },
-    {
       "id": "871cc1b558bb",
       "title": "Maersk & Hapag-Lloyd Reroute IMX Service Through Red Sea With Naval Protection",
       "content_summary": "Maersk & Hapag-Lloyd Reroute IMX Service Through Red Sea With Naval Protection Marine Insight",
@@ -31,23 +11,13 @@
       "insights": {}
     },
     {
-      "id": "f8126ed1cfbf",
-      "title": "BPA, 日 주요 항만서 부산항 경쟁력 전파",
-      "content_summary": "부산항만공사(BPA,사장 송상근)는 지난 3일과 5일, 일본 니가타시와 하치노헤시에서 현지 화주 및 물류기업을 대상으로 부산항 환적화물 유치를 위한 ‘부산항 이용 촉진 설명회’를 개최했다고 밝혔다.이번 설명회는 일본 서안 최대 거점항만인 니가타항과, 일본 동안 지역에서 부산항과의 피더 네트워크가 발달한 하치노헤항을 중심으로, 부산항의 전략적 가치를 알리고 양 지역 항만과의 물류 협력을 강화하기 위해 마련됐다. 양일 간 열린 설명회에는 현지 화주와 물류기업 관계자 등 약 270명이 참석해 글로벌 공급망 재편 속 부산항이 제시하는 물류",
-      "source_name": "한국해운신문",
-      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329932",
-      "published_at_utc": "2026-02-06T09:57:02Z",
-      "group_count": 6,
-      "insights": {}
-    },
-    {
       "id": "3c38c7490635",
       "title": "Disney Adventure establishes new record in Panama Canal transit",
       "content_summary": "Disney Adventure establishes new record in Panama Canal transit CruiseMapper",
       "source_name": "CruiseMapper",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNei1iMzEwWm9FQ290SVJaQTcyQWtnR0J2X0NWUjRyNFcyY1ZqNlYtWHpNcE9yZnlTNHp3X2tNSVRhdTFEMG4wQ0NmWVFEaFdYUnFGOUl5RDRwcWpKSlEtcjdXOGtEN2xONE5tdDI0R014X2pCQVV5Y3ZuZllHS2lPQUJ3RXBndXRTSk50WWYzdWVaV3NBQ0xRRUhlQktUNmg4UGc?oc=5",
       "published_at_utc": "2026-02-05T15:15:00Z",
-      "group_count": 6,
+      "group_count": 5,
       "insights": {}
     },
     {
@@ -57,10 +27,40 @@
       "source_name": "Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wcHItNm9qajR5QUV6bE1VejZyTWtOV1podHBLQ2VsbXBBR19udndSMDRNNWdtV0JBTkduU3hjRGpldmJLRXp3bG5mUExzWG1kRVMzS3hmWl93LW00ME11YjlIWl9rcUJFQzFZQkpzemw?oc=5",
       "published_at_utc": "2026-02-04T18:31:42Z",
-      "group_count": 6,
+      "group_count": 5,
+      "insights": {}
+    },
+    {
+      "id": "994dc4de441a",
+      "title": "SK케미칼, 4Q 영업손실 391억…예상치 하회(종합)",
+      "content_summary": "SK케미칼[285130]이 지난해 4분기 시장 예상치를 밑도는 영업손익을 신고했다. 고기능성 플라스틱 코폴리에스터 판매가 감소한 결과다.SK케미칼은 지난해 4분기 연결기준 매출액 6천218억원, 영업손실 391억원을 기록했다고 6일 공시했다.매출액은 전년 동기 대비 20.6% 증가했다. 영업손실은 지난해 같은 기간(영업손실 289억원)보다 적자폭을 축소했다.SK케미칼 영업손익은 시장 기대치를 밑돌았다.연합인포맥스가 최근 3개월 내 국내 주요 증권사 3곳이 발표한 실적 전망치를 집계한 결과, SK케미칼은 지난해 4분기 연결기준 매출",
+      "source_name": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4397796",
+      "published_at_utc": "2026-02-06T16:08:42Z",
+      "group_count": 3,
+      "insights": {}
+    },
+    {
+      "id": "4c2627cffc04",
+      "title": "머스크, 2025년 4분기 영업적자 전환",
+      "content_summary": "세계 2위 컨테이너선사인 머스크(Maersk)가 지난해 4분기 컨테이너선 사업부문에서 영업적자를 낸 것으로 나타났다.머스크가 1월 5일 발표한 2025년 영업실적에 따르면 컨테이너선 사업부문의 4분기 매출액은 전년대비 16% 감소한 83억 1600만 달러, 영업이익(EBIT)은 1억 5300만 달러 적자를 기록했다.머스크는 지난해 4분기 컨테이너 화물 338만 4천feu를 처리해 전년대비 8% 증가했지만 운임이 하락하면서 영업적자가 발생했다. 지난해 4분기 머스크의 feu당 평균운임은 2046달러로 2024년 4분기 2659달러 대",
+      "source_name": "한국해운신문",
+      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329941",
+      "published_at_utc": "2026-02-06T16:06:22Z",
+      "group_count": 3,
+      "insights": {}
+    },
+    {
+      "id": "69b2f83af0f5",
+      "title": "UPA, 울산항 미세먼지 줄이기 총력",
+      "content_summary": "울산항만공사(UPA, 사장 변재영)는 제7차 미세먼지 계절관리제 시행 기간(25.12.~26.3.) 동안 울산항의 미세먼지 저감을 위해 전방위 대응 활동을 펼친다고 6일 밝혔다.UPA는 우선 선박에서 배출되는 미세먼지를 줄이기 위해 계절관리제 기간동안 저속운항프로그램에 참여하는 선박의 입출항료 감면율을 10% 상향 적용한다.또한 오는 5월 까지 부두 내 미세먼지 최소화를 위해 주요 도로 및 하역구간을 중심으로 분진흡입차를 집중 운영한다.아울러 비산화물 취급 하역현장에 대한 자체점검과 유관기관 합동점검을 병행하여 화물차 덮개 밀폐 및",
+      "source_name": "한국해운신문",
+      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329942",
+      "published_at_utc": "2026-02-06T16:11:50Z",
+      "group_count": 2,
       "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-02-06T02:27:32Z"
+  "generated_at": "2026-02-06T07:18:40Z"
 }
