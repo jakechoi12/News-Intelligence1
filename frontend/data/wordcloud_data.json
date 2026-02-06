@@ -7,12 +7,17 @@
     },
     {
       "text": "disney adventure",
-      "count": 26,
+      "count": 25,
+      "size": 100
+    },
+    {
+      "text": "financial performance",
+      "count": 21,
       "size": 100
     },
     {
       "text": "gemini service",
-      "count": 21,
+      "count": 19,
       "size": 100
     },
     {
@@ -21,23 +26,8 @@
       "size": 100
     },
     {
-      "text": "financial performance",
-      "count": 17,
-      "size": 100
-    },
-    {
-      "text": "critical minerals",
-      "count": 17,
-      "size": 100
-    },
-    {
       "text": "operating profit",
       "count": 16,
-      "size": 100
-    },
-    {
-      "text": "q4 earnings",
-      "count": 15,
       "size": 100
     },
     {
@@ -46,17 +36,7 @@
       "size": 100
     },
     {
-      "text": "ahead of",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "financial results",
+      "text": "critical minerals",
       "count": 14,
       "size": 100
     },
@@ -66,12 +46,17 @@
       "size": 100
     },
     {
+      "text": "baggage rules",
+      "count": 13,
+      "size": 100
+    },
+    {
       "text": "of rotterdam",
       "count": 13,
       "size": 100
     },
     {
-      "text": "stock price",
+      "text": "court ruling",
       "count": 13,
       "size": 100
     },
@@ -81,22 +66,7 @@
       "size": 100
     },
     {
-      "text": "maersk, hapag-lloyd",
-      "count": 12,
-      "size": 100
-    },
-    {
       "text": "hapag-lloyd to",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "baggage rules",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "court ruling",
       "count": 12,
       "size": 100
     },
@@ -116,17 +86,17 @@
       "size": 100
     },
     {
-      "text": "earnings beat",
+      "text": "financial results",
       "count": 11,
       "size": 100
     },
     {
-      "text": "a strong",
+      "text": "stock price",
       "count": 11,
       "size": 100
     },
     {
-      "text": "service through red",
+      "text": "maersk, hapag-lloyd",
       "count": 10,
       "size": 100
     },
@@ -137,6 +107,21 @@
     },
     {
       "text": "cut 1,000 jobs",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "stock market",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "los angeles",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "q4 earnings",
       "count": 10,
       "size": 100
     },
@@ -156,12 +141,17 @@
       "size": 90
     },
     {
-      "text": "us-flagged tanker",
+      "text": "interest rates",
       "count": 9,
       "size": 90
     },
     {
-      "text": "earnings call",
+      "text": "joint venture",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "earnings beat",
       "count": 9,
       "size": 90
     },
@@ -176,7 +166,17 @@
       "size": 90
     },
     {
-      "text": "the loadstar",
+      "text": "central bank",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "real estate",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "net profit",
       "count": 9,
       "size": 90
     },
@@ -186,7 +186,22 @@
       "size": 90
     },
     {
+      "text": "a strong",
+      "count": 9,
+      "size": 90
+    },
+    {
       "text": "digital transformation",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "service through red",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "maritime education",
       "count": 8,
       "size": 80
     },
@@ -201,17 +216,12 @@
       "size": 80
     },
     {
+      "text": "us-flagged tanker",
+      "count": 8,
+      "size": 80
+    },
+    {
       "text": "baltic dry index",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "iranian gunboats",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "economic impact",
       "count": 8,
       "size": 80
     },
@@ -226,27 +236,22 @@
       "size": 80
     },
     {
-      "text": "joint venture",
-      "count": 8,
-      "size": 80
-    },
-    {
       "text": "february 2026",
       "count": 8,
       "size": 80
     },
     {
-      "text": "ai disruption",
+      "text": "earnings call",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "the loadstar",
       "count": 8,
       "size": 80
     },
     {
       "text": "maersk posts",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "north africa",
       "count": 8,
       "size": 80
     },
@@ -261,12 +266,7 @@
       "size": 80
     },
     {
-      "text": "robinson q4",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "net profit",
+      "text": "china warns",
       "count": 8,
       "size": 80
     },
@@ -301,17 +301,52 @@
       "size": 80
     },
     {
+      "text": "of 2026",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "artificial intelligence",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "geopolitical tensions",
       "count": 7,
       "size": 70
     },
     {
-      "text": "maritime education",
+      "text": "safety inspection",
       "count": 7,
       "size": 70
     },
     {
-      "text": "interest rates",
+      "text": "economic impact",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maritime safety",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "fleet renewal",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ai disruption",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "$200 billion",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "north africa",
       "count": 7,
       "size": 70
     },
@@ -321,7 +356,7 @@
       "size": 70
     },
     {
-      "text": "of commerce",
+      "text": "chapter 11",
       "count": 7,
       "size": 70
     },
@@ -336,7 +371,7 @@
       "size": 70
     },
     {
-      "text": "growth in",
+      "text": "the next",
       "count": 7,
       "size": 70
     },
@@ -346,7 +381,17 @@
       "size": 70
     },
     {
+      "text": "to boost",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "iron ore",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "part of",
       "count": 7,
       "size": 70
     },
@@ -359,16 +404,6 @@
       "text": "2026 as",
       "count": 7,
       "size": 70
-    },
-    {
-      "text": "as it",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "artificial intelligence",
-      "count": 6,
-      "size": 60
     },
     {
       "text": "industrial production",
@@ -391,6 +426,11 @@
       "size": 60
     },
     {
+      "text": "last-mile delivery",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "attempted sabotage",
       "count": 6,
       "size": 60
@@ -401,27 +441,22 @@
       "size": 60
     },
     {
+      "text": "trucking industry",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "overcapacity hit",
       "count": 6,
       "size": 60
     },
     {
+      "text": "iranian gunboats",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "safety concerns",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "call transcript",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "first look: xpo",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "look: xpo posts",
       "count": 6,
       "size": 60
     },
@@ -451,7 +486,7 @@
       "size": 60
     },
     {
-      "text": "cruise tourism",
+      "text": "zim integrated",
       "count": 6,
       "size": 60
     },
@@ -461,46 +496,11 @@
       "size": 60
     },
     {
-      "text": "2026 earnings",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "auto industry",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "2025 earnings",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ge healthcare",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "msc announces",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "announces new",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "sea reopening",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "steam machine",
+      "text": "united states",
       "count": 6,
       "size": 60
     }
   ],
-  "total_keywords": 30479,
-  "generated_at": "2026-02-06T09:06:02Z"
+  "total_keywords": 30514,
+  "generated_at": "2026-02-06T09:16:47Z"
 }
