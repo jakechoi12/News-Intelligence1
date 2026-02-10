@@ -2,20 +2,20 @@
   "countries": [
     {
       "code": "US",
-      "count": 62,
+      "count": 69,
       "risk_level": "high",
       "articles": [
         {
-          "title": "BoA \"M7 주도 시장 끝나…매도 권고\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398173"
+          "title": "타깃, 본사·물류 500명 감축 등 구조조정",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398193"
         },
         {
-          "title": "[신윤우의 외환분석] 유턴할 조짐",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398164"
+          "title": "온 세미컨덕터, 4분기 매출 컨센서스 미달에 시간외 5%↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398189"
         },
         {
-          "title": "\"韓반도체, 메모리 빼면 中에 다 밀려\"…리서치센터장의 경고",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398160"
+          "title": "RBC \"빅테크 AI 자본 지출, 메모리 칩으로 과장돼…실제 속도 더딜 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398179"
         }
       ]
     },
@@ -25,22 +25,22 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "[현장에서] 실존적 위기에 처한 암호화폐거래소",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398177"
+          "title": "이상조칼럼(9)/비용도 효율도, 먼저 바로 세워야 할 것은 구조다",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329985"
         },
         {
-          "title": "윤석환 CJ제일제당 대표 \"사업구조 최적화·재무구조 개선 추진\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398176"
+          "title": "타깃, 본사·물류 500명 감축 등 구조조정",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398193"
         },
         {
-          "title": "李대통령 \"현재 입법 속도로는 국제사회 변화에 능동적 대처 매우 어려워\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398174"
+          "title": "한은 '소방수'로 나섰지만…빡빡한 원화 유동성 우려는 여전",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398185"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 14,
+      "count": 13,
       "risk_level": "high",
       "articles": [
         {
@@ -52,27 +52,27 @@
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398160"
         },
         {
-          "title": "[뉴욕환시] 달러 급락…엔화 강세 속 '중국발 셀USA+美고용 악화' 우려",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398132"
+          "title": "Japan China Trade Tensions: Supply Chain Impact 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXc0MW8xVmxpM2hsSzh5ck5aYlpOVTNneVFQRXdkYlVKMTZELWZXeHZTZEJZWVJvVUtIeFFELU9VTVA0OU9JRm9FQmRtLU5SVVFYejB3eWQ0RjdkTFdMRmphR1R1dlVGdGN6YnpOSEZrYnRHRm1vRC15NE9WS2t1LVNZcFpMM0t4?oc=5"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 10,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Oil Holds Two-Day Advance as Traders Focus on Middle East Risks",
+          "title": "U.S. urges ships to stay 'as far as possible' from Iran's waters in Strait of Hormuz after boarding attempts",
+          "url": "https://www.cnbc.com/2026/02/10/us-warns-ships-avoid-iran-strait-hormuz-boarding-irgc-tehran-israel-netanyahu.html"
+        },
+        {
+          "title": "U.S. urges ships to stay 'as far as possible' from Iran's waters in Strait of Hormuz after boarding attempts",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUdVMFhsdmlqVE92bXhqNVgzdUpNcUtYaGN1TWpteWVreEJMSS04SV9JTHpLSUVfUjV1LVMzLXBNcEJyelNUSFRPQnctWFF1dW5ORjZqbUE2aEVrMDZJdHVQY3VNUWtobjFYR2U3UklZbC1wNWIyYUN3bENBV1lZUnJBejRnM0tjYjhPQnl4c196LWdNSXBEbHdkaXFXUC1WR0RaVW50S1dJQ1VJZ19oMWNuMDXSAboBQVVfeXFMTTBON0RuY29WRHl3c0s0dHdlY1FyMGlMOWIzYjdmNGdmTXlCdFZocUpDNGtDdUhiWXVqR1UtRTlYbzRGakZPX0lRWHBuU2J4TjJCaW5ycFdzUUxKam04R193YzV6NmdCdmJkdzhwYWtaa3g4bVREZHNyRlY3UUJSb1pleWxGV28xcHVJTVlvVDNrbUY1cjN1VERVdkV0YktwYWJSZGs4ekxWSDBOazNnZTlZeTFGOVNTQVNn?oc=5"
+        },
+        {
+          "title": "Oil Holds Two-Day Advance as Traders Focus On Middle East Risks",
           "url": "https://www.bloomberg.com/news/articles/2026-02-09/latest-oil-market-news-and-analysis-for-feb-10"
-        },
-        {
-          "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnBxa1BtWThlNHBfeUtkOWtlUGlZbmcwZUJoWGhJTzJjcEt3REFsMjVBTFdMQy1MZmE0SVZQRG1WUGFsOFlHVEs4TzJqR2NGMFQ2dHluWUpzcjViR0FWLWNFYXB2ZVczcHBYS3lGOUhWMy1JWjFRdXdac1QxbVY2X1NUczVaZEg0MWhlaTlRd2JaRVhCeGdvbU5zeXB1NjkxbFpCNE14bmJjRzNST2hn0gG0AUFVX3lxTE5Hc0kyS2pmVU40SmNfU2NwOUtFTkluWmZ5am5tQUFLMjVEZVFVbHhmUUlEQXY1V3lQZWxKN2hqOWZXOVI1X2xIUGVfaDRZbXV0aHBtdXU0WndaYXZoNWdmcUlBTk1LTTFkdGZuTmdPQVQ2ZXlGRjNLUGk5QkxIeXdINUwzLXJwS1N5SWVXU2NZVzVjbGZhZTdmand3eWhNeWVUOVB5bllEZ25XMnpmTDZiR0lEUA?oc=5"
-        },
-        {
-          "title": "US warns American ships to stay away from Iranian waters over seizure risks",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFN5WURCY0kxZ3J2WnRtSk40c3lfNTRwQ3ctT0MzVnZtaGNsLUtvVHBSVXNYYlVMSFRUbU5ZMFY5NDVBZVBnaDFzNE5aclFNQU01alRMelRnQmRlZHNNZVc4SXlmcUsxVUJaQkl5aDVtMUttOWVsY2o3VGNkUERjQTgybFdJYkdCbGl2S1dWVDhKRV9JQWljbkg0MXlwdnJaYnp2US1wV3hjSEM1T0pSVTZPUEhIamd0cy1XQWppRW1tb1JTcEE?oc=5"
         }
       ]
     },
@@ -96,27 +96,8 @@
       ]
     },
     {
-      "code": "GB",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "팰리서, LG화학에 'NAV 할인율 공시·선임독립이사' 주주제안",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398130"
-        },
-        {
-          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
-          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
-        },
-        {
-          "title": "Freight Ferry Catches Fire, Goes to Anchor off Isle of Wight",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkxtdy1qUGVXMjZwMU1TMDBBXzJ5YTJ4blYtUGw1UUtiMVBiczNER1VKODJ1V2syXzljSXhmQWFzZ1RzY3lRUDhTblB5ZW9JWTNmZHlRdW9tay1mZndTcE1IQ2x6YXllUW5DZzQ5TEVNWWUzS0d5VlZfWWxGQnc5OE85NndhcUk4SUZ2RFlNeER5TFQ1N25CWFRETFVuaDA?oc=5"
-        }
-      ]
-    },
-    {
       "code": "EU",
-      "count": 7,
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
@@ -128,14 +109,14 @@
           "url": "https://www.hellenicshippingnews.com/eu-owned-tankers-ship-35-of-russias-oil-in-january-ahead-of-eu-ban/"
         },
         {
-          "title": "Ukraine to open battlefield-tested arms export centres across Europe, Zelenskyy says",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTg3MDI2LVdycGRQdXdCYkJRc25ka05ZUHJOaVFXRmpOVGNzRmlMNWZac2d3WGdzYzFXT2pEVU9KLVZfSG1aUzJNYkxRajZmOEVvdGNMUGNqaTVvdmpUZ2FZVmRQVnViR2hfNTk0dm5UMHJpdXliZWxrMGFvTGN0Qi1tZw?oc=5"
+          "title": "H200: A Perspective on Export Control Failures",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NWlB4clV6bk9ub2NodUc5a0RuTWtIdUlaLTZhMlp3b2JVc3EyMGFFWnBUbU5tMEs2Rl9ZUmd4N2NBN0lhT0M1enBpNGpHVkk1UEtUbjBVTnIwa3BKN3psZG5lUjc0dDVjYWNFYWd1LVQyZXl2Tzd5R1l3VQ?oc=5"
         }
       ]
     },
     {
       "code": "HK",
-      "count": 6,
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
@@ -154,7 +135,7 @@
     },
     {
       "code": "PA",
-      "count": 6,
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
@@ -172,21 +153,59 @@
       ]
     },
     {
-      "code": "JP",
+      "code": "GB",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
+        },
+        {
+          "title": "Freight Ferry Catches Fire, Goes to Anchor off Isle of Wight",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkxtdy1qUGVXMjZwMU1TMDBBXzJ5YTJ4blYtUGw1UUtiMVBiczNER1VKODJ1V2syXzljSXhmQWFzZ1RzY3lRUDhTblB5ZW9JWTNmZHlRdW9tay1mZndTcE1IQ2x6YXllUW5DZzQ5TEVNWWUzS0d5VlZfWWxGQnc5OE85NndhcUk4SUZ2RFlNeER5TFQ1N25CWFRETFVuaDA?oc=5"
+        },
+        {
+          "title": "Experts sound alarm over UK exports to firm linked to Russian war machine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejh3QUVIYnVRcFdzN0F2dHlRN1FrcWFtX3RrejdVWGp2eDFKbml2Y3JhSkZmOUI3dnB1YjVhSmNSUU9Yb2JWZ3d5d0g4azNjU1Q5QmZ1ZGg3OGVrYy1PRGZCenQ4Tk1jSFpiWWJLbm1nTTZVS0RUdHphQTF0Wk5CQWtCYW5iU1B2LTczVVl3VnhhQXZrR0tNbnEwcktYSTFJc2FLQmY5czZoaVUxa0drN1c2eXdlRHQxRk9OU2dEaw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Russia’s Jan crude exports fall 11.3%, China remains largest buyer: CAS data",
+          "url": "https://www.hellenicshippingnews.com/russias-jan-crude-exports-fall-11-3-china-remains-largest-buyer-cas-data/"
+        },
+        {
+          "title": "India’s oil imports from Russia snared by Trump order, tariff threat",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE5JUWVlYXhRNk51M0ZFRmhJT0hvcmdBU2tCMHJDV0JERkRRTjhWa3k3TzhwVkFsWFBIREQ5VDdtakx5YzZlYnI2dzBGMlJpcnh4YWNsemM0NVR3TTNCVWFWQWFNZ2xDc1dQSExrVzQxM1JWdjdUZWVOcWtCR1Z0YWduRmk3ZlRsejNTbi1hNFhSZFdzdUM2eHE4YUlnbmhxOHFvYzIzcmdiVDhSNG9PSTJseDVJUzDSAbcBQVVfeXFMUGY3eXpvdVp2amZHdnN4QkJkWmdpNVN6Ni1HV2E0WlkycUI3NVFiNEw3X205eVdSWkh3NDBlaGxpNG10MEZvTEgwN1Y5d3RNNkdWUGpxVE1uM1RuSTVvbFNkS3BSRFNIakZuX01PNVl0b2JTd2llYm5kNGdUZVo5LXRQVHRSLVNrVC1iNm9xTnRpdzUwYml1Mjhoc1p3R0xxS3dES0RUT2hLQ2pHemZlMnllR245QVBv?oc=5"
+        },
+        {
+          "title": "Trump unleashes tariff blitz over Iran, India, and beef imports",
+          "url": "https://theloadstar.com/trump-unleashes-tariff-blitz-over-iran-india-and-beef-imports/"
+        }
+      ]
+    },
+    {
+      "code": "BD",
       "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[신윤우의 외환분석] 유턴할 조짐",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398164"
+          "title": "Chattogram Port Reopens, But Labor Threat Looms Over DP World Lease Talks",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVJoVHJJSUZaNmd0cFRIWTRRU1JjM3BsSU1zZl9FU0QwSW1lM3Y2VW5HUlo0T2MtUlN2V1VJckNZU28xd0txR2QwRTViTDhXR0hJekpSQ24xY3J5bDVwWWY3Y2o5dG9DWm1CVDhpWTdjeV81LXZUNGV2eDZSaFY5MU1DbUlnNEVCYVJXdHNOaDJ6bWtQUmp1RGZVZ1VCZGFtQjRSZVBKam9QNUttY2ZEUmtDemJLTUh6WmRtc1JQUWFkWjFmekNnQUxEd0N5MnFlNFhMZEIwY29XRW1jcC0zSS1HU3QyZUd1Zzcyb3F3VQ?oc=5"
         },
         {
-          "title": "NDF, 1,457.50/ 1,457.90원…1.00원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398151"
+          "title": "Ship handlers urge CPA to resume cargo unloading at outer anchorage ahead of Ramadan",
+          "url": "https://www.hellenicshippingnews.com/ship-handlers-urge-cpa-to-resume-cargo-unloading-at-outer-anchorage-ahead-of-ramadan/"
         },
         {
-          "title": "[뉴욕환시] 달러 급락…엔화 강세 속 '중국발 셀USA+美고용 악화' 우려",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398132"
+          "title": "Bangladesh boxes begin to move as Chittagong port workers suspend strike",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW90VEM4T283TkJVV0JUcmozU21NT1k2VjJpaUlEUmgxbVZRLVllS3U5ZHNKaERxeDZqNFRVODBXQTFOa2NHY1RWS0hDTWhyUmZrZExaYVk5QXp0U0RsSC1ubkdLLU1mbHVJMzlpREMyTlZlQnQyTU9mRkVpTlU3SFp0ZGJPdmlmY29GOUhTWDlZZXJLTFVELTg4eUZNaWFlVnc4dFAwMEFJZy1G?oc=5"
         }
       ]
     },
@@ -248,59 +267,21 @@
       ]
     },
     {
-      "code": "BD",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Ship handlers urge CPA to resume cargo unloading at outer anchorage ahead of Ramadan",
-          "url": "https://www.hellenicshippingnews.com/ship-handlers-urge-cpa-to-resume-cargo-unloading-at-outer-anchorage-ahead-of-ramadan/"
-        },
-        {
-          "title": "Bangladesh boxes begin to move as Chittagong port workers suspend strike",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW90VEM4T283TkJVV0JUcmozU21NT1k2VjJpaUlEUmgxbVZRLVllS3U5ZHNKaERxeDZqNFRVODBXQTFOa2NHY1RWS0hDTWhyUmZrZExaYVk5QXp0U0RsSC1ubkdLLU1mbHVJMzlpREMyTlZlQnQyTU9mRkVpTlU3SFp0ZGJPdmlmY29GOUhTWDlZZXJLTFVELTg4eUZNaWFlVnc4dFAwMEFJZy1G?oc=5"
-        },
-        {
-          "title": "Ctg Port resumes operations after 7-day disruption as workers suspend strike until 15 Feb",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEl4Z1Vmd25CcXU0R012M21FZTVLNHF3YjY2UWszVTg0Q2h2LTFJWGxRc1l1QXU3Tzd1a2Rhek5PWE1SMWZSdVByRVFwNkNsWTVmcFQ4OW5aem1qVGQ4NUVxZUU3QUFFb1YwLWFmTkM0eWI5cG9jc3ZPWVZ5MHJoYkVHdUU2eFpra1Nqdm9CQzlKV1k5UlJrS0ZsTVVyZWplNnFtaWZfWWhDTzhMTE1BWS10UFZ2a3ZLTm040gHAAUFVX3lxTE5YckMxRGF5YWJuUno2cmVGbnl5VWtwTk5TRVV3Tl9IanFnWG9PTW5pbUgzMmhKUkcxQjFHaXluUmVYVk9PLUQwR0FtYlUycVZUdmxMaGJ4OFF3OERIV2RpRTZjQzRtT1MyekJ5eHg4RTA5U2V1VlRaeVM1NW52N2JxWXk2LVgtZmtDcUJ5Q1ZIVGtXbXNuWmJwYVFmaGRMQnczam01eG4tUlBpWTN3WDY4djVhZ09MaGl5V2VDejM4eg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Russia’s Jan crude exports fall 11.3%, China remains largest buyer: CAS data",
-          "url": "https://www.hellenicshippingnews.com/russias-jan-crude-exports-fall-11-3-china-remains-largest-buyer-cas-data/"
-        },
-        {
-          "title": "India’s oil imports from Russia snared by Trump order, tariff threat",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE5JUWVlYXhRNk51M0ZFRmhJT0hvcmdBU2tCMHJDV0JERkRRTjhWa3k3TzhwVkFsWFBIREQ5VDdtakx5YzZlYnI2dzBGMlJpcnh4YWNsemM0NVR3TTNCVWFWQWFNZ2xDc1dQSExrVzQxM1JWdjdUZWVOcWtCR1Z0YWduRmk3ZlRsejNTbi1hNFhSZFdzdUM2eHE4YUlnbmhxOHFvYzIzcmdiVDhSNG9PSTJseDVJUzDSAbcBQVVfeXFMUGY3eXpvdVp2amZHdnN4QkJkWmdpNVN6Ni1HV2E0WlkycUI3NVFiNEw3X205eVdSWkh3NDBlaGxpNG10MEZvTEgwN1Y5d3RNNkdWUGpxVE1uM1RuSTVvbFNkS3BSRFNIakZuX01PNVl0b2JTd2llYm5kNGdUZVo5LXRQVHRSLVNrVC1iNm9xTnRpdzUwYml1Mjhoc1p3R0xxS3dES0RUT2hLQ2pHemZlMnllR245QVBv?oc=5"
-        },
-        {
-          "title": "Trump unleashes tariff blitz over Iran, India, and beef imports",
-          "url": "https://theloadstar.com/trump-unleashes-tariff-blitz-over-iran-india-and-beef-imports/"
-        }
-      ]
-    },
-    {
-      "code": "UA",
+      "code": "JP",
       "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "EU-Owned Tankers Ship 35% of Russia’s Oil in January Ahead of EU Ban",
-          "url": "https://www.hellenicshippingnews.com/eu-owned-tankers-ship-35-of-russias-oil-in-january-ahead-of-eu-ban/"
+          "title": "[신윤우의 외환분석] 유턴할 조짐",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398164"
         },
         {
-          "title": "Ukraine to open battlefield-tested arms export centres across Europe, Zelenskyy says",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTg3MDI2LVdycGRQdXdCYkJRc25ka05ZUHJOaVFXRmpOVGNzRmlMNWZac2d3WGdzYzFXT2pEVU9KLVZfSG1aUzJNYkxRajZmOEVvdGNMUGNqaTVvdmpUZ2FZVmRQVnViR2hfNTk0dm5UMHJpdXliZWxrMGFvTGN0Qi1tZw?oc=5"
+          "title": "NDF, 1,457.50/ 1,457.90원…1.00원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398151"
         },
         {
-          "title": "For US$185 million, the U.S. authorizes the sale of a logistics support package for the Armed Forces of Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0FDdjdZZWZOd29IZ1FlaFlYT2tsamQ5TWFTNFhNbGtycjRramtZRkNDRFctUFlzRnEyYnlkT282R1RMeEVDdm5oNnl5aS13SDh0UjlqRlh3YnI5b1FaSDhmX21Fa2pfanRrekdyVENwSk41WDdrM2pCTUVRVllUSDBKWUc1T1FwT3U0RVdMWVp0NzVsdHl6NUdpLTZQOHZaS20tUGtjLTBjZWpsTkEySnpUQ3ZySHFhcDQybFlQZmEyVHpwN0FQQ2EwSWJkSjVKaWhEVzN5bDgtYmFRUlJGdDV1aUpKaTg?oc=5"
+          "title": "Japan China Trade Tensions: Supply Chain Impact 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXc0MW8xVmxpM2hsSzh5ck5aYlpOVTNneVFQRXdkYlVKMTZELWZXeHZTZEJZWVJvVUtIeFFELU9VTVA0OU9JRm9FQmRtLU5SVVFYejB3eWQ0RjdkTFdMRmphR1R1dlVGdGN6YnpOSEZrYnRHRm1vRC15NE9WS2t1LVNZcFpMM0t4?oc=5"
         }
       ]
     },
@@ -348,8 +329,8 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "힘스앤허스, 노보노디스크로부터 피소에 16%대 급락",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398141"
+          "title": "\"위고비 모방약 팔지마!\" 노보노디스크 발끈…美기업 주가 급락",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009440477627"
         },
         {
           "title": "머스크, 고용인원 1000명 감축 계획",
@@ -358,6 +339,25 @@
         {
           "title": "OceanX – Danish week as Maersk and DSV report; India trade deals roll on…",
           "url": "https://theloadstar.com/oceanx-danish-week-as-maersk-and-dsv-report-india-trade-deals-roll-on/"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "EU-Owned Tankers Ship 35% of Russia’s Oil in January Ahead of EU Ban",
+          "url": "https://www.hellenicshippingnews.com/eu-owned-tankers-ship-35-of-russias-oil-in-january-ahead-of-eu-ban/"
+        },
+        {
+          "title": "Ukraine to open battlefield-tested arms export centres across Europe, Zelenskyy says",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTg3MDI2LVdycGRQdXdCYkJRc25ka05ZUHJOaVFXRmpOVGNzRmlMNWZac2d3WGdzYzFXT2pEVU9KLVZfSG1aUzJNYkxRajZmOEVvdGNMUGNqaTVvdmpUZ2FZVmRQVnViR2hfNTk0dm5UMHJpdXliZWxrMGFvTGN0Qi1tZw?oc=5"
+        },
+        {
+          "title": "For US$185 million, the U.S. authorizes the sale of a logistics support package for the Armed Forces of Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0FDdjdZZWZOd29IZ1FlaFlYT2tsamQ5TWFTNFhNbGtycjRramtZRkNDRFctUFlzRnEyYnlkT282R1RMeEVDdm5oNnl5aS13SDh0UjlqRlh3YnI5b1FaSDhmX21Fa2pfanRrekdyVENwSk41WDdrM2pCTUVRVllUSDBKWUc1T1FwT3U0RVdMWVp0NzVsdHl6NUdpLTZQOHZaS20tUGtjLTBjZWpsTkEySnpUQ3ZySHFhcDQybFlQZmEyVHpwN0FQQ2EwSWJkSjVKaWhEVzN5bDgtYmFRUlJGdDV1aUpKaTg?oc=5"
         }
       ]
     },
@@ -377,6 +377,21 @@
       ]
     },
     {
+      "code": "MY",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Malaysian Anti-Graft Chief Returns to Stock Market After Outcry",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-10/macc-head-azam-baki-returns-to-malaysia-stock-market-years-after-public-outcry"
+        },
+        {
+          "title": "Palm Oil May Drop Below 4,000 Ringgit on Soy Oil Supply Gain",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-09/palm-oil-may-drop-below-4-000-ringgit-on-soy-oil-supply-surge"
+        }
+      ]
+    },
+    {
       "code": "CU",
       "count": 2,
       "risk_level": "medium",
@@ -392,17 +407,17 @@
       ]
     },
     {
-      "code": "TH",
+      "code": "CA",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Containers fall from Bangkok Express, strike bunkering vessel at Maasvlakte II",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckFNemxRWUsyVGtLanlHbnZHamk3WnZTWTVXSUdNMzRJZjdLU2VfOGNOWGN5STZnUTFOam9meHBFeGEzOXVDdlZVbkRBZUd1UGNsUVBDYXkxa21mSXVfOExRNmZIMUpVcHpHVFZyUGVTR0NKRDVpVlhaZEJweG9abEwzOUh5MHUzUnRvMGVySUpNQ0FjeWZwdUpTM3g0ak5rckZ0Skg2VEpCczhuYnZwRUtSc0JHcXY2OG9meEpFZw?oc=5"
+          "title": "Mexico Says Five Missing Staff From Canadian Miner Are Dead",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-09/canadian-silver-miner-says-staff-taken-from-mexico-site-are-dead"
         },
         {
-          "title": "Container ship sinks off Phuket",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44MkZ6dE1tT2lIM1FiOEY0ZWFQY2dwZ3JKT3J4aWMyanhVdEhObFlPazB4cXFvX0VrVTR1MXVzY2RmRmlsb3U5c1o4V3FMSzlKZ3EwSDdscWt5VW1Uald3YllWNmliRm9kN2xB?oc=5"
+          "title": "Surrey commuters face Monday delays with Pattullo Bridge closure",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3hTX0RTSHRTQmZYRjN4WGZxUGkzS0tyVEdaVVAzOWU2OVNUSWNSU1p4TE9SMUlPc0poeWowNG9PcWxVakhXQXN4T2FfMWpDekh5Qjh0aXUwU0NLMVducUFwbjFkM3RVak5tMmt6d1R2NDFuTGM0VERTaWlpakF0N0c3cjQ2RnhhYmdJMlZsOC1QS1ZiX3hCSFNRdk40V0c2UEhtTEY3cw?oc=5"
         }
       ]
     },
@@ -422,6 +437,28 @@
       ]
     },
     {
+      "code": "AT",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "세살 아들 굶겨 죽인 동갑내기 부부…카메라에 찍힌 끔찍한 고문 증거",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009454474082"
+        }
+      ]
+    },
+    {
+      "code": "KP",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "[속보]군경TF, '북 무인기' 관련 정보사·국정원 압수수색",
+          "url": "https://www.mt.co.kr/society/2026/02/10/2026021010400593920"
+        }
+      ]
+    },
+    {
       "code": "JO",
       "count": 1,
       "risk_level": "low",
@@ -433,35 +470,13 @@
       ]
     },
     {
-      "code": "MY",
+      "code": "UN",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "Malaysian Anti-Graft Chief Returns to Stock Market After Outcry",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-10/macc-head-azam-baki-returns-to-malaysia-stock-market-years-after-public-outcry"
-        }
-      ]
-    },
-    {
-      "code": "QA",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "US warns of risks to merchant shipping through Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM29jZTh0Z29mVmZRZ0lIZmhuS0IxRW1HdlJQSldJNnNLQ1ZIVDliSVBNY0dGV3h1MjBpQ0k2Z0M0UF9nTm1uRUxXNTdzb0REWERudEVZZVdVUzJiMFVIczdzOXgtcVVBUGZKRy1KWS1iUExOQkZzbGxKWjRmTWp0Qmd3RTFUTVd2SHpuNEh3MnktSkRaT2ptN002MEUxZEJRTUh6dHFiZWJ3NWlEOEttQUF6Rk7SAboBQVVfeXFMTmRIaGNzbmRuallMc0VPT2JiUzN5RW5vUE1FTkgxcVBUcllkczhRZ2dBZGxBek95bW8zb2VPLUVDZldsaE02NV9jR1VhNFRRTWJlTzVBdS1fbUpkUW5DLTRINVUxcTREdGMzeGVLWEdjZ2FDdGc2NWhpRnFzdDQwQWVjTVc4LTF1ZE1Cb3ZSWW1OMmJjQXVvRUt6Q3pCNkU5eUVRM2hlOEJFbDJfUGE1ZnczcjF2Q3Q2NFZR?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "CA",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Mexico Says Five Missing Staff From Canadian Miner Are Dead",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-09/canadian-silver-miner-says-staff-taken-from-mexico-site-are-dead"
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
         }
       ]
     },
@@ -486,19 +501,8 @@
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
         }
       ]
-    },
-    {
-      "code": "CO",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Panama Canal shrinks due to historic drought in 2023, halting nearly 4% of global maritime trade and igniting a race for new interoceanic waterways in Nicaragua, Mexico, Central America, and Colombia.",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
-        }
-      ]
     }
   ],
-  "total_crisis_countries": 36,
-  "generated_at": "2026-02-10T01:26:52Z"
+  "total_crisis_countries": 38,
+  "generated_at": "2026-02-10T01:59:17Z"
 }
