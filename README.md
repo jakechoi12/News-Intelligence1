@@ -135,6 +135,23 @@ Repository Settings → Secrets에 환경 변수 추가:
 - `BOK_API_KEY`
 - `TEAMS_WEBHOOK_URL`
 
+### Teams 알림 401 오류 시
+
+**A. Workflow 웹훅 사용 시**
+
+1. **트리거 인증**: "트리거 실행 허용"을 **Anyone(누구나)**로 설정.
+2. **URL 전체 복사**: "When a Teams webhook request is received" 트리거를 펼친 뒤 **HTTP POST URL**을 복사할 때,  
+   **끝까지 전부** 복사해야 합니다. (`?api-version=...&sp=...&sv=1.0&sig=...` 등 쿼리 파라미터 포함)  
+   `sig=` 가 빠진 URL이면 **401 "Shared Access scheme"** 오류가 납니다.
+3. GitHub Secrets에 붙여넣을 때 URL이 잘리지 않았는지 확인.
+
+**B. 대안: 구형 Incoming Webhook (권장)**
+
+Workflow URL이 계속 401을 내면, **채널 커넥터**로 만든 Incoming Webhook을 쓰세요.
+
+- Teams 채널 → **⋯** → **채널 관리** → **커넥터** → **Incoming Webhook** 검색 후 **추가**
+- 생성된 URL(`https://...webhook.office.com/...`)을 `TEAMS_WEBHOOK_URL`에 그대로 사용 (인증 없이 POST 가능)
+
 ---
 
 ## 기술 스택

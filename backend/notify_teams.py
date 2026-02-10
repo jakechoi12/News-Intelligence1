@@ -6,9 +6,13 @@ Includes collection summary and top headlines.
 
 Usage:
     python backend/notify_teams.py
-    
+
 Environment Variables:
     TEAMS_WEBHOOK_URL - Teams Incoming Webhook URL
+      - Legacy: https://xxx.webhook.office.com/... (채널 > 커넥터 > Incoming Webhook)
+      - Workflow: Power Automate/Teams 워크플로 "When a Teams webhook request is received" URL
+        GitHub Actions 등 외부에서 호출하려면 트리거 인증을 "Anyone(누구나)"로 설정해야 합니다.
+        401 DirectApiAuthorizationRequired 발생 시 위 설정을 확인하세요.
 """
 
 import os
@@ -186,6 +190,7 @@ def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> b
         "attachments": [
             {
                 "contentType": "application/vnd.microsoft.card.adaptive",
+                "contentUrl": None,
                 "content": {
                     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
                     "type": "AdaptiveCard",
@@ -215,6 +220,23 @@ def send_teams_notification(webhook_url: str, stats: dict, headlines: dict) -> b
         if response.status_code in [200, 202]:
             logger.info("✅ Teams notification sent successfully!")
             return True
+        elif response.status_code == 401:
+            logger.error(f"❌ Teams API error: 401 Unauthorized - {response.text}")
+            if "Shared Access" in response.text or "DirectApiAuthorizationRequired" in response.text:
+                logger.error(
+                    "   💡 'Shared Access scheme' 오류:\n"
+                    "   1) 워크플로 트리거에서 복사한 URL이 **전체**인지 확인하세요.\n"
+                    "      (끝에 ?api-version=...&sp=...&sv=1.0&sig=... 등 쿼리 파라미터가 모두 포함되어야 함)\n"
+                    "   2) GitHub Secrets에 붙여넣을 때 URL이 잘리지 않았는지 확인하세요.\n"
+                    "   3) **대안**: 채널에서 구형 Incoming Webhook 사용\n"
+                    "      채널 ⋯ → 채널 관리 → 커넥터 → Incoming Webhook 추가\n"
+                    "      → 생성된 URL(https://...webhook.office.com/...)을 TEAMS_WEBHOOK_URL에 사용"
+                )
+            else:
+                logger.error(
+                    "   💡 트리거 실행 허용을 'Anyone(누구나)'로 설정했는지 확인하세요."
+                )
+            return False
         else:
             logger.error(f"❌ Teams API error: {response.status_code} - {response.text}")
             return False
@@ -256,6 +278,13 @@ def main():
     
     logger.info(f"   📊 Stats: {stats.get('total_collected', 0)} articles")
     logger.info(f"   📰 Headlines: {len(headlines.get('headlines', []))} available")
+    
+    # Workflow URL (logic.azure.com 등)은 쿼리 파라미터 sig= 가 필요함. 없으면 401 Shared Access 발생 가능.
+    if ("logic.azure.com" in webhook_url or "/workflows/" in webhook_url) and "sig=" not in webhook_url:
+        logger.warning(
+            "   ⚠️ 워크플로 URL에 'sig=' 쿼리 파라미터가 없습니다. "
+            "트리거에서 복사한 **전체** HTTP POST URL을 사용하세요."
+        )
     
     # Send notification
     success = send_teams_notification(webhook_url, stats, headlines)
