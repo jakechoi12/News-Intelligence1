@@ -2,9 +2,13 @@
   "countries": [
     {
       "code": "US",
-      "count": 67,
+      "count": 62,
       "risk_level": "high",
       "articles": [
+        {
+          "title": "BoA \"M7 주도 시장 끝나…매도 권고\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398173"
+        },
         {
           "title": "[신윤우의 외환분석] 유턴할 조짐",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398164"
@@ -12,35 +16,31 @@
         {
           "title": "\"韓반도체, 메모리 빼면 中에 다 밀려\"…리서치센터장의 경고",
           "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398160"
-        },
-        {
-          "title": "NDF, 1,457.50/ 1,457.90원…1.00원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398151"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 35,
+      "count": 43,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[신윤우의 외환분석] 유턴할 조짐",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398164"
+          "title": "[현장에서] 실존적 위기에 처한 암호화폐거래소",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398177"
         },
         {
-          "title": "송언석 \"李대통령, 임대사업자 주택 부족 주범으로 몰아\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398162"
+          "title": "윤석환 CJ제일제당 대표 \"사업구조 최적화·재무구조 개선 추진\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398176"
         },
         {
-          "title": "\"韓반도체, 메모리 빼면 中에 다 밀려\"…리서치센터장의 경고",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398160"
+          "title": "李대통령 \"현재 입법 속도로는 국제사회 변화에 능동적 대처 매우 어려워\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398174"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 15,
+      "count": 14,
       "risk_level": "high",
       "articles": [
         {
@@ -59,13 +59,9 @@
     },
     {
       "code": "IR",
-      "count": 11,
+      "count": 10,
       "risk_level": "high",
       "articles": [
-        {
-          "title": "[뉴욕유가] 美·이란 협상에도 여전한 위험 프리미엄…WTI 1.3%↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398123"
-        },
         {
           "title": "Oil Holds Two-Day Advance as Traders Focus on Middle East Risks",
           "url": "https://www.bloomberg.com/news/articles/2026-02-09/latest-oil-market-news-and-analysis-for-feb-10"
@@ -73,18 +69,18 @@
         {
           "title": "US urges American ships to stay ‘as far as possible’ from Iranian waters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYnBxa1BtWThlNHBfeUtkOWtlUGlZbmcwZUJoWGhJTzJjcEt3REFsMjVBTFdMQy1MZmE0SVZQRG1WUGFsOFlHVEs4TzJqR2NGMFQ2dHluWUpzcjViR0FWLWNFYXB2ZVczcHBYS3lGOUhWMy1JWjFRdXdac1QxbVY2X1NUczVaZEg0MWhlaTlRd2JaRVhCeGdvbU5zeXB1NjkxbFpCNE14bmJjRzNST2hn0gG0AUFVX3lxTE5Hc0kyS2pmVU40SmNfU2NwOUtFTkluWmZ5am5tQUFLMjVEZVFVbHhmUUlEQXY1V3lQZWxKN2hqOWZXOVI1X2xIUGVfaDRZbXV0aHBtdXU0WndaYXZoNWdmcUlBTk1LTTFkdGZuTmdPQVQ2ZXlGRjNLUGk5QkxIeXdINUwzLXJwS1N5SWVXU2NZVzVjbGZhZTdmand3eWhNeWVUOVB5bllEZ25XMnpmTDZiR0lEUA?oc=5"
+        },
+        {
+          "title": "US warns American ships to stay away from Iranian waters over seizure risks",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFN5WURCY0kxZ3J2WnRtSk40c3lfNTRwQ3ctT0MzVnZtaGNsLUtvVHBSVXNYYlVMSFRUbU5ZMFY5NDVBZVBnaDFzNE5aclFNQU01alRMelRnQmRlZHNNZVc4SXlmcUsxVUJaQkl5aDVtMUttOWVsY2o3VGNkUERjQTgybFdJYkdCbGl2S1dWVDhKRV9JQWljbkg0MXlwdnJaYnp2US1wV3hjSEM1T0pSVTZPUEhIamd0cy1XQWppRW1tb1JTcEE?oc=5"
         }
       ]
     },
     {
       "code": "IQ",
-      "count": 10,
+      "count": 9,
       "risk_level": "high",
       "articles": [
-        {
-          "title": "Baghdad Traders Protest New Tariffs Amid Iraq’s Declining Oil Revenue",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GTlNzTEFnMzZIWGRxVkt6UWstdmNEcFViU00zMkFQQWZUWm9QMnlndEQ0TVhQU1lYN2luZExXLU84WTAta0QzZ1JwZGRHR3la?oc=5"
-        },
         {
           "title": "Hundreds Protest in Baghdad Over New Customs Tariffs",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORENTZ3RPeVNKMkNJZ3VFelJyYTREZl9PYlJxMjVQaTRnUzhCRFNCM0h3NHlhczA3ZC1nb1ozZnNKa0VRWHFBaXY1VzRJQWxuc3h5UzBVNmhPRjc1NkVscG1EbDJ2WE9CYW1KeEEzWFN3Snh2OW1rYjhoQ2tCWWdhZWxWQ2tDZXY4YkpPelFYU1NhZw?oc=5"
@@ -92,25 +88,29 @@
         {
           "title": "Merchants in Iraq protest additional customs duties",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3dEQmRNTVNUTFhaaUJDVnptQUZMbFZOSmd4VmI4eGtxd0s1RnJlQUVaVk9rZldqbklwUzQ4LS1vbmZ0eERyNEt0cTNXN1Yxdl9oTTQ3T1ZYTkpXOWpQcnJGTHFiRXpGQlNyNEFPYXBkelRuSVRfbHZUSmJjQWQzUVg3ak1Xd2Q0WS1J?oc=5"
+        },
+        {
+          "title": "Iraqi traders take to streets over customs tariff hike, warn of rising costs and trade disruption",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRU9DekYtdDBmNWlSYUpSYmxMdWs2NmJsSGxPQmlNVkNrSTJBX0YwQzlINndkRWl1alFod2dXYUpWVTNTTWpOOVc4TXRzSjduUjBKdkRaV1lsZXdKRnN4bW5uaTBRbWJZb3RzMHdTRm5pMTJNa3RiQW9VeG9oT2RfWTA1LWE0S1FwXzJiWHhMSmV1TVpsczhIa0N2NGdTTElfV1BmaGxTLUUtYkxyYnFVbXJWb19Pek9fcnAwRzRHenA5bGw0QUlJRGZMa2JSTmJxVWJmSGdCYzFYZ9IB3wFBVV95cUxOMkxQazhlblB5UU5CclFxb0FuRFE5OEEyWXpJeXU2cDNnOUhhaVNLNzZmM2QtM0FOdWZURE9haTBGLUFQTHhfOExseExiTUZvXy0yd3JoQXdzT2w3N25IZ1BXencxaGx0bGxsZ3lMall6M3RSNlc3TGRhYVhHU2lZU3NoVWJ5cjFwQVNsbEJyUTBzUVZnNGRWMlBzSmFuZm5iOXVSSDByRHNTMWZGWjJROWp4bFUwSUxBUTVqazBNdW4wQVFmdzdnM0VqRUF6U1lsdElPaUlzQmJpLXVkQTd3?oc=5"
         }
       ]
     },
     {
-      "code": "BD",
-      "count": 9,
+      "code": "GB",
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Ship handlers urge CPA to resume cargo unloading at outer anchorage ahead of Ramadan",
-          "url": "https://www.hellenicshippingnews.com/ship-handlers-urge-cpa-to-resume-cargo-unloading-at-outer-anchorage-ahead-of-ramadan/"
+          "title": "팰리서, LG화학에 'NAV 할인율 공시·선임독립이사' 주주제안",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398130"
         },
         {
-          "title": "Bangladesh boxes begin to move as Chittagong port workers suspend strike",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW90VEM4T283TkJVV0JUcmozU21NT1k2VjJpaUlEUmgxbVZRLVllS3U5ZHNKaERxeDZqNFRVODBXQTFOa2NHY1RWS0hDTWhyUmZrZExaYVk5QXp0U0RsSC1ubkdLLU1mbHVJMzlpREMyTlZlQnQyTU9mRkVpTlU3SFp0ZGJPdmlmY29GOUhTWDlZZXJLTFVELTg4eUZNaWFlVnc4dFAwMEFJZy1G?oc=5"
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
         },
         {
-          "title": "'Ctg port strike cannot continue': Shipping adviser warns of tough action",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM19aLVFqUlpOeW9yTmhtcWpXQUh3N05SVmZHcGtBU1N4eXZacnVhTklEc0tHTXRqeE9aUlptbnRpZlhZR0lraS15c2lQb2kzc0g3VUVNZU1YcFJKZUFvSlZtVVBhbmNrS1lvVWl3RWhDZU93SVJEcENwaXJQTWRYWnhBVWY1SVdCVUV1UmVIUXhQdnItbWtJa2xrbWIzbUt2ejJmc29Dbk91QWtXQnZJ0gG0AUFVX3lxTE9vX0MyYU5KTEFGWm0wSE9ONm04MDloVkphYWxjTTRtWTEyQ05OMEZkbEl6b2o4ZWlmOGI0N0Q3bEVTR0dHU3kydlVBMElad1BtSkpZZXdOTVRSZE91OGNNUE1VRlJsOTkzSkNPcjVIc1B6MkJqck1meUxLSFZyY3lEcUhsOVdUTHNIbWRLTXd5NGN2LWhubzhqV2lrcDJyOF92U1hneElLWWxKUkxQdThtR2x5YQ?oc=5"
+          "title": "Freight Ferry Catches Fire, Goes to Anchor off Isle of Wight",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkxtdy1qUGVXMjZwMU1TMDBBXzJ5YTJ4blYtUGw1UUtiMVBiczNER1VKODJ1V2syXzljSXhmQWFzZ1RzY3lRUDhTblB5ZW9JWTNmZHlRdW9tay1mZndTcE1IQ2x6YXllUW5DZzQ5TEVNWWUzS0d5VlZfWWxGQnc5OE85NndhcUk4SUZ2RFlNeER5TFQ1N25CWFRETFVuaDA?oc=5"
         }
       ]
     },
@@ -134,8 +134,46 @@
       ]
     },
     {
-      "code": "JP",
+      "code": "HK",
       "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Hong Kong Lodges Formal Protest Over Panama Canal Port Court Decision",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtNb0pCcTVjaDZPVUNESGs5a0ZkcC1LdnV6akFuemZZaVNFbklNNUdsN3VCc0RfTDBkYzFfaXhrWkpBeGFHVm9XX2xNTFhVM0dhdV9ycnA5Um40WTFxTUd2S3hsTTJEbHhfUjJhUVVxSm1zT2ZoWnhpbF9ubkk3WnZ4RmsxSGgwMXpXeGlfQXhHdk8tTHc?oc=5"
+        },
+        {
+          "title": "허치슨, 파나마 판결에 국제중재 맞대응",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329967"
+        },
+        {
+          "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
+          "url": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html"
+        }
+      ]
+    },
+    {
+      "code": "PA",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Hong Kong Lodges Formal Protest Over Panama Canal Port Court Decision",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtNb0pCcTVjaDZPVUNESGs5a0ZkcC1LdnV6akFuemZZaVNFbklNNUdsN3VCc0RfTDBkYzFfaXhrWkpBeGFHVm9XX2xNTFhVM0dhdV9ycnA5Um40WTFxTUd2S3hsTTJEbHhfUjJhUVVxSm1zT2ZoWnhpbF9ubkk3WnZ4RmsxSGgwMXpXeGlfQXhHdk8tTHc?oc=5"
+        },
+        {
+          "title": "허치슨, 파나마 판결에 국제중재 맞대응",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329967"
+        },
+        {
+          "title": "Panama Canal shrinks due to historic drought in 2023, halting nearly 4% of global maritime trade and igniting a race for new interoceanic waterways in Nicaragua, Mexico, Central America, and Colombia.",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 5,
       "risk_level": "high",
       "articles": [
         {
@@ -153,27 +191,27 @@
       ]
     },
     {
-      "code": "GB",
-      "count": 6,
+      "code": "IL",
+      "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "팰리서, LG화학에 'NAV 할인율 공시·선임독립이사' 주주제안",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398130"
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
         },
         {
-          "title": "Freight Ferry Catches Fire, Goes to Anchor off Isle of Wight",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkxtdy1qUGVXMjZwMU1TMDBBXzJ5YTJ4blYtUGw1UUtiMVBiczNER1VKODJ1V2syXzljSXhmQWFzZ1RzY3lRUDhTblB5ZW9JWTNmZHlRdW9tay1mZndTcE1IQ2x6YXllUW5DZzQ5TEVNWWUzS0d5VlZfWWxGQnc5OE85NndhcUk4SUZ2RFlNeER5TFQ1N25CWFRETFVuaDA?oc=5"
+          "title": "Dockers walk out to stop Israeli arms",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yTkRlUWNRSEJOWThCTkhKbWR2S2tESW9yZXBPX3ZOTkplcTBkOXBIRTJxU091OHFpZnZlZ3RhUzdGam1vWTVWd21XX1djeDNzTElsbWFzeWZiLWVfZWlCY0ZWZjBGVmx2?oc=5"
         },
         {
-          "title": "Experts sound alarm over UK exports to firm linked to Russian war machine",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejh3QUVIYnVRcFdzN0F2dHlRN1FrcWFtX3RrejdVWGp2eDFKbml2Y3JhSkZmOUI3dnB1YjVhSmNSUU9Yb2JWZ3d5d0g4azNjU1Q5QmZ1ZGg3OGVrYy1PRGZCenQ4Tk1jSFpiWWJLbm1nTTZVS0RUdHphQTF0Wk5CQWtCYW5iU1B2LTczVVl3VnhhQXZrR0tNbnEwcktYSTFJc2FLQmY5czZoaVUxa0drN1c2eXdlRHQxRk9OU2dEaw?oc=5"
+          "title": "Shipping Giant MSC Facilitates Trade From Israeli Settlements Through EU",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGJVZ2hQaU1xdUQyc3VZZkN4c0w2TlBXWmlGcVZVSDgyRktDTi1WV3haVVl5N1c5THJ1cHpiTEZBTHhVQkdwcTFVTFRwSXFLZjdubjZtS3F5S1gweUFmcW5OQklBRzlFZVdCejBxQnJHTHEybGZ0LTVjTy1pY0JBWEdpYmxyVTI4SVpOZ3BXQWxJdDI1QlJ1VThxOWRNajF5dEFj?oc=5"
         }
       ]
     },
     {
       "code": "IT",
-      "count": 6,
+      "count": 5,
       "risk_level": "high",
       "articles": [
         {
@@ -191,66 +229,9 @@
       ]
     },
     {
-      "code": "MX",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Volvo Cars Earnings Slump 68%, Forecasts Volume Rebound",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREtXWnF3ajZSaDBGbjQ5Mlk2V3J4cWxQMmo5RnVFSXVHQUZPRW9Bd3hSWXh0bGtoN2ZGYWxCMnFrNUNWTUZrSmYtaGJ4dUJMMldfRldjSmFIS1N4UEVvVjZKcmJaaFZnbTFMeVE0T2hxMFJMdHc1aVgyRzViN0tPYkY0Z2IxcGYtbTFIZzNsb0hpRVQzTUx5WEEzZEhqQQ?oc=5"
-        },
-        {
-          "title": "Mexico Says Five Missing Staff From Canadian Miner Are Dead",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-09/canadian-silver-miner-says-staff-taken-from-mexico-site-are-dead"
-        },
-        {
-          "title": "Mexico Air Cargo Dips 2.4% in 2025 Amid Trade Risks",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTdwcHltYkg3MFlZVERUNGNWLXcxZ2dybk1UYVI1MHFCMVFCclNWWE1CT1NqNjNyakx0QjJSQjdoV2h1YmVteURXR2c3SHJuX3ZwNGpPUEkzRXJpNnl1amFnT0Frb3Z0TnhVWERVNXpsZzhVdEE5UEJpLWlwODZrcjNiLXBranVQRGxIZTlPc3pNcVk?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "PA",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "허치슨, 파나마 판결에 국제중재 맞대응",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329967"
-        },
-        {
-          "title": "Panama Canal shrinks due to historic drought in 2023, halting nearly 4% of global maritime trade and igniting a race for new interoceanic waterways in Nicaragua, Mexico, Central America, and Colombia.",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
-        },
-        {
-          "title": "Hong Kong Summons Panama Envoy Over CK Hutchison Ports Ruling",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0czcTk2WmEteHg0T2x1UG1PblhpRWlUR0MxbGFsY0dkb0ZNeTU5Zk1DYURKU1JfWC1uUkYtMGgxSlliLU96Mk5zalR4QmFJYjc1Nk5adVFFTVZJekpIVE9iekc3UGhHYmloSmNBbDFRWF9pMHR6NXFjTjBzVlRMeU1YMEh4YzdzbDdYNjFhZk02eGJwV1lSeA?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "HK",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "허치슨, 파나마 판결에 국제중재 맞대응",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329967"
-        },
-        {
-          "title": "Hong Kong media baron and pro-democracy activist Jimmy Lai sentenced to 20 years in prison",
-          "url": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html"
-        },
-        {
-          "title": "Hong Kong Summons Panama Envoy Over CK Hutchison Ports Ruling",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0czcTk2WmEteHg0T2x1UG1PblhpRWlUR0MxbGFsY0dkb0ZNeTU5Zk1DYURKU1JfWC1uUkYtMGgxSlliLU96Mk5zalR4QmFJYjc1Nk5adVFFTVZJekpIVE9iekc3UGhHYmloSmNBbDFRWF9pMHR6NXFjTjBzVlRMeU1YMEh4YzdzbDdYNjFhZk02eGJwV1lSeA?oc=5"
-        }
-      ]
-    },
-    {
       "code": "RU",
-      "count": 4,
-      "risk_level": "medium",
+      "count": 5,
+      "risk_level": "high",
       "articles": [
         {
           "title": "LNG Shipping: Seaborne LNG Imports to Dominate EU’s Demand",
@@ -263,6 +244,44 @@
         {
           "title": "Russia’s Jan crude exports fall 11.3%, China remains largest buyer: CAS data",
           "url": "https://www.hellenicshippingnews.com/russias-jan-crude-exports-fall-11-3-china-remains-largest-buyer-cas-data/"
+        }
+      ]
+    },
+    {
+      "code": "BD",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Ship handlers urge CPA to resume cargo unloading at outer anchorage ahead of Ramadan",
+          "url": "https://www.hellenicshippingnews.com/ship-handlers-urge-cpa-to-resume-cargo-unloading-at-outer-anchorage-ahead-of-ramadan/"
+        },
+        {
+          "title": "Bangladesh boxes begin to move as Chittagong port workers suspend strike",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW90VEM4T283TkJVV0JUcmozU21NT1k2VjJpaUlEUmgxbVZRLVllS3U5ZHNKaERxeDZqNFRVODBXQTFOa2NHY1RWS0hDTWhyUmZrZExaYVk5QXp0U0RsSC1ubkdLLU1mbHVJMzlpREMyTlZlQnQyTU9mRkVpTlU3SFp0ZGJPdmlmY29GOUhTWDlZZXJLTFVELTg4eUZNaWFlVnc4dFAwMEFJZy1G?oc=5"
+        },
+        {
+          "title": "Ctg Port resumes operations after 7-day disruption as workers suspend strike until 15 Feb",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEl4Z1Vmd25CcXU0R012M21FZTVLNHF3YjY2UWszVTg0Q2h2LTFJWGxRc1l1QXU3Tzd1a2Rhek5PWE1SMWZSdVByRVFwNkNsWTVmcFQ4OW5aem1qVGQ4NUVxZUU3QUFFb1YwLWFmTkM0eWI5cG9jc3ZPWVZ5MHJoYkVHdUU2eFpra1Nqdm9CQzlKV1k5UlJrS0ZsTVVyZWplNnFtaWZfWWhDTzhMTE1BWS10UFZ2a3ZLTm040gHAAUFVX3lxTE5YckMxRGF5YWJuUno2cmVGbnl5VWtwTk5TRVV3Tl9IanFnWG9PTW5pbUgzMmhKUkcxQjFHaXluUmVYVk9PLUQwR0FtYlUycVZUdmxMaGJ4OFF3OERIV2RpRTZjQzRtT1MyekJ5eHg4RTA5U2V1VlRaeVM1NW52N2JxWXk2LVgtZmtDcUJ5Q1ZIVGtXbXNuWmJwYVFmaGRMQnczam01eG4tUlBpWTN3WDY4djVhZ09MaGl5V2VDejM4eg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Russia’s Jan crude exports fall 11.3%, China remains largest buyer: CAS data",
+          "url": "https://www.hellenicshippingnews.com/russias-jan-crude-exports-fall-11-3-china-remains-largest-buyer-cas-data/"
+        },
+        {
+          "title": "India’s oil imports from Russia snared by Trump order, tariff threat",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObE5JUWVlYXhRNk51M0ZFRmhJT0hvcmdBU2tCMHJDV0JERkRRTjhWa3k3TzhwVkFsWFBIREQ5VDdtakx5YzZlYnI2dzBGMlJpcnh4YWNsemM0NVR3TTNCVWFWQWFNZ2xDc1dQSExrVzQxM1JWdjdUZWVOcWtCR1Z0YWduRmk3ZlRsejNTbi1hNFhSZFdzdUM2eHE4YUlnbmhxOHFvYzIzcmdiVDhSNG9PSTJseDVJUzDSAbcBQVVfeXFMUGY3eXpvdVp2amZHdnN4QkJkWmdpNVN6Ni1HV2E0WlkycUI3NVFiNEw3X205eVdSWkh3NDBlaGxpNG10MEZvTEgwN1Y5d3RNNkdWUGpxVE1uM1RuSTVvbFNkS3BSRFNIakZuX01PNVl0b2JTd2llYm5kNGdUZVo5LXRQVHRSLVNrVC1iNm9xTnRpdzUwYml1Mjhoc1p3R0xxS3dES0RUT2hLQ2pHemZlMnllR245QVBv?oc=5"
+        },
+        {
+          "title": "Trump unleashes tariff blitz over Iran, India, and beef imports",
+          "url": "https://theloadstar.com/trump-unleashes-tariff-blitz-over-iran-india-and-beef-imports/"
         }
       ]
     },
@@ -286,40 +305,21 @@
       ]
     },
     {
-      "code": "IN",
+      "code": "MX",
       "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Russia’s Jan crude exports fall 11.3%, China remains largest buyer: CAS data",
-          "url": "https://www.hellenicshippingnews.com/russias-jan-crude-exports-fall-11-3-china-remains-largest-buyer-cas-data/"
+          "title": "Mexico Says Five Missing Staff From Canadian Miner Are Dead",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-09/canadian-silver-miner-says-staff-taken-from-mexico-site-are-dead"
         },
         {
-          "title": "Trump unleashes tariff blitz over Iran, India, and beef imports",
-          "url": "https://theloadstar.com/trump-unleashes-tariff-blitz-over-iran-india-and-beef-imports/"
+          "title": "Mexico Air Cargo Dips 2.4% in 2025 Amid Trade Risks",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTdwcHltYkg3MFlZVERUNGNWLXcxZ2dybk1UYVI1MHFCMVFCclNWWE1CT1NqNjNyakx0QjJSQjdoV2h1YmVteURXR2c3SHJuX3ZwNGpPUEkzRXJpNnl1amFnT0Frb3Z0TnhVWERVNXpsZzhVdEE5UEJpLWlwODZrcjNiLXBranVQRGxIZTlPc3pNcVk?oc=5"
         },
         {
-          "title": "Cargo gridlock: Emerging market airports are running out of time",
-          "url": "https://aircargoweek.com/cargo-gridlock-emerging-market-airports-are-running-out-of-time/"
-        }
-      ]
-    },
-    {
-      "code": "IL",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Dockers walk out to stop Israeli arms",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yTkRlUWNRSEJOWThCTkhKbWR2S2tESW9yZXBPX3ZOTkplcTBkOXBIRTJxU091OHFpZnZlZ3RhUzdGam1vWTVWd21XX1djeDNzTElsbWFzeWZiLWVfZWlCY0ZWZjBGVmx2?oc=5"
-        },
-        {
-          "title": "Shipping Giant MSC Facilitates Trade From Israeli Settlements Through EU",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGJVZ2hQaU1xdUQyc3VZZkN4c0w2TlBXWmlGcVZVSDgyRktDTi1WV3haVVl5N1c5THJ1cHpiTEZBTHhVQkdwcTFVTFRwSXFLZjdubjZtS3F5S1gweUFmcW5OQklBRzlFZVdCejBxQnJHTHEybGZ0LTVjTy1pY0JBWEdpYmxyVTI4SVpOZ3BXQWxJdDI1QlJ1VThxOWRNajF5dEFj?oc=5"
-        },
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXd5S1R0TS1hWW43U2ExSnpGcU9wWWxsMFFTbHlPT29oSWRzLWlyQjE2MDZ2ZjlLbXpqaXFfN2dESzRkWGNfVFZSaWlnMzhQbjRRZkJvdkRlQldnc3o1S3hfRHo0WHQybVcwaDFMdHVxT0dzeEo0VGtTMlFFak5JOVdqT0xSbTU3WjRObTlHODdJd19yN0FlYWx4WjRmZ1VUVF9ZaVNPSGw4TDZVVUpBM3VR0gG3AUFVX3lxTE8xaUpIZlg1T2hfU1BDOG9UakJWaGR1VVpNcVltbGxGUkVhTjE4OVFqNzVqbDVmdU10ZzN6Y0QxaUZhLXhka21CUmRYSkpoQmpLM1ZGRDl6UlBCMDBtekthb1NjaFIxTjF0cnpOcmFYWjlvWVFicUFQZzVaMGZaUzVERERISGRHUFVRblg0TTgzbElqWWN0WjdOM2llQ3Zyd2NhM2xPRk4yV0sydFVYT1g1eUx2WURTQQ?oc=5"
+          "title": "Panama Canal shrinks due to historic drought in 2023, halting nearly 4% of global maritime trade and igniting a race for new interoceanic waterways in Nicaragua, Mexico, Central America, and Colombia.",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
         }
       ]
     },
@@ -362,6 +362,21 @@
       ]
     },
     {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
+        },
+        {
+          "title": "How stable is Germany's supply chain? Why only dual-use logistics can protect Germany from crises and war - Xpert.Digital",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xZWdBbU9xWnprOHZZN0dCVlpfUzREdEtrekxZa3RSZTV1THU5U3VxU3dTTUM2ZXdtR1ZERG51RWZZSUJFNHZmSVBDT2Q0NXpVQ1lyUWpSVmM5aTky?oc=5"
+        }
+      ]
+    },
+    {
       "code": "CU",
       "count": 2,
       "risk_level": "medium",
@@ -373,6 +388,21 @@
         {
           "title": "Cuba says international airlines can no longer refuel there as Trump turns up the pressure",
           "url": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html"
+        }
+      ]
+    },
+    {
+      "code": "TH",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Containers fall from Bangkok Express, strike bunkering vessel at Maasvlakte II",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckFNemxRWUsyVGtLanlHbnZHamk3WnZTWTVXSUdNMzRJZjdLU2VfOGNOWGN5STZnUTFOam9meHBFeGEzOXVDdlZVbkRBZUd1UGNsUVBDYXkxa21mSXVfOExRNmZIMUpVcHpHVFZyUGVTR0NKRDVpVlhaZEJweG9abEwzOUh5MHUzUnRvMGVySUpNQ0FjeWZwdUpTM3g0ak5rckZ0Skg2VEpCczhuYnZwRUtSc0JHcXY2OG9meEpFZw?oc=5"
+        },
+        {
+          "title": "Container ship sinks off Phuket",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44MkZ6dE1tT2lIM1FiOEY0ZWFQY2dwZ3JKT3J4aWMyanhVdEhObFlPazB4cXFvX0VrVTR1MXVzY2RmRmlsb3U5c1o4V3FMSzlKZ3EwSDdscWt5VW1Uald3YllWNmliRm9kN2xB?oc=5"
         }
       ]
     },
@@ -392,6 +422,17 @@
       ]
     },
     {
+      "code": "JO",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "이스라엘 \"서안 정착촌 개발 가속\" vs 중동·유럽 \"국제법 위반\"",
+          "url": "https://www.mt.co.kr/world/2026/02/10/2026021009172987772"
+        }
+      ]
+    },
+    {
       "code": "MY",
       "count": 1,
       "risk_level": "low",
@@ -399,6 +440,17 @@
         {
           "title": "Malaysian Anti-Graft Chief Returns to Stock Market After Outcry",
           "url": "https://www.bloomberg.com/news/articles/2026-02-10/macc-head-azam-baki-returns-to-malaysia-stock-market-years-after-public-outcry"
+        }
+      ]
+    },
+    {
+      "code": "QA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "US warns of risks to merchant shipping through Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM29jZTh0Z29mVmZRZ0lIZmhuS0IxRW1HdlJQSldJNnNLQ1ZIVDliSVBNY0dGV3h1MjBpQ0k2Z0M0UF9nTm1uRUxXNTdzb0REWERudEVZZVdVUzJiMFVIczdzOXgtcVVBUGZKRy1KWS1iUExOQkZzbGxKWjRmTWp0Qmd3RTFUTVd2SHpuNEh3MnktSkRaT2ptN002MEUxZEJRTUh6dHFiZWJ3NWlEOEttQUF6Rk7SAboBQVVfeXFMTmRIaGNzbmRuallMc0VPT2JiUzN5RW5vUE1FTkgxcVBUcllkczhRZ2dBZGxBek95bW8zb2VPLUVDZldsaE02NV9jR1VhNFRRTWJlTzVBdS1fbUpkUW5DLTRINVUxcTREdGMzeGVLWEdjZ2FDdGc2NWhpRnFzdDQwQWVjTVc4LTF1ZE1Cb3ZSWW1OMmJjQXVvRUt6Q3pCNkU5eUVRM2hlOEJFbDJfUGE1ZnczcjF2Q3Q2NFZR?oc=5"
         }
       ]
     },
@@ -425,17 +477,6 @@
       ]
     },
     {
-      "code": "DE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "How stable is Germany's supply chain? Why only dual-use logistics can protect Germany from crises and war - Xpert.Digital",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xZWdBbU9xWnprOHZZN0dCVlpfUzREdEtrekxZa3RSZTV1THU5U3VxU3dTTUM2ZXdtR1ZERG51RWZZSUJFNHZmSVBDT2Q0NXpVQ1lyUWpSVmM5aTky?oc=5"
-        }
-      ]
-    },
-    {
       "code": "NI",
       "count": 1,
       "risk_level": "low",
@@ -456,41 +497,8 @@
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
         }
       ]
-    },
-    {
-      "code": "BR",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Raízen Hiring Advisers as Bonds Slump on Debt Concerns",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-09/raizen-hiring-advisers-as-bonds-slump-amid-debt-concerns"
-        }
-      ]
-    },
-    {
-      "code": "TH",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Container ship sinks off Phuket",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44MkZ6dE1tT2lIM1FiOEY0ZWFQY2dwZ3JKT3J4aWMyanhVdEhObFlPazB4cXFvX0VrVTR1MXVzY2RmRmlsb3U5c1o4V3FMSzlKZ3EwSDdscWt5VW1Uald3YllWNmliRm9kN2xB?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "CH",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXd5S1R0TS1hWW43U2ExSnpGcU9wWWxsMFFTbHlPT29oSWRzLWlyQjE2MDZ2ZjlLbXpqaXFfN2dESzRkWGNfVFZSaWlnMzhQbjRRZkJvdkRlQldnc3o1S3hfRHo0WHQybVcwaDFMdHVxT0dzeEo0VGtTMlFFak5JOVdqT0xSbTU3WjRObTlHODdJd19yN0FlYWx4WjRmZ1VUVF9ZaVNPSGw4TDZVVUpBM3VR0gG3AUFVX3lxTE8xaUpIZlg1T2hfU1BDOG9UakJWaGR1VVpNcVltbGxGUkVhTjE4OVFqNzVqbDVmdU10ZzN6Y0QxaUZhLXhka21CUmRYSkpoQmpLM1ZGRDl6UlBCMDBtekthb1NjaFIxTjF0cnpOcmFYWjlvWVFicUFQZzVaMGZaUzVERERISGRHUFVRblg0TTgzbElqWWN0WjdOM2llQ3Zyd2NhM2xPRk4yV0sydFVYT1g1eUx2WURTQQ?oc=5"
-        }
-      ]
     }
   ],
-  "total_crisis_countries": 35,
-  "generated_at": "2026-02-10T01:00:11Z"
+  "total_crisis_countries": 36,
+  "generated_at": "2026-02-10T01:26:52Z"
 }

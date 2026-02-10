@@ -1,7 +1,12 @@
 {
   "keywords": [
     {
-      "text": "stock market",
+      "text": "in january",
+      "count": 23,
+      "size": 100
+    },
+    {
+      "text": "hong kong",
       "count": 22,
       "size": 100
     },
@@ -11,8 +16,8 @@
       "size": 100
     },
     {
-      "text": "in january",
-      "count": 21,
+      "text": "stock market",
+      "count": 16,
       "size": 100
     },
     {
@@ -46,33 +51,18 @@
       "size": 100
     },
     {
-      "text": "protest new",
-      "count": 12,
-      "size": 100
-    },
-    {
       "text": "oneweb leo",
       "count": 12,
       "size": 100
     },
     {
-      "text": "artificial intelligence",
+      "text": "federal reserve",
       "count": 11,
-      "size": 100
-    },
-    {
-      "text": "operating profit",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "financial performance",
-      "count": 10,
       "size": 100
     },
     {
       "text": "interest rates",
-      "count": 10,
+      "count": 11,
       "size": 100
     },
     {
@@ -86,7 +76,7 @@
       "size": 100
     },
     {
-      "text": "ck hutchison",
+      "text": "protest new",
       "count": 10,
       "size": 100
     },
@@ -96,17 +86,12 @@
       "size": 100
     },
     {
-      "text": "to buy",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "federal reserve",
+      "text": "financial performance",
       "count": 9,
       "size": 90
     },
     {
-      "text": "valentine's day",
+      "text": "lunar new year",
       "count": 9,
       "size": 90
     },
@@ -116,7 +101,7 @@
       "size": 90
     },
     {
-      "text": "iranian waters",
+      "text": "knowledge hub",
       "count": 9,
       "size": 90
     },
@@ -136,7 +121,7 @@
       "size": 80
     },
     {
-      "text": "indefinite strike",
+      "text": "operating profit",
       "count": 8,
       "size": 80
     },
@@ -146,7 +131,12 @@
       "size": 80
     },
     {
-      "text": "lunar new year",
+      "text": "iranian waters",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "strike against",
       "count": 8,
       "size": 80
     },
@@ -157,6 +147,11 @@
     },
     {
       "text": "deploy oneweb",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "united states",
       "count": 8,
       "size": 80
     },
@@ -172,6 +167,16 @@
     },
     {
       "text": "$9.2 billion",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ck hutchison",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "physical ai",
       "count": 8,
       "size": 80
     },
@@ -206,6 +211,21 @@
       "size": 80
     },
     {
+      "text": "to buy",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "digital transformation",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "maritime safety",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "global maritime",
       "count": 7,
       "size": 70
@@ -226,22 +246,12 @@
       "size": 70
     },
     {
-      "text": "central range",
-      "count": 7,
-      "size": 70
-    },
-    {
       "text": "rising costs",
       "count": 7,
       "size": 70
     },
     {
       "text": "panama envoy",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "physical ai",
       "count": 7,
       "size": 70
     },
@@ -267,6 +277,11 @@
     },
     {
       "text": "deal with",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "under the",
       "count": 7,
       "size": 70
     },
@@ -301,11 +316,6 @@
       "size": 70
     },
     {
-      "text": "operational transformation",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "preliminary business",
       "count": 6,
       "size": 60
@@ -322,16 +332,6 @@
     },
     {
       "text": "methanol bunkering",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "maritime security",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "maritime industry",
       "count": 6,
       "size": 60
     },
@@ -361,17 +361,17 @@
       "size": 60
     },
     {
+      "text": "valentine's day",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "private equity",
       "count": 6,
       "size": 60
     },
     {
       "text": "katie greifeld",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "strike against",
       "count": 6,
       "size": 60
     },
@@ -391,17 +391,12 @@
       "size": 60
     },
     {
-      "text": "arms shipments",
+      "text": "exchange rate",
       "count": 6,
       "size": 60
     },
     {
-      "text": "체결했다고 10일 밝혔다",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "knowledge hub",
+      "text": "economic data",
       "count": 6,
       "size": 60
     },
@@ -421,11 +416,6 @@
       "size": 60
     },
     {
-      "text": "한국에서 가장 존경받는",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "january, but",
       "count": 6,
       "size": 60
@@ -441,22 +431,17 @@
       "size": 60
     },
     {
+      "text": "kong summons",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "wall street",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "figures for",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "natural gas",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "증시를 밀어 올렸던",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "first half",
       "count": 6,
       "size": 60
     },
@@ -471,17 +456,22 @@
       "size": 60
     },
     {
-      "text": "dow jones",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "beats fq2",
       "count": 6,
       "size": 60
     },
     {
       "text": "of global",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to israel",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "arms flow",
       "count": 6,
       "size": 60
     },
@@ -499,8 +489,18 @@
       "text": "group to",
       "count": 6,
       "size": 60
+    },
+    {
+      "text": "to help",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "of its",
+      "count": 6,
+      "size": 60
     }
   ],
-  "total_keywords": 22827,
-  "generated_at": "2026-02-10T01:00:27Z"
+  "total_keywords": 23556,
+  "generated_at": "2026-02-10T01:27:09Z"
 }
