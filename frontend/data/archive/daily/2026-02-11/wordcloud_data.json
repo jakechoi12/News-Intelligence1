@@ -2,17 +2,7 @@
   "keywords": [
     {
       "text": "retail sales",
-      "count": 29,
-      "size": 100
-    },
-    {
-      "text": "c.h. robinson",
-      "count": 24,
-      "size": 100
-    },
-    {
-      "text": "red sea",
-      "count": 24,
+      "count": 27,
       "size": 100
     },
     {
@@ -26,8 +16,8 @@
       "size": 100
     },
     {
-      "text": "iranian waters",
-      "count": 18,
+      "text": "interest rates",
+      "count": 17,
       "size": 100
     },
     {
@@ -36,13 +26,13 @@
       "size": 100
     },
     {
-      "text": "wall street",
+      "text": "maritime security",
       "count": 15,
       "size": 100
     },
     {
-      "text": "robinson worldwide",
-      "count": 14,
+      "text": "iranian waters",
+      "count": 15,
       "size": 100
     },
     {
@@ -61,18 +51,13 @@
       "size": 100
     },
     {
-      "text": "전년 동기 대비",
-      "count": 14,
-      "size": 100
-    },
-    {
       "text": "kong air",
       "count": 14,
       "size": 100
     },
     {
-      "text": "ships to",
-      "count": 14,
+      "text": "strait of hormuz",
+      "count": 13,
       "size": 100
     },
     {
@@ -81,22 +66,17 @@
       "size": 100
     },
     {
-      "text": "maritime security",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "strait of hormuz",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "interest rates",
+      "text": "lunar new year",
       "count": 12,
       "size": 100
     },
     {
       "text": "tracking pilot",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "oil revenues",
       "count": 12,
       "size": 100
     },
@@ -111,13 +91,8 @@
       "size": 100
     },
     {
-      "text": "ahead of",
+      "text": "ships to",
       "count": 12,
-      "size": 100
-    },
-    {
-      "text": "financial performance",
-      "count": 11,
       "size": 100
     },
     {
@@ -126,12 +101,17 @@
       "size": 100
     },
     {
-      "text": "lunar new year",
+      "text": "ahead of",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "maritime safety",
       "count": 10,
       "size": 100
     },
     {
-      "text": "worldwide, inc",
+      "text": "hyundai glovis",
       "count": 10,
       "size": 100
     },
@@ -156,11 +136,6 @@
       "size": 100
     },
     {
-      "text": "inc. $chrw",
-      "count": 10,
-      "size": 100
-    },
-    {
       "text": "india and",
       "count": 10,
       "size": 100
@@ -176,22 +151,7 @@
       "size": 90
     },
     {
-      "text": "economic slowdown",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "trucking industry",
-      "count": 9,
-      "size": 90
-    },
-    {
       "text": "maher terminals",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "hyundai glovis",
       "count": 9,
       "size": 90
     },
@@ -201,12 +161,12 @@
       "size": 90
     },
     {
-      "text": "ships from",
+      "text": "in january",
       "count": 9,
       "size": 90
     },
     {
-      "text": "rate slump",
+      "text": "ships from",
       "count": 9,
       "size": 90
     },
@@ -217,11 +177,6 @@
     },
     {
       "text": "away from",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "waters in",
       "count": 9,
       "size": 90
     },
@@ -241,7 +196,17 @@
       "size": 90
     },
     {
-      "text": "geopolitical risk",
+      "text": "artificial intelligence",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "financial performance",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "trucking industry",
       "count": 8,
       "size": 80
     },
@@ -251,22 +216,22 @@
       "size": 80
     },
     {
-      "text": "maritime safety",
-      "count": 8,
-      "size": 80
-    },
-    {
       "text": "and hapag-lloyd",
       "count": 8,
       "size": 80
     },
     {
-      "text": "wisetech global",
+      "text": "valentine’s day",
       "count": 8,
       "size": 80
     },
     {
-      "text": "valentine’s day",
+      "text": "private equity",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "worldwide, inc",
       "count": 8,
       "size": 80
     },
@@ -291,7 +256,17 @@
       "size": 80
     },
     {
+      "text": "shrinking oil",
+      "count": 8,
+      "size": 80
+    },
+    {
       "text": "market share",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ai platform",
       "count": 8,
       "size": 80
     },
@@ -306,12 +281,32 @@
       "size": 80
     },
     {
-      "text": "heavy duty",
+      "text": "rate slump",
       "count": 8,
       "size": 80
     },
     {
-      "text": "growth in",
+      "text": "inc. $chrw",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "전년 동기 대비",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "전 거래일 대비",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "plans to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to avoid",
       "count": 8,
       "size": 80
     },
@@ -326,17 +321,22 @@
       "size": 80
     },
     {
-      "text": "artificial intelligence",
+      "text": "last-mile delivery",
       "count": 7,
       "size": 70
     },
     {
-      "text": "financial results",
+      "text": "geopolitical risk",
       "count": 7,
       "size": 70
     },
     {
-      "text": "duty trucking",
+      "text": "operating profit",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "wisetech global",
       "count": 7,
       "size": 70
     },
@@ -361,7 +361,7 @@
       "size": 70
     },
     {
-      "text": "tariffs and",
+      "text": "real estate",
       "count": 7,
       "size": 70
     },
@@ -371,7 +371,12 @@
       "size": 70
     },
     {
-      "text": "in january",
+      "text": "on tuesday",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "for global",
       "count": 7,
       "size": 70
     },
@@ -396,17 +401,17 @@
       "size": 70
     },
     {
+      "text": "waters in",
+      "count": 7,
+      "size": 70
+    },
+    {
       "text": "tac index",
       "count": 7,
       "size": 70
     },
     {
       "text": "impact on",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "plans to",
       "count": 7,
       "size": 70
     },
@@ -431,6 +436,11 @@
       "size": 70
     },
     {
+      "text": "ministry of oceans and fisheries",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "guanghong electronics",
       "count": 6,
       "size": 60
@@ -451,11 +461,6 @@
       "size": 60
     },
     {
-      "text": "last-mile delivery",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "critical minerals",
       "count": 6,
       "size": 60
@@ -466,12 +471,12 @@
       "size": 60
     },
     {
-      "text": "operating profit",
+      "text": "chameleon carrier",
       "count": 6,
       "size": 60
     },
     {
-      "text": "sourcing journal",
+      "text": "economic results",
       "count": 6,
       "size": 60
     },
@@ -494,13 +499,8 @@
       "text": "global maritime",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "private equity",
-      "count": 6,
-      "size": 60
     }
   ],
-  "total_keywords": 28269,
-  "generated_at": "2026-02-11T00:40:02Z"
+  "total_keywords": 29661,
+  "generated_at": "2026-02-11T01:57:14Z"
 }
