@@ -21,12 +21,12 @@
       "insights": {}
     },
     {
-      "id": "48c0620b1b2a",
-      "title": "In rebuke, House votes to roll back Trump’s tariffs on Canada",
-      "content_summary": "In rebuke, House votes to roll back Trump’s tariffs on Canada The Washington Post",
-      "source_name": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUpYeVBnSzNUY0hNV3RPYV93Z25uTTJ6LXY0X24tVHlwMm5XWVdLUEljaXhGTzJPRVVqRlhRTUcxbkJYNUhxV2V6N2ZIczh1RlptRWJVblQ0RU5RZnpfWi1OV1U1eHBBT2tMdkJsM3dsZlY2TTJvNVRJdFV3NTdDUm9R?oc=5",
-      "published_at_utc": "2026-02-12T00:10:31Z",
+      "id": "d052728ae135",
+      "title": "House votes to override Trump's Canada tariffs",
+      "content_summary": "Republican House leaders tried, and failed, to pass a measure on Tuesday that would have blocked House disapproval votes on Trump tariffs through July.",
+      "source_name": "CNBC World",
+      "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+      "published_at_utc": "2026-02-12T01:18:12Z",
       "group_count": 4,
       "insights": {}
     },
@@ -41,16 +41,6 @@
       "insights": {}
     },
     {
-      "id": "a8c0a6c171e4",
-      "title": "카카오, 지난해 매출 8.1조 달성…역대 최대 실적(종합)",
-      "content_summary": "카카오[035720]는 지난해 톡비즈 광고 및 커머스 등 플랫폼 부문의 고른 성장에 역대 최대 실적을 냈다.콘텐츠 부문의 역성장이 이어졌지만, 플랫폼 부문이 두 자릿수 성장을 보이면서 실적을 견인했다.카카오는 12일 지난해 연결 기준 연간 매출액이 전년 동기보다 3% 증가한 8조991억원을 기록했다고 밝혔다.연간 영업이익은 7천320억원으로 48% 늘었다. 매출액과 영업이익 모두 창사 이래 역대 최대치다.카카오의 핵심 캐시카우인 '톡비즈' 부문이 실적 견인차 역할을 했다.지난해 카카오 플랫폼 부문 매출은 4조3천18억원으로 전년",
-      "source_name": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398619",
-      "published_at_utc": "2026-02-12T08:43:00Z",
-      "group_count": 3,
-      "insights": {}
-    },
-    {
       "id": "c2fe11d52326",
       "title": "HMM, 2025년 매출액 10조 8,914억 원, 영업이익 1조 4,612억 원",
       "content_summary": "HMM(대표이사 사장 최원혁)은 11일 정기 이사회를 갖고 2025년 잠정실적을 공시했다.HMM의 2025년 전체 매출액은 전년 대비 약 6.9% 하락한 10조 8,914억 원, 영업이익은 약 58.40% 감소한 1조 4,612억 원으로 집계됐다. 당기순이익은 1조 8,787억 원이었으며 영업이익률은 13.4%로 해운시황 약세 속 견조한 수익성 유지​한 것으로 나타났다.2025년 4분기 매출액은 2조 7,076억 원, 영업이익은 3,173억 원, 당기순이익은 3,639억 원을 기록했다.HMM은 2025년 컨테이너선 공급과잉, 미국",
@@ -59,8 +49,18 @@
       "published_at_utc": "2026-02-11T18:43:52Z",
       "group_count": 3,
       "insights": {}
+    },
+    {
+      "id": "8dee94899ec6",
+      "title": "선원기금재단, 해양원격의료 지원사업에 기금 지원",
+      "content_summary": "재단법인 선원기금재단(이사장 이승우)은 지난 4일 이사회를 개최하고 해양수산부가 추진 중인 해양원격의료 서비스 확대를 위한 기금 지원 등 신규사업을 포함한 2026년도 사업계획을 확정했다고 11일 밝혔다.선원기금재단은 올해부터 기금 지원을 통해 원격의료장비 신규 설치 선박을 매년 20척에서 40척으로 대폭 확대하고, 기존 장비를 설치한 선박 중 노후 장비를 최신 장비로 교체한다. 이를 통해 원격의료 서비스 이용 선박 확대와 의료 서비스 품질 향상에 기여할 계획이다.해양원격의료 지원사업은 의료 접근성이 낮은 해상에서 발생하는 선원의",
+      "source_name": "물류신문",
+      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=320010",
+      "published_at_utc": "2026-02-11T18:43:52Z",
+      "group_count": 3,
+      "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-02-12T00:33:12Z"
+  "generated_at": "2026-02-12T01:37:55Z"
 }

@@ -2,45 +2,45 @@
   "countries": [
     {
       "code": "US",
-      "count": 130,
+      "count": 131,
       "risk_level": "high",
       "articles": [
         {
-          "title": "NDF, 1,446.00/ 1,446.40원…2.30원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398633"
+          "title": "美투자회사 3곳, 韓정부 상대 법적 대응…\"쿠팡 차별 대우\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398661"
         },
         {
-          "title": "[뉴욕마켓워치] '깜짝 고용'에도 증시 하락…채권↓·달러 보합",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398627"
+          "title": "美 관세 압박 속 국회 대미투자특위 첫 회의…시작부터 파열음",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398658"
         },
         {
-          "title": "[뉴욕증시] '깜짝 고용'을 매도 기회로…약보합 마감",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398617"
+          "title": "마크 잔디 \"1월 美깜짝고용에 안도해서는 안 돼\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398651"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 45,
+      "count": 41,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"WGBI 선유입 시그널 부재…4월 '게임체인저' 기대 낮춰야\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398636"
+          "title": "美투자회사 3곳, 韓정부 상대 법적 대응…\"쿠팡 차별 대우\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398661"
         },
         {
-          "title": "현대·불장 키워드 소외된 현대로템…투자자들 왜 실망하나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398635"
+          "title": "美 관세 압박 속 국회 대미투자특위 첫 회의…시작부터 파열음",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398658"
         },
         {
-          "title": "NDF, 1,446.00/ 1,446.40원…2.30원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398633"
+          "title": "1월 국고채 17.9조원 발행…외국인 7개월 연속 순유입",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398650"
         }
       ]
     },
     {
       "code": "CA",
-      "count": 22,
+      "count": 19,
       "risk_level": "high",
       "articles": [
         {
@@ -48,31 +48,12 @@
           "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59593"
         },
         {
-          "title": "In rebuke, House votes to roll back Trump’s tariffs on Canada",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUpYeVBnSzNUY0hNV3RPYV93Z25uTTJ6LXY0X24tVHlwMm5XWVdLUEljaXhGTzJPRVVqRlhRTUcxbkJYNUhxV2V6N2ZIczh1RlptRWJVblQ0RU5RZnpfWi1OV1U1eHBBT2tMdkJsM3dsZlY2TTJvNVRJdFV3NTdDUm9R?oc=5"
+          "title": "House votes to override Trump's Canada tariffs",
+          "url": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html"
         },
         {
           "title": "House votes to slap back Trump's tariffs on Canada in rare bipartisan rebuke of White House agenda",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6ekdJMVVwWnFuUHRQRGFhOVdVcTRLMG1DX0NsajJYTWtsYWlWa1hTS29tQUMxRThTMllFN3J6eXdxelN1T2tMMGFPek1yTGFKdlM3NjJnSFhxMDNEY2UxUTJPZVRwb1ZjQThMTk9wZlkyWFI1YkNHd0hlSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 18,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "'이럴수가' 中 올림픽서 '역대급' 대형사고 쳤다! 충격의 진로방해→재경기→중국이 메달 빼앗고 심지어 中 다른 동료가 가져갔다 [밀라노 올림픽]",
-          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021208201395026"
-        },
-        {
-          "title": "中선수 '민폐 주행'에 메달 날렸다...얼굴 감싸쥐고 분노한 유망주",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021207004845442"
-        },
-        {
-          "title": "Trump Administration Warns Peru That a Chinese Port Is Costing Its Sovereignty",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-11/trump-administration-warns-peru-that-a-chinese-port-is-costing-its-sovereignty"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOE9zcUhFeDdmMG5sYkM4UWhNSzA2RE1iMDgtVng1QzJ5SzkwT1YxeFd0cWxIWEVJb1JmTE9GSEtiQW0weXJfRkk1ZFNrSlZZR25SdENjZnNpcnp1bVBqXzdsYzZlTFQ0ckNwT2x1cDVydzhmVWN3NkFEZFVMdE13cGNpSXZpN3FUdkFLbzBpOGNGczVkLTFfTXZWTzhxc1pwcU5aU0t2djFsSUpaZjc4NTBMb1RKd9IBuwFBVV95cUxPRmFNem1obFRLRjM4Mnc1dlp4YUtCRXNNRVkwLUl4VHlKbnFBa3c3ck9WQ3N0QktKUEJqWU5wb3hjUFhhN25JNTRBN0djUmQwWVBqdU5uc3M4ZzZhZlN6dWJPNXJTLVF2TEZoVnY1d3lnR0UxdmxHeVlDdnpSQ21ZcW80MXhFdVRPOHo3SEQ4LUxlS1NOOGRkZVhTbGVpUEhuLTlhZDNtcVJVVVhILWpZX0xUOFhKLVluaXBN?oc=5"
         }
       ]
     },
@@ -82,54 +63,35 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "[뉴욕유가] 美, 2차 항모 중동으로 출항 준비 중…WTI 1%↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398605"
-        },
-        {
-          "title": "Oil Steady as Traders Take Stock of Iran Tensions and Stockpiles",
+          "title": "Oil Gains as Traders Take Stock of Iran Tensions and Stockpiles",
           "url": "https://www.bloomberg.com/news/articles/2026-02-11/latest-oil-market-news-and-analysis-for-feb-12"
         },
         {
-          "title": "\"美 국방부, 중동 내 추가 항공모함 배치 지시…이란 공격 대비\"",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021206333293123"
+          "title": "US Issues New Navigation Warning for Ships Passing Through Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmRLbTBCNFpiSnFLM050UWpUWEtZN0ZUTzNiMHd6NWZHanpBdVVOdjVEWnU3dXdvenltbnZsWFhvTXhzNklzM2ZEakd4WmtNa0hnSjUxNzE4TnNKYS0tckhrbHVPZjRpTzRoWDhTajZrRzdtMGk1Q1BFNnJVUHRXbzN3cHhZUm5WVHd0amRBU0FuZGw1Q3pXOUh5bG4yUlN4RGlzMi1PTC1HM0pvdUJoLUpqVnJFeEFWaFJB?oc=5"
+        },
+        {
+          "title": "Trump administration warns US vessels to stay away from Iran territorial waters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLS0ybG9jLWJnU3F5QkxnLThrVFVUbU4wa2JUb05lc3k0WjQ4OE5EYUlBTjgtbFJPM3RFbFBWUmNrdDJuSFByY0RpRUxPWDdtTmJGNEpPeFRCdU9Zdm5kTThSUW8wakxYNVpTSWswcWFUUnUtZEV1dGhFYzJtSFZfRnBwU3ZiYy00b09oc3R5N0FOQnVPQ1IyWGVxNmJjRlJ5bDhBYkR4ZzA0b1VBajVUbHJR0gG3AUFVX3lxTE5oUERDTjh0VjIwNEZ5cUFOdnJkZzFsVUFJeFR2cFRnd0VVbkJmMzZoM2dMdEtaNnA5Sk80bmVxVUVZR1NORXM3VHF5cWwwZ2JDTktOVGJhMkl2eVBtbHN0X0JkQlE2Y2NZQ01xaElEaTVKZWtKZW9KTG9CZktQSHNOU1ozdk5DRHZxTnJYeDlfd2R3bUxfR3RoeUZzaFBZc3BSQjhzWDF3SFFJeTNRZUxBaGlCMEMwWQ?oc=5"
         }
       ]
     },
     {
-      "code": "RU",
-      "count": 10,
+      "code": "CN",
+      "count": 15,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Enforcement Shock Accelerates Dark Fleet Reflagging to Russia",
-          "url": "https://www.hellenicshippingnews.com/enforcement-shock-accelerates-dark-fleet-reflagging-to-russia/"
+          "title": "Trump Administration Warns Peru That a Chinese Port Is Costing Its Sovereignty",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-11/trump-administration-warns-peru-that-a-chinese-port-is-costing-its-sovereignty"
         },
         {
-          "title": "EU proposes sanctions on third-country ports over Russian oil",
-          "url": "https://www.hellenicshippingnews.com/eu-proposes-sanctions-on-third-country-ports-over-russian-oil/"
+          "title": "HMM, 매출 10조 8,914억, 영업익 1조 4,612억",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59588"
         },
         {
-          "title": "\"휴전·안전보장 먼저\" 젤렌스키, 5월 대선·국민투표설 부인",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021205413094074"
-        }
-      ]
-    },
-    {
-      "code": "NL",
-      "count": 9,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "The Dutch love four-day working weeks, but are they sustainable?",
-          "url": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "'이럴수가' 中 올림픽서 '역대급' 대형사고 쳤다! 충격의 진로방해→재경기→중국이 메달 빼앗고 심지어 中 다른 동료가 가져갔다 [밀라노 올림픽]",
-          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021208201395026"
-        },
-        {
-          "title": "中선수 '민폐 주행'에 메달 날렸다...얼굴 감싸쥐고 분노한 유망주",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021207004845442"
+          "title": "Asia-U.S. ocean freight rates give up 2026 gains",
+          "url": "https://www.freightwaves.com/news/asia-u-s-ocean-freight-rates-give-up-2026-gains"
         }
       ]
     },
@@ -153,65 +115,46 @@
       ]
     },
     {
-      "code": "UA",
+      "code": "RU",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Enforcement Shock Accelerates Dark Fleet Reflagging to Russia",
+          "url": "https://www.hellenicshippingnews.com/enforcement-shock-accelerates-dark-fleet-reflagging-to-russia/"
+        },
+        {
+          "title": "EU proposes sanctions on third-country ports over Russian oil",
+          "url": "https://www.hellenicshippingnews.com/eu-proposes-sanctions-on-third-country-ports-over-russian-oil/"
+        },
+        {
+          "title": "Preventing a Russian-Style Logistics Failure in Future U.S. Operations",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTEFCM3V4T0hRQV9Qbm1ab0JfVFJiaXI4NlRldU5DWk96a3Z5c3dPa2NGUlJBbmFCTnhyZ3BxTDFseHZHSDRhZzVvMTZkSmw0YUVSeG1kMVZWZ2JFMHZNVTNPR0FqZGE4eGhiYWVSSnUtU0sxblBmdmRzNXB3M2Q4a1NHVV9aN2xOcWliQUhfTmJRczk3Uk40d0Y0cTRwa1R1alFfTURSMWtabkl1M2ljOEozVmg0bnBJbkJBTW5FTjVPVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "BD",
       "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"휴전·안전보장 먼저\" 젤렌스키, 5월 대선·국민투표설 부인",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021205413094074"
+          "title": "푸켓 해역에 ‘컨’선 ‘SEALLOYD ARC’호 침몰",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56126"
         },
         {
-          "title": "ADAPTIVE INDOMITABLE UKRAINE: The Daily Russian Loss Statistic Which Screams \"Logistics Failure\"!!",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSE9YM29IZVRkTkFUYVZzM0tWT2xPU3dMejhVZ1kwTU9GYzdieWJsZnd4QzVHNzIzcHBLcEpzWDZpVEhEQjZFOHRzZFFkcjBpc215UG1yNWZOb1pudHY4aVF6ZklOSXVWWVNDeHJQYmVaT1c4cGU3cXNnZVFmQ3l6NWtCNmJOX0xSYWZnTFFnaXRfNGhJNF9XMnctajVHTjFqbTgtdHJLS19yQUR6LTFBZjJ3ODROdDZuZmMxWFgxdU9lU29oMlJfaXRGTXB6OElreTVDQzQ1UlVoWUNuR05z?oc=5"
+          "title": "\"백신·치료제 없어\" 니파바이러스 사망자 나오자 '발칵'...\"검역 강화\"",
+          "url": "https://www.mt.co.kr/thebio/2026/02/12/2026021209203286613"
         },
         {
-          "title": "Russia–Ukraine war: Where the war stands right now",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xMmtrMHZOUjJ1bnZmRG4xb0lDRnpfQm5GUFZLSnVVTlJDSWlhRDFSMGJTZklPWnZjT00temR2R09ZM2xnT0F1dlNxUXFCRE5odTNPdC0tUlN2NmdhTHZORE0tNEt3UmQyNDlGV1JCZ2RjZkJoZ0V6RzhR?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[정지서의 조곤조곤] 日 환율·금리 주시하는 청와대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398626"
-        },
-        {
-          "title": "달러-원, 美 고용 호조에 급등 후 '엔 강세'에 급락…1,447원 마감",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398591"
-        },
-        {
-          "title": "Cyber and Supply Chain Risks Reshaping Japan’s Business Landscape, Aon Survey",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpyR3VIVThOdFh4UnhkdDdKempVQTRsaWhqT3ktSUpsbTlDcGtuaVhaMW0xc3lSLXhpRzZJclh6bkVCbmdGd1NTT2Y1XzQtcC0wNlhMOTlfZWpQNHJBWE54NXRwZElPMVowUWFLcnA4aF9uSVJQT1RRbmhIdE1FcW1IRDJ1N3MzV3c?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "\"살 빠진 건 잠깐?\" 10kg 뺐다가 '허탈'...위고비 끊고 4배 빨리 쪘다",
-          "url": "https://www.mt.co.kr/society/2026/02/12/2026021208525679149"
-        },
-        {
-          "title": "Scrap proposed England holiday tax, hospitality bosses urge",
-          "url": "https://www.bbc.com/news/articles/c5yjrvje8eeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Would you pay £7.50 for a pint of Guinness?",
-          "url": "https://www.bbc.com/news/articles/cp8rmdyjj78o?at_medium=RSS&at_campaign=rss"
+          "title": "Trade Deals, Unequal Dividends: How Washington Outplayed India and Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREhTMl9abk9IQWYzVzFBS2xXT1ZWWE1nVWdBMUZ0ZTRkT2JjZlFycW81UW91WnNYSmZOckdrbzQ0TDVHSmUwWU9rTnl3LVRobEZJdC1hU0EybjEyMVI4LW10bF9GSGkxYmdneTAtLWVsbThsR2loZnZZdEprMzNIaXcyM0JsLVBHcFdVTFh4MEpQWnJrSUpIaFgwS3ZneFUzejdvaXZDNWJ6Y2ZF?oc=5"
         }
       ]
     },
     {
       "code": "EU",
-      "count": 7,
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
@@ -223,27 +166,122 @@
           "url": "https://www.hellenicshippingnews.com/eu-proposes-sanctions-on-third-country-ports-over-russian-oil/"
         },
         {
-          "title": "Factbox-EU Tariffs on Imports of China-Made EVs",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdnFsQ3E5SnJuSmE2LXJLQXlHU3Y5RU9maFI2S2tZMVRNbmE3Wmk4c092VktNbVoxMjBlY0VIVEQ0TnJFOVRTY2wxUFhrdWFFbGo1SXRIdm12SUIyN0pNbGR1VDdpNUFXUFhMMVdVb05yczA5YUtZR3htUnZjM0RxMkNhU3E5ZjFFc2hnZlBzR1hwY0JqZGt1c0gtVlhSMy02bC1GUU9xdi1RRGM?oc=5"
+          "title": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
+          "url": "https://www.hellenicshippingnews.com/engine-europe-africa-bunker-fuel-availability-outlook-13/"
         }
       ]
     },
     {
-      "code": "BD",
+      "code": "JP",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "1월 국고채 17.9조원 발행…외국인 7개월 연속 순유입",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398650"
+        },
+        {
+          "title": "[정지서의 조곤조곤] 日 환율·금리 주시하는 청와대",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398626"
+        },
+        {
+          "title": "Cyber and Supply Chain Risks Reshaping Japan’s Business Landscape, Aon Survey",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90dTdtVDN2am9MWVhuZk53THE3SmJXYXdRNHA2N2xBSTdFT0gtZ2pKRTU1WGk2TEpBNm1zTDhfVHNpYmxVRlhSOXN0RWlNNjFLbjdkMEZxaGI?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "ADAPTIVE INDOMITABLE UKRAINE: The Daily Russian Loss Statistic Which Screams \"Logistics Failure\"!!",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSE9YM29IZVRkTkFUYVZzM0tWT2xPU3dMejhVZ1kwTU9GYzdieWJsZnd4QzVHNzIzcHBLcEpzWDZpVEhEQjZFOHRzZFFkcjBpc215UG1yNWZOb1pudHY4aVF6ZklOSXVWWVNDeHJQYmVaT1c4cGU3cXNnZVFmQ3l6NWtCNmJOX0xSYWZnTFFnaXRfNGhJNF9XMnctajVHTjFqbTgtdHJLS19yQUR6LTFBZjJ3ODROdDZuZmMxWFgxdU9lU29oMlJfaXRGTXB6OElreTVDQzQ1UlVoWUNuR05z?oc=5"
+        },
+        {
+          "title": "Russia–Ukraine war: Where the war stands right now",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xMmtrMHZOUjJ1bnZmRG4xb0lDRnpfQm5GUFZLSnVVTlJDSWlhRDFSMGJTZklPWnZjT00temR2R09ZM2xnT0F1dlNxUXFCRE5odTNPdC0tUlN2NmdhTHZORE0tNEt3UmQyNDlGV1JCZ2RjZkJoZ0V6RzhR?oc=5"
+        },
+        {
+          "title": "Logistics disruptions keep Ukraine wheat exports at low levels, union says",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkl5Um5fZ3FkZTNzVDd5eXR1dGN3WGdyaEh4bl9HUUdtQUNiREREa0tya0w1N0JIMVdDbzZGdk5kVlBqQ2ZXV2RqcU1BSXpSZkVJcEJiRDc2d1dDNGJsa2FYQjlSNlJHUEktV0x0eTdDZVVQVk1ocjVoNUt6bFg1cUtjcUtxR05MVzhDRFh1QXlMaDN2cU1yOXZQY1J1RmRhdW13WXUyMHNvWjhMVGVTU0dia3NKMnBlcmlobUFlVVpoTWJKLXVGazd30gHXAUFVX3lxTE02RkNUNHZOZ19GUEhqOHoxWlRGdWlzZi1FSnctTU5NYVBBa3I4U3hmV2V2OHRTSUY5Q3ZYVDJKU0JZNmZjbk12TWlfOXp0aFFxRmVFNjRINFJZc25kZmcwYVBMZFJmSEZuaDRIc0YxZHg3UFFHTWZoUlBnTUVjNU9lUUwwdkU2bkktNlBNbWp4cFE4eFJ1SEZzMDBkNmJiQ25vdTBUUE1xMWV1bnRzaFY0a2VOYmgzZzJ1YmwwTFhWeVN2OGxHcFJRRDhsUk53SGFRbXFKSVNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
       "count": 6,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Trade Deals, Unequal Dividends: How Washington Outplayed India and Bangladesh",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREhTMl9abk9IQWYzVzFBS2xXT1ZWWE1nVWdBMUZ0ZTRkT2JjZlFycW81UW91WnNYSmZOckdrbzQ0TDVHSmUwWU9rTnl3LVRobEZJdC1hU0EybjEyMVI4LW10bF9GSGkxYmdneTAtLWVsbThsR2loZnZZdEprMzNIaXcyM0JsLVBHcFdVTFh4MEpQWnJrSUpIaFgwS3ZneFUzejdvaXZDNWJ6Y2ZF?oc=5"
+          "title": "챌린지, 젯에어웨이즈 ‘B777’ 3대 확보",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59591"
         },
         {
-          "title": "Chattogram Port Reopens, But Labor Threat Looms Over DP World Lease Talks",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVJoVHJJSUZaNmd0cFRIWTRRU1JjM3BsSU1zZl9FU0QwSW1lM3Y2VW5HUlo0T2MtUlN2V1VJckNZU28xd0txR2QwRTViTDhXR0hJekpSQ24xY3J5bDVwWWY3Y2o5dG9DWm1CVDhpWTdjeV81LXZUNGV2eDZSaFY5MU1DbUlnNEVCYVJXdHNOaDJ6bWtQUmp1RGZVZ1VCZGFtQjRSZVBKam9QNUttY2ZEUmtDemJLTUh6WmRtc1JQUWFkWjFmekNnQUxEd0N5MnFlNFhMZEIwY29XRW1jcC0zSS1HU3QyZUd1Zzcyb3F3VQ?oc=5"
+          "title": "\"백신·치료제 없어\" 니파바이러스 사망자 나오자 '발칵'...\"검역 강화\"",
+          "url": "https://www.mt.co.kr/thebio/2026/02/12/2026021209203286613"
         },
         {
-          "title": "Bangladesh boxes begin to move as Chittagong port workers suspend strike",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW90VEM4T283TkJVV0JUcmozU21NT1k2VjJpaUlEUmgxbVZRLVllS3U5ZHNKaERxeDZqNFRVODBXQTFOa2NHY1RWS0hDTWhyUmZrZExaYVk5QXp0U0RsSC1ubkdLLU1mbHVJMzlpREMyTlZlQnQyTU9mRkVpTlU3SFp0ZGJPdmlmY29GOUhTWDlZZXJLTFVELTg4eUZNaWFlVnc4dFAwMEFJZy1G?oc=5"
+          "title": "Semiconductor crunch, logistics disruption exposed auto supply chain fragility: Hyundai India MD",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGNqUjlucFpaRUhzV2tla2x6TXNWMjdZdUdFLXQ2NlhfdkRaSHB1d01PaWFEUlJZRHYyY3pkSVpkYm5BSmdDeWhUXzBMVU9zbXFXVFpMV29NWU5aRlBYd1VSNUM0UjBTRmhEcHNzOXBwU2lHYmJEZE9nZlM1dF9QMHFPakJROExFUDBGdGc1RlhzYWZBRDdLUjIwWC05Rlk4UkVSS25aNkdFMnFFaTlabWpHODBsTEEtNHQxa0lYR2NHODVId0FwamdDOEJZX0kybzdB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Scrap proposed England holiday tax, hospitality bosses urge",
+          "url": "https://www.bbc.com/news/articles/c5yjrvje8eeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Would you pay £7.50 for a pint of Guinness?",
+          "url": "https://www.bbc.com/news/articles/cp8rmdyjj78o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Port Glasgow road closure extended by five days - here are the new dates",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0QtdjIxbEVPb195S3VMWUVjVXNxM3FVbDVqaktaejBhZ3Q3dm03MDJISVlVcUhTcHF0U0JIa0Yta2pPTHR3UDRqR2FWbWZNcVduczVDbEJsVE5rM2F2Q3RmSWlxLUY1d0NBNDZpalU1ZVZQT3pGRTh0RjFSTWVYNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "The Dutch love four-day working weeks, but are they sustainable?",
+          "url": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Rotterdam bunker demand slips as RED boosts conventional fuel prices",
+          "url": "https://www.hellenicshippingnews.com/rotterdam-bunker-demand-slips-as-red-boosts-conventional-fuel-prices/"
+        },
+        {
+          "title": "Falling Containers Briefly Halt Operations at Port of Rotterdam",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2tHS1pIUUNMcTZnSmlJeHJzT0N2UWFqcVJoQVZLV3k4UnA1NllNN2J3MmdBTC1LYVVoSHFLVXN4MTFjY25MVTZqaUhrN285cWp6WGNlek4wZ3JYeGVOamFaYlVXTzM2Sk5hWWROUVcteUMwWEpyQnJmSGI1ZXQ2b2hGeGRPMFNPRHVvVEtKWERIOURwNEdRUFFhWGpxOHdhZm5QY0ln?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "PA",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "US Tariffs Hit Central American Plastics Trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXh0elRkOXpOYlV4NVcxSDFTc2docUVHLWRXZWI4YXZFdV9FbWpqbFBRWU5LTmY1U0s5bTVZUmR0UU5VTDB5dWQxaHN5emxUUjNLX3k4dkFBQ3pnR1Q1RWY3OFhRSk41dkdrMlJkNEpfUHV5S2ZwUDdXSXdleHp0WHhfX0szLS1tcWZ4NnRVNjFFdlJYcl93eEU4Zk9HZUZaWmNXZXc2Vllnb1BfWGJ0OXRPU1ZERnhNazU2ampnOEY?oc=5"
+        },
+        {
+          "title": "Ports dispute hurts investors’ confidence in Panama, Hong Kong leader warns",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGVYUHNJVURwRFN1X1hiemJkSnFlbkxhVnpPX1Q2TDR0SVp2bDM1YkxpMU1iM2xaa3A3eTRDSklnSUVaWmIxRkdlTE93Z0ZLRjFiYWV0cWxLTnhYYy1oVUFFbUVhZU5nVXB2UF8zWkp4MFo1WEF0Vjdwb0tJdUNweG0zMzlOcWhfYnlPeHc3bS1RNFRIcnB0SmVoT3pFZ2FHUVFEUDh6MXB3Vkhw?oc=5"
+        },
+        {
+          "title": "Ports row prompts Hong Kong investors to reassess stakes in Panama: John Lee",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUhpYkQ5WFdFSlM0UTEzSk1XNnpIc0RuR240VWRSczh0N01FX3E4dFdFQWJsU1dBRTlHeDhvZ0FyRndsZU1ucDJBSE9oXzRJMGxkblk0NUMtZ0hsaTUyZmU1bkd0NFdCWDQ0T2ItVlgtbWh3MGM4RDE4dUt2YWIyNnpndTRISW9LTFp3enlKTHQySDFvNHpWaU9UODJiMnVpWmR6OGk0c1FSQnZHMTlqZUZPV1EzM1U4Y1JBZEcyMUw2d0ZFQTVVQmtn0gHKAUFVX3lxTE5YNnRHQnN0N20ya1NxWmZIM0VTN01idmtGVHdoNjBTY3FBeFdJWTdfZE4wVzB5V1dMYVBydW04em9IUFN4WFBfWjZPLUNUaGRkeDdKczFuV2daZW42dm5tTEJueXU3MzVxMm8waU1WY1JFeVBTeUxnTFE0bGlWU0RnN1Bzb3Vlc0FLUXNvaEl3MzZITUJfRXVVU3dRV0ZBQWNienpSTHZHRGxuN2Y3aHlsVjFBSGU4RkppUTlRYUxYcGp6QVFwWkZNRHc?oc=5"
         }
       ]
     },
@@ -267,6 +305,25 @@
       ]
     },
     {
+      "code": "AU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "RBA 총재 \"인플레 고착화되면 추가 금리 인상\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398659"
+        },
+        {
+          "title": "‘Very hard decision’: Award-winning SA winery’s shock closure",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTmdrSEZqZE9EMHVJUldjMW5BQU0wQlZ3MEt1OVZVYzZvMy1kYUVwdG5uUnA0YVl5N0JfUllWVFFSUzA4T2RIakxZZnQ3LUFUdXJKc0RnQjFoM3FKelVzOWQ0N2E0d0kyTUdWSTEyQnpRN1dDbld4Rl9wRldvV3VEUEVHNkgwVXdVNnB2V1FnSGlNa295OFRRRUFRZV9DQi11MjM0MVRCcFhmcTdEc29QejJUSzlKeGQwdFFsVEdVOEw0TThBeUN3Z1RzUzdfS0JvSEh5bWtZbFZNQk5jdVNIU3I1RGI1ZklPVGtpb3dMR1JrRGNDRTQtUS0zQdIBgAJBVV95cUxOcFlrTkN5RDh3eDc3M1ctTFdSMlkwT1ZCYzJBMDd0dUZSX3o4MkJMdF9qakkwbUdhZWstOVFpRnZFOUxodVdlZTJJWVVGckFkSFBLYmhhdU40ZHJiR1dTNy1aN1Y1R2ZwUTY2aG41cGo5VWV0dEtvei01eE5Bd0dqZFVXRWtsa3QzSzd3bG4xd19kWnZxcTNmOV9Lbkg0VjRkRDMwMllOd2Z1Y2ctUXptNV80cF9tc1lWLTlNSXlEaVI1akI2TGZqQkxjLUpHdjN5czl2T0hReFVEcmZyVFFaREFDakxvdW9LT2ltdDZlaTdMb1EyeDVydXVCR29ReE1Q?oc=5"
+        },
+        {
+          "title": "ASX Flags Lower Dividend Payouts to Meet Regulatory Probe Costs",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-11/asx-flags-lower-dividend-payouts-to-meet-regulatory-probe-costs"
+        }
+      ]
+    },
+    {
       "code": "ID",
       "count": 4,
       "risk_level": "medium",
@@ -286,78 +343,21 @@
       ]
     },
     {
-      "code": "IN",
-      "count": 4,
+      "code": "SG",
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Semiconductor crunch, logistics disruption exposed auto supply chain fragility: Hyundai India MD",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTlJTbHpYWl81cC1mSV8wLUlxTWN2TGxGSkhZZ0s2dVJpUUlTUTY1WHVzcGVfVWg1UEswdXVkMU9nekl3S0xRSmJjRGM3Zy1EQXM1VnZNek82Zzk1M0Zlc3Y5cnB5V1ZKOXA0TDlzQm1tZ21mSjBGX3d6SzNqcDdyc3ZMbVJlT2dGazc1Yk1xdHR5TmJwTzlmZU01RjBHNnAzWTlGZFp2MUlwYjNraFBBOC15ekNLWkkwMk5RVExfSER0am1Ic05nS09hWmJIT1JpbnpJb0Fuc1XSAdgBQVVfeXFMTk5SU2x6WFpfNXAtZklfMC1JcU1jdkxsRkpIWWdLNnVSaVFJU1E2NVh1c3BlX1VoNVBLMHV1ZDFPZ3pJd0tMUUpiY0RjN2ctREFzNVZ2TXpPNmc5NTNGZXN2OXJweVdWSjlwNEw5c0JtbWdtZkowRl93ekszanA3cnN2TG1SZU9nRms3NWJNcXR0eU5icE85ZmVNNUYwRzZwM1k5RmRadjFJcGIza2hQQTgteXpDS1pJMDJOUVRMX0hEdGptSHNOZ0tPYVpiSE9SaW56SW9BbnNV?oc=5"
+          "title": "푸켓 해역에 ‘컨’선 ‘SEALLOYD ARC’호 침몰",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56126"
         },
         {
           "title": "머스크, 亞→印·파키스탄항로 PSS",
           "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59583"
         },
         {
-          "title": "Trade Deals, Unequal Dividends: How Washington Outplayed India and Bangladesh",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREhTMl9abk9IQWYzVzFBS2xXT1ZWWE1nVWdBMUZ0ZTRkT2JjZlFycW81UW91WnNYSmZOckdrbzQ0TDVHSmUwWU9rTnl3LVRobEZJdC1hU0EybjEyMVI4LW10bF9GSGkxYmdneTAtLWVsbThsR2loZnZZdEprMzNIaXcyM0JsLVBHcFdVTFh4MEpQWnJrSUpIaFgwS3ZneFUzejdvaXZDNWJ6Y2ZF?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "PA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Ports dispute hurts investors’ confidence in Panama, Hong Kong leader warns",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGVYUHNJVURwRFN1X1hiemJkSnFlbkxhVnpPX1Q2TDR0SVp2bDM1YkxpMU1iM2xaa3A3eTRDSklnSUVaWmIxRkdlTE93Z0ZLRjFiYWV0cWxLTnhYYy1oVUFFbUVhZU5nVXB2UF8zWkp4MFo1WEF0Vjdwb0tJdUNweG0zMzlOcWhfYnlPeHc3bS1RNFRIcnB0SmVoT3pFZ2FHUVFEUDh6MXB3Vkhw?oc=5"
-        },
-        {
-          "title": "Ports row prompts Hong Kong investors to reassess stakes in Panama: John Lee",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeUhpYkQ5WFdFSlM0UTEzSk1XNnpIc0RuR240VWRSczh0N01FX3E4dFdFQWJsU1dBRTlHeDhvZ0FyRndsZU1ucDJBSE9oXzRJMGxkblk0NUMtZ0hsaTUyZmU1bkd0NFdCWDQ0T2ItVlgtbWh3MGM4RDE4dUt2YWIyNnpndTRISW9LTFp3enlKTHQySDFvNHpWaU9UODJiMnVpWmR6OGk0c1FSQnZHMTlqZUZPV1EzM1U4Y1JBZEcyMUw2d0ZFQTVVQmtn0gHKAUFVX3lxTE5YNnRHQnN0N20ya1NxWmZIM0VTN01idmtGVHdoNjBTY3FBeFdJWTdfZE4wVzB5V1dMYVBydW04em9IUFN4WFBfWjZPLUNUaGRkeDdKczFuV2daZW42dm5tTEJueXU3MzVxMm8waU1WY1JFeVBTeUxnTFE0bGlWU0RnN1Bzb3Vlc0FLUXNvaEl3MzZITUJfRXVVU3dRV0ZBQWNienpSTHZHRGxuN2Y3aHlsVjFBSGU4RkppUTlRYUxYcGp6QVFwWkZNRHc?oc=5"
-        },
-        {
-          "title": "Hong Kong Lodges Formal Protest Over Panama Canal Port Court Decision",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtNb0pCcTVjaDZPVUNESGs5a0ZkcC1LdnV6akFuemZZaVNFbklNNUdsN3VCc0RfTDBkYzFfaXhrWkpBeGFHVm9XX2xNTFhVM0dhdV9ycnA5Um40WTFxTUd2S3hsTTJEbHhfUjJhUVVxSm1zT2ZoWnhpbF9ubkk3WnZ4RmsxSGgwMXpXeGlfQXhHdk8tTHc?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IL",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "[뉴욕유가] 美, 2차 항모 중동으로 출항 준비 중…WTI 1%↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4398605"
-        },
-        {
-          "title": "Dockers walk out to stop Israeli arms",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yTkRlUWNRSEJOWThCTkhKbWR2S2tESW9yZXBPX3ZOTkplcTBkOXBIRTJxU091OHFpZnZlZ3RhUzdGam1vWTVWd21XX1djeDNzTElsbWFzeWZiLWVfZWlCY0ZWZjBGVmx2?oc=5"
-        },
-        {
-          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXd5S1R0TS1hWW43U2ExSnpGcU9wWWxsMFFTbHlPT29oSWRzLWlyQjE2MDZ2ZjlLbXpqaXFfN2dESzRkWGNfVFZSaWlnMzhQbjRRZkJvdkRlQldnc3o1S3hfRHo0WHQybVcwaDFMdHVxT0dzeEo0VGtTMlFFak5JOVdqT0xSbTU3WjRObTlHODdJd19yN0FlYWx4WjRmZ1VUVF9ZaVNPSGw4TDZVVUpBM3VR0gG3AUFVX3lxTE8xaUpIZlg1T2hfU1BDOG9UakJWaGR1VVpNcVltbGxGUkVhTjE4OVFqNzVqbDVmdU10ZzN6Y0QxaUZhLXhka21CUmRYSkpoQmpLM1ZGRDl6UlBCMDBtekthb1NjaFIxTjF0cnpOcmFYWjlvWVFicUFQZzVaMGZaUzVERERISGRHUFVRblg0TTgzbElqWWN0WjdOM2llQ3Zyd2NhM2xPRk4yV0sydFVYT1g1eUx2WURTQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IT",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "'이럴수가' 中 올림픽서 '역대급' 대형사고 쳤다! 충격의 진로방해→재경기→중국이 메달 빼앗고 심지어 中 다른 동료가 가져갔다 [밀라노 올림픽]",
-          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021208201395026"
-        },
-        {
-          "title": "中선수 '민폐 주행'에 메달 날렸다...얼굴 감싸쥐고 분노한 유망주",
-          "url": "https://www.mt.co.kr/world/2026/02/12/2026021207004845442"
-        },
-        {
-          "title": "The Italian Data Protection Authority and the Labor Inspectorate are inspecting Amazon's logistics centers.",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY3VCYkhmOHR0V0EtQXU2bkM1R3E2UldlTVpUWURRbDE2LW55MkpSdG8tWHZDSjNlcnd6LXl1MDljVUtNcXJrYVNmbHBxSVQzM2tVWEVpMWI4dGRteERMNEpoanNvRTN0SHNkUkJJSG5YYmdzalRWYWV6RWQtZDJmNEhjTjBNTGdwVVZ2bEdqLXdDbXpYLWJDQlAwNFEtZ1hHd19Dc1o3QXZXVXlwV2ZTMlR5Q3o5MnNZbHhFSVZGN3NnMkxRNEEzRjlvdHBaUQ?oc=5"
+          "title": "Russian oil tankers list Singapore as destination amid sanctions and shift to China, LSEG data shows",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanlXQ3AzaXlISzFUWDhZRzRuRTByM0Z6ZUl2X2NhRnFoWEY4SFFvRWItdzRER3pxQnBqQ29lWE00TzdOc1psZ1ZBVVY4clBwczlCanlHQmhXS0VkWkRiZ0FnNWdNVTI0ekE2MjBFQlZKQTlOb28yQXVnYVJiRjZxYmd1Snl4VFFvSEZwVkt3dVBWRTE2SGlmbGpteWNIbjhEdlNtdnlVRFd5YzdKc0FiSFV0NVBQelctUXhZWFdQbkROU1lZQ2pSbDFnU2hJTXVOUmVaRzRtQWo?oc=5"
         }
       ]
     },
@@ -367,16 +367,16 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "'김민재 충격의 연속 결장' 뮌헨, 라이프치히 2-0 완파 '컵대회 4강 진출'",
-          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021207570114138"
-        },
-        {
           "title": "Ocean Alliance and ONE to cut transatlantic capacity",
           "url": "https://theloadstar.com/ocean-alliance-and-one-to-cut-transatlantic-capacity/"
         },
         {
           "title": "하파그로이드 2025년 EBITDA 28% 감소",
           "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=330006"
+        },
+        {
+          "title": "Global fresh produce trade weathers the storm to spark unbeatable FRUIT LOGISTICA",
+          "url": "https://aircargoweek.com/global-fresh-produce-trade-weathers-the-storm-to-spark-unbeatable-fruit-logistica/"
         }
       ]
     },
@@ -400,6 +400,36 @@
       ]
     },
     {
+      "code": "TH",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "푸켓 해역에 ‘컨’선 ‘SEALLOYD ARC’호 침몰",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56126"
+        },
+        {
+          "title": "머스크, 亞→印·파키스탄항로 PSS",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59583"
+        }
+      ]
+    },
+    {
+      "code": "MY",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "푸켓 해역에 ‘컨’선 ‘SEALLOYD ARC’호 침몰",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56126"
+        },
+        {
+          "title": "머스크, 亞→印·파키스탄항로 PSS",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59583"
+        }
+      ]
+    },
+    {
       "code": "CU",
       "count": 2,
       "risk_level": "medium",
@@ -415,47 +445,32 @@
       ]
     },
     {
-      "code": "AU",
+      "code": "GH",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "‘Very hard decision’: Award-winning SA winery’s shock closure",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTmdrSEZqZE9EMHVJUldjMW5BQU0wQlZ3MEt1OVZVYzZvMy1kYUVwdG5uUnA0YVl5N0JfUllWVFFSUzA4T2RIakxZZnQ3LUFUdXJKc0RnQjFoM3FKelVzOWQ0N2E0d0kyTUdWSTEyQnpRN1dDbld4Rl9wRldvV3VEUEVHNkgwVXdVNnB2V1FnSGlNa295OFRRRUFRZV9DQi11MjM0MVRCcFhmcTdEc29QejJUSzlKeGQwdFFsVEdVOEw0TThBeUN3Z1RzUzdfS0JvSEh5bWtZbFZNQk5jdVNIU3I1RGI1ZklPVGtpb3dMR1JrRGNDRTQtUS0zQdIBgAJBVV95cUxOcFlrTkN5RDh3eDc3M1ctTFdSMlkwT1ZCYzJBMDd0dUZSX3o4MkJMdF9qakkwbUdhZWstOVFpRnZFOUxodVdlZTJJWVVGckFkSFBLYmhhdU40ZHJiR1dTNy1aN1Y1R2ZwUTY2aG41cGo5VWV0dEtvei01eE5Bd0dqZFVXRWtsa3QzSzd3bG4xd19kWnZxcTNmOV9Lbkg0VjRkRDMwMllOd2Z1Y2ctUXptNV80cF9tc1lWLTlNSXlEaVI1akI2TGZqQkxjLUpHdjN5czl2T0hReFVEcmZyVFFaREFDakxvdW9LT2ltdDZlaTdMb1EyeDVydXVCR29ReE1Q?oc=5"
+          "title": "한국에 남은 이유...샘 오취리, '인종차별 논란' 5년만에 고백",
+          "url": "https://www.mt.co.kr/society/2026/02/12/2026021208035845839"
         },
         {
-          "title": "Port Hedland Operations Resume Following Tropical Cyclone Mitchell Disruption",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbEJfMWhJS3FScE0xc3lDSVNYaENDMENTZ0VuVHVTNGVTUGx6TmxueEtwX09xNGVZSG1oZ0RCQVFiZzhvdEljUnFhMFNiaW5aSVdaZXBUdlNKRlVJZktIWkxCb3BELVd1WHFpVVFzSFpCb2R4TEExTFp4a29McGllaUViY1REWjlvZWVJ?oc=5"
+          "title": "Ghana’s GH¢33 billion cocoa debt crisis threatens global chocolate supply chains",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUS1wd0FrNHJMdWRPdFhOY3RNUVhwMzFoRG5XS2tldHRBQ2kzT3lyUU5Rd2JCZ091VzVkVG1zMVFiSkpBNm5VQW5CSHlyWTU5aEljYTZTQ1JEdFVMY1VwanhLbEdweGQ0NVJ4cXZHcHlxSVQ2el9lbnhGU29QQUtaM0MyVFMzTDYyckpKSGM3TFVWOGpZcWhvX0dzQmxET2V4YkljZTByTHJrTHl4UHB2RGQxM1B3bl85TGJuVjczLUd2Z193YTlsZ0FR?oc=5"
         }
       ]
     },
     {
-      "code": "CH",
+      "code": "NI",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Trump Raised Swiss Import Tariffs After Phone Call Dispute",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnFodGZEYW41VXMzUkZrMDJOME9Zb2pSZG9QcjhLNHQtMHdxTk9aT2pHOTV1RUZVdW41OWNJWjcwakhxME03NW9vZk4ybVprV20xbEpnR3N0aEpkQV8taXdjU0Y0VWRWXzF1R3djOFV3b1g2ZGs1YzFYdUY1akxTUUZueWNtUjdkSnJPZnZwWDjSAZYBQVVfeXFMUGd1WGtzdTJXc2ZQQm5pdTNKeFFFV0tjOHlXcFoxY0xPWDN6MUdnNmx2Q1lyYjdxaEtRQ2NETER5bmVGVUFhb0ZEX3hZdmpVRDFFQmhLeEI3UUdSYl8tN2hDZGV0VlZnYmgydDFrR1lZdFZqbUtWR1ZFbm1PMmdncXlXS0w2RTZHVkF0Q1lNZm1vb3lRcWF3?oc=5"
+          "title": "US Tariffs Hit Central American Plastics Trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRXh0elRkOXpOYlV4NVcxSDFTc2docUVHLWRXZWI4YXZFdV9FbWpqbFBRWU5LTmY1U0s5bTVZUmR0UU5VTDB5dWQxaHN5emxUUjNLX3k4dkFBQ3pnR1Q1RWY3OFhRSk41dkdrMlJkNEpfUHV5S2ZwUDdXSXdleHp0WHhfX0szLS1tcWZ4NnRVNjFFdlJYcl93eEU4Zk9HZUZaWmNXZXc2Vllnb1BfWGJ0OXRPU1ZERnhNazU2ampnOEY?oc=5"
         },
         {
-          "title": "Trump repeats claim that Switzerland ‘rips off the United States’",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS3YzRS1ZeG1kSkpSbUppbWJOQTR4bzBjdnpGbEpYSDl6NXRLLVhLZGsxckVnRFBxWFNmb1MyQXF2TXo5M2NCTGNqZXFsaGhLU0FWdzNPU3ROeWExTFprUWxRSmhadEtTVlRyV1Q5NHJZakZaM29hVHdYMFpXYkRZaEIwejFtZnk4cDFnbEltalNTUUdKc2tvQWEzYWVBQU8xT25Jdm1ZMXBEZmE0dl9wZXhqa0I?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "DK",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Novo Nordisk faces a defining year in the obesity drug market. It’s off to a dramatic start",
-          "url": "https://www.cnbc.com/2026/02/11/novo-nordisk-faces-defining-year-in-the-obesity-drug-market.html"
-        },
-        {
-          "title": "머스크, 직원 1천명 감축 계획",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=329977"
+          "title": "Panama Canal shrinks due to historic drought in 2023, halting nearly 4% of global maritime trade and igniting a race for new interoceanic waterways in Nicaragua, Mexico, Central America, and Colombia.",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMFl5QzRwVjd5OVJiRnh2bEJOOVpHN0IwcHdzSDhwM1VTTGk3bnVnb21kQmlxaThfa0pUbzhVc0lXNHNBZjlUQV9lUk5kLThoMERPMXptZnNrVzhaS0NWZC04eGlyc3dDNGZfVHU2WHFmR1A2RjhSaTZjVlNpOWYyTHRYWXdLT2Y4Rzl1N0lOMmRVUnpGRmpJWU5OOVhHOWNXMkNWMkJrcTlmMG5aS2h3SkhoSEI4ZnFta3VOWVJYcHhsSWVySDVSLWd6VTZTSzFsQlVtclI5bHJUNnBZV1M1SjR6aVJHRVBrNXBZb1dPdHZPeFFuQXdmZnZUeXB3alo2NzZxWGR2YzhMSERFOWZYZVFZcw?oc=5"
         }
       ]
     },
@@ -475,36 +490,6 @@
       ]
     },
     {
-      "code": "BR",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Brazilian Fintech AGI Shares Fall After $240 Million US IPO",
-          "url": "https://www.bloomberg.com/news/articles/2026-02-11/brazilian-fintech-agi-shares-fall-8-after-240-million-us-ipo"
-        },
-        {
-          "title": "Brazil winds down tariff break for Chinese EV kit imports",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkFSdUxFYjdYNlFabGVUaV9ZTWFMMkJEOUN1VWdQeU5TVy00UTZfTEdpdnlWb3ZSU1Q5bzA2OE4wRlZjNUpXV3BlYlgyMmlZdXZwWDJVeURoZzVFSlZWV3IxTEZpQ2xkYUpWelR3QlZTamRpREJmQkdvZzU2emp0OW51T1dhR1dvZGd3NmdHQnF5UjBobnc1V1c0RQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "SG",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "머스크, 亞→印·파키스탄항로 PSS",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59583"
-        },
-        {
-          "title": "Russian oil tankers list Singapore as destination amid sanctions and shift to China, LSEG data shows",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQanlXQ3AzaXlISzFUWDhZRzRuRTByM0Z6ZUl2X2NhRnFoWEY4SFFvRWItdzRER3pxQnBqQ29lWE00TzdOc1psZ1ZBVVY4clBwczlCanlHQmhXS0VkWkRiZ0FnNWdNVTI0ekE2MjBFQlZKQTlOb28yQXVnYVJiRjZxYmd1Snl4VFFvSEZwVkt3dVBWRTE2SGlmbGpteWNIbjhEdlNtdnlVRFd5YzdKc0FiSFV0NVBQelctUXhZWFdQbkROU1lZQ2pSbDFnU2hJTXVOUmVaRzRtQWo?oc=5"
-        }
-      ]
-    },
-    {
       "code": "TW",
       "count": 2,
       "risk_level": "medium",
@@ -520,17 +505,32 @@
       ]
     },
     {
-      "code": "NO",
+      "code": "IL",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Dockers walk out to stop Israeli arms",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yTkRlUWNRSEJOWThCTkhKbWR2S2tESW9yZXBPX3ZOTkplcTBkOXBIRTJxU091OHFpZnZlZ3RhUzdGam1vWTVWd21XX1djeDNzTElsbWFzeWZiLWVfZWlCY0ZWZjBGVmx2?oc=5"
+        },
+        {
+          "title": "Shipping giant MSC facilitates trade from Israeli settlements through EU",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXd5S1R0TS1hWW43U2ExSnpGcU9wWWxsMFFTbHlPT29oSWRzLWlyQjE2MDZ2ZjlLbXpqaXFfN2dESzRkWGNfVFZSaWlnMzhQbjRRZkJvdkRlQldnc3o1S3hfRHo0WHQybVcwaDFMdHVxT0dzeEo0VGtTMlFFak5JOVdqT0xSbTU3WjRObTlHODdJd19yN0FlYWx4WjRmZ1VUVF9ZaVNPSGw4TDZVVUpBM3VR0gG3AUFVX3lxTE8xaUpIZlg1T2hfU1BDOG9UakJWaGR1VVpNcVltbGxGUkVhTjE4OVFqNzVqbDVmdU10ZzN6Y0QxaUZhLXhka21CUmRYSkpoQmpLM1ZGRDl6UlBCMDBtekthb1NjaFIxTjF0cnpOcmFYWjlvWVFicUFQZzVaMGZaUzVERERISGRHUFVRblg0TTgzbElqWWN0WjdOM2llQ3Zyd2NhM2xPRk4yV0sydFVYT1g1eUx2WURTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "EC",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "\"난 용서 못 해\" 전여친 공식 입장, 동메달 직후 '불륜 고백' 노르웨이 스타 '끝내' 버림받았다... 본인도 대국민 사과 [밀라노 올림픽]",
-          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021208210370517"
+          "title": "[오피셜] '메시 햄스트링 부상' 손흥민과 MLS 개막전 맞대결 '무산 위기'",
+          "url": "https://www.mt.co.kr/sports/2026/02/12/2026021209042981840"
         }
       ]
     }
   ],
-  "total_crisis_countries": 49,
-  "generated_at": "2026-02-12T00:33:12Z"
+  "total_crisis_countries": 55,
+  "generated_at": "2026-02-12T01:37:55Z"
 }
