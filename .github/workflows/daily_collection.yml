@@ -1,11 +1,12 @@
 name: Daily News Collection
 
+# 하루 1회: 매일 오전 9시(KST) 수집 → 커밋/푸시 → Teams 알림 → GitHub Pages 배포
 on:
   schedule:
-    # UTC 00:00 = KST 09:00, 평일만 (월-금)
+    # 매일 1번만 실행. UTC 00:00 = KST 09:00, 평일(월~금)
     - cron: '0 0 * * 1-5'
   workflow_dispatch:
-    # 수동 실행 가능
+    # 수동 실행 (Actions 탭에서 Run workflow)
 
 jobs:
   collect:

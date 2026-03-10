@@ -290,8 +290,21 @@ def generate_output(articles: List[Dict[str, Any]], start_time: datetime, analyz
     
     manager = DataManager(output_dir=output_dir)
     
-    # TODO: Add economic data collection here
+    # 경제 지표 수집 (한국은행 ECOS API). ECOS_API_KEY 없으면 mock 사용
     economic_data = None
+    if os.getenv("ECOS_API_KEY"):
+        try:
+            from backend.economic.collect_economic import collect_economic_data
+            logger.info("📈 Fetching economic indicators (BOK ECOS API)...")
+            economic_data = collect_economic_data(days_back=90)
+            if economic_data:
+                logger.info("   ✅ Economic data collected (exchange/stock/interest)")
+            else:
+                logger.warning("   ⚠️ Economic API returned no data, using mock")
+        except Exception as e:
+            logger.warning("   ⚠️ Economic data collection failed (%s), using mock", e)
+    else:
+        logger.info("   ⚠️ ECOS_API_KEY not set, economic_data.json will use mock data")
     
     files = manager.generate_all(
         articles=articles,
