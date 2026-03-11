@@ -109,65 +109,44 @@ def _collect_exchange_rates(start_date: str, end_date: str) -> Dict[str, Any]:
 
 
 def _collect_stock_indices(start_date: str, end_date: str) -> Dict[str, Any]:
-    """국제 주가지수 수집 (902Y002). 항목은 API에서 동적 조회."""
-    from .bok_api import get_market_index, get_category_info
+    """주가지수 수집: ECOS 802Y001 (일별 KOSPI·KOSDAQ 실제 지수값) 사용."""
+    from .bok_api import get_market_index, BOK_MAPPING
 
-    # 주기: ECOS 국제 주가지수는 보통 월별(M)
-    cycle = "M"
-    info = get_category_info("stock-index-international")
-    if "error" in info:
-        logger.warning("stock-index-international category info: %s", info["error"])
+    mapping = BOK_MAPPING.get("stock-index-802Y001")
+    if not mapping or not mapping.get("items"):
+        logger.warning("stock-index-802Y001 mapping not found")
         return {}
 
-    stat_items = info.get("items", {}) or {}
-    if not stat_items:
-        logger.warning("No items for stock-index-international")
-        return {}
-
-    # 최대 4개 항목 사용 (KOSPI, KOSDAQ, S&P500, NASDAQ 등에 대응 가능한 항목 우선)
-    item_codes = list(stat_items.keys())[:8]
+    # 802Y001: 일(D) 주기로 KOSPI, KOSDAQ 등 실제 주가지수 조회
+    cycle = mapping.get("default_cycle", "D")
     result: Dict[str, Any] = {}
-    display_names = {
-        "KOSPI": "KOSPI",
-        "KOSDAQ": "KOSDAQ",
-        "S&P500": "S&P 500",
-        "NASDAQ": "NASDAQ",
-    }
-    seen = 0
-    for item_code in item_codes:
-        if seen >= 4:
-            break
-        item_info = stat_items.get(item_code, {})
-        name = (item_info.get("name") or item_code).strip()
+
+    for key, item_info in mapping["items"].items():
+        name = (item_info.get("name") or key).strip()
         res = get_market_index(
-            "stock-index-international",
+            "stock-index-802Y001",
             start_date,
             end_date,
-            item_code=item_code,
+            item_code=key,
             cycle=cycle,
         )
         if "error" in res:
+            logger.warning("802Y001 %s: %s", key, res["error"])
             continue
         out = _bok_rows_to_series_and_stats(res)
-        if out is None or not out.get("data"):
+        if out is None:
             continue
-        # 키: 짧은 이름 (KOSPI, S&P500 등) 또는 첫 번째 단어/코드
-        key = name.replace(" ", "")[:12] or item_code
-        for canonical, label in display_names.items():
-            if label in name or canonical in name:
-                key = canonical
-                break
-        if key in result:
-            key = f"{key}_{seen}"
+        # 데이터가 없어도 current/previous 있으면 표시 (최근 1~2개 값만 있을 수 있음)
+        if not out.get("data") and out.get("current") is None:
+            continue
         result[key] = {
-            "name": name if len(name) < 20 else name[:17] + "...",
+            "name": name if len(name) < 24 else name[:21] + "...",
             "current": out["current"],
             "previous": out["previous"],
             "change": out["change"],
             "change_percent": out["change_percent"],
-            "data": out["data"],
+            "data": out.get("data") or [],
         }
-        seen += 1
     return result
 
 

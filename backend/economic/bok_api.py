@@ -454,6 +454,16 @@ BOK_MAPPING = {
         "items": {},  # 동적 조회 (get_statistic_item_list 사용)
         "default_item": None
     },
+    "stock-index-802Y001": {
+        "stat_code": "802Y001",  # 주가지수(일별) - KOSPI, KOSDAQ 등 실제 지수값
+        "name": "주가지수(일별)",
+        "default_cycle": "D",  # 일별
+        "items": {
+            "KOSPI": {"code": "0001000", "name": "KOSPI지수"},
+            "KOSDAQ": {"code": "0089000", "name": "KOSDAQ지수"},
+        },
+        "default_item": "KOSPI"
+    },
     "stock-index-international": {
         "stat_code": "902Y002",  # 국제 주요국 주가지수
         "name": "국제 주요국 주가지수",
