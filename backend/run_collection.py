@@ -290,12 +290,12 @@ def generate_output(articles: List[Dict[str, Any]], start_time: datetime, analyz
     
     manager = DataManager(output_dir=output_dir)
     
-    # 경제 지표 수집 (한국은행 ECOS API). ECOS_API_KEY 없으면 mock 사용
+    # 경제 지표 수집 (한국은행 ECOS API). 주가지수=802Y001 직접 호출(KOSPI/KOSDAQ/KOSDAQ150). ECOS_API_KEY 없으면 mock 사용
     economic_data = None
     if os.getenv("ECOS_API_KEY"):
         try:
             from backend.economic.collect_economic import collect_economic_data
-            logger.info("📈 Fetching economic indicators (BOK ECOS API)...")
+            logger.info("📈 Fetching economic indicators (BOK ECOS API, stock 802Y001)...")
             economic_data = collect_economic_data(days_back=90)
             if economic_data:
                 logger.info("   ✅ Economic data collected (exchange/stock/interest)")

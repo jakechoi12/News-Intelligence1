@@ -455,12 +455,13 @@ BOK_MAPPING = {
         "default_item": None
     },
     "stock-index-802Y001": {
-        "stat_code": "802Y001",  # 주가지수(일별) - KOSPI, KOSDAQ 등 실제 지수값
+        "stat_code": "802Y001",  # 주가지수(일별) - ECOS API 직접 호출 (KOSPI/KOSDAQ/KOSDAQ150)
         "name": "주가지수(일별)",
         "default_cycle": "D",  # 일별
         "items": {
             "KOSPI": {"code": "0001000", "name": "KOSPI지수"},
             "KOSDAQ": {"code": "0089000", "name": "KOSDAQ지수"},
+            "KOSDAQ150": {"code": "0183000", "name": "코스닥150"},
         },
         "default_item": "KOSPI"
     },

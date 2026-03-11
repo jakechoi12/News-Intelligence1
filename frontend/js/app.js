@@ -156,15 +156,14 @@ async function loadEconomicData() {
         const response = await fetch(`${DATA_BASE_URL}/economic_data.json`);
         if (response.ok) {
             const loadedData = await response.json();
-            
-            // Check if data has enough points (at least 90 for 3M)
-            const sampleData = loadedData?.stock_index?.items?.KOSPI?.data || [];
-            if (sampleData.length < 90) {
-                console.log(`📊 Loaded data only has ${sampleData.length} points, using mock data for better visualization`);
-                state.economicData = createMockEconomicData();
-            } else {
+            const stockItems = loadedData?.stock_index?.items;
+            const hasStockFromApi = stockItems && typeof stockItems === 'object' && Object.keys(stockItems).length > 0;
+            if (hasStockFromApi) {
                 state.economicData = loadedData;
-                console.log(`📊 Loaded economic data (${sampleData.length} points)`);
+                console.log(`📊 Loaded economic data (ECOS 802Y001: ${Object.keys(stockItems).join(', ')})`);
+            } else {
+                state.economicData = createMockEconomicData();
+                console.log(`📊 No stock index from API, using mock`);
             }
         } else {
             state.economicData = createMockEconomicData();
@@ -224,11 +223,9 @@ function createMockEconomicData() {
     return {
         stock_index: {
             items: {
-                'KOSPI': { name: 'KOSPI', current: 2650.32, previous: 2640.15, change: 10.17, change_percent: 0.39, data: generateData(2600, 50, 365) },
-                'KOSDAQ': { name: 'KOSDAQ', current: 820.45, previous: 815.20, change: 5.25, change_percent: 0.64, data: generateData(800, 20, 365) },
-                'S&P500': { name: 'S&P 500', current: 5890.12, previous: 5875.30, change: 14.82, change_percent: 0.25, data: generateData(5800, 80, 365) },
-                'NASDAQ': { name: 'NASDAQ', current: 19250.50, previous: 19180.20, change: 70.30, change_percent: 0.37, data: generateData(19000, 200, 365) },
-                'Nikkei': { name: 'Nikkei 225', current: 38500.00, previous: 38420.00, change: 80.00, change_percent: 0.21, data: generateData(38000, 300, 365) },
+                'KOSPI': { name: 'KOSPI지수', current: 2650.32, previous: 2640.15, change: 10.17, change_percent: 0.39, data: generateData(2600, 50, 365) },
+                'KOSDAQ': { name: 'KOSDAQ지수', current: 820.45, previous: 815.20, change: 5.25, change_percent: 0.64, data: generateData(800, 20, 365) },
+                'KOSDAQ150': { name: '코스닥150', current: 485.20, previous: 482.10, change: 3.10, change_percent: 0.64, data: generateData(480, 10, 365) },
             }
         },
         exchange_rate: {

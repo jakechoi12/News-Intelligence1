@@ -1,7 +1,8 @@
 """
 경제 지표 수집 (한국은행 ECOS API → 대시보드용 JSON 형식)
 
-수집 항목: 환율, 주가지수(국제), 금리(국제)
+수집 항목: 환율, 주가지수, 금리(국제)
+- 주가지수: ECOS 802Y001만 사용 (일별, KOSPI 0001000 / KOSDAQ 0089000 / KOSDAQ150 0183000)
 반환 형식: data_manager._generate_economic_data() / 프론트엔드 economic_data.json 구조와 동일
 """
 
@@ -109,7 +110,7 @@ def _collect_exchange_rates(start_date: str, end_date: str) -> Dict[str, Any]:
 
 
 def _collect_stock_indices(start_date: str, end_date: str) -> Dict[str, Any]:
-    """주가지수 수집: ECOS 802Y001 (일별 KOSPI·KOSDAQ 실제 지수값) 사용."""
+    """주가지수 수집: ECOS API 802Y001 직접 호출 (일별 KOSPI/KOSDAQ/KOSDAQ150)."""
     from .bok_api import get_market_index, BOK_MAPPING
 
     mapping = BOK_MAPPING.get("stock-index-802Y001")
