@@ -1,84 +1,141 @@
 {
   "countries": [
     {
-      "code": "US",
-      "count": 154,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "월가 베테랑 \"사모 신용發 금융 위기, 실시간으로 전개 중\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403258"
-        },
-        {
-          "title": "‘ONE 마제스티’號 호르무즈서 발사체 공격",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59725"
-        },
-        {
-          "title": "[손지현의 채권분석] 또다시 뛴 유가와 한은의 통신보고서",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403252"
-        }
-      ]
-    },
-    {
       "code": "IR",
-      "count": 125,
+      "count": 116,
       "risk_level": "high",
       "articles": [
         {
-          "title": "이라크 해역서 유조선 두척 피격…WTI 상승폭 확대(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403260"
+          "title": "트럼프 \"호르무즈 해협 예의주시할것\"(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403298"
         },
         {
-          "title": "[손지현의 채권분석] 또다시 뛴 유가와 한은의 통신보고서",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403252"
+          "title": "10년 국채선물, 국제유가 재급등에 원빅 가까이 급락(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403291"
         },
         {
-          "title": "日 증시, 중동 불안에 하락 출발",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403250"
+          "title": "기록적 달러채 발행에도 한국물은 숨고르기…중동 사태 관망",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403288"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 81,
+      "count": 23,
       "risk_level": "high",
       "articles": [
         {
-          "title": "채권형 펀드 수난시대…순자산 1조 넘는 셋 중 하나 마이너스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403269"
+          "title": "기록적 달러채 발행에도 한국물은 숨고르기…중동 사태 관망",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403288"
         },
         {
-          "title": "금융당국, 다주택자 규제에 골머리…대출 억제책 하염없이 밀린다",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403266"
+          "title": "해수부, 중동 사태 선원 안전대책 점검",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56323"
         },
         {
-          "title": "[부고] 임철순(NH투자증권 ESG본부 상무)씨 부친상",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403263"
+          "title": "[손지현의 채권분석] 또다시 뛴 유가와 한은의 통신보고서",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403252"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 18,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"호르무즈 해협 예의주시할것\"(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403298"
+        },
+        {
+          "title": "기록적 달러채 발행에도 한국물은 숨고르기…중동 사태 관망",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403288"
+        },
+        {
+          "title": "유가 따라가는 달러-원…상관계수 급등에 환시 시선 고정",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403275"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"호르무즈 해협 예의주시할것\"(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403298"
+        },
+        {
+          "title": "Maersk to levy surcharge as crisis rages",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDhuWG83VE9fTC1HaGRVR25ETl9WcFNrZGUyVHNBWlJJX3FZTExmQzVhelZNNC1JMHlyTlo0UGVKd0x1N1ZlU09oWUM2N3hOLUhYSEZXaVdYTlhLamxuek41UnhtZFZ3LXNqUDRyRmZZM1I2MWNJVmhPa2xnSEhtc2oxdWhudFZ6WjR1dU1Rd0RrbXVCU2hLRG1hbnZDcGdNR1IxdXY0RG1EUEthVThQS1lsdjZLYU9MN3RGb1l5TGhxYXVx0gHKAUFVX3lxTFBoQ3docTZxdWJSUkNYM0huNkNDdnZpeE92cmtGbjFuM0ZJZ0pxMHJNeFVRSE41Z01rQndqLXRoTDBLdzRLckJhbHRTeXNXSWpGNkZHbndmcjFINkNsZ0hVUVo1U25wWXMwem1TRnd5RDBhQzE5S3BFaTNGbXp5c3NfbldrUWh5ZnhsR3dhZVN0cWVtM3Z2WXhHc1BxRFhiTDUtaE1QVl80MDhXbDNZVklYTmVwOUdnMlFuMjBva0lPdUdCY3BZQzVjcXc?oc=5"
+        },
+        {
+          "title": "Softlink Global partners with ISTE",
+          "url": "https://aircargoweek.com/softlink-global-partners-with-iste/"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 34,
+      "count": 16,
       "risk_level": "high",
       "articles": [
         {
-          "title": "靑, 美 '무역법 301조' 조사 착수에 \"주요국 대비 불리하지 않게 적극 협의\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403229"
+          "title": "Coal demand could be supported by war in the Arabian Gulf",
+          "url": "https://www.hellenicshippingnews.com/coal-demand-could-be-supported-by-war-in-the-arabian-gulf/"
         },
         {
-          "title": "US launches probe into trading partners including EU, China and India",
-          "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss"
+          "title": "Copper Firms Up on Chinese Demand",
+          "url": "https://www.hellenicshippingnews.com/copper-firms-up-on-chinese-demand/"
         },
         {
-          "title": "\"美, 희토류 2달치밖에 안남아\"…희토류 테마주 급등",
-          "url": "https://www.mt.co.kr/stock/2026/03/12/2026031209172125100"
+          "title": "US military warns civilians to avoid port facilities used by Iranian navy",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVRGRXRGNEg0cnkxbEF6QnZYalJxSmxoUF9NOFBhNXRzZXd1cDduWXNxTWJCUkFtYU10V0Q4YXctelVtR2t4T0hWeWlVQ1ZPT1Z5NWJpTG9zLU1QcXJRS1lwbXhIVlJHYmtsMjNSaWlWZG5JTllPVGt6Zlp3WllaQmhlUDJ1WGdnRUw0czVOZFA2MW0wM2hUVVZIaUdYVjJPaklEaG5WS0JwT29JYmxmZ0VraE1mREpWNFlaZXlfd9IBvwFBVV95cUxNOFI3MXNBa2hWTEl3ZWs4Z1JvMTNXdnZQLUpwQkI0cnA5aUNrMUpmaHQwYlBXQzRscnV5UHBRY1NiVmRSamxUdmxpM2hjMVNTYlhIQ2ZhUU9CajN6ajl1MzF3S2IwRnVVN3duQWd2eV9tZGpGU1Nvek45LVk0V2RrNUg4aGNWUWx2bUc2b0FyUEdYRnFhZUxwb2JZSFNiVjc0WHo1RUQ3d2FXdjB2ZlllMEstNktHNXZBel90LXBLQQ?oc=5"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 18,
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Defense Deals Pick Up as War in Iran, Ukraine Rage On",
+          "url": "https://www.bloomberg.com/news/videos/2026-03-11/defense-deals-line-up-from-florida-to-frankfurt-video"
+        },
+        {
+          "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html"
+        },
+        {
+          "title": "BIFA meets European Commission to discuss Windsor Framework",
+          "url": "https://aircargoweek.com/bifa-meets-european-commission-to-discuss-windsor-framework/"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "‘ONE 마제스티’號 호르무즈서 발사체 공격",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59725"
+        },
+        {
+          "title": "\"유가 200달러\" 경고한 이란, 이라크 영해 유조선 2척 공격",
+          "url": "https://www.mt.co.kr/world/2026/03/12/2026031211001771575"
+        },
+        {
+          "title": "Japan Has Spent Decades Preparing For An Energy Crisis. Is It Enough?",
+          "url": "https://www.bloomberg.com/news/articles/2026-03-12/can-japan-s-oil-and-gas-stockpiles-weather-a-middle-east-crisis"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
@@ -86,236 +143,27 @@
           "url": "https://www.mt.co.kr/sports/2026/03/12/2026031208560047740"
         },
         {
-          "title": "Lloyd’s of London stresses it is still insuring shipping in strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbC14MXYwa0NOM1A3V3doSXN4RlZFWEdPdlVheTI2RUt6QnBnS1pibXI1OVp1VUo3clA1N2RFZlpzZC1ocWV5NWNJLW81dlBXbGo2Tm5UUDQtUFB2STFOZ1F6ek5MdGhLRG55LWI3empPd2VYMUFzVEg3Q0dUTGladVltdzFFcnUzdWpoYXp0UXQ3ZVhTMDhjS1hGRjNxSVJVVnkzS2xQb1JhUFg1U3VyMS1reWV0V2c?oc=5"
+          "title": "US takes first steps towards new global trade penalties",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMDF0QkpITHR3aXlzVEYtcEdUSlZycEMtRGJMd3pYOGJnb2tRdlR2VERNT2llNS1mZFhZQWFSR3NjOXFZb2kzMXIzX2ktck5fdTFMLVE2Vm1GdnVtMnBBR0F0THEyTERMeFV5bnRCUjE0LXlxNWNjU3RyQ1dNLWg4U1NDTWNybDFadWQxeDNxLTNpazFyejdXZ0JBbzlEdHcxQXRuaQ?oc=5"
         },
         {
-          "title": "Social media firms asked to toughen up age checks for under-13s",
-          "url": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "code": "IL",
-      "count": 14,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "이란, 종전 조건 내놨다...\"재공격 않겠다는 보장 있어야\"",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031209143911129"
-        },
-        {
-          "title": "Asia’s high sulfur fuel oil cash differentials surge to highest since IMO 2020",
-          "url": "https://www.hellenicshippingnews.com/asias-high-sulfur-fuel-oil-cash-differentials-surge-to-highest-since-imo-2020/"
-        },
-        {
-          "title": "Countries agree to record release of emergency oil reserves as prices surge",
-          "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 13,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "US launches probe into trading partners including EU, China and India",
-          "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
-        },
-        {
-          "title": "Fuel crisis, supply chain disruption, rise in cost of raw material amid West Asia conflict hit Haryana industry",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPaDNWTmp6bUM2QUNGbFJFLUhWZzdGSzlvU0E0Y0JxZkVpM1BwU2JELUlXVTl5RFI3LXNqaEZwSGs4UnFIUUNyMDUtNXdSMnBlZy1CX1ZxRWMtVEI4NVRoTDI4TzBjTEwwZ3J3VmtjQjA0YzRFWG5sQlBwVkhlaHpabXpGSnVWYms3VnRFV1U5Rks5dmQ4TkttOVF0c0wtUjNaUVV0ZU5oVTdzbVVfdHJwTUkzRmJNQnJHQjZ2WTFFS2ZhREdjemFiWk93eG9SSWRPeml4WkNtVThWXzc4Ml9sM29QNXYxTFVzN01OTFdUQ3ZFVWZRd3BxMm5Jam1oSDVMOHJlMmdpSdIBjgJBVV95cUxOREUxLWFCZ2xEZGRRcW1UMkVISmlXOEhoSFFHamZzU2VNX0wtTWswU0hvV3ZfUmdsWEt0bWEwNFdSZkdRVlIxdmt6YWM3RzdOSDdqRFJRSUF3aUJfTjJjcWJnR19HNXBxYk9IblRJRktUbkJ4RThISW9FbU56VFNzVzc1QnVEV1NXRTlVTFJvZjRxcWZvYjJ3ZUIyc0pacHJzbDZPeVVHNVBuemdPNHlWY193bkRrZ2hQdXFqVjNHVlpQdG53UkxBUGJlT1loQ3hzNTEwMm5fZk03MXlJQldMeGEwT1psZlBfYlBNMWFHcUE1ZE1GUExHNHhraEFpWDlBY0ZoazFVcnRXWVlXUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Iran targets ships, Dubai airport and oil facilities as economic concerns mount",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOTRxRTJDM0kya0RNQ3RIbExteU45b2hkaEdrZU5rVnFqUUVfY3VITEtWdV9uZmF1VTl0YnR5NlFvWTRKdm1LcGluWlpQc3gwYUxJb2hBc0VELUlINUVxbThWamcwY29uLUlQVnVTTVoxWmxrYWlYaXkyd0U2ZjctRl9LMzBRTVhjUTNFN04wRl9jRzdBc0JTcHpScDVUbS1UTEUxaWR2aFhVM1ExZV9xbzhKM0N3dWJzNVRYWW1vVl93SmN1SU1XZXVhbHdFZkFIa1hLQzBucmJhUC1hXzNJRQ?oc=5"
-        },
-        {
-          "title": "Iran: Cargo ships hit in Hormuz as Dubai targeted by drones",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQWEzSjZuZFlqQzZOX2M1bFB2ZTl5cjA3SU55QVJaSXRxU1dVUnhXaXJ5N1podkg5LXRBSU5hdnJadEx1RFMycEpCOG9JcXYwSkdWVE1La05iM21ONnVtWDd5Tk9MTGVlSzlzUnJ2alZsMWNOUzB3S2QzX0E1ZUgwZWI5MFB2M1RtNnEwN1NZVFRKa0xHYks4blNn?oc=5"
-        },
-        {
-          "title": "머스크, 걸프국 공 컨테이너 회수 일시 중단",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56315"
-        }
-      ]
-    },
-    {
-      "code": "PA",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "COSCO halts operations at Port of Balboa, Panama",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3Fqd1oyYUJ0UWcxaDZzSUVkbWlndVp3MnVReXpVbWNKTmJyUWR4QkNIYWd3djNTSHlCTlhUWDZKZFQ4MWsxdUJzRlpXNTdhRzEzclJQenJSZWJOUDFnaWJNZ3NHU3pudExVNG1ERl9IZFhlUUZuOVV4bnpDTGFiY2plOHZaMzJvZEJRUTdNODBqaFFuQ2w0RkJpTTcwd1drYjdQZFBMRnI1UQ?oc=5"
-        },
-        {
-          "title": "China summons Maersk and MSC amid rising Panama tensions",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjE5cXFpTVVWeE9BQmR3Y0ZrU0ZEcnNoWDRXbWtPY00zTzRBaERmTWNIMzNlVDJpNTBSS3RaOVRBd0U0am5ZZURzamhVZDE2OG9JRG1EbFBZRlpFaDhlTjBIUjlTMDl1Z0pQZGZjaDZHRk1mRDZCX3FCWEhBRS04S1pYdXFyZ2J3NWFtOGhyUWhXWHJ1Zk83SW1CbzRENDBoc2ZCQ3AyMmZVbFB4T21N?oc=5"
-        },
-        {
-          "title": "Chinese shipping company Cosco suspends operations at Panama Canal",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1NmS0N3NnNORnM5ZGhja0o1TGR3TGRDek9nTkpBYkZFVU9qRnNHaU1rWXJyZXB1QWJnbXMzZEZwb09KMUhTTHk0UVRwMnR3eE80M2FYcHUweW9DRlRTa21zejI1dWRjTDRnQS1VWm9rM2FqZkVrbl9kVVdjUThScmQyV0hIUEFjQ3FPRzJKM2d3dmlvcEZ1VWllNW1XZ0RKY01n?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "OM",
-      "count": 11,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Ship crew film drone strike on oil facility at Oman’s Salalah port",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUlRM1dNNkRyZGpudnRvMS0tRW9aZjFUdkxpWUtIdmZuYy1KWWlNM3FzNmk4TUNtdlZVSGhQLTlwQW5lajJGVVJQVjhmTUp5dkthcG03V3RKVmZkZmVKaWVtdHJEMDZjbGlOREZ2MHJFSjNkNWxHSXV3eWEyVXQyV04zWHFNSTNLOHRZcVpfQkluYzM4YmpJdGxuM2Zkcy00eUwycDAxNEhCRDh1Q1hiQzMwRUtIeXfSAbwBQVVfeXFMTWg5OEhsenpxOVNVNC14LVB6RVFZQVpPajJEU05oRUdOWk9GeXRKR2ZkWks3SXVSaGZXa1ZZbnZnNzc0b2ZDS0RicFJXU3pDUkhtU052eDViT1BNd01XSF8zZ214MGp4S3FVbzc4TXUwMER1RGtlWDNLX1JBZVhQbmlYWEJhdG9yTUtqR0gxUFJQN1hSdWt5UFk2dFJ0M3NERWRmamNQYm5md3Nzb1RxczdjdVFGaF9ZU0RvbWk?oc=5"
-        },
-        {
-          "title": "Massive explosion at Oman port after apparent drone strike",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTldDd05jdzgyQVFqV0tWWVFuVVliLTIyU0swSTZSdGNicEwzbXRuYmYyR3Bob2VzYVR0MXNFWGlQWlI5aUNCWUNDNTRiN2d4cTdqdlpYLUlnZWthQ2dTZDdDdkRFZmRFS29qcVloSWR0STlQMGlrei1IQ3BGRjVKcHl4VnYwU21tN2ZQT1p5RW9meUVMZUNmaVhMNTR0SlMyTkFfVllvWFN5ZVpG?oc=5"
-        },
-        {
-          "title": "Video: Iranian Drones Strike Oil Storage Tanks In Oman's Salalah Port",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWk1FRzI1QUh4ajE3R3BFM0o0YnExWUxSNUVza29iSW9nanJwVmdQU3Atczl3QUVIeFVoak9kZzN0Uk1GVzJVWl9WSmhjTEMxeWc3NmxKVE00MmIxdlJTaDdUdnFOQklmYlBCeS1ydUFtazZiOVN3MkRkeTRkR2JjVk1FTloyWFQ3SGZZNzRtaV80NE1EOFQ4V0Q1SndlTklPZmx5WGV4TkNWYmdt0gG0AUFVX3lxTE9UWDAxZTEwYjNDVXd4SlNQUDRxSGlMbUwxU3pUWjAtTVBCZllSMjF4eGxRTjh5amVZaXppZ3NURHRaWkNWMklYc213dWxtdWRBd3pRWVZaRDBidTR0cC1DQW5xanNOd1BGWGpQcGRWYUplMzhCU0JYY0ppQUdUenA3dHdoNVJlXzNMclFzOUhSeWF6d0ZWOUZpNGxuRXZ3a1ZFcWx0cjc0U1Nqd1d2T3I2OEd6bg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "EU",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "靑, 美 '무역법 301조' 조사 착수에 \"주요국 대비 불리하지 않게 적극 협의\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403229"
-        },
-        {
-          "title": "US launches probe into trading partners including EU, China and India",
-          "url": "https://www.bbc.com/news/articles/c15x1dxp3wpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
-        }
-      ]
-    },
-    {
-      "code": "BE",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Court orders minimum level of service in Port of Antwerp",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNlhoUV9HUWZPLWVEQ3V1SS1oOVIxM0NlcjdOanlKODBSdXc5YlpndnBVd0RtbVdZZlFJdXpFX2NQdUxzX19JZGgzRkpUVm9wd19FWjJsaEJDWlN1bE84WG1PaF9pM0JvaWRVZDlXZGM5T3YtY1JybWpHVlNEd1EzcEUzWjVPZ0ZjbEJoYUZ0WDVESUJyWFpWU0hR?oc=5"
-        },
-        {
-          "title": "Shipping resumes in Zeebrugge after court order ends traffic centre strike",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnNDMldkVVJXUnd6SW03RGp0TDB2ZERZS215WjJUT3ZNTloxbGgzTTY2U09nUlBBeGtRWWRSbTRFdnVyVVRiMzhyRG1HdVZlSVZSV3d4ZlI0UXZia3hYV1RFVnh2c0hFSFpZdEF0SDkzWkdRSEo0Y2Zod0Z4V3lHVjFTeFZiN3ZJS1VhRmFGeGdFMVdUYnlmTTJxQTJpbTB6NXV6YThGem0?oc=5"
-        },
-        {
-          "title": "Belgian Port Strike Halts Shipping Ahead of Nationwide Action",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR290djlnM1FIMUhvdUN6S2FvdEVraEhiQ2Z6TzJkYk5CRHF3ZTZrdXVSNDFuVWhMOEdUZ3p4ZWZXT3RxU0Q2NzJGY080c0FudE5GWlEyNnM1SU9QbnROU2NtaXhxNFBSWTJ1X05adnJ0cW1qQlJRbk9nNVJzRGhsTE5qWDJ3U0t5NlB4a3hTRlZUZ1RnTV9Rdw?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 9,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "‘ONE 마제스티’號 호르무즈서 발사체 공격",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59725"
-        },
-        {
-          "title": "[신윤우의 외환분석] 호르무즈 선박 피격의 후폭풍",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403253"
-        },
-        {
-          "title": "日 증시, 중동 불안에 하락 출발",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403250"
-        }
-      ]
-    },
-    {
-      "code": "IQ",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "이라크 해역서 유조선 두척 피격…WTI 상승폭 확대(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403260"
-        },
-        {
-          "title": "이란의 폭발물 탑재 선박, 이라크 해역서 유조선 두척 공격",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403244"
-        },
-        {
-          "title": "중동전쟁에 이라크 미수금 재부상…4개 건설사 4천500억원 묶였다",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403234"
-        }
-      ]
-    },
-    {
-      "code": "RU",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[신윤우의 외환분석] 호르무즈 선박 피격의 후폭풍",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403253"
-        },
-        {
-          "title": "Russia delays optical fiber localization amid plant shutdown",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rQ1B5RHZKakYxeFM1MzR1WDRrZEt4cUtrdFZhQlBBaWRCbGNtd0lpYlJVQ2l4WWVnQkVRb19aZ3luajV3aGpZR1hPSF9QR280d044WHFWVmU5cWkySlJz?oc=5"
-        },
-        {
-          "title": "As Hormuz crisis deepens, could western governments relax Russian sanctions?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazRrSWVuYXhtQzh1bElwY2JnZTJnUUg4djRERGNHZXFqb3ZMSEw3dEw2X0ZpYUxqTjVxNmhYNU9jcDc1UTJUbzgyaVBQYnlWdVF2bTlrMmlUQXVNb2lXSjRlbDhyc2RFRGVFbUtzRXpENlpHb1p4Y1dVaVA2b18xam5Tbjh4dDB6NDZCS2o0MEpiWGZHVTY2Sl8tU3lDbGVuOUNoN3BiaWlhaUkzbmpVM0Fn?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "MX",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
-        },
-        {
-          "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others",
-          "url": "https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html"
-        },
-        {
-          "title": "Livestock Expansion, Sugar Policy and Trade Tensions",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0p3SHhnRE9lbV9NTjE0RmlRZTJfVDBGTjVya3J4S2FJdzNELWx6OEEwOGV1RHlLS2FtQjd5dnctTUwtZUZBUmxtQk52em9hdlg1QjAtS2liZ3ZmREZvYkxuTndXcmxJTHJHekRSYnllWlhiMXF6Sms5eFpzTDBfZ2Z3Skw2U1AyUlpOZENETWJsTWlWeTR2SXBHbGN5UQ?oc=5"
+          "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0lBVGl2R1NLWi1KLS14RnBWd2VJSTF4cTQwNGNqZFdYS0lnVlRpUGNmbVNfVi05U3BKMzFVNDl5NmNpR1lrMWx0b09fUVFKdl9yOTJ2eWdMOVdrZWprTU1aNUd2M185UVdvTFZ1Q0J6N0h5ZEU4LXppVkJCZWFQVUNfSktDU0Nsdndn0gGQAUFVX3lxTE50MlRyWVZEWE4wTUdrampFelRNRFVXZXpueUg4X243U3NZTWdGd2Z0VW9yTlNfRFBNNjU3eGdPMVhYRHdwcm1LWUFJOXF0Z2Rhejl2cndGTmVXRXd6QnJkMHBtdVNnbjlDdy1YMUViNS1kWFdmSldaT2xsaVJwVDI4NEZwQUdLLUxJWmwxWXBxMQ?oc=5"
         }
       ]
     },
     {
       "code": "DE",
-      "count": 5,
-      "risk_level": "high",
+      "count": 4,
+      "risk_level": "medium",
       "articles": [
         {
           "title": "루프트한자 조종사노조 ‘48시간’ 전면 파업",
           "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59721"
         },
         {
-          "title": "Lufthansa Cargo minimizes delays during pilot strike",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzk1MUZvOW45QWtVNndHQ0JYY1Bzd3pMUGlWazljSjJLRzdYN0pZWnhwY2E2dnQxb2JfcTM1SUVmVzVmWmx6VE1JYXlLNDNmb2RRU0JQWFFrQ2NBRGNkTWN6NUwyNlljdXBSTkJaRVhETUtQOGxrT0liSVlGYi1EdmJhV2hJSF8zVDNleF84Zw?oc=5"
+          "title": "German inflation dips to 2.0% in February, confirms preliminary data",
+          "url": "https://www.hellenicshippingnews.com/german-inflation-dips-to-2-0-in-february-confirms-preliminary-data/"
         },
         {
           "title": "Lufthansa Cargo expects limited disruption during two-day pilot strike",
@@ -324,122 +172,8 @@
       ]
     },
     {
-      "code": "SG",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
-        },
-        {
-          "title": "Singapore steps up enforcement against e-vaporisers",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTHBrMHk3blV3amttN3dzblhkMU0tRVdyQVVrQVhYQjBmX2gxOUY4ZXpoLUtJWGp2X2trcUxxWFZwVF96b2hVeWdfWG9zMEEzZFZyNFpPNVFpT2pwbHhVSmpPT2VoVGxZSTJPZFpka0E1THIxQXpvSC1UOThyMlRJcQ?oc=5"
-        },
-        {
-          "title": "벙커공급 불안, 싱가포르항 집중 1,190불 사상최고",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56310"
-        }
-      ]
-    },
-    {
-      "code": "YE",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Iran signals closure of Bab el-Mandeb alongside Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHcxR1o0NTIyeUZlYUNjdVFYUE1TRE9HZ3U3bDBza2MxdG9SNjEwblYzM3pZcnQ5NXR6OWRCV1JWYUpBY0ZIQjVVc1N5ZEtQSTJMV2I4Q3NJVHFhb3IzQU0zN3UyZG5sTDYtWlJxZUVheGMwLU5KRmNYTGtLMThDRGl0ZVBueTYxVFl6dmNWVkJ5bGlMbXpUU3RjMVBJQ0l5MkZxVU93Wnl3eklX?oc=5"
-        },
-        {
-          "title": "Israel Plans New Foothold on the Red Sea to Fight the Houthis",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG5VSFY5UDhDS1JZanlYT2dlNy1pSUQwYnhyZEgyZlh0dW5Yd2NoRGNlejJwdXBxRVVJTl9WS3NlQnRjTFJJWFVycmp2ejFtdERyTktpMnRvWGNPNzktd29wUWZ3QnN1ZVhVaDAyUnFfZFUzWDN3R3lvT3RRQ1gxeVhTNHk3RFlORzRLZHU1X2trcGpsa3hHNUNSOTJyY2hKX3U1LUJBZ3J2RkxMSE5EVkFabjBVX0JxSGc?oc=5"
-        },
-        {
-          "title": "Houthi- and Hezbollah-linked group threatens to target Barakah nuclear facility in Abu Dhabi",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVms4X0xxWDVJNmY0a2U1TE5BbGZ4SE9LajVFbjJyLXdETHlxa1BQbzBuWU9aNzlxMFhmaVlSN2RXbWsyU09Id1NMR3BzT254RGxEc0VpYUpIZ1QwMWFjM1dwSUZfVVZ2ejFkWFNISUlSYlpRLThHU0dfRmE4ME85eUNPN2ZudUpvc0E3UWJLY3RETFgyWG5kRXRzVWZQc2V0eXlQNnpweG94cktlbzlMakplRFVRdS1SbXpYUUVpQjAxeDNRSkJEcmVPa2NKSm9Q0gHWAUFVX3lxTE9kRVhwc0xDX09QOHZiOEpCTnFUdlA0SEhpZ3NJa0FMeVpuNTJLaS1CemlicnJDWG9LWm9pVlF2eE5xSDJkZFZHaWx6aWhXck93WElKU3FlaVhRYVdLRTVLRGJRN0VUYVBkUExlSVJyUTQyQ0hVZ1RKWV94ekhuSlplaFJqcGo2QlNhck92blNGd3JBUUdvQV8wSzJYSEhGVmE1MTdicjlyam9xa0hJRXc3LWszM2dUUE41aW9sdnk0eEpkOG5XYjRUWVdHUHZJakE3LWU3bmc?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "TW",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "‘ONE 마제스티’號 호르무즈서 발사체 공격",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59725"
-        },
-        {
-          "title": "OOCL ship loses 57 containers overboard while en route to Long Beach",
-          "url": "https://theloadstar.com/oocl-ship-loses-57-containers-overboard-while-en-route-to-long-beach/"
-        },
-        {
-          "title": "Taiwan February exports miss expectations; caution on US trade policy",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjdkLXJiRmJKaUxiRno0cVYtSzJaRGxxQVVqRnFjeUxKakR3LWZ5YTlIaTd0RjVUZTA5bUVoVVUzUFZNcVFWLW1iT0czbzYxV0F6dzB0Zk1kRDNYcWFPVTZVZ0UwN2VzWDhLNE1TVS1ObkEtOFN3NVk0NWxfYXlWX25LZ2thel9lX1dFY01FbzRMclVtaV9JWXUzV2xGcnJrMFJfLVYyZzk5QWswU04xTnM0dXpBRmVDSEpiTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "[신윤우의 외환분석] 호르무즈 선박 피격의 후폭풍",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403253"
-        },
-        {
-          "title": "Defense Deals Pick Up as War in Iran, Ukraine Rage On",
-          "url": "https://www.bloomberg.com/news/videos/2026-03-11/defense-deals-line-up-from-florida-to-frankfurt-video"
-        },
-        {
-          "title": "Ukrainian FPV Drones Hunt Russian Logistics 50 km Behind the Front in Donetsk Region",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkdCejVRQWtMeTRpbmRaQndiUTk1Y0JTNmE1Mzhsb0xZZi1Fa2lXZUZmdW5mM3hoQW53SXR4bUVnQnF0enMxZm1kOXZlMHdfWDN5R0RwRDNXa0NDQmhTc2kyUW8tUEVjYnczaUVXc3Z5NlN4REJ3YnYxSjlXNnlwcDh6YWRfaFE5SHktX1ZBdXlUMVBYOGdIWXM5S3JOY3JCcmg3c2xkN2k0VkpzWnlFQUlFVEhmNmtYUEpBV1Z3RlQ4a1lrN01Z?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "이강인 굴욕 순간? 첼시 \"휴, 뎀벨레 나가고 LEE 들어와 다행\"... 5-2 완승 속 '뼈아픈' 한줄평",
-          "url": "https://www.mt.co.kr/sports/2026/03/12/2026031208560047740"
-        },
-        {
-          "title": "France to deploy almost dozen warships, mulls Hormuz mission, Macron says",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0xsOVFJMEpzUl95YTEtMDNPNzh2eHBrRGN0Qng5MnhwWENfSFgzNEo4REswQ3FoeVFrUU5sSzhyTWQ2Y2N4ZmxDRXhSdFpUUWJsWmd0cW5wZk82U1F3QnpaX1VKWHNXSWxLVW5zZm5MQUw3c3AtTmxsYXNCdXhOZGx0dmtqQWMzMFIweFFUUlFTVEJadHRYUDBTbmhmd0U?oc=5"
-        },
-        {
-          "title": "French Navy Pledges 10 Additional Warships to Middle East, Escorts for Strait of Hormuz",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHVBRkg2QVJqQjhkekgtTFUxQkR5UXM5YkJxbkZadjNvYjV0VUhXMHZ6NTdRUmgyTUF0Z2NfZk82OTdzcEVqLWRrNHl1eDhyZ1c4a1JGNkpGUi1lVW9nMWs3SUE1aFN5WkkzNkZhUXVMZUtBZlpKcWhJYjFOcmVsMnBRcUEwUmNoc3JJenVEUlJ5RzNJbEV0dDMwR09YWEdaeGZ4QU9rSjZkTVNVZ0p3c3lEdzhtZXcycEYw?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "ID",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
-        },
-        {
-          "title": "Iran war raises Indonesian palm oil export costs by 50%",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3BPMy00ekdvZjg4TjAzQVNkc0RtbnJ3YWtsSFBLZGFwb3BnY2VhaDh4TlZ5dlczZEJTd0p1TFE2VDh5MF94VXZ4VE9CR1FIZVo5SmVRX2Z0RGszcXUzVF9CalBxMXVpTGl1cFhGcVVJazZkOEhpWnJBcTBoQlRYNTJ3VXdEZGhQX3BwU0tMTlZDOEZo?oc=5"
-        },
-        {
-          "title": "Indonesian Customs Targets Luxury Watch Boutiques Over Suspected Illegal Imports",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVrMjFzT2NLSDhYNlNlelpjdDZoMU9ydHNPSHNlZURhbGUxWUFqelR3NGpiaGVGNllGSzMwbTRrZ0E3aGtqb2hIZy02eWsxYThaTFhkMzFEbkFMR1RGeURqVmk2N1F5U1hDaHVCd1VnUm80V203cnNpVjVVR0VHQ3gzZmdHWjF2d084dmU2UlpBUHlCclFjQzdXV1QyUkwxRkdwdnllYy03bFVjMkRrdmVMOA?oc=5"
-        }
-      ]
-    },
-    {
       "code": "SA",
-      "count": 3,
+      "count": 4,
       "risk_level": "medium",
       "articles": [
         {
@@ -451,77 +185,70 @@
           "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56315"
         },
         {
-          "title": "Saudi Aramco Cuts Oil Output as Hormuz Crisis Chokes Exports",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDNqbVMxQ0ZvSng4VUVFRG83ZDVJeHhvLTM5a212UElhbk5PZE5vNFBqbzBIM0RSLUdVbDFPanRMcjk1MnRwT252ZEJLbkdIcE1ndnFjdS1zMW53b2pRVTFwY1hyRXhONkJiOUVUS2ZYTE1RWHh0LTNad1hfZXEyQUpaeUlLV3RrNl92Z2RqWU0xbUR3MGpBSGtpTXlNMkl3V2YwS2tYRDVlSVhDcmZDeXJSNzRTcWfSAbwBQVVfeXFMT0lhaEJ2U1NrN3N0SjZaN0p6RmpVRzktWG9ZNEhlRkNyeXJ5Wlo0UnhZQURxRjUwamVDd0YwNWV3djlqM1NjWVFHa09YT2JrZFdlcC1JcVFiZVAwV0lpd0VFRUZudkJpZ1VoaGt2bWNZSDZqSV9EbS0za0lKR0l5RTRLYWdmNEZmeXdicFBsdmpWT1ozbXpvTzV1MG5Fd016OW9uU3pBYXBLbFpXYmZhbUFzWExodHU4MFFJdm4?oc=5"
+          "title": "Saudi Arabia begins oil cuts as Hormuz shipping disruption worsens",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmRla2xYRl9xMzMwdnJBV281SklhVlIxTVowTlVDNDhYWVp6ZzJwT2pSQVJGVFJPQ05SS0RoOUdXeGJOc1NhM0pyQTRseGVLZmR6cy1lTFU1cURyME42enZKM20zY0daWHV4RnJHYk05dlA4TjZQdzBJOXdxbkM0NXBKNHBUVzA3LWVpcVRTVmdBR2dUNVhkU1VZWUhibDhEdndVUTV3dUlTQQ?oc=5"
         }
       ]
     },
     {
-      "code": "BD",
+      "code": "RU",
       "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "News Bangladesh air cargo rates triple as conflict chokes key hubs",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZllZX0hyRUZDSDBPd1pNbzIwU0pGU1UyU29wcThwVjNPNFZwMnF6NDhPUk1yZHBCbWI0TGp0N0xUWXhtYzBwUXZENldvNXROeFA2Uno4R1FQSFIwY2hYUDdmMzFLZ0prUXMzSGdvZGJ6Y1JCWl9qQUhKbmNLZkJYOUc0aEZHWVBKLXFKb2pwMA?oc=5"
+          "title": "Russia delays optical fiber localization amid plant shutdown",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rQ1B5RHZKakYxeFM1MzR1WDRrZEt4cUtrdFZhQlBBaWRCbGNtd0lpYlJVQ2l4WWVnQkVRb19aZ3luajV3aGpZR1hPSF9QR280d044WHFWVmU5cWkySlJz?oc=5"
         },
         {
-          "title": "From Suez to Hormuz: A stress test for Bangladesh’s export logistics",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFMxSkZZeTdHbzZ6azNKMy1yTFh5cnItdmRaM2w4VG1rZlVFc09RU1dzU2psU2p6SHpOVklVaWVnNUhybVZPWGtKM281a2ViQk1zamd3ak1NRm53OGdhbnZYMkNpNXNiZm13LWZpT2RLcDQ1dndQUnNnbmtwWlBQQW5odHVvY09wbVVsajRiSWVRMVpsb2lPTmUyeDRvZmlnWkQzb0VETUlONEV6?oc=5"
+          "title": "As Hormuz crisis deepens, could western governments relax Russian sanctions?",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazRrSWVuYXhtQzh1bElwY2JnZTJnUUg4djRERGNHZXFqb3ZMSEw3dEw2X0ZpYUxqTjVxNmhYNU9jcDc1UTJUbzgyaVBQYnlWdVF2bTlrMmlUQXVNb2lXSjRlbDhyc2RFRGVFbUtzRXpENlpHb1p4Y1dVaVA2b18xam5Tbjh4dDB6NDZCS2o0MEpiWGZHVTY2Sl8tU3lDbGVuOUNoN3BiaWlhaUkzbmpVM0Fn?oc=5"
         },
         {
-          "title": "Bangladesh Garment Export Logistics Crisis 2026 | How garment makers can manage the Middle East logistics shock",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTJTTEZMb0FjSl9CQWZVX3NqMTZMS2c0NmhiLWwzUXp3Sm9OaVhhREp4SmFoazIyQmhySXRncm9lN1ByeXBiRkpxWU5Id29aMG1HR2VYbzVvQUJJZ3luREdsRXhOWXBLQVJQX3FUb0lkd05OTkxSS0FJcGRaYTVUejVmN3BzeENmZUtJdFExRnJ2UThxVEtxMS1Temh3b3VwaUV0V0RPX2I1QnlkaU94Q1V5QVNrWmYtZU5YYVZzaW44Ty04WEE?oc=5"
+          "title": "Return to Russian energy would be 'strategic blunder,' EU says — but Moscow smells blood",
+          "url": "https://www.cnbc.com/2026/03/11/eu-russian-gas-oil-iran-war-ukraine.html"
         }
       ]
     },
     {
-      "code": "CH",
-      "count": 2,
+      "code": "SG",
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "루프트한자 조종사노조 ‘48시간’ 전면 파업",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59721"
+          "title": "벙커유가 급등에 ‘컨’선사 긴급 연료할증료 시행",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56313"
         },
         {
-          "title": "미 행정부, '무역법 301조' 조사 개시 韓포함...다시 관세카드",
-          "url": "https://www.mt.co.kr/world/2026/03/12/2026031208352116168"
+          "title": "Hormuz Shipping Slowdown Spurs Port Congestion From India to Singapore",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNFI5czVXcGRDbDN1RGtnWU1RZWZPTmdrMkltV1V2bldIVGRreFFiUnQ1TDZBVmpOYk11ci1xZmhCVzk4RE1ZbjVxdEczZnJmXzhFTkYtX2tRXzlFSDNfYUdMZHZILVQzZzlFNnJUaU1Hd2U3dlJ2RnZzS3BUQ2FRSEZqQVVmRzdWc2cteDRvbTA0NkM5RUdSTGU2Q2RFQm8xN0JJWlRhbDdwSXJUWGdkNUtQVVZRbWpSamllUzRBYXlWTy0wM1phVERzQVUxOHNQa256alFSbXJtWENBVDZSb2NGT3VCSU02VjkwS3QyT0I0S183QUxaT3JabXE?oc=5"
+        },
+        {
+          "title": "China+1 reshapes demand",
+          "url": "https://aircargoweek.com/china1-reshapes-demand/"
         }
       ]
     },
     {
-      "code": "GR",
-      "count": 2,
+      "code": "VN",
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Greek shipping must confront the reality of crew workload",
-          "url": "https://www.hellenicshippingnews.com/greek-shipping-must-confront-the-reality-of-crew-workload/"
+          "title": "Iran war triggers freight cost surge, delivery disruption between Vietnam, Middle East",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWm1XblI3MnJmcEg2WFJ6dXQ2elVzUXZ4XzVfSVdkZUNCeTMwekVWUHpFOGRTMXVjSlRkOGFKM1EtUDFyc2h1Vm0wb2xwQUY4dEF3TFJEMHJ3eGRCbUtJQlFxRTZGOGtYWkNLY1F5NUl1Qnp5NzlYeGUtMWxmRWZuWjZmcmM1RmZ6eXVSMW1iTnBYUWdXWVZ1UUR3X1d5TV9fUTU5YklERlBzVGN4VTU5TC05SEV0UVhpcHpiNVRQd2s5NlBYX1RyTA?oc=5"
         },
         {
-          "title": "스타벌크 선박 1척, 호르무즈해협 무사히 통과",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56312"
+          "title": "Turtles and tortoises in severe danger",
+          "url": "https://aircargoweek.com/turtles-and-tortoises-in-severe-danger/"
+        },
+        {
+          "title": "China+1 reshapes demand",
+          "url": "https://aircargoweek.com/china1-reshapes-demand/"
         }
       ]
     },
     {
-      "code": "BH",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "머스크, 걸프국 공 컨테이너 회수 일시 중단",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56315"
-        },
-        {
-          "title": "페르시아만 상선 공격과 전자방해 지속",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56281"
-        }
-      ]
-    },
-    {
-      "code": "KW",
+      "code": "AE",
       "count": 2,
       "risk_level": "medium",
       "articles": [
@@ -530,27 +257,34 @@
           "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56315"
         },
         {
-          "title": "페르시아만 상선 공격과 전자방해 지속",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=56281"
+          "title": "Container Ship Hit By Unknown Projectile Off UAE Coast: UK Maritime Agency",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzMzRG9IeE03UXJMd29Ealp2TXU1VUcwaXJYUUlyRndURlRRVE1yczctOWZOd3ExRXFwTGtnNlhNd3dmTS1LT2VIdXBqQW13YXd3c29fbkJPNWg5WU9KTlpBLUZEVlQyZXUyc0kwZF9hUXhzUllnZXVrM1hxQzJ0eVYxazJEMk5sNm5xM25WY05EbVhneVZYazBybDVIOU1HbmdsYXROQ0pHa0pwNEg4RU1rOUJSVlNYZlNkZkxqTFlIMmhuT1Q0ejB3YjhaM2k5UG9GZUs0NVRrNkRQQi11ZlZxNktGTjJiNkHSAfIBQVVfeXFMTjFqR0VBaGJNMkh5NW5rTDJPcmE3UWNEOGk4clZ2U3I0U3daY19VR19SZ18zUWpRc3k1WGVpY2JPMEVyTlhJVUVLUGtpSzRUTWY0ZW9mNHNpLWxMMU5pSFJIM1cyZEpEUUk5VE14WHhDbzgzNzhZemUzd0lmYlYzNzJVbS05LUtrZ1R2SXN3NWxpM25oek94NmQzTlg1ZWNoX2J3dXhJUEdMMmZLU3dwYmtOaWpqQ1FrckZ5aHhmLWtqUnNvcFVVdHZYdGRiY1BCbk5hYXotTk5IRGd4MVFkczVKOThiVU1MN0NVTGJscHdJNUE?oc=5"
         }
       ]
     },
     {
-      "code": "KE",
-      "count": 2,
-      "risk_level": "medium",
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
       "articles": [
         {
-          "title": "UAE airspace restrictions disrupt Kenyan exports",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDFYbjBfbUxVSTJjSmZnZTE0aXk5ZmtvS090WW5tbkV6Yk9ZZ1k1RVVnYlhqbFN2WFlWakhfOGNQRnlZZ1NEM2hORndpNjRWd21BRWk4TlBheFVaVDJJTjhYNkZ6QWhRY3JHWGZMSHJIcnVIOGszV3pVOXN2cVFOUE10VFpNdEYzRE1peWF6R2xhNDZXRnZEMA?oc=5"
-        },
+          "title": "‘ONE 마제스티’號 호르무즈서 발사체 공격",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59725"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
         {
-          "title": "CMA CGM, 亞→南阿 성수기 할증료 부과",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=59704"
+          "title": "Defense Deals Pick Up as War in Iran, Ukraine Rage On",
+          "url": "https://www.bloomberg.com/news/videos/2026-03-11/defense-deals-line-up-from-florida-to-frankfurt-video"
         }
       ]
     }
   ],
-  "total_crisis_countries": 52,
-  "generated_at": "2026-03-12T01:29:57Z"
+  "total_crisis_countries": 16,
+  "generated_at": "2026-03-12T02:32:27Z"
 }

@@ -455,22 +455,27 @@ BOK_MAPPING = {
         "default_item": None
     },
     "stock-index-802Y001": {
-        "stat_code": "802Y001",  # 주가지수(일별) - ECOS API 직접 호출 (KOSPI/KOSDAQ/KOSDAQ150)
+        "stat_code": "802Y001",  # 주가지수(일별) - KOSPI, KOSDAQ
         "name": "주가지수(일별)",
         "default_cycle": "D",  # 일별
         "items": {
             "KOSPI": {"code": "0001000", "name": "KOSPI지수"},
             "KOSDAQ": {"code": "0089000", "name": "KOSDAQ지수"},
-            "KOSDAQ150": {"code": "0183000", "name": "코스닥150"},
         },
         "default_item": "KOSPI"
     },
     "stock-index-international": {
-        "stat_code": "902Y002",  # 국제 주요국 주가지수
+        # 실제 수집은 collect_economic._collect_stock_indices_yfinance (yfinance ^GSPC, ^IXIC, ^N225, ^SSEC)
+        "stat_code": "902Y002",
         "name": "국제 주요국 주가지수",
-        "default_cycle": "M",  # 월별
-        "items": {},  # 동적 조회 (get_statistic_item_list 사용)
-        "default_item": None
+        "default_cycle": "M",
+        "items": {
+            "SP500": {"code": "USA", "name": "S&P 500", "cycle": "M"},
+            "NASDAQ": {"code": "NASDAQ", "name": "NASDAQ", "cycle": "M"},
+            "Nikkei225": {"code": "JPN", "name": "Nikkei 225", "cycle": "M"},
+            "Shanghai": {"code": "CHN", "name": "상하이 종합지수", "cycle": "M"},
+        },
+        "default_item": "SP500"
     },
     "trade": {
         "stat_code": "301Y013",  # 수출입 통계

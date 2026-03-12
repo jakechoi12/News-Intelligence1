@@ -90,11 +90,16 @@ class DataManager:
         # Generate wordcloud data
         files['wordcloud'] = self._generate_wordcloud_data(processed_articles)
         
-        # Generate economic data (use mock if not provided)
-        if economic_data:
+        # Generate economic data only when API data exists (no mock, no overwrite on failure)
+        stock_items = (economic_data or {}).get("stock_index", {}).get("items")
+        if economic_data and stock_items:
             files['economic'] = self._generate_economic_data(economic_data)
         else:
-            files['economic'] = self._generate_mock_economic_data()
+            # Do not write economic_data.json; keep existing file so UI never shows empty/dummy
+            if not economic_data:
+                logger.info("   ⏭️ economic_data.json skipped (no API data, keeping existing file)")
+            else:
+                logger.info("   ⏭️ economic_data.json skipped (no stock_index items, keeping existing file)")
         
         # Generate last update info
         files['last_update'] = self._generate_last_update(start_time)

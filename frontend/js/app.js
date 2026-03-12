@@ -154,24 +154,27 @@ async function loadWordcloudData() {
 async function loadEconomicData() {
     try {
         const response = await fetch(`${DATA_BASE_URL}/economic_data.json`);
-        if (response.ok) {
-            const loadedData = await response.json();
-            const stockItems = loadedData?.stock_index?.items;
-            const hasStockFromApi = stockItems && typeof stockItems === 'object' && Object.keys(stockItems).length > 0;
-            if (hasStockFromApi) {
-                state.economicData = loadedData;
-                console.log(`📊 Loaded economic data (ECOS 802Y001: ${Object.keys(stockItems).join(', ')})`);
-            } else {
-                state.economicData = createMockEconomicData();
-                console.log(`📊 No stock index from API, using mock`);
-            }
-        } else {
-            state.economicData = createMockEconomicData();
-            console.log(`📊 Using mock economic data`);
+        if (!response.ok) {
+            console.warn(`📊 economic_data.json failed: ${response.status} ${response.statusText}`);
+            return;
         }
-    } catch {
-        state.economicData = createMockEconomicData();
-        console.log(`📊 Using mock economic data`);
+        const loadedData = await response.json();
+        const stockItems = loadedData?.stock_index?.items;
+        const hasStockFromApi = stockItems && typeof stockItems === 'object' && Object.keys(stockItems).length > 0;
+        if (hasStockFromApi) {
+            state.economicData = loadedData;
+            console.log(`📊 Loaded economic data (ECOS): ${Object.keys(stockItems).join(', ')}`);
+        } else {
+            // exchange_rate/interest_rate만 있어도 표시 (주가 없을 수 있음)
+            const hasAny = (loadedData?.exchange_rate?.items && Object.keys(loadedData.exchange_rate.items).length > 0) ||
+                (loadedData?.interest_rate?.items && Object.keys(loadedData.interest_rate.items).length > 0);
+            if (hasAny) {
+                state.economicData = loadedData;
+                console.log('📊 Loaded economic data (exchange/interest only)');
+            }
+        }
+    } catch (e) {
+        console.warn('📊 economic_data.json load failed', e);
     }
 }
 
@@ -201,51 +204,6 @@ function createMockNewsData() {
         global_count: 0,
         crisis_count: 0,
         categories: { Crisis: 0, Ocean: 0, Air: 0, Inland: 0, Economy: 0, ETC: 0 },
-    };
-}
-
-function createMockEconomicData() {
-    const generateData = (base, variance, days = 365) => {
-        const data = [];
-        let value = base;
-        for (let i = days; i >= 0; i--) {
-            const date = new Date();
-            date.setDate(date.getDate() - i);
-            value = value + (Math.random() - 0.5) * variance;
-            data.push({
-                time: date.toISOString().split('T')[0],
-                value: Math.round(value * 100) / 100
-            });
-        }
-        return data;
-    };
-    
-    return {
-        stock_index: {
-            items: {
-                'KOSPI': { name: 'KOSPI지수', current: 2650.32, previous: 2640.15, change: 10.17, change_percent: 0.39, data: generateData(2600, 50, 365) },
-                'KOSDAQ': { name: 'KOSDAQ지수', current: 820.45, previous: 815.20, change: 5.25, change_percent: 0.64, data: generateData(800, 20, 365) },
-                'KOSDAQ150': { name: '코스닥150', current: 485.20, previous: 482.10, change: 3.10, change_percent: 0.64, data: generateData(480, 10, 365) },
-            }
-        },
-        exchange_rate: {
-            items: {
-                'USD': { name: 'USD/KRW', current: 1432.50, previous: 1428.20, change: 4.30, change_percent: 0.30, data: generateData(1420, 15, 365) },
-                'EUR': { name: 'EUR/KRW', current: 1485.30, previous: 1480.50, change: 4.80, change_percent: 0.32, data: generateData(1470, 20, 365) },
-                'JPY': { name: 'JPY100/KRW', current: 925.00, previous: 920.00, change: 5.00, change_percent: 0.54, data: generateData(910, 15, 365) },
-                'CNY': { name: 'CNY/KRW', current: 196.50, previous: 195.80, change: 0.70, change_percent: 0.36, data: generateData(195, 3, 365) },
-                'GBP': { name: 'GBP/KRW', current: 1780.00, previous: 1775.00, change: 5.00, change_percent: 0.28, data: generateData(1770, 25, 365) },
-            }
-        },
-        interest_rate: {
-            items: {
-                'KR': { name: '한국', current: 3.00, previous: 3.00, change: 0, change_percent: 0, data: generateData(3.0, 0.1, 365) },
-                'US': { name: '미국', current: 4.50, previous: 4.50, change: 0, change_percent: 0, data: generateData(4.5, 0.1, 365) },
-                'EU': { name: 'EU', current: 3.00, previous: 3.00, change: 0, change_percent: 0, data: generateData(3.0, 0.1, 365) },
-                'JP': { name: '일본', current: 0.25, previous: 0.25, change: 0, change_percent: 0, data: generateData(0.25, 0.05, 365) },
-                'CN': { name: '중국', current: 3.45, previous: 3.45, change: 0, change_percent: 0, data: generateData(3.45, 0.1, 365) },
-            }
-        }
     };
 }
 
@@ -519,6 +477,7 @@ function renderEconomicSection() {
     
     const items = Object.entries(dataSource);
     if (items.length === 0) return;
+    // Do not show "데이터 없음"; leave placeholder or previous display
     
     // Set selected indicator (first one by default)
     if (!state.selectedIndicator || !dataSource[state.selectedIndicator]) {
