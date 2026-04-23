@@ -3,15 +3,11 @@
     "items": {
       "KOSPI": {
         "name": "KOSPI지수",
-        "current": 6388.47,
-        "previous": 6219.09,
-        "change": 169.38,
-        "change_percent": 2.72,
+        "current": 6417.93,
+        "previous": 6388.47,
+        "change": 29.46,
+        "change_percent": 0.46,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 4952.53
-          },
           {
             "time": "2026-01-23",
             "value": 4990.07
@@ -247,20 +243,20 @@
           {
             "time": "2026-04-21",
             "value": 6388.47
+          },
+          {
+            "time": "2026-04-22",
+            "value": 6417.93
           }
         ]
       },
       "KOSDAQ": {
         "name": "KOSDAQ지수",
-        "current": 1179.03,
-        "previous": 1174.85,
-        "change": 4.18,
-        "change_percent": 0.36,
+        "current": 1181.12,
+        "previous": 1179.03,
+        "change": 2.09,
+        "change_percent": 0.18,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 970.35
-          },
           {
             "time": "2026-01-23",
             "value": 993.93
@@ -496,20 +492,20 @@
           {
             "time": "2026-04-21",
             "value": 1179.03
+          },
+          {
+            "time": "2026-04-22",
+            "value": 1181.12
           }
         ]
       },
       "SP500": {
         "name": "S&P 500",
-        "current": 7064.01,
-        "previous": 7109.14,
-        "change": -45.13,
-        "change_percent": -0.63,
+        "current": 7137.9,
+        "previous": 7064.01,
+        "change": 73.89,
+        "change_percent": 1.05,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 6913.35
-          },
           {
             "time": "2026-01-23",
             "value": 6915.61
@@ -753,20 +749,20 @@
           {
             "time": "2026-04-21",
             "value": 7064.01
+          },
+          {
+            "time": "2026-04-22",
+            "value": 7137.9
           }
         ]
       },
       "NASDAQ": {
         "name": "NASDAQ",
-        "current": 24259.96,
-        "previous": 24404.39,
-        "change": -144.43,
-        "change_percent": -0.59,
+        "current": 24657.57,
+        "previous": 24259.96,
+        "change": 397.61,
+        "change_percent": 1.64,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 23436.02
-          },
           {
             "time": "2026-01-23",
             "value": 23501.24
@@ -1010,20 +1006,20 @@
           {
             "time": "2026-04-21",
             "value": 24259.96
+          },
+          {
+            "time": "2026-04-22",
+            "value": 24657.57
           }
         ]
       },
       "Nikkei225": {
         "name": "Nikkei 225",
-        "current": 59349.17,
-        "previous": 58824.89,
-        "change": 524.28,
-        "change_percent": 0.89,
+        "current": 59585.86,
+        "previous": 59349.17,
+        "change": 236.69,
+        "change_percent": 0.4,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 53688.89
-          },
           {
             "time": "2026-01-23",
             "value": 53846.87
@@ -1263,6 +1259,10 @@
           {
             "time": "2026-04-21",
             "value": 59349.17
+          },
+          {
+            "time": "2026-04-22",
+            "value": 59585.86
           }
         ]
       }
@@ -1272,15 +1272,11 @@
     "items": {
       "USD": {
         "name": "USD/KRW",
-        "current": 1470.8,
-        "previous": 1475.6,
-        "change": -4.8,
-        "change_percent": -0.33,
+        "current": 1477.6,
+        "previous": 1470.8,
+        "change": 6.8,
+        "change_percent": 0.46,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 1472.8
-          },
           {
             "time": "2026-01-23",
             "value": 1468.4
@@ -1520,20 +1516,20 @@
           {
             "time": "2026-04-22",
             "value": 1470.8
+          },
+          {
+            "time": "2026-04-23",
+            "value": 1477.6
           }
         ]
       },
       "EUR": {
         "name": "EUR/KRW",
-        "current": 1726.5,
-        "previous": 1739.44,
-        "change": -12.94,
-        "change_percent": -0.74,
+        "current": 1729.6,
+        "previous": 1726.5,
+        "change": 3.1,
+        "change_percent": 0.18,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 1720.89
-          },
           {
             "time": "2026-01-23",
             "value": 1726.62
@@ -1773,20 +1769,20 @@
           {
             "time": "2026-04-22",
             "value": 1726.5
+          },
+          {
+            "time": "2026-04-23",
+            "value": 1729.6
           }
         ]
       },
       "JPY": {
         "name": "JPY/KRW",
-        "current": 922.45,
-        "previous": 929.31,
-        "change": -6.86,
-        "change_percent": -0.74,
+        "current": 926.51,
+        "previous": 922.45,
+        "change": 4.06,
+        "change_percent": 0.44,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 930.41
-          },
           {
             "time": "2026-01-23",
             "value": 927.02
@@ -2026,20 +2022,20 @@
           {
             "time": "2026-04-22",
             "value": 922.45
+          },
+          {
+            "time": "2026-04-23",
+            "value": 926.51
           }
         ]
       },
       "CNY": {
         "name": "CNY/KRW",
-        "current": 215.96,
-        "previous": 216.4,
-        "change": -0.44,
-        "change_percent": -0.2,
+        "current": 216.72,
+        "previous": 215.96,
+        "change": 0.76,
+        "change_percent": 0.35,
         "data": [
-          {
-            "time": "2026-01-22",
-            "value": 211.43
-          },
           {
             "time": "2026-01-23",
             "value": 211.26
@@ -2279,6 +2275,10 @@
           {
             "time": "2026-04-22",
             "value": 215.96
+          },
+          {
+            "time": "2026-04-23",
+            "value": 216.72
           }
         ]
       }
@@ -2414,5 +2414,5 @@
       }
     }
   },
-  "generated_at": "2026-04-22T02:06:06Z"
+  "generated_at": "2026-04-23T02:10:22Z"
 }
