@@ -3,15 +3,11 @@
     "items": {
       "KOSPI": {
         "name": "KOSPI지수",
-        "current": 8788.38,
-        "previous": 8476.15,
-        "change": 312.23,
-        "change_percent": 3.68,
+        "current": 8801.49,
+        "previous": 8788.38,
+        "change": 13.11,
+        "change_percent": 0.15,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 5093.54
-          },
           {
             "time": "2026-03-05",
             "value": 5583.9
@@ -251,20 +247,20 @@
           {
             "time": "2026-06-01",
             "value": 8788.38
+          },
+          {
+            "time": "2026-06-02",
+            "value": 8801.49
           }
         ]
       },
       "KOSDAQ": {
         "name": "KOSDAQ지수",
-        "current": 1050.03,
-        "previous": 1074.8,
-        "change": -24.77,
-        "change_percent": -2.3,
+        "current": 1026.03,
+        "previous": 1050.03,
+        "change": -24.0,
+        "change_percent": -2.29,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 978.44
-          },
           {
             "time": "2026-03-05",
             "value": 1116.41
@@ -504,20 +500,20 @@
           {
             "time": "2026-06-01",
             "value": 1050.03
+          },
+          {
+            "time": "2026-06-02",
+            "value": 1026.03
           }
         ]
       },
       "SP500": {
         "name": "S&P 500",
-        "current": 7599.96,
-        "previous": 7580.06,
-        "change": 19.9,
-        "change_percent": 0.26,
+        "current": 7609.78,
+        "previous": 7599.96,
+        "change": 9.82,
+        "change_percent": 0.13,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 6869.5
-          },
           {
             "time": "2026-03-05",
             "value": 6830.71
@@ -761,20 +757,20 @@
           {
             "time": "2026-06-01",
             "value": 7599.96
+          },
+          {
+            "time": "2026-06-02",
+            "value": 7609.78
           }
         ]
       },
       "NASDAQ": {
         "name": "NASDAQ",
-        "current": 27086.81,
-        "previous": 26972.62,
-        "change": 114.19,
-        "change_percent": 0.42,
+        "current": 27093.9,
+        "previous": 27086.81,
+        "change": 7.09,
+        "change_percent": 0.03,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 22807.48
-          },
           {
             "time": "2026-03-05",
             "value": 22748.99
@@ -1018,20 +1014,20 @@
           {
             "time": "2026-06-01",
             "value": 27086.81
+          },
+          {
+            "time": "2026-06-02",
+            "value": 27093.9
           }
         ]
       },
       "Nikkei225": {
         "name": "Nikkei 225",
-        "current": 66934.33,
-        "previous": 66329.5,
-        "change": 604.83,
-        "change_percent": 0.91,
+        "current": 66734.24,
+        "previous": 66934.33,
+        "change": -200.09,
+        "change_percent": -0.3,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 54245.54
-          },
           {
             "time": "2026-03-05",
             "value": 55278.06
@@ -1263,6 +1259,10 @@
           {
             "time": "2026-06-01",
             "value": 66934.33
+          },
+          {
+            "time": "2026-06-02",
+            "value": 66734.24
           }
         ]
       }
@@ -1277,10 +1277,6 @@
         "change": 8.1,
         "change_percent": 0.54,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 1464.5
-          },
           {
             "time": "2026-03-05",
             "value": 1478.8
@@ -1535,10 +1531,6 @@
         "change_percent": 0.37,
         "data": [
           {
-            "time": "2026-03-04",
-            "value": 1701.09
-          },
-          {
             "time": "2026-03-05",
             "value": 1720.58
           },
@@ -1792,10 +1784,6 @@
         "change_percent": 0.36,
         "data": [
           {
-            "time": "2026-03-04",
-            "value": 929.28
-          },
-          {
             "time": "2026-03-05",
             "value": 941.58
           },
@@ -2048,10 +2036,6 @@
         "change": 2.1,
         "change_percent": 0.95,
         "data": [
-          {
-            "time": "2026-03-04",
-            "value": 212.82
-          },
           {
             "time": "2026-03-05",
             "value": 213.71
@@ -2406,5 +2390,5 @@
       }
     }
   },
-  "generated_at": "2026-06-02T02:59:22Z"
+  "generated_at": "2026-06-03T03:34:40Z"
 }
