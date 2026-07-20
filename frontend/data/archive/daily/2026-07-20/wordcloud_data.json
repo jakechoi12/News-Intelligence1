@@ -2,81 +2,56 @@
   "keywords": [
     {
       "text": "red sea",
-      "count": 47,
-      "size": 100
-    },
-    {
-      "text": "strait of",
       "count": 28,
       "size": 100
     },
     {
+      "text": "strait of",
+      "count": 24,
+      "size": 100
+    },
+    {
       "text": "of hormuz",
-      "count": 25,
+      "count": 24,
       "size": 100
     },
     {
-      "text": "under attack",
-      "count": 21,
-      "size": 100
-    },
-    {
-      "text": "new york",
+      "text": "iran war",
       "count": 19,
       "size": 100
     },
     {
-      "text": "in red",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "sea off",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "the strait",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "british military",
+      "text": "houthis to",
       "count": 14,
       "size": 100
     },
     {
-      "text": "military says",
+      "text": "warehouse workers",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "bab el-mandeb",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "over the",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "strikes on",
       "count": 10,
       "size": 100
     },
     {
-      "text": "attack off",
+      "text": "long beach",
       "count": 10,
       "size": 100
     },
     {
-      "text": "order for",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "attack in",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "maersk places",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "coast of",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "off the",
+      "text": "the next",
       "count": 9,
       "size": 90
     },
@@ -86,317 +61,297 @@
       "size": 90
     },
     {
-      "text": "armed assailants",
+      "text": "ukrainian strikes",
       "count": 8,
       "size": 80
     },
     {
-      "text": "ukraine hits",
+      "text": "network with",
       "count": 8,
       "size": 80
-    },
-    {
-      "text": "north africa",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "attacked in",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "rates surge",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "suez canal",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "baltic dry",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "for 1,000",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "sea coast",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "the coast",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "of yemen",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "in major",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "in new",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "ad hoc",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "coast guard",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "hong kong",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "the times",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "with dcm",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "times of",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "in india",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "to ease",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "한국해양교통안전공단(komsa, 이사장",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "st. petersburg oil",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "maritime security",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "major ukrainian",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ukrainian drone",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and statistics",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "hit by missile",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ship attacked",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and military",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "terminal hit",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "cgm ship hit",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "south china",
-      "count": 6,
-      "size": 60
     },
     {
       "text": "peak season",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "uk defence",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in moscow",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "since the",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "one of",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ai 기반",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "distribution centre",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to strengthen",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in trucking",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "global oil",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "as middle",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "black sea",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "centre in",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "new york",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in suape",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "‘aggressively’ going",
       "count": 6,
       "size": 60
     },
     {
-      "text": "middle east",
+      "text": "u.s. strikes bridges",
       "count": 6,
       "size": 60
     },
     {
-      "text": "off yemen’s",
+      "text": "uncertainty freezes",
       "count": 6,
       "size": 60
     },
     {
-      "text": "yemen’s red",
+      "text": "russian warehouses",
       "count": 6,
       "size": 60
     },
     {
-      "text": "being under",
+      "text": "tariff uncertainty",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ship hit by",
+      "text": "customs clearance",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ship under",
+      "text": "is ‘aggressively’",
       "count": 6,
       "size": 60
     },
     {
-      "text": "by unknown",
+      "text": "el-mandeb strait",
       "count": 6,
       "size": 60
     },
     {
-      "text": "missile in",
+      "text": "jpyc stablecoin",
       "count": 6,
       "size": 60
     },
     {
-      "text": "and north",
+      "text": "russian strikes",
       "count": 6,
       "size": 60
     },
     {
-      "text": "india and",
+      "text": "russia strikes",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in hormuz",
+      "text": "east conflict",
       "count": 6,
       "size": 60
     },
     {
-      "text": "dry index",
+      "text": "announces new",
       "count": 6,
       "size": 60
     },
     {
-      "text": "call in",
+      "text": "rates retreat",
       "count": 6,
       "size": 60
     },
     {
-      "text": "hit in",
+      "text": "the loadstar",
       "count": 6,
       "size": 60
     },
     {
-      "text": "borderlands mexico",
+      "text": "going after",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "after fedex",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baltic dry",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "retreat as",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ntua sign",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "fedex and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on brazil",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "in russia",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "as tariff",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "warns of",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "in odesa",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "an early",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "say the",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and how",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and ups",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "in iran",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "due to",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "who is",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "summaryview transcript",
       "count": 5,
       "size": 50
     },
     {
-      "text": "hormuz disruption",
+      "text": "why drivers prefer",
       "count": 5,
       "size": 50
     },
     {
-      "text": "christina ruffini",
+      "text": "new distribution",
       "count": 5,
       "size": 50
     },
     {
-      "text": "truckers turn",
+      "text": "authority and",
       "count": 5,
       "size": 50
     },
     {
-      "text": "turn deadlier",
+      "text": "서울 여의도 국회에서",
       "count": 5,
       "size": 50
     },
     {
-      "text": "and capacity",
+      "text": "new tariffs",
       "count": 5,
       "size": 50
     },
     {
-      "text": "theft falls",
+      "text": "continue to",
       "count": 5,
       "size": 50
     },
     {
-      "text": "but attacks",
+      "text": "capacity is",
       "count": 5,
       "size": 50
     },
     {
-      "text": "on truckers",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ceiv pharma",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "land bridge",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "for global",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "europe and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "david gura",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "falls, but",
+      "text": "experts say",
       "count": 5,
       "size": 50
     },
@@ -406,101 +361,146 @@
       "size": 50
     },
     {
-      "text": "vessel in",
+      "text": "in global",
       "count": 5,
       "size": 50
     },
     {
-      "text": "series of",
+      "text": "hormuz as",
       "count": 5,
       "size": 50
     },
     {
-      "text": "iata ceiv",
+      "text": "and other",
       "count": 5,
       "size": 50
     },
     {
-      "text": "daan van",
+      "text": "sri lanka",
       "count": 5,
       "size": 50
     },
     {
-      "text": "der meer",
+      "text": "전 거래일 대비",
       "count": 5,
       "size": 50
     },
     {
-      "text": "the next",
+      "text": "night of",
       "count": 5,
       "size": 50
     },
     {
-      "text": "its peak",
+      "text": "ready to",
       "count": 5,
       "size": 50
     },
     {
-      "text": "why the",
+      "text": "back to",
       "count": 5,
       "size": 50
     },
     {
-      "text": "high on",
+      "text": "for two",
       "count": 5,
       "size": 50
     },
     {
-      "text": "van der",
+      "text": "as iran",
       "count": 5,
       "size": 50
     },
     {
-      "text": "is the",
+      "text": "us and",
       "count": 5,
       "size": 50
     },
     {
-      "text": "to buy",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "temporary restrictions",
+      "text": "yields, covid-like volumes",
       "count": 4,
       "size": 40
     },
     {
-      "text": "maritime self-reliance",
+      "text": "maritime decarbonization",
       "count": 4,
       "size": 40
     },
     {
-      "text": "pharma certification",
+      "text": "covid-like volumes drive",
       "count": 4,
       "size": 40
     },
     {
-      "text": "maritime navigation",
+      "text": "artificial intelligence",
       "count": 4,
       "size": 40
     },
     {
-      "text": "first made-in-india",
+      "text": "high yields, covid-like",
       "count": 4,
       "size": 40
     },
     {
-      "text": "maritime executive",
+      "text": "strategic cooperation",
       "count": 4,
       "size": 40
     },
     {
-      "text": "outlines long-term",
+      "text": "cooperation agreement",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "clever restructuring",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "first international",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "strike kills seven",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "robinson worldwide",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "and sustainability",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "another inflation",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "ukraine's largest",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "volumes drive 23%",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "potential closure",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "chokepoint threat",
       "count": 4,
       "size": 40
     }
   ],
-  "total_keywords": 14004,
-  "generated_at": "2026-07-06T02:39:07Z"
+  "total_keywords": 19390,
+  "generated_at": "2026-07-20T02:27:09Z"
 }
