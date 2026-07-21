@@ -2,161 +2,316 @@
   "keywords": [
     {
       "text": "red sea",
-      "count": 28,
+      "count": 44,
+      "size": 100
+    },
+    {
+      "text": "tariffs on",
+      "count": 42,
+      "size": 100
+    },
+    {
+      "text": "50% tariffs",
+      "count": 38,
       "size": 100
     },
     {
       "text": "strait of",
-      "count": 24,
+      "count": 30,
       "size": 100
     },
     {
       "text": "of hormuz",
-      "count": 24,
+      "count": 30,
       "size": 100
     },
     {
-      "text": "iran war",
+      "text": "middle east",
       "count": 19,
       "size": 100
     },
     {
-      "text": "houthis to",
+      "text": "on saudi",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "blockade on",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "naval blockade",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "houthi blockade",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "canadian goods",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "in june",
       "count": 14,
       "size": 100
     },
     {
-      "text": "warehouse workers",
+      "text": "one of",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "houthis announce",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "houthis declare",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "half of",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "mammen tharakan",
       "count": 12,
       "size": 100
     },
     {
-      "text": "bab el-mandeb",
+      "text": "against saudi",
       "count": 12,
       "size": 100
     },
     {
-      "text": "over the",
+      "text": "first half",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "on canadian",
       "count": 11,
       "size": 100
     },
     {
-      "text": "strikes on",
-      "count": 10,
+      "text": "on monday",
+      "count": 11,
       "size": 100
-    },
-    {
-      "text": "long beach",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "the next",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "in june",
-      "count": 9,
-      "size": 90
     },
     {
       "text": "ukrainian strikes",
-      "count": 8,
-      "size": 80
+      "count": 10,
+      "size": 100
     },
     {
-      "text": "network with",
-      "count": 8,
-      "size": 80
+      "text": "warehouse workers",
+      "count": 10,
+      "size": 100
     },
     {
-      "text": "peak season",
-      "count": 8,
-      "size": 80
+      "text": "blockade of",
+      "count": 10,
+      "size": 100
     },
     {
-      "text": "uk defence",
-      "count": 8,
-      "size": 80
+      "text": "canada with",
+      "count": 10,
+      "size": 100
     },
     {
-      "text": "in moscow",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "since the",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "one of",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "ai 기반",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "distribution centre",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "to strengthen",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "in trucking",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "global oil",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "as middle",
-      "count": 7,
-      "size": 70
+      "text": "baltic dry",
+      "count": 10,
+      "size": 100
     },
     {
       "text": "black sea",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "growth in",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "maritime embargo",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "strikes on",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "they will",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in global",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in strait",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "strike on",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "iranian-backed houthis",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "bab el-mandeb",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "with new 50%",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "kong customs",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "canada and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "long beach",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "slaps 50%",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "of saudi",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in first",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "as iran",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "director general",
       "count": 7,
       "size": 70
     },
     {
-      "text": "centre in",
+      "text": "embargo against",
       "count": 7,
       "size": 70
     },
     {
-      "text": "new york",
+      "text": "declare naval",
       "count": 7,
       "size": 70
     },
     {
-      "text": "in suape",
+      "text": "tharakan as",
       "count": 7,
       "size": 70
+    },
+    {
+      "text": "hit canada",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "demand and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to build",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "plans to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the bab",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "cost of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "a fresh",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "737 max",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to hit",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the uk",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ai 기반",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "farnborough international",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "yemen's iranian-backed",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "international airshow",
+      "count": 6,
+      "size": 60
     },
     {
       "text": "‘aggressively’ going",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "u.s. strikes bridges",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "uncertainty freezes",
       "count": 6,
       "size": 60
     },
@@ -166,22 +321,32 @@
       "size": 60
     },
     {
-      "text": "tariff uncertainty",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "customs clearance",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "is ‘aggressively’",
       "count": 6,
       "size": 60
     },
     {
-      "text": "el-mandeb strait",
+      "text": "american journal",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ukrainian drones",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "trump’s new 50%",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "russian missile",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "vessel arrivals",
       "count": 6,
       "size": 60
     },
@@ -191,32 +356,47 @@
       "size": 60
     },
     {
-      "text": "russian strikes",
+      "text": "launch digital",
       "count": 6,
       "size": 60
     },
     {
-      "text": "russia strikes",
+      "text": "risk igniting",
       "count": 6,
       "size": 60
     },
     {
-      "text": "east conflict",
+      "text": "permit system",
       "count": 6,
       "size": 60
     },
     {
-      "text": "announces new",
+      "text": "fedex spreads",
       "count": 6,
       "size": 60
     },
     {
-      "text": "rates retreat",
+      "text": "hormuz crisis",
       "count": 6,
       "size": 60
     },
     {
-      "text": "the loadstar",
+      "text": "donald trump",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ukraine hits",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "canada risk",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "peak season",
       "count": 6,
       "size": 60
     },
@@ -231,17 +411,57 @@
       "size": 60
     },
     {
-      "text": "baltic dry",
+      "text": "south china",
       "count": 6,
       "size": 60
     },
     {
-      "text": "retreat as",
+      "text": "goods over",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ntua sign",
+      "text": "emerges as",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "first time",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "announce a",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "igniting a",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "us tariffs",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hormuz as",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "yang ming",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "dry index",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "amazon is",
       "count": 6,
       "size": 60
     },
@@ -251,256 +471,36 @@
       "size": 60
     },
     {
-      "text": "on brazil",
+      "text": "as hormuz",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in russia",
+      "text": "inc. $xpo",
       "count": 6,
       "size": 60
     },
     {
-      "text": "as tariff",
+      "text": "in moscow",
       "count": 6,
       "size": 60
     },
     {
-      "text": "warns of",
+      "text": "in black",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in odesa",
+      "text": "trump to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "an early",
+      "text": "eu, more",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "say the",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and how",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and ups",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in iran",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "due to",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "who is",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "summaryview transcript",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "why drivers prefer",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "new distribution",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "authority and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "서울 여의도 국회에서",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "new tariffs",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "continue to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "capacity is",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "experts say",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "attacks on",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "in global",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "hormuz as",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "and other",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "sri lanka",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "전 거래일 대비",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "night of",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ready to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "back to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "for two",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "as iran",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "us and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "yields, covid-like volumes",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "maritime decarbonization",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "covid-like volumes drive",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "artificial intelligence",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "high yields, covid-like",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "strategic cooperation",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "cooperation agreement",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "clever restructuring",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "first international",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "strike kills seven",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "robinson worldwide",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "and sustainability",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "another inflation",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "ukraine's largest",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "volumes drive 23%",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "potential closure",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "chokepoint threat",
-      "count": 4,
-      "size": 40
     }
   ],
-  "total_keywords": 19390,
-  "generated_at": "2026-07-20T02:27:09Z"
+  "total_keywords": 15983,
+  "generated_at": "2026-07-21T02:07:29Z"
 }

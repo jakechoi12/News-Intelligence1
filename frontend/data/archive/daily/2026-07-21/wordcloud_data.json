@@ -1,377 +1,387 @@
 {
   "keywords": [
     {
-      "text": "suez canal",
-      "count": 47,
+      "text": "red sea",
+      "count": 44,
+      "size": 100
+    },
+    {
+      "text": "tariffs on",
+      "count": 42,
+      "size": 100
+    },
+    {
+      "text": "50% tariffs",
+      "count": 38,
       "size": 100
     },
     {
       "text": "strait of",
-      "count": 41,
+      "count": 30,
       "size": 100
     },
     {
       "text": "of hormuz",
-      "count": 31,
+      "count": 30,
       "size": 100
     },
     {
-      "text": "maersk and",
-      "count": 24,
-      "size": 100
-    },
-    {
-      "text": "and hapag-lloyd",
-      "count": 22,
-      "size": 100
-    },
-    {
-      "text": "maersk, hapag-lloyd",
-      "count": 21,
-      "size": 100
-    },
-    {
-      "text": "in red",
+      "text": "middle east",
       "count": 19,
       "size": 100
     },
     {
-      "text": "under attack",
+      "text": "on saudi",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "blockade on",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "naval blockade",
       "count": 17,
       "size": 100
     },
     {
-      "text": "zim integrated",
+      "text": "houthi blockade",
       "count": 15,
       "size": 100
     },
     {
-      "text": "in strait",
-      "count": 14,
+      "text": "canadian goods",
+      "count": 15,
       "size": 100
-    },
-    {
-      "text": "sea off",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "and statistics",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "ae15 service",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "oil terminal",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "hapag-lloyd resume",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "hapag-lloyd merger",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "hapag-lloyd begin",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "evergreen marine",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "british military",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "fedex supply",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "begin return",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "of malacca",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "calls for",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "coast of",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "to hapag-lloyd",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "peak season",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "over the",
-      "count": 9,
-      "size": 90
     },
     {
       "text": "in june",
-      "count": 9,
-      "size": 90
+      "count": 14,
+      "size": 100
     },
     {
-      "text": "sale to",
-      "count": 9,
-      "size": 90
+      "text": "one of",
+      "count": 14,
+      "size": 100
     },
     {
-      "text": "ad hoc",
-      "count": 9,
-      "size": 90
+      "text": "houthis announce",
+      "count": 13,
+      "size": 100
     },
     {
-      "text": "insider trading",
-      "count": 8,
-      "size": 80
+      "text": "houthis declare",
+      "count": 13,
+      "size": 100
     },
     {
-      "text": "on hapag-lloyd",
-      "count": 8,
-      "size": 80
+      "text": "half of",
+      "count": 13,
+      "size": 100
     },
     {
-      "text": "the loadstar",
-      "count": 8,
-      "size": 80
+      "text": "mammen tharakan",
+      "count": 12,
+      "size": 100
     },
     {
-      "text": "attacked in",
-      "count": 8,
-      "size": 80
+      "text": "against saudi",
+      "count": 12,
+      "size": 100
     },
     {
-      "text": "attack off",
-      "count": 8,
-      "size": 80
+      "text": "first half",
+      "count": 12,
+      "size": 100
     },
     {
-      "text": "the coast",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "chain for",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "to expand",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "sea coast",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "attack in",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "to build",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "of yemen",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "in major",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "off the",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "bureau veritas",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "north america",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "attacks on",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "flights to",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "hong kong",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "of global",
-      "count": 7,
-      "size": 70
+      "text": "on canadian",
+      "count": 11,
+      "size": 100
     },
     {
       "text": "on monday",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "ukrainian strikes",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "warehouse workers",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "blockade of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "canada with",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "black sea",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "growth in",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "maritime embargo",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "strikes on",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "they will",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in global",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in strait",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "strike on",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "iranian-backed houthis",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "bab el-mandeb",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "with new 50%",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "kong customs",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "canada and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "long beach",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "slaps 50%",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "of saudi",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in first",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "as iran",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "director general",
       "count": 7,
       "size": 70
     },
     {
-      "text": "zim stock",
+      "text": "embargo against",
       "count": 7,
       "size": 70
     },
     {
-      "text": "ahead of",
+      "text": "declare naval",
       "count": 7,
       "size": 70
     },
     {
-      "text": "back to",
+      "text": "tharakan as",
       "count": 7,
       "size": 70
     },
     {
-      "text": "statistics indexbox",
+      "text": "hit canada",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "demand and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to build",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "plans to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the bab",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "cost of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "a fresh",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "737 max",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to hit",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the uk",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ai 기반",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "farnborough international",
       "count": 6,
       "size": 60
     },
     {
-      "text": "hapag-lloyd return",
+      "text": "yemen's iranian-backed",
       "count": 6,
       "size": 60
     },
     {
-      "text": "st. petersburg oil",
+      "text": "international airshow",
       "count": 6,
       "size": 60
     },
     {
-      "text": "defense ministry",
+      "text": "‘aggressively’ going",
       "count": 6,
       "size": 60
     },
     {
-      "text": "fire containment",
+      "text": "russian warehouses",
       "count": 6,
       "size": 60
     },
     {
-      "text": "network express",
+      "text": "is ‘aggressively’",
       "count": 6,
       "size": 60
     },
     {
-      "text": "shippers maersk",
+      "text": "american journal",
       "count": 6,
       "size": 60
     },
     {
-      "text": "major ukrainian",
+      "text": "ukrainian drones",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ukrainian drone",
+      "text": "trump’s new 50%",
       "count": 6,
       "size": 60
     },
     {
-      "text": "on re-election",
+      "text": "russian missile",
       "count": 6,
       "size": 60
     },
     {
-      "text": "re-election as",
+      "text": "vessel arrivals",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to strengthen",
+      "text": "jpyc stablecoin",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ocean network",
+      "text": "launch digital",
       "count": 6,
       "size": 60
     },
     {
-      "text": "near hodeidah",
+      "text": "risk igniting",
       "count": 6,
       "size": 60
     },
     {
-      "text": "after israeli",
+      "text": "permit system",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ship attacked",
+      "text": "fedex spreads",
       "count": 6,
       "size": 60
     },
     {
-      "text": "military says",
+      "text": "hormuz crisis",
       "count": 6,
       "size": 60
     },
     {
-      "text": "forced labor",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "$1.4 billion",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "launches new",
+      "text": "donald trump",
       "count": 6,
       "size": 60
     },
@@ -381,126 +391,116 @@
       "size": 60
     },
     {
-      "text": "and military",
+      "text": "canada risk",
       "count": 6,
       "size": 60
     },
     {
-      "text": "terminal hit",
+      "text": "peak season",
       "count": 6,
       "size": 60
     },
     {
-      "text": "drone attack",
+      "text": "going after",
       "count": 6,
       "size": 60
     },
     {
-      "text": "missiles at",
+      "text": "after fedex",
       "count": 6,
       "size": 60
     },
     {
-      "text": "resume suez",
+      "text": "south china",
       "count": 6,
       "size": 60
     },
     {
-      "text": "canal route",
+      "text": "goods over",
       "count": 6,
       "size": 60
     },
     {
-      "text": "for tariffs",
+      "text": "emerges as",
       "count": 6,
       "size": 60
     },
     {
-      "text": "smi digital",
+      "text": "first time",
       "count": 6,
       "size": 60
     },
     {
-      "text": "off yemen’s",
+      "text": "announce a",
       "count": 6,
       "size": 60
     },
     {
-      "text": "yemen’s red",
+      "text": "igniting a",
       "count": 6,
       "size": 60
     },
     {
-      "text": "wco council",
+      "text": "us tariffs",
       "count": 6,
       "size": 60
     },
     {
-      "text": "tariffs on",
+      "text": "hormuz as",
       "count": 6,
       "size": 60
     },
     {
-      "text": "adeniyi on",
+      "text": "yang ming",
       "count": 6,
       "size": 60
     },
     {
-      "text": "and china",
+      "text": "dry index",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to resume",
+      "text": "amazon is",
       "count": 6,
       "size": 60
     },
     {
-      "text": "return of",
+      "text": "fedex and",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in crimea",
+      "text": "as hormuz",
       "count": 6,
       "size": 60
     },
     {
-      "text": "times of",
+      "text": "inc. $xpo",
       "count": 6,
       "size": 60
     },
     {
-      "text": "into the",
+      "text": "in moscow",
       "count": 6,
       "size": 60
     },
     {
-      "text": "as china",
+      "text": "in black",
       "count": 6,
       "size": 60
     },
     {
-      "text": "the next",
+      "text": "trump to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to lower",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "sinks in",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "part of",
+      "text": "eu, more",
       "count": 6,
       "size": 60
     }
   ],
-  "total_keywords": 15248,
-  "generated_at": "2026-07-07T02:35:14Z"
+  "total_keywords": 15983,
+  "generated_at": "2026-07-21T02:07:29Z"
 }
