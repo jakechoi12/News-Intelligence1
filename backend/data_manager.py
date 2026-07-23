@@ -49,19 +49,17 @@ class DataManager:
         os.makedirs(self.output_dir, exist_ok=True)
         logger.info(f"📁 Output directory: {self.output_dir}")
     
-    def generate_all(self, articles: List[Dict[str, Any]], 
+    def generate_all(self, articles: List[Dict[str, Any]],
                      economic_data: Dict[str, Any] = None,
-                     start_time: datetime = None,
-                     analyzer = None) -> Dict[str, str]:
+                     start_time: datetime = None) -> Dict[str, str]:
         """
         Generate all JSON files.
-        
+
         Args:
             articles: List of analyzed article dictionaries
             economic_data: Economic indicator data
             start_time: Collection start time
-            analyzer: GeminiAnalyzer instance for generating insights
-            
+
         Returns:
             Dictionary of generated file paths
         """
@@ -69,14 +67,14 @@ class DataManager:
         logger.info(f"📝 Generating JSON files")
         logger.info(f"   Output: {self.output_dir}")
         logger.info(f"{'='*60}")
-        
+
         files = {}
-        
+
         # Process articles
         processed_articles = self._process_articles(articles)
-        
-        # Generate headlines with insights
-        headlines = self._generate_headlines(processed_articles, analyzer)
+
+        # Generate headlines
+        headlines = self._generate_headlines(processed_articles)
         
         # Generate news data (without headlines)
         files['news'] = self._generate_news_data(processed_articles)
@@ -284,10 +282,13 @@ class DataManager:
         """Generate unique ID from URL"""
         return hashlib.md5(url.encode()).hexdigest()[:12]
     
-    def _generate_headlines(self, articles: List[Dict[str, Any]], analyzer=None) -> List[Dict[str, Any]]:
+    def _generate_headlines(self, articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
-        Generate top headlines with insights.
-        Groups similar articles to find most covered topics.
+        Generate top headlines by grouping similar articles to find most covered topics.
+
+        Each headline's 'insights' field is always empty ({}): LLM-based insight
+        generation was removed due to Gemini API quota constraints. The frontend
+        (frontend/js/app.js: showInsights) renders a placeholder when insights is empty.
         """
         if not articles:
             return []
@@ -378,53 +379,16 @@ class DataManager:
             headline = {
                 'id': article['id'],
                 'title': article['title'],
-                'content_summary': article.get('content_summary', ''),  # For LLM insight generation
+                'content_summary': article.get('content_summary', ''),
                 'source_name': article['source_name'],
                 'url': article['url'],
                 'published_at_utc': article['published_at_utc'],
                 'group_count': group_count,  # How many similar articles
-                'insights': {}
+                'insights': {},  # Always empty: LLM insight generation removed (API quota)
             }
             headlines.append(headline)
-        
-        # [주석처리] 시사점 생성 기능 - API 할당량 문제로 비활성화
-        # Generate insights in parallel batch if analyzer is available
-        # if analyzer:
-        #     from concurrent.futures import ThreadPoolExecutor, as_completed
-        #     
-        #     logger.info("   🔍 Generating insights in parallel...")
-        #     
-        #     def generate_insights_for_article(headline_item, article_item):
-        #         try:
-        #             result = analyzer.generate_insights(article_item)
-        #             if not result.get('trade') and not result.get('logistics') and not result.get('scm'):
-        #                 return {'trade': '', 'logistics': '', 'scm': ''}
-        #             return result
-        #         except Exception as e:
-        #             logger.debug(f"Failed to generate insights: {e}")
-        #             return {'trade': '', 'logistics': '', 'scm': ''}
-        #     
-        #     with ThreadPoolExecutor(max_workers=3) as executor:
-        #         futures = {executor.submit(generate_insights_for_article, h, a): (i, h) 
-        #                   for i, (h, a) in enumerate(zip(headlines, top_articles))}
-        #         
-        #         for future in as_completed(futures):
-        #             idx, headline_item = futures[future]
-        #             try:
-        #                 insights = future.result()
-        #                 headlines[idx]['insights'] = insights
-        #             except Exception as e:
-        #                 logger.debug(f"Insights generation error: {e}")
-        #                 headlines[idx]['insights'] = {'trade': '', 'logistics': '', 'scm': ''}
-        # else:
-        #     for headline in headlines:
-        #         headline['insights'] = {'trade': '', 'logistics': '', 'scm': ''}
-        
-        # 시사점 없이 빈 값으로 설정
-        for headline in headlines:
-            headline['insights'] = {}
-        
-        logger.info(f"   ✅ Generated {len(headlines)} headlines with insights")
+
+        logger.info(f"   ✅ Generated {len(headlines)} headlines")
         return headlines
     
     def _generate_news_data(self, articles: List[Dict[str, Any]]) -> str:

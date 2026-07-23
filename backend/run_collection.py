@@ -253,33 +253,30 @@ def filter_recent_articles(articles: List[Dict[str, Any]], hours: int = 72) -> L
     return recent
 
 
-def analyze_articles(articles: List[Dict[str, Any]]) -> tuple:
+def analyze_articles(articles: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
     Analyze articles using AI.
-    
+
     Args:
         articles: List of articles
-        
+
     Returns:
-        Tuple of (analyzed articles, analyzer instance)
+        List of analyzed articles
     """
     logger.info("\n🤖 STARTING AI ANALYSIS")
-    
+
     analyzer = GeminiAnalyzer()
-    analyzed = analyzer.analyze_articles(articles)
-    
-    return analyzed, analyzer
+    return analyzer.analyze_articles(articles)
 
 
-def generate_output(articles: List[Dict[str, Any]], start_time: datetime, analyzer=None) -> Dict[str, str]:
+def generate_output(articles: List[Dict[str, Any]], start_time: datetime) -> Dict[str, str]:
     """
     Generate JSON output files.
-    
+
     Args:
         articles: List of analyzed articles
         start_time: Collection start time
-        analyzer: GeminiAnalyzer instance for generating insights
-        
+
     Returns:
         Dictionary of generated file paths
     """
@@ -310,7 +307,6 @@ def generate_output(articles: List[Dict[str, Any]], start_time: datetime, analyz
         articles=articles,
         economic_data=economic_data,
         start_time=start_time,
-        analyzer=analyzer
     )
     
     return files
@@ -365,10 +361,10 @@ def main():
             sys.exit(1)
         
         # Step 4: Analyze with AI
-        articles, analyzer = analyze_articles(articles)
-        
-        # Step 5: Generate output (pass analyzer for headline insights)
-        files = generate_output(articles, start_time, analyzer=analyzer)
+        articles = analyze_articles(articles)
+
+        # Step 5: Generate output
+        files = generate_output(articles, start_time)
         
         # Done!
         end_time = datetime.now(timezone.utc)

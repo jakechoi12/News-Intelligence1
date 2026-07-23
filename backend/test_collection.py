@@ -158,9 +158,9 @@ def test_data_manager_with_real_data(articles):
     analyzer = GeminiAnalyzer()
     analyzed = analyzer.analyze_articles(articles)
     
-    # Generate JSON (pass analyzer for headline insights)
+    # Generate JSON
     manager = DataManager(output_dir='frontend/data')
-    files = manager.generate_all(analyzed, start_time=datetime.now(timezone.utc), analyzer=analyzer)
+    files = manager.generate_all(analyzed, start_time=datetime.now(timezone.utc))
     
     logger.info(f"Generated {len(files)} files:")
     for name, path in files.items():
