@@ -2,97 +2,27 @@
   "keywords": [
     {
       "text": "red sea",
-      "count": 63,
-      "size": 100
-    },
-    {
-      "text": "suez canal",
-      "count": 22,
-      "size": 100
-    },
-    {
-      "text": "panama canal",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "long beach",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "strait of",
-      "count": 19,
-      "size": 100
-    },
-    {
-      "text": "middle east",
-      "count": 18,
+      "count": 31,
       "size": 100
     },
     {
       "text": "of hormuz",
+      "count": 23,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 21,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
       "count": 18,
       "size": 100
     },
     {
-      "text": "in august",
-      "count": 18,
-      "size": 100
-    },
-    {
-      "text": "in 2027",
-      "count": 18,
-      "size": 100
-    },
-    {
-      "text": "tariffs on",
-      "count": 17,
-      "size": 100
-    },
-    {
-      "text": "trucking industry",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "bab el-mandeb",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "c.h. robinson",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "nascar truck",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "los angeles",
+      "text": "south china",
       "count": 13,
-      "size": 100
-    },
-    {
-      "text": "baltic dry",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "to expand",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "부산항만공사(bpa, 사장",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "of rotterdam",
-      "count": 12,
       "size": 100
     },
     {
@@ -101,82 +31,32 @@
       "size": 100
     },
     {
-      "text": "of los",
+      "text": "busan north",
       "count": 12,
       "size": 100
     },
     {
-      "text": "up to",
+      "text": "suez canal",
       "count": 12,
       "size": 100
     },
     {
-      "text": "to protect",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "as supply",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "growth in",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "the next",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "plans to",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "diesel prices hit",
+      "text": "and statistics",
       "count": 10,
       "size": 100
     },
     {
-      "text": "general average",
+      "text": "semicon india",
       "count": 10,
       "size": 100
     },
     {
-      "text": "record highs",
+      "text": "fake fedex",
       "count": 10,
       "size": 100
     },
     {
-      "text": "pressure on",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "sea crisis",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "and other",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "sea risks",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "not to",
+      "text": "in august",
       "count": 10,
       "size": 100
     },
@@ -186,321 +66,441 @@
       "size": 90
     },
     {
+      "text": "attacks on",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "zim integrated",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "hormuz crisis",
+      "count": 8,
+      "size": 80
+    },
+    {
       "text": "lng dual-fuel",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "dry index",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "access to",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "over the",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "focus on",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "rates to",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "of 2026",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "to suez",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "maersk, hapag-lloyd",
       "count": 8,
       "size": 80
     },
     {
-      "text": "farmers protesting",
+      "text": "steal $680k",
       "count": 8,
       "size": 80
     },
     {
-      "text": "indefinite strike",
+      "text": "long beach",
       "count": 8,
       "size": 80
     },
     {
-      "text": "el-mandeb strait",
+      "text": "spot rates",
       "count": 8,
       "size": 80
     },
     {
-      "text": "maersk overtakes",
+      "text": "china sea",
       "count": 8,
       "size": 80
     },
     {
-      "text": "romanian farmers",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "overtakes cosco",
+      "text": "yang ming",
       "count": 8,
       "size": 80
     },
     {
       "text": "houthi attacks",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "interest rates",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "and statistics",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "the loadstar",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "august 2026",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "at critical",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "coast guard",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "of romanian",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "attacks on",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "hit record",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "means for",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "photos of",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "and its",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "bank of",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "as iran",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "remain elevated",
       "count": 7,
       "size": 70
     },
     {
-      "text": "north american",
+      "text": "rates surge",
       "count": 7,
       "size": 70
     },
     {
-      "text": "united states",
+      "text": "on saudi",
       "count": 7,
       "size": 70
     },
     {
-      "text": "100% tariffs",
+      "text": "to help",
       "count": 7,
       "size": 70
     },
     {
-      "text": "kong customs",
-      "count": 7,
-      "size": 70
+      "text": "hormuz disruptions",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "million teus",
-      "count": 7,
-      "size": 70
+      "text": "$680k electronics",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "real estate",
-      "count": 7,
-      "size": 70
+      "text": "holdings stock",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "services to",
-      "count": 7,
-      "size": 70
+      "text": "15,500 teu lng",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "russian oil",
-      "count": 7,
-      "size": 70
+      "text": "rising diesel",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "16일 밝혔다.이번",
-      "count": 7,
-      "size": 70
+      "text": "services (zim",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "on chinese",
-      "count": 7,
-      "size": 70
+      "text": "han sang-jin",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "pinglu canal",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "sea mission",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "stock gains",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "asian games",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "us military",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "far east-us",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "as houthis",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "al jazeera",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "new castle",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "india 2026",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rates rise",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the stock",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "black sea",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "calls for",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to global",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the same",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "in busan",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "after a",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "in red",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "one of",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the uk",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ad hoc",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "up to",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "statistics indexbox",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "pandemic records",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "china morning",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "morning post",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "the federal",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "master plan",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "and carrier",
+      "count": 5,
+      "size": 50
+    },
+    {
+      "text": "europe and",
+      "count": 5,
+      "size": 50
     },
     {
       "text": "east coast",
-      "count": 7,
-      "size": 70
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "the start",
-      "count": 7,
-      "size": 70
+      "text": "closure of",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "the shift",
-      "count": 7,
-      "size": 70
+      "text": "saudi oil",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "공급망 위기 대응",
-      "count": 7,
-      "size": 70
+      "text": "in europe",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "to manage",
-      "count": 7,
-      "size": 70
+      "text": "enough to",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "the bank",
-      "count": 7,
-      "size": 70
+      "text": "access to",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "in focus",
-      "count": 7,
-      "size": 70
+      "text": "ships in",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "mean for",
-      "count": 7,
-      "size": 70
+      "text": "to boost",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "in india",
-      "count": 7,
-      "size": 70
+      "text": "to steal",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "half of",
-      "count": 7,
-      "size": 70
+      "text": "to sell",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "what it",
-      "count": 7,
-      "size": 70
+      "text": "in new",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "and air",
-      "count": 7,
-      "size": 70
+      "text": "at sea",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "in h1",
-      "count": 7,
-      "size": 70
+      "text": "to pay",
+      "count": 5,
+      "size": 50
     },
     {
-      "text": "million cyberattacks",
-      "count": 6,
-      "size": 60
+      "text": "semiconductor ecosystem",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "suurhoffbrug closure",
-      "count": 6,
-      "size": 60
+      "text": "semiconductor industry",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "demonstrates digital",
-      "count": 6,
-      "size": 60
+      "text": "india’s semiconductor",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "hapag-lloyd expand",
-      "count": 6,
-      "size": 60
+      "text": "chosunbiz chosunbiz",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "automatic coupling",
-      "count": 6,
-      "size": 60
+      "text": "france-tunisia roro",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "digital automatic",
-      "count": 6,
-      "size": 60
+      "text": "enforces mandatory",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "president donald",
-      "count": 6,
-      "size": 60
+      "text": "carrier surcharges",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "average declared",
-      "count": 6,
-      "size": 60
+      "text": "geopolitical risks",
+      "count": 4,
+      "size": 40
     },
     {
-      "text": "öbb demonstrates",
-      "count": 6,
-      "size": 60
+      "text": "september 18, 2026",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "trucking industry",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "season surcharges",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "surcharges across",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "mandatory advance",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "on france-tunisia",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "surcharges higher",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "for semiconductor",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "of antwerp-bruges",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "transpacific spot",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "knorr-bremse wins",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "disruption ahead",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "heavy industries",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "partnership with",
+      "count": 4,
+      "size": 40
+    },
+    {
+      "text": "disruptions push",
+      "count": 4,
+      "size": 40
     }
   ],
-  "total_keywords": 22595,
-  "generated_at": "2026-09-18T02:43:20Z"
+  "total_keywords": 14759,
+  "generated_at": "2026-09-21T02:51:27Z"
 }
