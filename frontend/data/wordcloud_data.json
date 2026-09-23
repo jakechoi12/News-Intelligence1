@@ -1,13 +1,18 @@
 {
   "keywords": [
     {
-      "text": "ahead of",
+      "text": "red sea",
+      "count": 25,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
       "count": 21,
       "size": 100
     },
     {
-      "text": "hong kong",
-      "count": 18,
+      "text": "ahead of",
+      "count": 20,
       "size": 100
     },
     {
@@ -16,12 +21,22 @@
       "size": 100
     },
     {
-      "text": "of hormuz",
+      "text": "and statistics",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "in august",
       "count": 15,
       "size": 100
     },
     {
-      "text": "and statistics",
+      "text": "new york",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "ramps up",
       "count": 14,
       "size": 100
     },
@@ -31,18 +46,43 @@
       "size": 100
     },
     {
-      "text": "red sea",
+      "text": "of hormuz",
       "count": 13,
       "size": 100
     },
     {
-      "text": "kong customs",
+      "text": "holdings stock",
       "count": 12,
       "size": 100
     },
     {
-      "text": "deal with",
+      "text": "taiwan strait",
       "count": 12,
+      "size": 100
+    },
+    {
+      "text": "new zealand",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "spot rates",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "deal with",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "cost of",
+      "count": 11,
       "size": 100
     },
     {
@@ -51,29 +91,29 @@
       "size": 100
     },
     {
-      "text": "is the",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "holdings stock",
+      "text": "trucking companies",
       "count": 10,
       "size": 100
     },
     {
-      "text": "of hamburg",
+      "text": "superlink china",
       "count": 10,
       "size": 100
     },
     {
-      "text": "into a",
+      "text": "the loadstar",
       "count": 10,
       "size": 100
     },
     {
-      "text": "partnership with",
-      "count": 9,
-      "size": 90
+      "text": "china direct",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "means for",
+      "count": 10,
+      "size": 100
     },
     {
       "text": "air traffic",
@@ -81,97 +121,217 @@
       "size": 90
     },
     {
-      "text": "spot rates",
+      "text": "to vietnam",
       "count": 9,
       "size": 90
     },
     {
-      "text": "drug trafficking",
-      "count": 8,
-      "size": 80
+      "text": "over the",
+      "count": 9,
+      "size": 90
     },
     {
-      "text": "ships transit",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "taiwan strait",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "coast guard",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "south china",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "to get",
-      "count": 8,
-      "size": 80
+      "text": "in its",
+      "count": 9,
+      "size": 90
     },
     {
       "text": "statistics indexbox",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "precursor chemicals",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "network worldwide",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "general assembly",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "tariff refunds",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "direct service",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "transit taiwan",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "c.h. robinson",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "zealand naval",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "naval ships",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "pacific air",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "up battery",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "of hamburg",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "dhl ramps",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "iran war",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "a month",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "kuehne+nagel takes",
       "count": 7,
       "size": 70
     },
     {
-      "text": "network express",
+      "text": "and regulations",
       "count": 7,
       "size": 70
     },
     {
-      "text": "acquisition of",
+      "text": "seoul economic",
       "count": 7,
       "size": 70
     },
     {
-      "text": "ocean network",
+      "text": "economic daily",
       "count": 7,
       "size": 70
     },
     {
-      "text": "gtt marine",
+      "text": "hormuz within",
       "count": 7,
       "size": 70
     },
     {
-      "text": "to develop",
+      "text": "energy supply",
       "count": 7,
       "size": 70
     },
     {
-      "text": "over the",
+      "text": "review (gtr",
       "count": 7,
       "size": 70
     },
     {
-      "text": "cost of",
+      "text": "pressure on",
       "count": 7,
       "size": 70
     },
     {
-      "text": "us and",
+      "text": "of european",
       "count": 7,
       "size": 70
     },
     {
-      "text": "publishes sustainability",
-      "count": 6,
-      "size": 60
+      "text": "of trump-xi",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "and energy",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "dry index",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "august as",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "5.9% rate",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "years of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "into the",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "with new",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "after a",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to keep",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "not to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in new",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "of its",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to get",
+      "count": 7,
+      "size": 70
     },
     {
       "text": "diesel prices squeeze",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "chinese institutions",
       "count": 6,
       "size": 60
     },
@@ -181,92 +341,42 @@
       "size": 60
     },
     {
-      "text": "더벨'머니투데이 thebell'에",
+      "text": "tonnages strengthen",
       "count": 6,
       "size": 60
     },
     {
-      "text": "geopolitical risks",
+      "text": "strengthen further",
       "count": 6,
       "size": 60
     },
     {
-      "text": "involving incoming",
+      "text": "battery recycling",
       "count": 6,
       "size": 60
     },
     {
-      "text": "incoming passenger",
+      "text": "extends superlink",
       "count": 6,
       "size": 60
     },
     {
-      "text": "institutions bring",
+      "text": "american journal",
       "count": 6,
       "size": 60
     },
     {
-      "text": "policy discussions",
+      "text": "finished vehicle",
       "count": 6,
       "size": 60
     },
     {
-      "text": "express publishes",
+      "text": "regulations 2026",
       "count": 6,
       "size": 60
     },
     {
-      "text": "heavy industries",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "squeeze trucking",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "colombian market",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "trafficking case",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "vesper insights",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "traffic control",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "traffic returns",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "customs detects",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "hapag-lloyd ag",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "case involving",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "discussions to",
+      "text": "prime minister",
       "count": 6,
       "size": 60
     },
@@ -276,17 +386,7 @@
       "size": 60
     },
     {
-      "text": "zealand naval",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "thebell'에 출고된",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rising diesel",
+      "text": "earnings beat",
       "count": 6,
       "size": 60
     },
@@ -296,211 +396,111 @@
       "size": 60
     },
     {
-      "text": "hormuz crisis",
+      "text": "strong august",
       "count": 6,
       "size": 60
     },
     {
-      "text": "bring culture",
+      "text": "hacis extends",
       "count": 6,
       "size": 60
     },
     {
-      "text": "services (zim",
+      "text": "bab el-mandeb",
       "count": 6,
       "size": 60
     },
     {
-      "text": "fishing boat",
+      "text": "east conflict",
       "count": 6,
       "size": 60
     },
     {
-      "text": "with chinese",
+      "text": "chemicals to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "tanker rates",
+      "text": "control list",
       "count": 6,
       "size": 60
     },
     {
-      "text": "detects drug",
+      "text": "panama canal",
       "count": 6,
       "size": 60
     },
     {
-      "text": "passenger at",
+      "text": "u.s. farmers",
       "count": 6,
       "size": 60
     },
     {
-      "text": "public forum",
+      "text": "and tonnages",
       "count": 6,
       "size": 60
     },
     {
-      "text": "the closing",
+      "text": "south china",
       "count": 6,
       "size": 60
     },
     {
-      "text": "naval ships",
+      "text": "stock falls",
       "count": 6,
       "size": 60
     },
     {
-      "text": "of trump-xi",
+      "text": "추석 명절을 앞두고",
       "count": 6,
       "size": 60
     },
     {
-      "text": "culture and",
+      "text": "the united",
       "count": 6,
       "size": 60
     },
     {
-      "text": "los angeles",
+      "text": "china adds",
       "count": 6,
       "size": 60
     },
     {
-      "text": "inside the",
+      "text": "long beach",
       "count": 6,
       "size": 60
     },
     {
-      "text": "with photo",
+      "text": "rates rise",
       "count": 6,
       "size": 60
     },
     {
-      "text": "wto public",
+      "text": "farmers as",
       "count": 6,
       "size": 60
     },
     {
-      "text": "higher as",
+      "text": "and other",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in august",
+      "text": "china sea",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to normal",
+      "text": "order for",
       "count": 6,
       "size": 60
     },
     {
-      "text": "ag stock",
+      "text": "to expand",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "a global",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "focus on",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "trump to",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "+ nagel",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "one of",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "18 pro",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in red",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to wto",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "semiconductor industry",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "kuehne+nagel takes",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the international",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "yard automation",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "long-term deal",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "marine insight",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "old dominion",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "asia pacific",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "of september",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "pressure on",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "trading and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "and pooling",
-      "count": 5,
-      "size": 50
     }
   ],
-  "total_keywords": 24053,
-  "generated_at": "2026-09-22T02:50:57Z"
+  "total_keywords": 21296,
+  "generated_at": "2026-09-23T02:53:24Z"
 }
