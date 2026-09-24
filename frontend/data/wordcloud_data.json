@@ -2,61 +2,56 @@
   "keywords": [
     {
       "text": "red sea",
-      "count": 25,
-      "size": 100
-    },
-    {
-      "text": "suez canal",
-      "count": 21,
-      "size": 100
-    },
-    {
-      "text": "ahead of",
-      "count": 20,
-      "size": 100
-    },
-    {
-      "text": "trucking industry",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "and statistics",
-      "count": 16,
-      "size": 100
-    },
-    {
-      "text": "in august",
-      "count": 15,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 14,
-      "size": 100
-    },
-    {
-      "text": "ramps up",
-      "count": 14,
+      "count": 30,
       "size": 100
     },
     {
       "text": "strait of",
-      "count": 13,
+      "count": 23,
       "size": 100
     },
     {
       "text": "of hormuz",
-      "count": 13,
+      "count": 23,
+      "size": 100
+    },
+    {
+      "text": "and statistics",
+      "count": 20,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
+      "count": 20,
       "size": 100
     },
     {
       "text": "holdings stock",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "ad hoc",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "trucking industry",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "battery recycling",
       "count": 12,
       "size": 100
     },
     {
-      "text": "taiwan strait",
+      "text": "c.h. robinson",
       "count": 12,
       "size": 100
     },
@@ -66,28 +61,33 @@
       "size": 100
     },
     {
-      "text": "baltic dry",
+      "text": "ev battery",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "in august",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "into the",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "the loadstar",
       "count": 11,
       "size": 100
     },
     {
-      "text": "spot rates",
+      "text": "추석 명절을 앞두고",
       "count": 11,
       "size": 100
     },
     {
-      "text": "deal with",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "cost of",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "ad hoc",
-      "count": 11,
+      "text": "statistics indexbox",
+      "count": 10,
       "size": 100
     },
     {
@@ -101,7 +101,12 @@
       "size": 100
     },
     {
-      "text": "the loadstar",
+      "text": "direct service",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "taiwan strait",
       "count": 10,
       "size": 100
     },
@@ -111,12 +116,72 @@
       "size": 100
     },
     {
-      "text": "means for",
+      "text": "rates surge",
       "count": 10,
       "size": 100
     },
     {
-      "text": "air traffic",
+      "text": "stock gains",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "workers die",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "spot rates",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "killed in",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "die after",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ramps up",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "new york",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "and regulations",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "global battery",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "hurricane polo",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "peak season",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "breaks down",
       "count": 9,
       "size": 90
     },
@@ -126,7 +191,22 @@
       "size": 90
     },
     {
-      "text": "over the",
+      "text": "추석 연휴를 맞아",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "to expand",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "dry index",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "the open",
       "count": 9,
       "size": 90
     },
@@ -136,62 +216,47 @@
       "size": 90
     },
     {
-      "text": "statistics indexbox",
+      "text": "geopolitical risks",
       "count": 8,
       "size": 80
     },
     {
-      "text": "precursor chemicals",
+      "text": "critical minerals",
       "count": 8,
       "size": 80
     },
     {
-      "text": "network worldwide",
+      "text": "regulations 2026",
       "count": 8,
       "size": 80
     },
     {
-      "text": "general assembly",
+      "text": "united nations",
       "count": 8,
       "size": 80
     },
     {
-      "text": "tariff refunds",
+      "text": "부산항만공사(bpa, 사장",
       "count": 8,
       "size": 80
     },
     {
-      "text": "direct service",
+      "text": "after falling",
       "count": 8,
       "size": 80
     },
     {
-      "text": "transit taiwan",
+      "text": "falling into",
       "count": 8,
       "size": 80
     },
     {
-      "text": "c.h. robinson",
+      "text": "two workers",
       "count": 8,
       "size": 80
     },
     {
-      "text": "zealand naval",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "naval ships",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "pacific air",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "up battery",
+      "text": "million in",
       "count": 8,
       "size": 80
     },
@@ -201,17 +266,67 @@
       "size": 80
     },
     {
-      "text": "dhl ramps",
+      "text": "august as",
       "count": 8,
       "size": 80
     },
     {
-      "text": "iran war",
+      "text": "means for",
       "count": 8,
       "size": 80
     },
     {
-      "text": "a month",
+      "text": "to boost",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "with new",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "over the",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "a diesel",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "into sea",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "shark in",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in busan",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "laws and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to 2035",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "back to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "sea at",
       "count": 8,
       "size": 80
     },
@@ -221,32 +336,17 @@
       "size": 70
     },
     {
-      "text": "and regulations",
+      "text": "general assembly",
       "count": 7,
       "size": 70
     },
     {
-      "text": "seoul economic",
+      "text": "baird maritime",
       "count": 7,
       "size": 70
     },
     {
-      "text": "economic daily",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "hormuz within",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "energy supply",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "review (gtr",
+      "text": "water levels",
       "count": 7,
       "size": 70
     },
@@ -256,32 +356,22 @@
       "size": 70
     },
     {
-      "text": "of european",
+      "text": "도널드 트럼프 미국",
       "count": 7,
       "size": 70
     },
     {
-      "text": "of trump-xi",
+      "text": "the united",
       "count": 7,
       "size": 70
     },
     {
-      "text": "and energy",
+      "text": "and other",
       "count": 7,
       "size": 70
     },
     {
-      "text": "dry index",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "august as",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "5.9% rate",
+      "text": "on diesel",
       "count": 7,
       "size": 70
     },
@@ -291,49 +381,24 @@
       "size": 70
     },
     {
-      "text": "into the",
+      "text": "to stop",
       "count": 7,
       "size": 70
     },
     {
-      "text": "with new",
+      "text": "of 2026",
       "count": 7,
       "size": 70
     },
     {
-      "text": "after a",
+      "text": "a month",
       "count": 7,
       "size": 70
     },
     {
-      "text": "to keep",
+      "text": "is the",
       "count": 7,
       "size": 70
-    },
-    {
-      "text": "not to",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "in new",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "of its",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "to get",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "diesel prices squeeze",
-      "count": 6,
-      "size": 60
     },
     {
       "text": "azerbaijan railways",
@@ -346,12 +411,22 @@
       "size": 60
     },
     {
+      "text": "robinson worldwide",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "as electrification",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "strengthen further",
       "count": 6,
       "size": 60
     },
     {
-      "text": "battery recycling",
+      "text": "hapag-lloyd stock",
       "count": 6,
       "size": 60
     },
@@ -361,146 +436,71 @@
       "size": 60
     },
     {
-      "text": "american journal",
-      "count": 6,
-      "size": 60
-    },
-    {
       "text": "finished vehicle",
       "count": 6,
       "size": 60
     },
     {
-      "text": "regulations 2026",
+      "text": "treasury yields",
       "count": 6,
       "size": 60
     },
     {
-      "text": "prime minister",
+      "text": "as geopolitical",
       "count": 6,
       "size": 60
     },
     {
-      "text": "zim integrated",
+      "text": "hapag-lloyd ceo",
       "count": 6,
       "size": 60
     },
     {
-      "text": "earnings beat",
+      "text": "cirba solutions",
       "count": 6,
       "size": 60
     },
     {
-      "text": "record diesel",
+      "text": "recycling pilot",
       "count": 6,
       "size": 60
     },
     {
-      "text": "strong august",
+      "text": "battery demand",
       "count": 6,
       "size": 60
     },
     {
-      "text": "hacis extends",
+      "text": "expands global",
       "count": 6,
       "size": 60
     },
     {
-      "text": "bab el-mandeb",
+      "text": "tariff refunds",
       "count": 6,
       "size": 60
     },
     {
-      "text": "east conflict",
+      "text": "percent before",
       "count": 6,
       "size": 60
     },
     {
-      "text": "chemicals to",
+      "text": "transit taiwan",
       "count": 6,
       "size": 60
     },
     {
-      "text": "control list",
+      "text": "rising diesel",
       "count": 6,
       "size": 60
     },
     {
-      "text": "panama canal",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "u.s. farmers",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and tonnages",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "south china",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "stock falls",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "추석 명절을 앞두고",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "the united",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "china adds",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "long beach",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rates rise",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "farmers as",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "and other",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "china sea",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "order for",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to expand",
+      "text": "demand drives",
       "count": 6,
       "size": 60
     }
   ],
-  "total_keywords": 21296,
-  "generated_at": "2026-09-23T02:53:24Z"
+  "total_keywords": 31364,
+  "generated_at": "2026-09-24T02:40:30Z"
 }
