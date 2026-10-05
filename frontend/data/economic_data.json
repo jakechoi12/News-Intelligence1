@@ -3,15 +3,11 @@
     "items": {
       "KOSPI": {
         "name": "KOSPI지수",
-        "current": 6971.35,
-        "previous": 6838.04,
-        "change": 133.31,
-        "change_percent": 1.95,
+        "current": 7003.74,
+        "previous": 6971.35,
+        "change": 32.39,
+        "change_percent": 0.46,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 8051.33
-          },
           {
             "time": "2026-07-07",
             "value": 7656.31
@@ -247,20 +243,20 @@
           {
             "time": "2026-10-01",
             "value": 6971.35
+          },
+          {
+            "time": "2026-10-02",
+            "value": 7003.74
           }
         ]
       },
       "KOSDAQ": {
         "name": "KOSDAQ지수",
-        "current": 894.29,
-        "previous": 855.91,
-        "change": 38.38,
-        "change_percent": 4.48,
+        "current": 893.29,
+        "previous": 894.29,
+        "change": -1.0,
+        "change_percent": -0.11,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 847.07
-          },
           {
             "time": "2026-07-07",
             "value": 831.23
@@ -496,20 +492,20 @@
           {
             "time": "2026-10-01",
             "value": 894.29
+          },
+          {
+            "time": "2026-10-02",
+            "value": 893.29
           }
         ]
       },
       "SP500": {
         "name": "S&P 500",
-        "current": 7666.45,
-        "previous": 7651.54,
-        "change": 14.91,
-        "change_percent": 0.19,
+        "current": 7722.72,
+        "previous": 7666.45,
+        "change": 56.27,
+        "change_percent": 0.73,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 7537.43
-          },
           {
             "time": "2026-07-07",
             "value": 7503.85
@@ -757,20 +753,20 @@
           {
             "time": "2026-10-01",
             "value": 7666.45
+          },
+          {
+            "time": "2026-10-02",
+            "value": 7722.72
           }
         ]
       },
       "NASDAQ": {
         "name": "NASDAQ",
-        "current": 26871.6,
-        "previous": 26861.06,
-        "change": 10.54,
-        "change_percent": 0.04,
+        "current": 27190.86,
+        "previous": 26871.6,
+        "change": 319.26,
+        "change_percent": 1.19,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 26121.16
-          },
           {
             "time": "2026-07-07",
             "value": 25818.69
@@ -1018,20 +1014,20 @@
           {
             "time": "2026-10-01",
             "value": 26871.6
+          },
+          {
+            "time": "2026-10-02",
+            "value": 27190.86
           }
         ]
       },
       "Nikkei225": {
         "name": "Nikkei 225",
-        "current": 68956.72,
-        "previous": 66753.72,
-        "change": 2203.0,
-        "change_percent": 3.3,
+        "current": 68309.46,
+        "previous": 68956.72,
+        "change": -647.26,
+        "change_percent": -0.94,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 69737.69
-          },
           {
             "time": "2026-07-07",
             "value": 68256.96
@@ -1263,6 +1259,10 @@
           {
             "time": "2026-10-01",
             "value": 68956.72
+          },
+          {
+            "time": "2026-10-02",
+            "value": 68309.46
           }
         ]
       }
@@ -1277,10 +1277,6 @@
         "change": 3.9,
         "change_percent": 0.29,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 1539.7
-          },
           {
             "time": "2026-07-07",
             "value": 1531.8
@@ -1531,10 +1527,6 @@
         "change_percent": -0.49,
         "data": [
           {
-            "time": "2026-07-06",
-            "value": 1760.49
-          },
-          {
             "time": "2026-07-07",
             "value": 1753.3
           },
@@ -1784,10 +1776,6 @@
         "change_percent": -0.11,
         "data": [
           {
-            "time": "2026-07-06",
-            "value": 953.61
-          },
-          {
             "time": "2026-07-07",
             "value": 945.41
           },
@@ -2036,10 +2024,6 @@
         "change": 0.36,
         "change_percent": 0.18,
         "data": [
-          {
-            "time": "2026-07-06",
-            "value": 227.41
-          },
           {
             "time": "2026-07-07",
             "value": 225.86
@@ -2386,5 +2370,5 @@
       }
     }
   },
-  "generated_at": "2026-10-02T03:37:56Z"
+  "generated_at": "2026-10-05T03:34:31Z"
 }
