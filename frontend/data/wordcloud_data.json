@@ -1,17 +1,332 @@
 {
   "keywords": [
     {
-      "text": "intermodal fuel",
+      "text": "hong kong",
+      "count": 34,
+      "size": 100
+    },
+    {
+      "text": "in september",
+      "count": 25,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "msc and",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "due to",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "south china",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "and one",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "index hits",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "sagarmanthan 2026",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "emergency fuel",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "fuel surcharge",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "zim integrated",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "bab el-mandeb",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "maersk raises",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "kong customs",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "hit record",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "to middle",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "hits six-week low",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "october 2026",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "in august",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "east conflict",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "raises 2026",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "zim raises",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "for green",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "china sea",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "ai boom",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "to help",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "up to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "trucking capacity",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "coast south",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "hd hyundai",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "ai demand",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "cgm and",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "and dsv",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "traffic congestion",
       "count": 8,
       "size": 80
     },
     {
-      "text": "acquisition of",
+      "text": "chain resilience",
       "count": 8,
       "size": 80
     },
     {
-      "text": "and other",
+      "text": "earnings outlook",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "and statistics",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "sets september",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "holdings stock",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "germany blocks",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "surcharge due",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "coalition for",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "savannah sets",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "asia pacific",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "the loadstar",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "group maersk",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "트럼프 미국 대통령이",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "a strategic",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "wto raises",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "outlook as",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "hybrid car",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "of hormuz",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to expand",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "india, eu",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "eu launch",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "means for",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "new york",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to boost",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "surge as",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "a major",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "part of",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "red sea",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to buy",
       "count": 8,
       "size": 80
     },
@@ -21,486 +336,171 @@
       "size": 80
     },
     {
-      "text": "south america",
+      "text": "supply disruption",
       "count": 7,
       "size": 70
     },
     {
-      "text": "ch robinson",
+      "text": "2026 earnings",
       "count": 7,
       "size": 70
     },
     {
-      "text": "8일 서울 여의도",
+      "text": "strong demand",
       "count": 7,
       "size": 70
-    },
-    {
-      "text": "to help",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "ai 해킹",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "trucking capacity",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "국회 정무위원회 국정감사에서",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "packaged goods",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "in packaged",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "a strategic",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "도널드 트럼프 미국",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "the hidden",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ottawa t2",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ahead of",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "dp world",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ai boom",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "the top",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "capacity crisis",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "operations in",
-      "count": 5,
-      "size": 50
     },
     {
       "text": "union pacific",
-      "count": 5,
-      "size": 50
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "on wednesday",
-      "count": 5,
-      "size": 50
+      "text": "pinglu canal",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "has launched",
-      "count": 5,
-      "size": 50
+      "text": "million teus",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "in september",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "middle east",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "coast south",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "wall street",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "east coast",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "europe and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "and what",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "post the",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the last",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "part of",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "into a",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "of rxo",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "한국해양수산개발원(kmi, 원장 조정희)은",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "benelux intermodal",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "the300][2026 국정감사",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "balkan intermodal",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "heavy industries",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "partnership with",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "개인택배 서비스 ‘보내오네’를",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "fuel surcharges",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "안전관제시스템이 현장 운영에",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "터미널을 가상공간에 복제하고",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "작업자의 움직임을 실시간으로",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "움직임을 실시간으로 반영한다",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "기반 항만 안전관제시스템이",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "항만 안전관제시스템이 현장",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "가상공간에 복제하고 장비와",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "실제 터미널을 가상공간에",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "복제하고 장비와 작업자의",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "장비와 작업자의 움직임을",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "좌표로, 사람은 cctv",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "october 2026",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "the americas",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "with unilode",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "트럼프 미국 대통령이",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "서울 여의도 국회에서",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "여의도 국회에서 열린",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "8일 서울시에 따르면",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "baltic fuel",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "post maersk",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "forecast to",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "america pss",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "east africa",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "실시간 항만 모니터링",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "사람과 장비를 하나의",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "항만에서 장비는 위성",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "위성 좌표로, 사람은",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "사람은 cctv 화면",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "pricing and",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "휴머노이드 로봇 기술",
-      "count": 4,
-      "size": 40
+      "text": "west africa",
+      "count": 7,
+      "size": 70
     },
     {
       "text": "peak season",
-      "count": 4,
-      "size": 40
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "nordic and",
-      "count": 4,
-      "size": 40
+      "text": "forecast as",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "and baltic",
-      "count": 4,
-      "size": 40
+      "text": "has changed",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "rates have",
-      "count": 4,
-      "size": 40
+      "text": "demand and",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "독자 개발한 디지털",
-      "count": 4,
-      "size": 40
+      "text": "has become",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "개발한 디지털 트윈",
-      "count": 4,
-      "size": 40
+      "text": "the market",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "장비는 위성 좌표로",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "화면 속 영상으로만",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "spot rates",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "and brazil",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "의원은 8일 국회",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "의원은 8일 서울",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "부산 신항 5부두",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "디지털 트윈 기반",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "트윈 기반 실시간",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "기반 실시간 항만",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "cctv 화면 속",
-      "count": 4,
-      "size": 40
+      "text": "new record",
+      "count": 7,
+      "size": 70
     },
     {
       "text": "of global",
-      "count": 4,
-      "size": 40
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "수 있는 서비스를",
-      "count": 4,
-      "size": 40
+      "text": "for u.s",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "활용할 수 있는",
-      "count": 4,
-      "size": 40
+      "text": "why the",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "a single",
-      "count": 4,
-      "size": 40
+      "text": "low on",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "is being",
-      "count": 4,
-      "size": 40
+      "text": "ad hoc",
+      "count": 7,
+      "size": 70
     },
     {
-      "text": "loads at",
-      "count": 4,
-      "size": 40
+      "text": "iran-backed houthis",
+      "count": 6,
+      "size": 60
     },
     {
-      "text": "of 2026",
-      "count": 4,
-      "size": 40
+      "text": "trucking companies",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "industry coalition",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "same-day delivery",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hyundai delivers",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "raises emergency",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "inland emergency",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "raises full-year",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "growth forecast",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "launch industry",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "consumer prices",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "profit forecast",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baird maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "| sagarmanthan",
+      "count": 6,
+      "size": 60
     }
   ],
-  "total_keywords": 25239,
-  "generated_at": "2026-10-08T04:12:49Z"
+  "total_keywords": 22791,
+  "generated_at": "2026-10-09T04:10:48Z"
 }
