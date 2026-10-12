@@ -1,192 +1,192 @@
 {
   "countries": [
     {
-      "code": "IR",
-      "count": 27,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[외환] 커스터디·중동 긴장에 상승…트럼프 \"이란 공격 없다\"에도 1,340원대 중반",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438467"
-        },
-        {
-          "title": "스테이트스트리트 \"글로벌자금 채권으로…금리급등에 저가 매수\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438461"
-        },
-        {
-          "title": "[뉴욕마켓워치] 되살아난 AI 의구심에 반도체주 급락…채권↑달러↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438459"
-        }
-      ]
-    },
-    {
-      "code": "US",
-      "count": 22,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "정청래, 美 비자발급 보류에 외통위 국감 '미국→유럽行' 변경",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438477"
-        },
-        {
-          "title": "日증시, 美 반도체 급락 여파에 하락 출발 후 낙폭 확대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438475"
-        },
-        {
-          "title": "[외환] 커스터디·중동 긴장에 상승…트럼프 \"이란 공격 없다\"에도 1,340원대 중반",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438467"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "李대통령 지지율 37% 유지…민주 35%·국힘 26%[한국갤럽]",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438480"
-        },
-        {
-          "title": "스테이트스트리트 \"글로벌자금 채권으로…금리급등에 저가 매수\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438461"
-        },
-        {
-          "title": "WinGD awarded Global Service agreement for three TMS Cardiff Gas LNG carrier newbuilds",
-          "url": "https://www.hellenicshippingnews.com/wingd-awarded-global-service-agreement-for-three-tms-cardiff-gas-lng-carrier-newbuilds/"
-        }
-      ]
-    },
-    {
       "code": "CN",
-      "count": 8,
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Hinrich Foundation's Elms on EU-China Trade Tensions",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-09/hinrich-foundation-s-elms-on-eu-china-trade-tensions-video"
+          "title": "Beyond Direct Airfreight: Why CargoPoint’s Truck+Air Multimodal Product is Redefining China–Europe logistics",
+          "url": "https://aircargoweek.com/beyond-direct-airfreight-why-cargopoints-truckair-multimodal-product-is-redefining-china-europe-logistics/"
         },
         {
-          "title": "Copper Set for Weekly Gain on China’s Return and Supply Concerns",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-09/copper-set-for-weekly-gain-on-china-s-return-and-supply-concerns"
+          "title": "South Korea, China Clash Over LNG Carrier Market",
+          "url": "https://www.hellenicshippingnews.com/south-korea-china-clash-over-lng-carrier-market/"
         },
         {
-          "title": "Las Vegas Sands CEO: Remain Bullish on Macau Outlook",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-09/las-vegas-sands-ceo-remain-bullish-on-macau-outlook-video"
+          "title": "China has agreed to limit car exports to the EU to avoid a large-scale trade war",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTNyMWlibGFmWGZIdjhUUUE0eXRVN1Q3WkRSRWtSRzI0R241ZFE4dTBIZVUtX2dobWZRQ0l1aDMwU29ZSVM2VTYwNTdBQkwtRlR2N0d5VFJsX05zaUx1S3NDS0NZV3pwMFVvdHVHTGZaUkk2cXFKdWdISHlYeHNIaUZ2dWZBZ0hWcDdpckdPUkJ5T1QwYjkteHJvOU9RRXNfMXZKeGxn0gGkAUFVX3lxTE1vOGhBNVNXUzhIQ3MxSllXRnFBWVJ0YVFvRGtYN0VyTkNLOVozeExWY3lmY1ZlRkhybkUxcDlqVkNadm1KcjdvZTF4SkRWWDN6VXZmZlJTYXVIb1JuNmhobWdiM0IzTkpaV3hjNmxsbmNSQ3RtSHJfYndlWUhJRWQ5SVhnUExpZWE4S1ZWRVJ6dG9sWEZhcnFnaFZOWjcwbW1FeTU5?oc=5"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 7,
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "BOE 총재 \"레버리지 투자 확대에 국채시장 충격 확산 위험\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438444"
+          "title": "월가 \"프랑스발 채권 불안, 美 시장 전이될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438675"
         },
         {
-          "title": "Europa warns UK, UAE and India shippers as Middle East disruption drives up freight costs",
-          "url": "https://aircargoweek.com/europa-warns-uk-uae-and-india-shippers-as-middle-east-disruption-drives-up-freight-costs/"
+          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
         },
         {
-          "title": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5"
+          "title": "The pre-winter race for the Black Sea",
+          "url": "https://container-news.com/the-pre-winter-race-for-the-black-sea/"
         }
       ]
     },
     {
-      "code": "DE",
-      "count": 7,
+      "code": "IR",
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "German exports fall in August, pointing to weak third quarter",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVWdoTnRQMTIwTFl6WGswOFc1c2VCRFRPZmYyZGtON0M2QmpTdTg0dVNSdjIxSFB1RGNpdkFrMnJlUm1KM2NKU0o4cVJqUXQyMl9ISDRaNEJjckcwWWdndEJrQzQtMXNhNlpwaWd1Q29XYV9zTlNhSW1HWXNwcGd5VmxBZUhhSklqa3lTMTJtSjdHRWZPQmJEVWJmVUxLbWtSZElqR2JadURMQ0xEN0hSTHh6d1FqNDBtVURDRFhVNW9ZcHRKSkloVjhhRFVYQ0hfMUU2aTRnVmNCbVVZZlBlZncyR0huYWxQb202a3VibzFLZw?oc=5"
+          "title": "Iran’s Shipping Strikes Top a Dozen Amid Bid to 'Restore' Leverage —Crypto Punters Wager on Hormuz Reopen",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUFpUcm50d19rYU9uZW5zSGlmb1FhSmp6Z25zYkxfVDZ1WGNHOUoxR1R4Z0ZEQ1E5T2NFR1A1WC03eWd0UFkwNnJtcTFiVE5pRFhoOHZGYlV6X2V0T1hXSWEwLW9DMWl3R3NPZlJOV0xMMDRyTnM5Yjc2TkdiS05FNDl6N3VkalV1ZmJSajJGSVdVSmZpVmUxZmpIa2xSYzh5SEFCNUJUdU1Jblo4TXdwcWZaMjAxZmpkRnhzUDdLYXNudWZXbkVMcmwyWVAtU215SU9kb3JZOWlYSXgyTnNmT2RkSFhmeUtESnA2cWxYNl93NEl6VHFRWkItQW13bUozaVlZemk5bFpVbWdsRlNpa0pwUWdWaUtJ?oc=5"
         },
         {
-          "title": "Security concerns scupper COSCO's buyout of German logistics firm",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUtJSG93OFRIYUphVG1FVVdQWjk5NE1UdWtwcjZsRUdzdXlVVVp1SlF0dEJFMExCS29jY0tjQ01NOFdxMlJSdUFLdVdxaGVOM0hsMXJJc0pFWHA5ZGpod3RmNTN0TTg4VmtWOGpjYThrZkhvWmdCTUJnWkJtSFctNVdQQ1VDQ082cDNYVjR0NG8zYUhDSkFnT1NTbUkwclM1NG1UbUR30gGzAUFVX3lxTE1SU0xHZDN5bnBBYXpYbWVMRDhXUkZRODNmQ214OEIzMUlVYV9LUG1oRkFINjdhOXVzN1N2elVQVTRieEVpZGlrY2FZdDQ4b0t6SzlLUnNPNG9hTDNYUUhPTm5BQW1aNnhzb2NpRFNNYXlLSTQyWm1NWFhJaHQyNTlRY3Utcm9tYVVWYlMzZFlVZUxOemdaaHJoQjhITElDNHNwTVhUcHJaQ1pnSXhPX2RZX2s4?oc=5"
+          "title": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says"
         },
         {
-          "title": "German docker strike averted as union, port employers reach deal",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFRud1FaVURsQVdpVFN1N0NyU2pPajFZSkhmc1BQdXlVRGdvY2V1c1lmam9FR3hZVHJEcVF4YUwxbTlWU084WDh1NTAzVXpBdkd0MHpJcENEQVlPaEF6T3U2NGJody1WMjZpV1UxVGhkYWg0ZGEzRmMtMUxleXE3VEdnTHN1ejUtQU9NWGZraUdKV3pLWlpJd0FUVl9YT1dx?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[뉴욕유가] 트럼프 \"선거 전 이란 공격 없다\" 상승폭 축소…WTI 3.6%↑",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438453"
-        },
-        {
-          "title": "[뉴욕 금가격] 트럼프 \"선거 전 이란 공격 안해\"…0.5% 상승",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438449"
-        },
-        {
-          "title": "India IT Set For Fourth Year of Weak Growth on Geopolitics, AI Risks",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-09/india-it-set-for-fourth-year-of-weak-growth-on-geopolitics-ai-risks"
-        }
-      ]
-    },
-    {
-      "code": "YE",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "예멘 후티 \"리야드 공항 공격 성공\"…사우디 석유 시설 공격도 예고",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438442"
-        },
-        {
-          "title": "Iran-backed Houthis claim new attacks on Saudi Arabia and Yemen’s Aden airport",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3ZPU0o1Qmh4WTVYSXA1SXBORHc1Q1FfZjhyZ3pyN25INjByV2o3Y2dEcEh6Sm15VEZWSXllQW81d01TX2pDMXFVVDY3RS1ZSVZkX1lCMUtIM1JUUWIxeDJWMW9lZnQ3MWJxejA5V0ZwT1R2Ml9KZ3dDOHZUX3gyYk1pSkhmcGdMeE1jQ3dWZVZBeTZPVWpkZE02RFdkY0dfdUpDcFUzcE1YY0lub1BISDUwN2E4cDRDR3Nnbk9sSVk?oc=5"
-        },
-        {
-          "title": "Why Has Yemen’s War Escalated Again and What Does It Mean for the Red Sea?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGVreEdXcEt1NkV2ZVNhNm1pWC1fQVQ2QVFNdjZQX2xMUlNGZ3FSSmZ0OGk1WTRaWWNWcWx2VjlNd0FaM3l3ZXNTRjd4Wkx2U3BfRkh3ek9Vc053MG5IdVBldm5uYkZyMlFzS2hfV0ZMM0poZUpld010RGJQOFl2eHFuOUlhRVpBN0ZGd01EVEFNM19RNFdXX1lyUGhZOEVZZG5xTHJBZ3M1aTdxZUVpag?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "SA",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "예멘 후티 \"리야드 공항 공격 성공\"…사우디 석유 시설 공격도 예고",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438442"
-        },
-        {
-          "title": "Iran-backed Houthis claim new attacks on Saudi Arabia and Yemen’s Aden airport",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3ZPU0o1Qmh4WTVYSXA1SXBORHc1Q1FfZjhyZ3pyN25INjByV2o3Y2dEcEh6Sm15VEZWSXllQW81d01TX2pDMXFVVDY3RS1ZSVZkX1lCMUtIM1JUUWIxeDJWMW9lZnQ3MWJxejA5V0ZwT1R2Ml9KZ3dDOHZUX3gyYk1pSkhmcGdMeE1jQ3dWZVZBeTZPVWpkZE02RFdkY0dfdUpDcFUzcE1YY0lub1BISDUwN2E4cDRDR3Nnbk9sSVk?oc=5"
-        },
-        {
-          "title": "Key oil pipeline to Red Sea port up and running after attack, says Saudi Arabia",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUF0WklvZ3JSS0F3NHRqRTFVVHJOZHZWbmtOQmxseVVicGVHN0hmeWtDNGFYTExIbXJBakZ5NlZZNXlQdFdMeG9NcldRNGFFdFJpejk4ZmVDMTVaTnJ3SkctSHRuNTQ5Vlp4dGd0czhWLVhVTUxMdVJwOVNMMzBFZ1lDOUtjR21lM2xDYkd3WExPdjlYNjFiQTBFSk1LXzkyb2UtMDhkcW1pWlYtYm5FRm10a0dIbWFKVTBYQXpjUGU3MTdkQXg4VA?oc=5"
+          "title": "Iran war threatens Healey's Budget plans, think tank warns",
+          "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+        },
+        {
+          "title": "The pre-winter race for the Black Sea",
+          "url": "https://container-news.com/the-pre-winter-race-for-the-black-sea/"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Oct. 12",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap"
+        },
+        {
+          "title": "Saudi Arabia writes Hormuz out of its oil sales",
+          "url": "https://container-news.com/saudi-arabia-writes-hormuz-out-of-its-oil-sales/"
+        },
+        {
+          "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+          "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Iran War’s End Will Be Turning Point for India, Amundi Arm Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/iran-war-s-end-will-be-turning-point-for-india-amundi-arm-says"
+        },
+        {
+          "title": "India and the Widening Tanker Freight Squeeze",
+          "url": "https://www.hellenicshippingnews.com/india-and-the-widening-tanker-freight-squeeze/"
+        },
+        {
+          "title": "Global trade hits record $35 trillion despite geopolitical conflicts: UNCTAD",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm96ckx5OTkyMGZlblctdk5SdGFRUmMwSWZ4NFo3YWwtWGhQZ2U3MnRmMUQzZ1JSODF3R0FSMHRXZDJBak92cDdrR1ZBcFlvSG16c0U4RWFXT2tVM1E5ZFRWSDVhQTJPd0g5bXA5RUotejNTbFpRem9NcWc0aXZMMzVJSFpiaV9uNWF5VVFscTh5VHV4WGJ5VjBkaWUtV2lWTXpWUmt0aXNUcThW?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+        },
+        {
+          "title": "The pre-winter race for the Black Sea",
+          "url": "https://container-news.com/the-pre-winter-race-for-the-black-sea/"
+        },
+        {
+          "title": "CNBC Daily Open: Will America open another front in the Middle East? Trump is considering",
+          "url": "https://www.cnbc.com/2026/10/12/tensions-middle-east-and-ukraine-wars-imf-world-bank.html"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "월가 \"프랑스발 채권 불안, 美 시장 전이될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438675"
+        },
+        {
+          "title": "CNBC Daily Open: Will America open another front in the Middle East? Trump is considering",
+          "url": "https://www.cnbc.com/2026/10/12/tensions-middle-east-and-ukraine-wars-imf-world-bank.html"
+        },
+        {
+          "title": "FY 26 INFRA awards are another reminder that our federal transportation program centers roadway expansion",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREFvZEl4bnlLRXhRQzlpTENuNm8wUkNKdXo1MUtBMVhrakZla1JHVVE2ZTRUWnBtT0pDLW9RblBoTDlEdmtrelVKWXJnN1lsVHVjbFBnZnpyVVpSbmstYXdsOGZVSVB1VDNXVk00bzhXY1Z3bWVES3dYeFVDWUtPYjFWeGc0ckMwa1RIT1F5M2R5WDJYTVJ6aUg0dVFjOGdmYklMWWM0S1k5YUhPOGYwRzROWmJyelpVVHNkRDZNNlRzYTV6c3c5OWNwTmpWOUdXMXVtbjFR?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "DHL Supply Chain advances construction of new logistics center in Germany",
+          "url": "https://container-news.com/dhl-supply-chain-advances-construction-of-new-logistics-center-in-germany/"
+        },
+        {
+          "title": "DW News. . Berlin has blocked the state-owned Chinese shipping giant COSCO's takeover of logistics firm Zippel, citing security fears. Can Germany reduce its dependence on China without sparking a trade war? #dwbusiness",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFZEaEY1NzVFbF82WlhVbVVSR3FPRkZXYXhCYmM4VUlJOVY4bFRySlowaGxBenRTWFAwTkhQTmFtbjRFNXZIUEtLcmxyV0VHVExPaVRPVkJUMkc2Q0otVWRaU3AyRjVPRE1yb0JDNjJnNDNtSVpFV21ZUl9rVTZEYmltQ2FQRHZ1VWdWbU4zdXE1VVlyTDhvNFBhTk9GcHJwV2xlNVBfSnZKRHdwa21tTnZkMGVXVVJNTkd6UGRoVmNwMEFhRkhrWG1SckQyY1JBV2g5UWw2X3REVGFrMWlQQ1d3?oc=5"
+        },
+        {
+          "title": "German dockers accept the September offer after a strike ballot that needed 75% of members called to vote",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUx4Vmx2dHlSeDdkOV9GQjlBRmxuQk5LcEw5Rm1FR2NiWFdTaWpEVDlOUjNVcmpBTG0wXzctTXB6MDVVSVNZd1dEa0s3Wl9ZcG92ZU1iaEFKWjFQRC1xRS1pcTJCdjd6aDJla3pMOVRvT3Z3NXhjcGZjS2RPQVlLTVBoMWxjRTFuR1dEMUdHTHdsMXAtc3JVMXFYTnQ1WWRBc2pDMEFn?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
       "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
-          "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html"
+          "title": "\"佛 이어 이탈리아도 재정 우려…국채에 추가 압박\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438686"
         },
         {
-          "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-          "url": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html"
+          "title": "월가 \"프랑스발 채권 불안, 美 시장 전이될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438675"
         },
         {
-          "title": "South Korean fuel shipments help Russia ease fuel crisis during Ukraine strikes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeldHM1hQZ3F2ajUtYnBvdVg4T0k0YXdkU3pFUW9mZ1hUbEN2cHN1WllJRVRBN2t5TkVWNDFXeHE2cldOeXFmYlJuRWxrc2hnVHhIeHdFTklhaDdPYzhiZHRlUHExWWxFTFQ5cGJ2THNHUzZlRFNnZHIwM0JpU0VZUUpDRUplQ0RLSWc?oc=5"
+          "title": "After France, is Italy next? Goldman Sachs flags bond risks as Rome's deficit widens",
+          "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html"
         }
       ]
     },
@@ -196,64 +196,46 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "日증시, 美 반도체 급락 여파에 하락 출발 후 낙폭 확대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438475"
+          "title": "BofA \"2025년 이후 엔화 약세, 해외 거래시간에 집중…강세 전환 가능성\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438714"
         },
         {
-          "title": "Japan’s Household Spending Falls Again Despite Wage Gains",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/japan-s-household-spending-falls-again-despite-wage-gains"
+          "title": "Why Japan's 7-Eleven store closures in India don’t signal an exit",
+          "url": "https://www.cnbc.com/2026/10/10/7-eleven-india-japan-reliance.html"
         }
       ]
     },
     {
-      "code": "UA",
+      "code": "SG",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-          "url": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html"
+          "title": "Singapore: Maritime and Port Authority of Singapore Act 1996 to be amended to address the emerging risks",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOc0xVdHNYMVk1Nl85QWFNRGdGTzBCZ3h2NzZkSXR3RHlKUjYzVDJ1N2dNb0cyR3NjYkdINVlaVnMyRkhCZXRxMWU5aWNIT2FWRjJvSFJmekNfQm5rMV9iQ3ZZaERYdEI4dENDNlBUNFEtRVE1dE1pai1sY0dwXzJyS1k5bzdTZlRuYWNjQkVlQ29UVldMNDcwYm03MnhIUVJabmZ3VmFvVXowVk41Qk9sOHdyZmY5dF9sRnBqYmh0OU96Z19wUGs0ZE5VYlZ1bEI2TG9rRXJyT3BZZzBjLU1OTE4tLXZmQzJaTlVhZHlCc2F1bWh6Y2RaZXJ3ZF8wU1RESDdRVllTNVJGUFpHaG5vRkE0TkZwZw?oc=5"
         },
         {
-          "title": "South Korean fuel shipments help Russia ease fuel crisis during Ukraine strikes",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeldHM1hQZ3F2ajUtYnBvdVg4T0k0YXdkU3pFUW9mZ1hUbEN2cHN1WllJRVRBN2t5TkVWNDFXeHE2cldOeXFmYlJuRWxrc2hnVHhIeHdFTklhaDdPYzhiZHRlUHExWWxFTFQ5cGJ2THNHUzZlRFNnZHIwM0JpU0VZUUpDRUplQ0RLSWc?oc=5"
+          "title": "India, Singapore Explore 2 GW Power Link as 9.25 GW Import Pipeline Faces Delays",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTklsTWhxVER5V05fN3R1X1JvMEV6cHlkWk8wU1ZQUWc5MWJKQ2RPZGFOVGVxNk1JUDRYLVpES2ZJeHdSbkltSWF1WVVpbTJudWE1MEZIOEt5V2tkempUMmJrU29vWUpBcEw2SVJDYi1qMks2Y2dCRndHbWRhb0dkMjZlWXdYcGVxNmZ0d0pQMDYzQWFGbFFqMTE1dlhYZDMtQlAtR3FPcGRHVktaSWlwUnFIaFYyZXZOSWVvMzZ3VERreUMxbUpBdjNRLWo?oc=5"
         }
       ]
     },
     {
-      "code": "VN",
-      "count": 1,
-      "risk_level": "low",
+      "code": "KR",
+      "count": 2,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "Efforts to reduce traffic congestion at school gates.",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazdKYXhZTVYtbWZfN1JJM29RSzhFMFVhbDhFTzhsRDhzVThCeDkxU2hva0l1eHE2RkpkMEVjZFpqeHJlWWJTekFGVDloZWNISm1udV9BNUtwRU5aNTJFRko1blZtTU1CVHkwanpuWFI5UmYwZjE5LUcySmMxeUNEWmhiTkQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "TW",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
+          "title": "South Korea, China Clash Over LNG Carrier Market",
+          "url": "https://www.hellenicshippingnews.com/south-korea-china-clash-over-lng-carrier-market/"
+        },
         {
-          "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-          "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Europa warns UK, UAE and India shippers as Middle East disruption drives up freight costs",
-          "url": "https://aircargoweek.com/europa-warns-uk-uae-and-india-shippers-as-middle-east-disruption-drives-up-freight-costs/"
+          "title": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0xvMEdPQ1lSRVBDb3oyT00tRzROdy1sb2lBQXJIUEQ2VTRBM0NPNXJYZnFXVVJ0WWR2RkxaLVRZN1BQck02cEdneUVNS3pFUEFaSmlfRExjT184eUFXanBuaW1aMktiNDVYYjVSWHJYcDFVUjFqMVBNaWdQb3RhVWVLUGRQNG9CZUp6dUlEYzU3V25kWGtIMmo4Z3pROC1KV0J5LW9uYThWcnY1aUV3MnRTRHVWMXB4d2ZHMEtZZw?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 15,
-  "generated_at": "2026-10-09T04:10:33Z"
+  "total_crisis_countries": 13,
+  "generated_at": "2026-10-12T03:47:34Z"
 }
