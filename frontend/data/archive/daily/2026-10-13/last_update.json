@@ -1,0 +1,19 @@
+{
+  "executed_at_utc": "2026-10-13T04:58:42Z",
+  "executed_at_kst": "2026-10-13T13:58:42+09:00",
+  "total_collected": 802,
+  "kr_count": 267,
+  "global_count": 535,
+  "crisis_count": 121,
+  "categories": {
+    "Ocean": 302,
+    "Crisis": 108,
+    "Economy": 74,
+    "ETC": 267,
+    "Air": 24,
+    "Inland": 27
+  },
+  "duration_seconds": 268.4,
+  "success": true,
+  "errors": []
+}
