@@ -1,0 +1,274 @@
+{
+  "countries": [
+    {
+      "code": "CN",
+      "count": 17,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "日 닛케이, 美 약세장 속 반도체주 매수에 68,000선 근접",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439170"
+        },
+        {
+          "title": "[노현우의 채권분석] 스스로 금리를 인하한 논거와 1조달러 압박",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439133"
+        },
+        {
+          "title": "Asia’s Coal Appetite Endures as Winter Looms and Supply Tightens",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/asia-s-coal-appetite-endures-as-winter-looms-and-supply-tightens"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 15,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "사우디 에너지부 \"아람코 행정건물 공격 받아…인명 피해 없어\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439126"
+        },
+        {
+          "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+          "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html"
+        },
+        {
+          "title": "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "사우디 에너지부 \"아람코 행정건물 공격 받아…인명 피해 없어\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439126"
+        },
+        {
+          "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+          "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html"
+        },
+        {
+          "title": "Saudi Aramco HQ hit in Houthi strike; Iran escalates ship attacks, threatens oil export recovery",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmNiUlVtLWhRTEN4Y2tWc2FzVElBUjVhV3FPWVpOMGw3TVFWbER2UUVIZ1VRdTREZWtBamxtZFZUZjREQzBoVDl2REc2ZUJRZVlfaUVNeFAwbWR1RGMzRUZwakk2V25HUjU4dXNTZF9EWkNkX3B4UGQ2QXozbmktU1k3N1ZVOHA0RnV6YXp1MUl2TkVDSWF3U18zdW0tN1BJWTNza21qSDB6ZkIxVHRzak9YWXF6MjdRdkRnSVdNR1ZPLVVFWnAtTjkteXBtMTVBRlpTUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "역대급 물량 경신하는 한국물 시장…상위 하우스 편중 현상은 심화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439173"
+        },
+        {
+          "title": "울산항만공사, 22일 재난대응 안전한국훈련 실시",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323081"
+        },
+        {
+          "title": "英 팰리서, 삼성전자에 ADR 발행 제안…우선주 매입·소각에 활용",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439159"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "英 팰리서, 삼성전자에 ADR 발행 제안…우선주 매입·소각에 활용",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439159"
+        },
+        {
+          "title": "UKMTO issues four Hormuz attack alerts, Iran claims ADNOC tanker strike",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9tRlhQVUh1WWJWbkhDeDdOeWF6NVhqYlBoRUdORHQ1c0hBemNQQlJ3VVk4RDZIemJKLUZDTDVNc0JNWXhMNzNHem4tRldHaGFPdGsxdk5kakVhYlZON0FuZjVRUl9aVVlUOGdxUUlDNkJ3V0xVc2YtRndpTnBLZThOWEtkS19iYlVJcGZ1VlNYbWlnSlE2WDNMN1hUUGplZndOQ0FxWGZ1cVk3TVRHdGFkVEg?oc=5"
+        },
+        {
+          "title": "UKMTO warnings show 12 commercial ships attacked in one week",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEUktyeVlWM05kS1hwLWpJbTdaOEpnSlZfTHJrV08yN01IMFdxcS1IVlp6dFdKYzlGdi01RkVKRDNka25udnVpcFBQZTR5NmdlY0E?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "日 닛케이, 美 약세장 속 반도체주 매수에 68,000선 근접",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439170"
+        },
+        {
+          "title": "英 팰리서, 삼성전자에 ADR 발행 제안…우선주 매입·소각에 활용",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439159"
+        },
+        {
+          "title": "Freight Costs Soar, Leaving Heavy Crude Glutted in the Americas While Asia and Europe Face Supply Shortages",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0NVN4Q09KMXgxcjBzZjMwSTZxZ09IeElFUHNoY3g3XzRuYXBzREstZXVfVGlSNk1BWmdsdXFWcU8ycjE4bGY4cFpYZUs4N0pqWElJUzB1TjEtbUNmRDdVY1FiczBSNkVCMTF2SE5yMHJDNURKeVE?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "사우디 에너지부 \"아람코 행정건물 공격 받아…인명 피해 없어\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439126"
+        },
+        {
+          "title": "Aramco Headquarters Hit as Houthi Missiles Strike Saudi Arabia",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/aramco-headquarters-hit-during-houthi-attacks-on-saudi-arabia"
+        },
+        {
+          "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+          "url": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "India’s middle distillate exports to remain robust as European diesel stocks tighten",
+          "url": "https://www.hellenicshippingnews.com/indias-middle-distillate-exports-to-remain-robust-as-european-diesel-stocks-tighten/"
+        },
+        {
+          "title": "아이니네트웍스, 국내 넘어 지능형 물류 혁신 기술력 해외에서도 인정",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323039"
+        },
+        {
+          "title": "Trump's Strike On Iran Begins? Ship Coming From Iranian Port Bombed By US Jets In Gulf Of Oman",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM2VwMWZTWFFWWWRZdU1ORFExeldSOUtSclJPRGRoU05JMFZRN1hWaHlCU0ttWGtCWGJ0b0FvU2I0andEbVZseXdBUTJEQzEtSjc5OEZiakJlLW9oUGFCY2NUUXVHRlZBR0lycHExd19QUDZPZUU2R01nZWI2UVF4eXQ1R3dramlOWjF3VTVhSUljZXZOUUMwTk1icUJvM1gxMFF1WU9fc2xQMlVKcjNWV2U5dDFWWDZYT3RTWVRDMjBWSXc2a0VuNVhUVk5XQnBRX0JraFp4OWY4X2tQdGlfaFVRbmlzd2JTSWJ6VF9SekZoeVhWeDJjWVFKa0F3X0FkRXFV0gGIAkFVX3lxTE5RakxkVnR2aEt3SzF5ODJHYkVpai1yT0d3NkxvWDdhcmcxNDhUVmVhdGpjajJGVkpKZGd6RF92VUtUcHFCdENCejBDQU01RVAzMC1YS1FibklKckt2R2s4T0hubF9xdFJOMTctQlJ3enFnN3JzNmxGWllncElZcUdhRzV1eUlPRG1LVFV6QXVNZFpGci1BcE5jUE1nYTBsRnVIaUNfU0pVVEl5WUtCVUt6WHJtdURtenNvYTFtQ2RSX05mbWl6UGZ6bkpqalczS2ZLd1FLaERNbDUyUkhDOU5hRXFHN2pOXzQyQ0E1bDBuSDh3YjhCMjNRdnE4T3ZfUEIxVlBGODY4RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "日 닛케이, 美 약세장 속 반도체주 매수에 68,000선 근접",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439170"
+        },
+        {
+          "title": "Olympus Shares Slump on FDA Warning Letter on Six Facilities",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/olympus-shares-plunge-after-fda-warning-letter-on-six-facilities"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+          "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories"
+        },
+        {
+          "title": "Bangladesh port workers stage strike against deal with UAE firm",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzhPRkFJNnI1QmotWDB1TTJnZWw4WE1qRE9IYW0xTlVaYl8xMWVtT1ZKaDdPajdXWkRhS0Zfd1BYbXVEU094c2tmZmhOSUJnUWd4YzdSYkpJaURyX21McWswVWt0N0ZrY0ZDT1p4M0RlcHhCQUJTV1J1SzlvckhIeUlCcDk3ZU84c0hUSFhMZVU3TUU2S0pWVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "흑해서 선박 2척 드론 피격, 선원 11명 실종",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57887"
+        },
+        {
+          "title": "Logistics, rising global prices could create diesel shortage in Ukraine, industry outlet says",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0J5UDVuRmdEbnp1MHg0cEt2Y3daaEJPdGdRRkp2WDRXOHRxcDFJSjk0ZTdRTjltTU5vUUlpclNQNEJqOGVXWlJ1TVo0SzI5TnNsc0hyRVpsYVdYUHZHV09IZVNQeTdmQUFqYXIxTkhZbjY3Xy1PZXB0WVhfX1dfM29LazVsOXd2eUJFZ3F1dXJjRFo3SVJxcWNQVWhBTERNMnZrbTVLaG02RExHZm9sbXdQZmRjNXhUbGtIVXdKX25EYlFVZUd3?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "East of Suez Fuel Availability Outlook",
+          "url": "https://www.hellenicshippingnews.com/east-of-suez-fuel-availability-outlook-30/"
+        },
+        {
+          "title": "Singapore: Maritime and Port Authority of Singapore Act 1996 to be amended to address the emerging risks",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMlQwenZWQTBQTTBqZUcwT0xYVFhIUTlhSEtELXhLck9OZkE0SWw2c1hBNUFEdjRYYWRJU0kwSmpIT0syRTlWeEd6cEROVFFtSEs4dzUzdGJ1UjB3VXF1OTVFeWxwdU9SNjQzY2o3TUVjSjJxQ1liaHdHM29VN19rb3BPUWxvM3NyYzdEUzlXYV80amNNMWN4Wm5oRXpDWE1WaGRHcWZWaHJwM2NpLXl0d29jQmxUMUFabHBjaEdQTFVYYlpXMGNCd21OckM4Y3VFSzlkbGRpd0dySldOZUk4c1lhNWp4eXI4Q3Y0Rl9oQXJha2pxaGtISHVQblE2TkVMd2J5NFVEbEtuNzNDWGJwNENJSE5SVllB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "싸이버로지텍, 도루코 베트남 WMS 구축 수주",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333430"
+        },
+        {
+          "title": "싸이버로지텍, 도루코 베트남 WMS 구축 수주",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323063"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+          "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html"
+        },
+        {
+          "title": "Fridges in French supermarkets hit by cyber attack",
+          "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Middle East supply risks overshadow Russian diesel deal",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmh5LXRWN2JwY0ZHQmh1OWZPSl9MNmxEZV9fbzJYRld6NExkR2tqRGZfOEdKZGlXWG01Z3Y4Qi1STlVfUTlxb2pNWl82a3J1bDYxVFEzc2JBdEJ6MVNjV1NCMDNIWGhTeHJXRk1HaEhQWV9jSzE5X2RocjUya0ZyckZhY2xHdVFzZ0tEbW9xRzdNcm5jcS14UTd4LXBtSHNpVmNLTnVwNVlmZHJWemo0QlVZbHJoWDFVV19nYlgwb3QzQQ?oc=5"
+        },
+        {
+          "title": "Russian strikes damage homes, warehouses and port terminal in Mykolaiv region",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1pQVnBhRk1nWEs3VzdHbnd1WWVXVk5fc2NaVWVqVTdQZXhuVjFKOFI5bGNFMVh6eUZJRUpOMzRqQVpKRlZEek1SVWg5RjY4dUdESVI3SkFDU1Y5ZnZzNlA5VElCLWlvSWJJdW85UEhjVVgyNS1MRG4yYi1hc3l4eTdoZUs4WjN0VDZwNW5kSjQwYUpuaHhzbWtyOXpsNUptbE4zWjhNNjB2MGlXSTFHSFNqWV94MlBydGV3bTVXeWxwSkRu0gHKAUFVX3lxTE1xVGdCUzlRSDAzWHBPVEhyS2IydERvbTVJYWhoUFIxbXRoejVrVVo4NDFMdWJtbFBaTXl3d3ozYkRFN1Awd25hYnpjaHVfSmVqTm5CWTBJaU5TNHE0NUYzYk1icjIwcDVlTE5MbVlHQ3hMcHVXU2J4djhzUkdNM1gtZnJiTmpIbW5sVEhzc3NtZnNNWlBnSUU4am1HdWtZNVVKRDhqV1JxMkpOY2lCVFRUdUZPZTg3YzRYUFFiWGhjeUQ3TDU3UURXSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "DW News. . Berlin has blocked the state-owned Chinese shipping giant COSCO's takeover of logistics firm Zippel, citing security fears. Can Germany reduce its dependence on China without sparking a trade war? #dwbusiness",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFZEaEY1NzVFbF82WlhVbVVSR3FPRkZXYXhCYmM4VUlJOVY4bFRySlowaGxBenRTWFAwTkhQTmFtbjRFNXZIUEtLcmxyV0VHVExPaVRPVkJUMkc2Q0otVWRaU3AyRjVPRE1yb0JDNjJnNDNtSVpFV21ZUl9rVTZEYmltQ2FQRHZ1VWdWbU4zdXE1VVlyTDhvNFBhTk9GcHJwV2xlNVBfSnZKRHdwa21tTnZkMGVXVVJNTkd6UGRoVmNwMEFhRkhrWG1SckQyY1JBV2g5UWw2X3REVGFrMWlQQ1d3?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-14T03:08:40Z"
+}
