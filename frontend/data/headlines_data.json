@@ -1,33 +1,43 @@
 {
   "headlines": [
     {
-      "id": "9184fafa5211",
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "content_summary": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-      "source_name": "CNBC World",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "published_at_utc": "2026-10-14T19:22:00Z",
-      "group_count": 6,
-      "insights": {}
-    },
-    {
-      "id": "bf8dc0556ffb",
-      "title": "Averitt named a 2026 Top Company for Women to Work in Trucking",
-      "content_summary": "Averitt named a 2026 Top Company for Women to Work in Trucking American Journal of Transportation",
-      "source_name": "American Journal of Transportation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3BYbFVrNjFkWmlSREVyMkFTQWNyNUlMV3RnZEJKWDMzOU5JTkJrTzREOUIyVThUMzJoQjZaMy0xdkhXa25udHdhY0VraVZjYkJOb0FIOGxYdFBjcUdBVkhCRFpxNVo0eFJZZFJlYkhLM3h5VzIxTFhYbTd1WlY1d0Fib0xMMGJWQk9KZEQwYlBudw?oc=5",
-      "published_at_utc": "2026-10-14T16:33:00Z",
-      "group_count": 6,
-      "insights": {}
-    },
-    {
-      "id": "ece289f984af",
-      "title": "Suez Canal container ship transits exceed half of pre-crisis levels",
-      "content_summary": "Container ship traffic through the Suez Canal has reached its highest level since the Red Sea disruptions began, with weekly transiting capacity exceeding half of pre-crisis levels for the first time. According to BIMCO, citing Clarksons Research data, an average of 753,000 TEU of container ship capacity passed through the canal each week during the […] The post Suez Canal container ship transits exceed half of pre-crisis levels appeared first on Container News.",
-      "source_name": "Container News",
-      "url": "https://container-news.com/suez-canal-container-ship-transits-exceed-half-of-pre-crisis-levels/",
-      "published_at_utc": "2026-10-15T01:00:05Z",
+      "id": "745b24b34047",
+      "title": "Container ship sinks after attack in the Strait of Hormuz",
+      "content_summary": "Container ship sinks after attack in the Strait of Hormuz WKYC",
+      "source_name": "WKYC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMS15VEhGTmwzc21sMDVrd0NYaVZzVkFkalBoTGpJRmZWbzdEb2FZdldGVlpzeHlXSXFyb0l1cFN1Qml1ZmU2cmpaeE03Y0FZUHhsU2h1S1Z6aElfcVhSSWstbzdPUVJGN01sclRxODhWbW91RVBSTnppN1dYN1JGZHhnMGtUUHI2RW1Gc1dTcjN1aWhnem9NU1hYemM5QWFDU3h4Sk13UXFfZzFiVHdhMmUwLVpxWEhGSE1JbVU4RDhobTItbkNtVA?oc=5",
+      "published_at_utc": "2026-10-15T19:21:00Z",
       "group_count": 5,
+      "insights": {}
+    },
+    {
+      "id": "b54cce8a4a1d",
+      "title": "Engie, CMA CGM to Develop Biomethane Plant in France for Shipping Fleet",
+      "content_summary": "Engie, CMA CGM to Develop Biomethane Plant in France for Shipping Fleet ESG News",
+      "source_name": "ESG News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYks2Ml91N1gwUnh0Y2dhT3JWcWRiR2FiLUQweEV3a1d0R2NFaERiVVg4Y1VocWNkUXRQYmdPTjJsX0MxS19XVUlOcENQVDZKbm5fc21XVTlPYnBsUTM3dGRlMU9XMlcwMWpNejNNbGt1RlF2Y1FWbDBMQlVtdTRuYjh1LThiZmMzaDJWVVlfYTJXUlFEUVE?oc=5",
+      "published_at_utc": "2026-10-15T13:42:42Z",
+      "group_count": 5,
+      "insights": {}
+    },
+    {
+      "id": "8108f8f73080",
+      "title": "Axpo Launches First LNG Bunkering Operation at Spain’s Valencia Port",
+      "content_summary": "Axpo Launches First LNG Bunkering Operation at Spain’s Valencia Port ChemAnalyst",
+      "source_name": "ChemAnalyst",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhVS0VXbnE4VzRFM25CYUEwSV9nVzViWkJCX2dYNjhBOHpFZ18tdzJFVXJEdnE4azFHUEdNZkhJUk43TWl0bXIxU3VjRWpDOGVDYUtONC1Pa1lSUTl3ckd0TlNZN0k5YW02MC0wNDY3WlVsUHhxYzhMSUo4VVlIZTZnZWpoeXFEQk1TaHlBcjlsMmV3R1ZaUjVVWmdQM3JOQXJibko4T0l6SS0tLVQ3ZlRn?oc=5",
+      "published_at_utc": "2026-10-14T13:10:03Z",
+      "group_count": 5,
+      "insights": {}
+    },
+    {
+      "id": "e90259d0d016",
+      "title": "이상근 삼영물류 대표, 'AI가 바꿀 물류의 미래' 출간",
+      "content_summary": "이상근 삼영물류 대표이사(공학박사·인천대학교 전문교수)가 신간 'AI가 바꿀 물류의 미래'(아웃소싱타임스)를 출간했다.이 책은 생성형 AI와 AI 에이전트(AI Agent), 피지컬 AI(Physical AI), 물류로봇 등이 물류산업·기업 경영·일자리에 미칠 영향을 살핀다. 저자는 1988년 택배사업 기획 이후 여러 물류사업에서 쌓은 경험을 바탕으로 AI 시대 기업의 새로운 경쟁력을 제시하고 있다.기존 정보시스템·자동화 설비·로봇이 반복작업을 줄였다면, AI는 데이터를 분석해 상황을 예측하고 대안을 제시하며 일정한 범위에서 직접",
+      "source_name": "해양한국",
+      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57897",
+      "published_at_utc": "2026-10-15T11:37:31Z",
+      "group_count": 4,
       "insights": {}
     },
     {
@@ -49,18 +59,8 @@
       "published_at_utc": "2026-10-15T10:10:27Z",
       "group_count": 3,
       "insights": {}
-    },
-    {
-      "id": "ab93d1fe3efd",
-      "title": "신간소개/AI가 바꿀 물류의 미래",
-      "content_summary": "인공지능(AI)이 수요를 예측하고 재고를 관리하며 배송경로를 정하는 데 이어 기업의 의사결정과 현장 운영에도 관여하면서 산업의 경쟁방식이 달라지고 있다. 이상근 삼영물류 대표이사(공학박사·인천대학교 전문교수)가 이러한 변화와 기업·개인의 대응 방향을 담은 신간 『AI가 바꿀 물류의 미래』(아웃소싱타임스)를 출간했다.책은 생성형 AI와 AI 에이전트(AI Agent), 피지컬 AI(Physical AI), 물류로봇 등이 물류산업·기업 경영·일자리에 미칠 영향을 살핀다. 저자는 1988년 택배사업 기획 이후 여러 물류사업에서 쌓은 경험",
-      "source_name": "한국해운신문",
-      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333454",
-      "published_at_utc": "2026-10-14T20:20:19Z",
-      "group_count": 3,
-      "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-10-15T02:45:49Z"
+  "generated_at": "2026-10-16T02:41:31Z"
 }
