@@ -1,0 +1,217 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "고교 이주배경학생 4000명 느는 동안 한국어 학급 증설은 1개 뿐",
+          "url": "https://www.mt.co.kr/policy/2026/10/19/2026101910485987328"
+        },
+        {
+          "title": "OCI홀딩스, 경기 포천에 희귀·특산식물 15종 315개체 식재",
+          "url": "https://www.mt.co.kr/industry/2026/10/19/2026101909513260725"
+        },
+        {
+          "title": "캐릭의 표정이 '맨유 현실' 보여준다... 고개 젖히고 '탄식', 리즈와 1-1 무→6경기 무승·리그 13위",
+          "url": "https://www.mt.co.kr/sports/2026/10/19/2026101908271792788"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[외환] 글로벌 위험회피에 상승…3.10원↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439899"
+        },
+        {
+          "title": "안철수 \"솔리다임 美 상장, SK 총수·계열사가 주주이익 가로 채\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439897"
+        },
+        {
+          "title": "中 미국 채권 매각은 '착시'…\"스텔스 매수로 50% 이상 유지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439889"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "캐릭의 표정이 '맨유 현실' 보여준다... 고개 젖히고 '탄식', 리즈와 1-1 무→6경기 무승·리그 13위",
+          "url": "https://www.mt.co.kr/sports/2026/10/19/2026101908271792788"
+        },
+        {
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
+        },
+        {
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
+          "url": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/"
+        },
+        {
+          "title": "Singapore Sept petrochemical exports fall anew; feedstock risks weigh on outlook",
+          "url": "https://www.hellenicshippingnews.com/singapore-sept-petrochemical-exports-fall-anew-feedstock-risks-weigh-on-outlook/"
+        },
+        {
+          "title": "Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz",
+          "url": "https://www.globaltrademag.com/singapore-flagged-containership-sinks-after-attack-in-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "中 미국 채권 매각은 '착시'…\"스텔스 매수로 50% 이상 유지\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439889"
+        },
+        {
+          "title": "China’s Coal Output Drops as Concerns Build Over Winter Supply",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply"
+        },
+        {
+          "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+          "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "금감원, 소비자보호 강화…편면적 구속력 도입 속도",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439861"
+        },
+        {
+          "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+          "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/"
+        },
+        {
+          "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+          "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+          "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html"
+        },
+        {
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+        },
+        {
+          "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
+        },
+        {
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+        },
+        {
+          "title": "佛 연이은 항만 파업 ‘물류 큰 차질’",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61057"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment"
+        },
+        {
+          "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+          "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "세월이 지나도 ‘여전히 찬란하게’ 빛나는 '전설' 김혜자의 존재감",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/19/2026101910277220665"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+          "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+          "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 13,
+  "generated_at": "2026-10-19T03:01:31Z"
+}
