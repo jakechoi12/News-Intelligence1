@@ -1,0 +1,278 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "크레이머 \"AI주 반등 추격 매수 이르다…추가 변수 확인해야\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440121"
+        },
+        {
+          "title": "美은행주 2008년 위기 후 최장 하락세…'금리 상승 파장 불확실'",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440107"
+        },
+        {
+          "title": "대량 폐업 아닌 '연쇄 M&A'…가트너 '네오클라우드 80% 소멸론' 해명",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440089"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Latest Oil Market News and Analysis for Oct. 20",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20"
+        },
+        {
+          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        },
+        {
+          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+          "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "HD현대, 2조원 규모 초대형 친환경 컨테이너선 수주",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440137"
+        },
+        {
+          "title": "한신평 \"한화시스템, 한화오션 지분 매각 유동성에 긍정적…PRS 부담 주시\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440131"
+        },
+        {
+          "title": "순직선원 위패봉안·합동위령제 거행",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333526"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "위안-원 환율 1년 만에 최저…中 수출·제조업 호조 속 추가 하락 여지는",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440123"
+        },
+        {
+          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+        },
+        {
+          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "NNN Explains: Saudi-Houthi Conflict",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVU9ZX05nbFZackNFT0lDNjk4LXpqRWhkOWZCMmJkWnRUXzIyNlk3b3pFdUlKUldFeUxPdktZcGIxU2xHM1RuMVVpX0prWGZSRklmLWZDVkpod0NOd0hUTWZnR0c3ZDg1QXVrclgxZ0pRd1FtNGF3RXNhaURlbU4teExNUmF0cEdyNzJN?oc=5"
+        },
+        {
+          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        },
+        {
+          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+          "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        },
+        {
+          "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+          "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"
+        },
+        {
+          "title": "Three months after Ukraine began striking warehouses belonging to Russian online shopping giants Wildberries and Ozon, workers and sellers describe the damage to their livelihoods",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOWnBQSm9lMl9OLUNyaElzZ0RKR2pndkdwdnNNeTdDYXg5Y0VMcEt4MF9YUFRkdDE5cERvSFBpSWhUbU9pRkd5OHozRUFGVVFReWY4NlZMdDBHVHoyakpRRVd2WGV6MnFTVWZEa0QtQk83T2JOZ2hfbnE5dXd5QlNiMU96eFBycDVxSHkyUzhmWmtWRXJTX1hUTzdHTG04ODFCS3lWMWhGUG9zSVFKOTlKYkRWalpscF9yN3JKbHEtVnhjRUdDRjVZNUltUFc3a3pCWDJwM3MxTnMyVEdSajBmdERJOHRrZi15RWxQSEp1MTQyaGNqLTNObkMxdDJHczdaVngwbzl0V0xXbXJIenJGQ3hJMEswNVpUc0NlMzNCcTJ4aURSZDFJRU8tZGJkWlFjbERibkFKUm1HOXk2TXNr0gHEAkFVX3lxTFBhUzFudURuLTFCMnFrVVVfNnh5MVF4c29fZW41S0dzNzhGcDFGc25OQUZOcDlXMHo4WTBMQm9naEFGRmh5Z3dMVGN0ZW9sRnNVVGNzVnQwallPNVVrMXVueHR1M3kwejVabFpCcHlOeV9pbDU0d29rSlc5cktrclMxMk9QWnB5TEFRRk1KMUhLcVVzdGs2UTdJbzRzTW5GMmhRUzBXckNzMEhoZXZqbWxXZGstMS10VVBvWi1RN0lUbG04UnVCNnZudTlpT0g1WnVYSHVha0I4VHFhRG5Vdzlja1d0VEl4WnpnNUJtaUx5SGVXc09ReHpxU2VoSE5ualVaQVIzRTFNY1JVVDdGOUhOS1M3U0tUZkQyUmdudmt4N05ISVdod0VydVZzdktyM3BJQ0MxUXNSYlVjU1IwT1Z6eDJVaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        },
+        {
+          "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+          "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"
+        },
+        {
+          "title": "Three months after Ukraine began striking warehouses belonging to Russian online shopping giants Wildberries and Ozon, workers and sellers describe the damage to their livelihoods",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOWnBQSm9lMl9OLUNyaElzZ0RKR2pndkdwdnNNeTdDYXg5Y0VMcEt4MF9YUFRkdDE5cERvSFBpSWhUbU9pRkd5OHozRUFGVVFReWY4NlZMdDBHVHoyakpRRVd2WGV6MnFTVWZEa0QtQk83T2JOZ2hfbnE5dXd5QlNiMU96eFBycDVxSHkyUzhmWmtWRXJTX1hUTzdHTG04ODFCS3lWMWhGUG9zSVFKOTlKYkRWalpscF9yN3JKbHEtVnhjRUdDRjVZNUltUFc3a3pCWDJwM3MxTnMyVEdSajBmdERJOHRrZi15RWxQSEp1MTQyaGNqLTNObkMxdDJHczdaVngwbzl0V0xXbXJIenJGQ3hJMEswNVpUc0NlMzNCcTJ4aURSZDFJRU8tZGJkWlFjbERibkFKUm1HOXk2TXNr0gHEAkFVX3lxTFBhUzFudURuLTFCMnFrVVVfNnh5MVF4c29fZW41S0dzNzhGcDFGc25OQUZOcDlXMHo4WTBMQm9naEFGRmh5Z3dMVGN0ZW9sRnNVVGNzVnQwallPNVVrMXVueHR1M3kwejVabFpCcHlOeV9pbDU0d29rSlc5cktrclMxMk9QWnB5TEFRRk1KMUhLcVVzdGs2UTdJbzRzTW5GMmhRUzBXckNzMEhoZXZqbWxXZGstMS10VVBvWi1RN0lUbG04UnVCNnZudTlpT0g1WnVYSHVha0I4VHFhRG5Vdzlja1d0VEl4WnpnNUJtaUx5SGVXc09ReHpxU2VoSE5ualVaQVIzRTFNY1JVVDdGOUhOS1M3U0tUZkQyUmdudmt4N05ISVdod0VydVZzdktyM3BJQ0MxUXNSYlVjU1IwT1Z6eDJVaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "French Protests Taper Off as Officials Admit Failure",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video"
+        },
+        {
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
+        },
+        {
+          "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+          "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Rival ports ‘fast catching up’: SM Lee warns against complacency, says port workers must not face shift alone",
+          "url": "https://www.hellenicshippingnews.com/rival-ports-fast-catching-up-sm-lee-warns-against-complacency-says-port-workers-must-not-face-shift-alone/"
+        },
+        {
+          "title": "Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz",
+          "url": "https://www.globaltrademag.com/singapore-flagged-containership-sinks-after-attack-in-strait-of-hormuz/"
+        },
+        {
+          "title": "Singapore port risks being left behind by rivals fast catching up",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkRJY2VRN3p1dllYbnNwWlE5WnRGdE0wOFR0SGNGdzJWT3dHRnU5cUJNT3pPNGlkcEkzZVh1N0xfU3VYNkRJNEFDd0YtWVpObWVYaXFKcEFablFQbjRoaVpSeE8yTGxrNW0zSFB2X1BKdFNJNktHc1RYcXF6Rm4wT1dNRnFDa3UtTm1KeDdVYW5hUVNIUXhvVWJVM3RYUHhsRUhKNktadTBTN3pWRTJBcW9n?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+        },
+        {
+          "title": "Russia Ramps Up Arctic Oil Exports as Global Shipping Crisis Disrupts Trade Routes",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnpSVTB3OGN1MDNCbG5TQXJILXU5ZmZUZmFwa2wzVnRoblI1WFJIWmUxd1B2Y3RkZ3RFTmkzSlZiUi1WRkRDRGhiZ05xaVRMdldfQ2NObWVEVmFaUm0tT3lUUjg5VTlrcnNaUWtWekpKTWFLOENQVUZ5RUFrdnFTckxOc1ctZUpSSXRsVmpHT2oyOXR5bXBKVzJRalk5b1ZSeWNuQXFsNHlUTHA4aFRBTlJHbjhsbVdjVWhLRjNR?oc=5"
+        },
+        {
+          "title": "US waives Russia sanctions as Gulf oil shipments face renewed disruption",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2x2RDB2SV8zZEpHNHcxNzBGMXlaRnBIUmhNajlWc1hwWjVsSnEtXzBJREYtZEE4TVRUUkxVX1VWYmQ1Tk9Za2plZ1BUMmtqZmJ3VTh6MlF5NEJuUS1STXl5NTRydkUwSHFLamtadkxPNHdaYk1UR3l0b0xrV1lPVldCRWcyUWxidVI3X3JrWEhPSUotUkRwSTlkQ09qUDFQTTJTZ3FZNmswNGRNV25vMm40TXNPcHZLeGRPaUZkTmhidGRsekZHazdyakJDVldvYjVXUzhyM1E?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Congestion, vessel attacks exacerbate India-Middle East cargo flow strain",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzdFOFBadlJVQlU3dEo1UmMwUnJnQnEwQzByOElwR0ZVdEg2cVF0bHFTQTVTQUtqUG1yb3U5Qk5lOGF5aFhFR2JXMmJVanB6ZjFKWGtBTW5VRDBQSkI0QzZvaHdkTEVvZ0tRUGtlVE1lVmJTZ09BTWZNbHZSRzlaWnZjMzBVN2xQT3NlcjFxSU9NQlBMODV2Zmo0WWQxUVIyUUN2S3h4aUN2ZWFm?oc=5"
+        },
+        {
+          "title": "Bringing Goods To India Gets Costlier As Global Freight Rates Surge 130% On Mideast Conflict",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUZnQ3FCMmVZVnpscnJKQ1hfVEtvTzB0dkRpdktnU1oxVXhCYlBLZmtYNDhYOUExSEEyYlluN0owN1d3Z3VYM042UGRtR19pcDRyMUtZRWN3WnZSanZaVVJTbVQ3NkljR1hLX2xyd19HQjVUaEZzLVZyN1puWHZodkV5QWQyUkNlMzZKOWt0NXdfdDBaU3BjY0hDcjhocEtoRkZ4eUN2SktxYnJMdXpSenhObDRsZHRRcEpEOGlTLU1jaTVOd3E0MHNYT2F5Z9IB1gFBVV95cUxQekJWYldRZWR3bmJUbFZ4dnlzZld3M0haVDhfUVJzYnZ2VGNPb1VIdzFBRXJ3Qm5ISHN5aVpRTmhWc0JndmF3aktET1V3TjhWNFNtWDY0TVdnN253NXd3OHdzRkhDRzVLU3JjMUdqMlkwOUhPZ3V5MHhKMzlHVVhfekRmMWhhUFczRHR0bE5ER0ZXc3FTSWFQNE1ucXFwcS1ZV3hvRERPcXU4MWFZZTVvOWRBSDZVRTdJdnY3VVpfUUhKVDk1YUNBd29hTVhqemxyRVRUVzhR?oc=5"
+        },
+        {
+          "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+        },
+        {
+          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Middle East war: 5 things UAE residents need to know this evening (Oct 19, 2026)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTV0VHpUZDd1WjNHRm9MdE9JMm1xYzZtTVY4djAwcU1nLWYzSlJmZ2hkWEJYTUdNVk1EMGowQmFhZ3BuWDZpT2FfV3ExYVhoWmFEcVVQRzRRczVmTTRiS0xXY25XV0MwaVU2WkhzLUJSUXkxdFdTd3VFM3ItM0hQWDlrSjhVZ1lHRzJ1RXF4WGc1TDRLWUFMRTFBMlFZWkJLbW5uSjVsem9ZcmxvMEh3VUQ1MA?oc=5"
+        },
+        {
+          "title": "Why control of Hormuz is not the same as security",
+          "url": "https://container-news.com/why-control-of-hormuz-is-not-the-same-as-security/"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
+          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3ctZzVVZmROUF9ucW82clpVMWMzUXVUQ0xFendFWlh1U1lEbXRmTlh4TUJKR1lHT0FpLUNiUWZ1aDRkTjM0ak52X0QzR2thSGNKSUptNXdXOTQxM1gtYk9zZkJTN1Jjek9LY2Y5M2RWcERwZ2RheV9DSXBCZEItaFNWYlR2ZXp0c3dMVS1YQnJkY3F1TjVDaEJpZFVCcFYyTTJwNXZmTEvSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-20T02:59:47Z"
+}
