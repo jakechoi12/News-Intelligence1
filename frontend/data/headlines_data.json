@@ -1,13 +1,33 @@
 {
   "headlines": [
     {
-      "id": "af2bd7e15732",
-      "title": "Maersk Singapore Ethanol Bunkering Sets Technical Milestone",
-      "content_summary": "Maersk Singapore Ethanol Bunkering Sets Technical Milestone Supply Chain Digital Magazine",
-      "source_name": "Supply Chain Digital Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHUzd25oT2t0aTg4c3lwRFlRcGpxLUdiTjRQLXRwTEpnZ2t1TEw5VnROUWN0U1VSbDhQSjA5ejUtbXYwR2lHRFBFd0VJZTBzN0ZDb1Q3dk4xam5yRVljTVdwTWNNb0VjbkFxVWNCS1UyY2xJZ3RNRE9POVpVb1B4MWU0Umg5akw2NWhuYW45UHRyb0VySldxZTNNZw?oc=5",
-      "published_at_utc": "2026-10-19T15:01:51Z",
-      "group_count": 4,
+      "id": "ac00665bf8dc",
+      "title": "China-US ocean freight rates hold steady as post-holiday space tightens",
+      "content_summary": "China-US ocean freight rates hold steady as post-holiday space tightens Opelika-Auburn News",
+      "source_name": "Opelika-Auburn News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSl83OE1iaUZueHFiY0pLWkltZmZlQ3dhOWEzUzllUEVmZ3ZKQXhyeFJmVHhOUHVyMjg2V0hrZ0p3aGh1X2NVN3EzQ3FCS25zSUwwS2lUV1ZIRE5CMnBlV2RiUEZmOXpJYWczZkRMR09pSWVlQWZfZHgzNDJEQlBBdkRTZWJUb1hIQnFCLW5PSnROUEI5VElMUEl6S012ckg4Sy16cA?oc=5",
+      "published_at_utc": "2026-10-21T01:04:40Z",
+      "group_count": 9,
+      "insights": {}
+    },
+    {
+      "id": "9df844cc0f41",
+      "title": "HD Hyundai wins $1.4 billion HMM order for 8 LNG container ships",
+      "content_summary": "HD Hyundai wins $1.4 billion HMM order for 8 LNG container ships KED Global",
+      "source_name": "KED Global",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6a2dXNkVRSjRldWxfU0NWTUlVQ3o5SS11Sjd2U3k4ZWZBZkc0OXFsVUpxZ2RjVi1hZlNDTkJHc3BSZl9FXzQ4d1RoTFFaMGhiRThjdGFFa1UzVlJRYWh0UGpJd0xCWUVCRXZnLWNBWDFyMGxBVVBOSERVWDc?oc=5",
+      "published_at_utc": "2026-10-20T21:19:11Z",
+      "group_count": 7,
+      "insights": {}
+    },
+    {
+      "id": "d46995129971",
+      "title": "Almost $1 million in sports, trading cards stolen from FedEx truck",
+      "content_summary": "Almost $1 million in sports, trading cards stolen from FedEx truck Washington Times",
+      "source_name": "Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVF3YTBXY1VIR2NZRHNrV1dXMFQ2ckR5aDRKcHpsOTZLXzdKZ00xRDN3ZGpuSFp2aE9uWF9TYzRfZGk4d0YxMWhPQ2l6T3NqVm12b0EwSFRfUkhrdm90VkhVLW4wNk5xTzFkM1Y2WHhSZl9CTDVBZ21FV0s4ZUlHVzU4clFkWVd3M0ZteER3Mjh1MmR4LWtNRklNaXVqemU5MDBraE5tSlJ3QQ?oc=5",
+      "published_at_utc": "2026-10-21T00:03:29Z",
+      "group_count": 5,
       "insights": {}
     },
     {
@@ -39,28 +59,8 @@
       "published_at_utc": "2026-10-19T14:47:28Z",
       "group_count": 3,
       "insights": {}
-    },
-    {
-      "id": "07e1bf07784d",
-      "title": "Port of Long Beach Breaks All-Time Cargo Record in September",
-      "content_summary": "Port of Long Beach Breaks All-Time Cargo Record in September DredgeWire",
-      "source_name": "DredgeWire",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOem5xNFg5MDZacDRGSEpxbUh0dy1WSlFNNUlVa3RtSlllM1p0NDNUWlowVmpoUS02SE9hN01wQzlwOTNjOTZQakZJcjE2VlUtYlh2OEdWaXBoVHZMZE5nd3FCcGpOUHMxaDVjeUd2NF9xYjNzd0JaejUyMF9faWo0V0pkQ2R1NXd1OF8yNg?oc=5",
-      "published_at_utc": "2026-10-19T22:41:26Z",
-      "group_count": 3,
-      "insights": {}
-    },
-    {
-      "id": "59859cb97686",
-      "title": "DHL Group boosts guidance on expectations for strong peak season",
-      "content_summary": "DHL Group has raised its 2026 outlook. The post DHL Group boosts guidance on expectations for strong peak season appeared first on FreightWaves.",
-      "source_name": "FreightWaves",
-      "url": "https://www.freightwaves.com/news/dhl-group-boosts-guidance-on-expectations-for-strong-peak-season",
-      "published_at_utc": "2026-10-19T13:56:03Z",
-      "group_count": 3,
-      "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-10-20T02:59:47Z"
+  "generated_at": "2026-10-21T02:56:07Z"
 }

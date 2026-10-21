@@ -1,78 +1,97 @@
 {
   "countries": [
     {
-      "code": "US",
-      "count": 14,
+      "code": "CN",
+      "count": 13,
       "risk_level": "high",
       "articles": [
         {
-          "title": "크레이머 \"AI주 반등 추격 매수 이르다…추가 변수 확인해야\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440121"
+          "title": "CATL’s Slow Profit Growth Fans Fears for China Battery Rivals",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals"
         },
         {
-          "title": "美은행주 2008년 위기 후 최장 하락세…'금리 상승 파장 불확실'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440107"
+          "title": "Beijing monitoring US warship near disputed shoal in South China Sea",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeW9kVzdESVBrLXJVN25nLTBBSkE3S0k4eHBodThud2oyc2xrTDFuS3dmSlh0c0NtTGd0bWNpcHRFZTVqVHNQSTZFZzhBY1UwYzN1SmR0TjFic093VVFKMGtSRkdXSFNCOGRlYVdONUticS1mZUNkTkFkazQ3azZmZjRYSXp4UdIBiwFBVV95cUxQeE9CQlRidXdmeGFKQUxRUzlvWVlGZEVYLUhmbUJCSi1ZYlptZXNBUFlZYnJLcTc5MjEzM2xIR2ZjQUljczhQUDAyN2V1S09HQmhacE85YzlNdElXeExrSE5LaTBOMEt4eGJfaHd5bkN1TU1IeDl1Ulg2a3c4VlVueF9Zc09iUkdxR21V?oc=5"
         },
         {
-          "title": "대량 폐업 아닌 '연쇄 M&A'…가트너 '네오클라우드 80% 소멸론' 해명",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440089"
+          "title": "Top Chicken Supplier Brazil Acts to Ease Hit From Virus",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/brazil-halts-poultry-shipments-to-top-buyer-china-after-disease"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "골드만삭스 \"투자심리 3월 이후 최악…주식 매수 기회\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440350"
+        },
+        {
+          "title": "[美 중간선거] 금융·방산·AI 희비…업종별 투자 셈법은",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440348"
+        },
+        {
+          "title": "[美 중간선거] 선거 후 이란 전쟁 향방은…유가, 안정·급등 갈림길",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440346"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 13,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Latest Oil Market News and Analysis for Oct. 20",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-19/latest-oil-market-news-and-analysis-for-oct-20"
+          "title": "[美 중간선거] 선거 후 이란 전쟁 향방은…유가, 안정·급등 갈림길",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440346"
         },
         {
-          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
-          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440324"
         },
         {
-          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-          "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+          "title": "[10월 금통위 D-1] 외환시장 시나리오는",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440319"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 9,
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "HD현대, 2조원 규모 초대형 친환경 컨테이너선 수주",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440137"
+          "title": "골드만삭스 \"투자심리 3월 이후 최악…주식 매수 기회\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440350"
         },
         {
-          "title": "한신평 \"한화시스템, 한화오션 지분 매각 유동성에 긍정적…PRS 부담 주시\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440131"
+          "title": "국내 ‘컨’항만 생산성 4분기 연속 하락세",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333557"
         },
         {
-          "title": "순직선원 위패봉안·합동위령제 거행",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333526"
+          "title": "상장 첫날 폭락한 엘리스그룹은 어떤 회사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440331"
         }
       ]
     },
     {
-      "code": "CN",
+      "code": "GB",
       "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "위안-원 환율 1년 만에 최저…中 수출·제조업 호조 속 추가 하락 여지는",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440123"
+          "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+          "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html"
         },
         {
-          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+          "title": "Russia claims attack on container ship at Ukraine port after string of dry cargo vessel attacks",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEFrV1UyUGoyeFhBMEllYjJkQUF5dExrWk9Qa3NsYlMxcXdOWXhka19udFRjSzh0d3FsT0NoRzhObGFPd3dkcGF0alhhdnpXeWQyVUxtOGU3YkpSLVpTZmhtOTRSXzl4T0lMSFNIYlQzTVlJNm9Fd2tfejU2Q001T1BZa0EtMTZmdFlabHgwWi04QmtOMkZVZkdUSFBpUmo4Q3NPZUFWT0p6TVp5ZnZhdDA5TDNHWkJEcUl4OHI1RzFJS3YyT1dmcWRZN2hrZnY0MVExWUp0YldoZHpnYlM0REREdw?oc=5"
         },
         {
-          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
+          "title": "UK should be wary of the EU's offer lest it prove to be a poisoned chalice: China Daily editorial",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QVHpic2ZXQnJGNjlKbW1vRUhfMXQ4U01vc3ZXWU1VSDJOSmJfd0N1TlhQUmFDeFplZmZyODRZbVRQT2lsQld4NFlycDNLdnpQZGlreHJPbVdJM25lT3hBVklTeElKaGNDMTY4VGNUdGJYcXFWWVNCSmc0R0ROQQ?oc=5"
         }
       ]
     },
@@ -82,54 +101,73 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "NNN Explains: Saudi-Houthi Conflict",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVU9ZX05nbFZackNFT0lDNjk4LXpqRWhkOWZCMmJkWnRUXzIyNlk3b3pFdUlKUldFeUxPdktZcGIxU2xHM1RuMVVpX0prWGZSRklmLWZDVkpod0NOd0hUTWZnR0c3ZDg1QXVrclgxZ0pRd1FtNGF3RXNhaURlbU4teExNUmF0cEdyNzJN?oc=5"
+          "title": "Egypt moves toward sending troops to Saudi Arabia to help defend against attacks by Iran-backed Houthis",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnBseUk4Z2l4ZVktb05vMndPN1E1MGkxUTJwLVIydTRGRDVCV1FYcTc5Sm0zT0pMSi1LOGFJLVhlVUNVZnpqdmtvVGJjUExUell0U1BtdGhJeXYtN29WMXZRNnRzRmtXT0twbWtPQndKM1U0YXZFaTcxemoxN1lOV3Nn?oc=5"
         },
         {
-          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
-          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+          "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+          "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html"
         },
         {
-          "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-          "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+          "title": "Houthi Forces Attack Saudi Energy Facilities; Brent Crude Tops $110 to Hit Five-Month High",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85YXVNMThhUFJSYXNyUkJuR2M5Q2xpNGhaVTljYnEzRWVTV1RNSmpzbmNzUGwwclBIendSOVNIZzhneDNqaGwzZlZUVHpSTkg1VTd0ZnpCQnUzUEt1WFlZYjRKZFlzdEVuY2tUQ1dqeTFxN2VTbVE?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "하파그로이드 컨선, 대서양서 화재사고 후 표류",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57942"
+        },
+        {
+          "title": "Port of Singapore faces new challenges – but also new opportunities",
+          "url": "https://theloadstar.com/port-of-singapore-faces-new-challenges-but-also-new-opportunities/"
+        },
+        {
+          "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1pwT0pkRHVzdnYwN09nUTh4V0hUaEFrVERlTWlPeGJrU2JTYWs5OW5ScDlzZzlfMWFna0ZtS1BEVF9UcXBsc21NU2JmQ3ZMWm5aN01hZkFNeUREQlpBV2kxcXlLUkVxeGZ2UXZidE85YVNiMXJRRWI2TGJHOTJYY3lmUWVPaG_SAYwBQVVfeXFMT2xzSVlhQmxaSXFqVlJLNVdNXzdrX2s0WWpCYk85dDVVMDdPRXREMUxJMTU5ekVXeThkeV9Ub2hiVk5xQVpnMDVWQlJDUFdOMU9RWnp0Q2w2QVZpckQxekJwSUVsdHBhYjBDYU84a1ZZV2syUjliWGtqQWRIR2VRZ3RBM3BNUVJCeFFScXI?oc=5"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 5,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
-          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+          "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+          "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html"
         },
         {
-          "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-          "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"
+          "title": "Russia claims attack on container ship at Ukraine port after string of dry cargo vessel attacks",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEFrV1UyUGoyeFhBMEllYjJkQUF5dExrWk9Qa3NsYlMxcXdOWXhka19udFRjSzh0d3FsT0NoRzhObGFPd3dkcGF0alhhdnpXeWQyVUxtOGU3YkpSLVpTZmhtOTRSXzl4T0lMSFNIYlQzTVlJNm9Fd2tfejU2Q001T1BZa0EtMTZmdFlabHgwWi04QmtOMkZVZkdUSFBpUmo4Q3NPZUFWT0p6TVp5ZnZhdDA5TDNHWkJEcUl4OHI1RzFJS3YyT1dmcWRZN2hrZnY0MVExWUp0YldoZHpnYlM0REREdw?oc=5"
         },
         {
-          "title": "Three months after Ukraine began striking warehouses belonging to Russian online shopping giants Wildberries and Ozon, workers and sellers describe the damage to their livelihoods",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOWnBQSm9lMl9OLUNyaElzZ0RKR2pndkdwdnNNeTdDYXg5Y0VMcEt4MF9YUFRkdDE5cERvSFBpSWhUbU9pRkd5OHozRUFGVVFReWY4NlZMdDBHVHoyakpRRVd2WGV6MnFTVWZEa0QtQk83T2JOZ2hfbnE5dXd5QlNiMU96eFBycDVxSHkyUzhmWmtWRXJTX1hUTzdHTG04ODFCS3lWMWhGUG9zSVFKOTlKYkRWalpscF9yN3JKbHEtVnhjRUdDRjVZNUltUFc3a3pCWDJwM3MxTnMyVEdSajBmdERJOHRrZi15RWxQSEp1MTQyaGNqLTNObkMxdDJHczdaVngwbzl0V0xXbXJIenJGQ3hJMEswNVpUc0NlMzNCcTJ4aURSZDFJRU8tZGJkWlFjbERibkFKUm1HOXk2TXNr0gHEAkFVX3lxTFBhUzFudURuLTFCMnFrVVVfNnh5MVF4c29fZW41S0dzNzhGcDFGc25OQUZOcDlXMHo4WTBMQm9naEFGRmh5Z3dMVGN0ZW9sRnNVVGNzVnQwallPNVVrMXVueHR1M3kwejVabFpCcHlOeV9pbDU0d29rSlc5cktrclMxMk9QWnB5TEFRRk1KMUhLcVVzdGs2UTdJbzRzTW5GMmhRUzBXckNzMEhoZXZqbWxXZGstMS10VVBvWi1RN0lUbG04UnVCNnZudTlpT0g1WnVYSHVha0I4VHFhRG5Vdzlja1d0VEl4WnpnNUJtaUx5SGVXc09ReHpxU2VoSE5ualVaQVIzRTFNY1JVVDdGOUhOS1M3U0tUZkQyUmdudmt4N05ISVdod0VydVZzdktyM3BJQ0MxUXNSYlVjU1IwT1Z6eDJVaQ?oc=5"
+          "title": "‘New MSC’ buy – building a Military Shipping Company unit?",
+          "url": "https://theloadstar.com/new-msc-buy-building-a-military-shipping-company-unit/"
         }
       ]
     },
     {
-      "code": "GB",
+      "code": "RU",
       "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
-          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
+          "title": "Russia claims attack on container ship at Ukraine port after string of dry cargo vessel attacks",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdEFrV1UyUGoyeFhBMEllYjJkQUF5dExrWk9Qa3NsYlMxcXdOWXhka19udFRjSzh0d3FsT0NoRzhObGFPd3dkcGF0alhhdnpXeWQyVUxtOGU3YkpSLVpTZmhtOTRSXzl4T0lMSFNIYlQzTVlJNm9Fd2tfejU2Q001T1BZa0EtMTZmdFlabHgwWi04QmtOMkZVZkdUSFBpUmo4Q3NPZUFWT0p6TVp5ZnZhdDA5TDNHWkJEcUl4OHI1RzFJS3YyT1dmcWRZN2hrZnY0MVExWUp0YldoZHpnYlM0REREdw?oc=5"
         },
         {
-          "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-          "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"
+          "title": "‘New MSC’ buy – building a Military Shipping Company unit?",
+          "url": "https://theloadstar.com/new-msc-buy-building-a-military-shipping-company-unit/"
         },
         {
-          "title": "Three months after Ukraine began striking warehouses belonging to Russian online shopping giants Wildberries and Ozon, workers and sellers describe the damage to their livelihoods",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOWnBQSm9lMl9OLUNyaElzZ0RKR2pndkdwdnNNeTdDYXg5Y0VMcEt4MF9YUFRkdDE5cERvSFBpSWhUbU9pRkd5OHozRUFGVVFReWY4NlZMdDBHVHoyakpRRVd2WGV6MnFTVWZEa0QtQk83T2JOZ2hfbnE5dXd5QlNiMU96eFBycDVxSHkyUzhmWmtWRXJTX1hUTzdHTG04ODFCS3lWMWhGUG9zSVFKOTlKYkRWalpscF9yN3JKbHEtVnhjRUdDRjVZNUltUFc3a3pCWDJwM3MxTnMyVEdSajBmdERJOHRrZi15RWxQSEp1MTQyaGNqLTNObkMxdDJHczdaVngwbzl0V0xXbXJIenJGQ3hJMEswNVpUc0NlMzNCcTJ4aURSZDFJRU8tZGJkWlFjbERibkFKUm1HOXk2TXNr0gHEAkFVX3lxTFBhUzFudURuLTFCMnFrVVVfNnh5MVF4c29fZW41S0dzNzhGcDFGc25OQUZOcDlXMHo4WTBMQm9naEFGRmh5Z3dMVGN0ZW9sRnNVVGNzVnQwallPNVVrMXVueHR1M3kwejVabFpCcHlOeV9pbDU0d29rSlc5cktrclMxMk9QWnB5TEFRRk1KMUhLcVVzdGs2UTdJbzRzTW5GMmhRUzBXckNzMEhoZXZqbWxXZGstMS10VVBvWi1RN0lUbG04UnVCNnZudTlpT0g1WnVYSHVha0I4VHFhRG5Vdzlja1d0VEl4WnpnNUJtaUx5SGVXc09ReHpxU2VoSE5ualVaQVIzRTFNY1JVVDdGOUhOS1M3U0tUZkQyUmdudmt4N05ISVdod0VydVZzdktyM3BJQ0MxUXNSYlVjU1IwT1Z6eDJVaQ?oc=5"
+          "title": "Russia Ramps Up Arctic Oil Exports as Global Shipping Crisis Disrupts Trade Routes",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnpSVTB3OGN1MDNCbG5TQXJILXU5ZmZUZmFwa2wzVnRoblI1WFJIWmUxd1B2Y3RkZ3RFTmkzSlZiUi1WRkRDRGhiZ05xaVRMdldfQ2NObWVEVmFaUm0tT3lUUjg5VTlrcnNaUWtWekpKTWFLOENQVUZ5RUFrdnFTckxOc1ctZUpSSXRsVmpHT2oyOXR5bXBKVzJRalk5b1ZSeWNuQXFsNHlUTHA4aFRBTlJHbjhsbVdjVWhLRjNR?oc=5"
         }
       ]
     },
@@ -139,54 +177,35 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "French Protests Taper Off as Officials Admit Failure",
-          "url": "https://www.bloomberg.com/news/videos/2026-10-20/french-protests-taper-off-as-officials-admit-failure-video"
+          "title": "월가 전문가 \"프랑스 국가채무 위기 발생할 확률 30%\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440314"
         },
         {
-          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-          "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
+          "title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
+          "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/"
         },
         {
-          "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-          "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+          "title": "What’s making Europe so angry? The frustration behind the protests",
+          "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html"
         }
       ]
     },
     {
-      "code": "SG",
-      "count": 4,
+      "code": "JP",
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Rival ports ‘fast catching up’: SM Lee warns against complacency, says port workers must not face shift alone",
-          "url": "https://www.hellenicshippingnews.com/rival-ports-fast-catching-up-sm-lee-warns-against-complacency-says-port-workers-must-not-face-shift-alone/"
+          "title": "Japan’s flawed shipping proposal leaves developing countries adrift",
+          "url": "https://www.hellenicshippingnews.com/japans-flawed-shipping-proposal-leaves-developing-countries-adrift/"
         },
         {
-          "title": "Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz",
-          "url": "https://www.globaltrademag.com/singapore-flagged-containership-sinks-after-attack-in-strait-of-hormuz/"
+          "title": "아시아선주협회, 자유·안전항해 방안 검토",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57936"
         },
         {
-          "title": "Singapore port risks being left behind by rivals fast catching up",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkRJY2VRN3p1dllYbnNwWlE5WnRGdE0wOFR0SGNGdzJWT3dHRnU5cUJNT3pPNGlkcEkzZVh1N0xfU3VYNkRJNEFDd0YtWVpObWVYaXFKcEFablFQbjRoaVpSeE8yTGxrNW0zSFB2X1BKdFNJNktHc1RYcXF6Rm4wT1dNRnFDa3UtTm1KeDdVYW5hUVNIUXhvVWJVM3RYUHhsRUhKNktadTBTN3pWRTJBcW9n?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "RU",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
-          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html"
-        },
-        {
-          "title": "Russia Ramps Up Arctic Oil Exports as Global Shipping Crisis Disrupts Trade Routes",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnpSVTB3OGN1MDNCbG5TQXJILXU5ZmZUZmFwa2wzVnRoblI1WFJIWmUxd1B2Y3RkZ3RFTmkzSlZiUi1WRkRDRGhiZ05xaVRMdldfQ2NObWVEVmFaUm0tT3lUUjg5VTlrcnNaUWtWekpKTWFLOENQVUZ5RUFrdnFTckxOc1ctZUpSSXRsVmpHT2oyOXR5bXBKVzJRalk5b1ZSeWNuQXFsNHlUTHA4aFRBTlJHbjhsbVdjVWhLRjNR?oc=5"
-        },
-        {
-          "title": "US waives Russia sanctions as Gulf oil shipments face renewed disruption",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY2x2RDB2SV8zZEpHNHcxNzBGMXlaRnBIUmhNajlWc1hwWjVsSnEtXzBJREYtZEE4TVRUUkxVX1VWYmQ1Tk9Za2plZ1BUMmtqZmJ3VTh6MlF5NEJuUS1STXl5NTRydkUwSHFLamtadkxPNHdaYk1UR3l0b0xrV1lPVldCRWcyUWxidVI3X3JrWEhPSUotUkRwSTlkQ09qUDFQTTJTZ3FZNmswNGRNV25vMm40TXNPcHZLeGRPaUZkTmhidGRsekZHazdyakJDVldvYjVXUzhyM1E?oc=5"
+          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
         }
       ]
     },
@@ -196,46 +215,31 @@
       "risk_level": "medium",
       "articles": [
         {
+          "title": "US Eyes India’s Reliance to Refine Venezuelan Oil",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-eyes-india-s-reliance-to-refine-venezuelan-oil"
+        },
+        {
           "title": "Congestion, vessel attacks exacerbate India-Middle East cargo flow strain",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzdFOFBadlJVQlU3dEo1UmMwUnJnQnEwQzByOElwR0ZVdEg2cVF0bHFTQTVTQUtqUG1yb3U5Qk5lOGF5aFhFR2JXMmJVanB6ZjFKWGtBTW5VRDBQSkI0QzZvaHdkTEVvZ0tRUGtlVE1lVmJTZ09BTWZNbHZSRzlaWnZjMzBVN2xQT3NlcjFxSU9NQlBMODV2Zmo0WWQxUVIyUUN2S3h4aUN2ZWFm?oc=5"
         },
         {
           "title": "Bringing Goods To India Gets Costlier As Global Freight Rates Surge 130% On Mideast Conflict",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUZnQ3FCMmVZVnpscnJKQ1hfVEtvTzB0dkRpdktnU1oxVXhCYlBLZmtYNDhYOUExSEEyYlluN0owN1d3Z3VYM042UGRtR19pcDRyMUtZRWN3WnZSanZaVVJTbVQ3NkljR1hLX2xyd19HQjVUaEZzLVZyN1puWHZodkV5QWQyUkNlMzZKOWt0NXdfdDBaU3BjY0hDcjhocEtoRkZ4eUN2SktxYnJMdXpSenhObDRsZHRRcEpEOGlTLU1jaTVOd3E0MHNYT2F5Z9IB1gFBVV95cUxQekJWYldRZWR3bmJUbFZ4dnlzZld3M0haVDhfUVJzYnZ2VGNPb1VIdzFBRXJ3Qm5ISHN5aVpRTmhWc0JndmF3aktET1V3TjhWNFNtWDY0TVdnN253NXd3OHdzRkhDRzVLU3JjMUdqMlkwOUhPZ3V5MHhKMzlHVVhfekRmMWhhUFczRHR0bE5ER0ZXc3FTSWFQNE1ucXFwcS1ZV3hvRERPcXU4MWFZZTVvOWRBSDZVRTdJdnY3VVpfUUhKVDk1YUNBd29hTVhqemxyRVRUVzhR?oc=5"
-        },
-        {
-          "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
         }
       ]
     },
     {
-      "code": "JP",
+      "code": "DE",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+          "title": "[한창헌의 단상] 정치의 시장 리스크",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440338"
         },
         {
-          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Middle East war: 5 things UAE residents need to know this evening (Oct 19, 2026)",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTV0VHpUZDd1WjNHRm9MdE9JMm1xYzZtTVY4djAwcU1nLWYzSlJmZ2hkWEJYTUdNVk1EMGowQmFhZ3BuWDZpT2FfV3ExYVhoWmFEcVVQRzRRczVmTTRiS0xXY25XV0MwaVU2WkhzLUJSUXkxdFdTd3VFM3ItM0hQWDlrSjhVZ1lHRzJ1RXF4WGc1TDRLWUFMRTFBMlFZWkJLbW5uSjVsem9ZcmxvMEh3VUQ1MA?oc=5"
-        },
-        {
-          "title": "Why control of Hormuz is not the same as security",
-          "url": "https://container-news.com/why-control-of-hormuz-is-not-the-same-as-security/"
+          "title": "월가 전문가 \"프랑스 국가채무 위기 발생할 확률 30%\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440314"
         }
       ]
     },
@@ -251,13 +255,13 @@
       ]
     },
     {
-      "code": "TW",
+      "code": "NL",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "빅테크 실적발표 경계심…닛케이 0.6%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/10/20/2026102011105022257"
+          "title": "Dutch ministers firm up Rotterdam military terminal plans",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQelNQZFRpQ3FiOGI5QlBpWmJfVmZZNWRTRlNVRFdlNzczU2VOWEdmbVJaUV9ZeDZLNFlqeS02V3FPSmE2c2FMUzNWbXp0ay1xaGlHRXVvQ1czR2daWlhxamUycXI0UFBaclg1b21NdjV6M2NNS3VicEFIbTg3SVMwRUJ0eVBGUjhWMnNDZ1Z5empYQkc0R2Qtc05ua0wyRWgySExzcXN4WXdtSUcwdDlneTg0MWtDS1lYU3c?oc=5"
         }
       ]
     },
@@ -267,12 +271,12 @@
       "risk_level": "low",
       "articles": [
         {
-          "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3ctZzVVZmROUF9ucW82clpVMWMzUXVUQ0xFendFWlh1U1lEbXRmTlh4TUJKR1lHT0FpLUNiUWZ1aDRkTjM0ak52X0QzR2thSGNKSUptNXdXOTQxM1gtYk9zZkJTN1Jjek9LY2Y5M2RWcERwZ2RheV9DSXBCZEItaFNWYlR2ZXp0c3dMVS1YQnJkY3F1TjVDaEJpZFVCcFYyTTJwNXZmTEvSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253?oc=5"
+          "title": "Egypt weighs sending troops to defend Saudi Arabia as Houthis warn of another Yemen disaster",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1N0xBZDBoSFFYdFZKM2xNSnVUWXdnQWNJQ0cwUG9KY3pWZ0IxMHBvZnlZY3VidjdWWUZGRUYyMVBUSjl4SGVZQXdJSkdkUWMwS19PdDNB?oc=5"
         }
       ]
     }
   ],
   "total_crisis_countries": 16,
-  "generated_at": "2026-10-20T02:59:47Z"
+  "generated_at": "2026-10-21T02:56:07Z"
 }
