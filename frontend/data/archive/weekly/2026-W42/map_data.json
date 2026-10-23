@@ -1,0 +1,271 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "BBH \"프랑스·독일 국채금리 스프레드 250bp까지 확대될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440837"
+        },
+        {
+          "title": "S&P500 선물, AI 투자 우려 속 하락…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440834"
+        },
+        {
+          "title": "[외환] 기술주 급락에 상승 출발…네고에 상단 제한",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440826"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "S&P500 선물, AI 투자 우려 속 하락…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440834"
+        },
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440798"
+        },
+        {
+          "title": "해양환경공단, 해양오염사고 대비 민·관·공 합동 방제훈련",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57974"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "China AI Model Stocks’ $150 Billion Drop Shows No Sign of Easing",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-23/china-ai-model-stocks-150-billion-drop-shows-no-sign-of-easing"
+        },
+        {
+          "title": "Super Typhoon Champi: Chinese Port Congestion, Delays and Freight Rate Risks - News and Statistics",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWROYXhkSUNNSGZKbDE3RDJMdXN0MU5xbjRaV2dldTVzV3pjRDYyRlgzV1BIWVhybDVyNHFJQXlPWXNQbGwzUGsyU3NkSm9lMlZkNXZuOHY0SVY4SC1pMm9lem80WWQzbTctVnJ0aWxsU0JlVG9xVHhsMnhzcnBnVmJ1MDJLdzUtUEtndlpuYVhyWEVsYkJJUDN0YmdJZG1vS0J2SklNNzkzOU9wY29ZXzJCaU1hNFE?oc=5"
+        },
+        {
+          "title": "China and Djibouti Call for Safe Red Sea Shipping as Regional Security Concerns Grow",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNampnZEJoUTBoV2t0SjlkUEdwR3hUUkMyMjNvdHV3TzhoSGpoNk9WeklOMGZROHc0dVliRWVETGFERm16b2Y1dUhqb0JGckNlNjhpeVRTM0wtc09pSDRiX0pwU2Jsc2xyTzhUX1ZrNEUzQTBqclJNdFpHSXZ4ZXlWbGF5MURHa0J0RmRtM1BDU2FCaFp4cEp5UnBxcw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "英 싱크탱크 \"인플레, 내년 초 5% 웃돌 수도…이란 전쟁발 에너지 충격\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440824"
+        },
+        {
+          "title": "Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWW1DNFFSdW93ckIyNGNFNkJ4ekpscEZiMGtUQjJVSm9rZFdrVGg4VkozMmNHQVd4ZzFvd1hvZDVqV2dVOVJtbFhtUkFoX3d6b0NQYTQ0d3VzdER0dUVvY3R5OEUwS1FoZkNYdE1UNnRMY1dha1AxcWRPMDRmanh1TDZ4NmNXVGQ3TF92M2NYZk9ZcE5hdjlzcWRjMllaTGRBTHk2OVA3RQ?oc=5"
+        },
+        {
+          "title": "Iran reports ship fires, mine strikes, threatens wider response against US",
+          "url": "https://www.hellenicshippingnews.com/iran-reports-ship-fires-mine-strikes-threatens-wider-response-against-us/"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "India Retail Traders Cut Back on Leveraged Bets as Stocks Slide",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/india-retail-traders-cut-back-on-leveraged-bets-as-stocks-slide"
+        },
+        {
+          "title": "China and Djibouti Call for Safe Red Sea Shipping as Regional Security Concerns Grow",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNampnZEJoUTBoV2t0SjlkUEdwR3hUUkMyMjNvdHV3TzhoSGpoNk9WeklOMGZROHc0dVliRWVETGFERm16b2Y1dUhqb0JGckNlNjhpeVRTM0wtc09pSDRiX0pwU2Jsc2xyTzhUX1ZrNEUzQTBqclJNdFpHSXZ4ZXlWbGF5MURHa0J0RmRtM1BDU2FCaFp4cEp5UnBxcw?oc=5"
+        },
+        {
+          "title": "14 Indians on yacht reportedly caught in Red Sea strike, Indian Embassy responds",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFN0Y2h6R1RXb21JVElQUEZ1VU5sc1pnaUNBLWZlSU9GQ09tZExyNy1jaEthY3RXN19sUXI4eVpjcmFua3VEbC1pQVJkdDJxSWFyMlJMTE1VVWZfQzJBSGczN29ZaDVCRHVMbXp1QXJNNHkxdDZuTEJmeFFkdWtvYmQxanlrVG1DTTB6b0t4X29lMlBGdUZOSXlTV1VIeFllcWI1T1pReU5zT3k5bDl1N3B6REFoRkROMlHSAcABQVVfeXFMUE1DVlk2eVhQcWJ5dDdramREclU4MlphZzNieGpDN0VwV0JpczV4eURBYlp3THVUdUNyR0xrU3VKbzY5aGdUSGZUTzVUNHY2azlwelprVlY1SGtIRmJIZ0wtRXY0allHcjVUR1U2UXgyM2VxQTRzcGcwLWlnVGRsMXRCV1h2ZjZKQ1pmamdlbVJLZUFCS2xoTTQycnkyRERzcHEzOWhHdnF1NTVTOUNWbDUzdlRDd29kTF92WU14UzJ2?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Latest Oil Market News and Analysis for Oct. 23",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23"
+        },
+        {
+          "title": "Houthis say they tried to rescue 14 Indians from boat in Red Sea, allege attack by Saudi Arabia | India News",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYUxuQlhJYUtJcGhZMnV2cWRjNnZmRWxUS1F3b2JKVlpDeWhRTVBhYjFlTDYtTjRfdG9VRDd3b3JobkgxR2JCaGp0ckVnSDNGSU9QZXd3cGphV09ZT000WldxZFBlRW81V0NnaS1MN0U5RWNSTlhtdzZqUXdFQ1M0dnpWU0hONXMta1NyZTRPLVdTMVNvcDRieG96RFp2dk9PbllEakJPNDMzejJvNklEeWJDR0dZNVJDejk1d3RyV1I3VHhULVFaM01zcWV3LTgxSXI0Ykc2dW9zR1JUdlRXcGw0TdIB6AFBVV95cUxQTTI2cFFHZmU2bjF3S2hITlBCX2xRS2JqWmNZY2ZBR1ZFc2N3b1lxc3hmYnJ2ZXdManBCT2dPUVRpU1MzdkU1aXJPWmtRaXd2d3o4Tng3aXVQY0hXUTJHWUs1NU5SbFBjaUR1UXphaVA0SVo5TkZZN3pwUUZrMVdtNzJGX2ZsSmc1ZHVhalhianVRdGZ2WnN2dHVTamE0X1o2NmRSb3NOb3AwZVdPQUNZZ1p0QnFZcnY2TzBTV2hjamRrMUMyQldWNDZONERXLXVVdTd6ZVRqM2VfZ09LYXdBVFI0U2Rqb1M5?oc=5"
+        },
+        {
+          "title": "China, Djibouti stress navigation freedom in Red Sea, urge restraint on force and unilateral sanctions amid Saudi-Houthi conflict",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTUlNNdmZQX0R4cUQ1Qkg3X1d3VGM0WWZNaEZ1S2tBcm5TWEZ2UWZNRGMxMWZVSmkwX2dYQlFsVFlVemk2RE5majdQcHFHYWdJdVdETU1Vd0QwdTdHU1FiNWxB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "英 싱크탱크 \"인플레, 내년 초 5% 웃돌 수도…이란 전쟁발 에너지 충격\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440824"
+        },
+        {
+          "title": "해양사고 裁決 사례(127)",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57975"
+        },
+        {
+          "title": "Britain’s defense chief urges public to prepare for cyberattack-driven supply chain disruptions",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTN3MF9WNUw2SjdYV2had1g5cWZkdi03aGNWYnU5RmZPallwQ0RPT21scVVjTVEyYmtlSm1kWXg2alBIVjJaZW5GNDlMZGhKQU95UnBqWExXV1FmMmVicWZxYXZjaTlMT1BGcm5GYm5zcENzeXRPY3lkbWdYSE5Za2xDemJ6OXNNb2xic2RDWkMtOFlqN05zRFBqNjQwNktjTlJ5S1Zyd1JkX3JaTjRldU5kbkNFejAxWVhGZWRIZ2E5bll5cmp4MjREeFR6WEM2?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "日 증시, 메타發 AI 투자 회수 우려에 1%대 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440829"
+        },
+        {
+          "title": "키옥시아 지분가치 41조 급감…\"SK하이닉스, 왜 팔지 않았나\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440793"
+        },
+        {
+          "title": "해양사고 裁決 사례(127)",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57975"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "BBH \"프랑스·독일 국채금리 스프레드 250bp까지 확대될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440837"
+        },
+        {
+          "title": "AI 부채·프랑스 국채 스트레스 테스트 아직 끝나지 않은 이유",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440810"
+        },
+        {
+          "title": "'5%'에서 엇갈린 美·佛 10년 금리…\"결국 둘 다 오를 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440800"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Singapore warns seafarers over unauthorized drone operations in port waters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2xDY0lpandMUXg1aF9sUEJjX0Z0S3g4ZWhkOC1pcFhDbGp6Y0x1UzgwT2VFTXIxaWpPY250YU1Selg0d2VkdzJxT0ExVFdHUmlSSG1Tc0ZaZm9abXVXcEZhbTBHenJFU25KeHhfQ2lsNlJrbjdOZS1oUWZKV1I4RXcxRkZOR1lmNGRfOGpwNl93ck1EaDlZMUpCZUxRM2kt?oc=5"
+        },
+        {
+          "title": "하파그로이드 컨선, 대서양서 화재사고 후 표류",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=57942"
+        },
+        {
+          "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1pwT0pkRHVzdnYwN09nUTh4V0hUaEFrVERlTWlPeGJrU2JTYWs5OW5ScDlzZzlfMWFna0ZtS1BEVF9UcXBsc21NU2JmQ3ZMWm5aN01hZkFNeUREQlpBV2kxcXlLUkVxeGZ2UXZidE85YVNiMXJRRWI2TGJHOTJYY3lmUWVPaG_SAYwBQVVfeXFMT2xzSVlhQmxaSXFqVlJLNVdNXzdrX2s0WWpCYk85dDVVMDdPRXREMUxJMTU5ekVXeThkeV9Ub2hiVk5xQVpnMDVWQlJDUFdOMU9RWnp0Q2w2QVZpckQxekJwSUVsdHBhYjBDYU84a1ZZV2syUjliWGtqQWRIR2VRZ3RBM3BNUVJCeFFScXI?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Russian Hackers Deploy Unconventional Tech to Strike Ukrainian Grain Logistics Company",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUEpXbkIyWEJmQ2pmbXNVUzhUWFNkZTJNNF9Nb01CeXRNeUV5RjZWV1BFMHNEcEgySF82WngwRkNLVks1T0l6blpaR3NVN2daTUQ0c0NFRlJjSDROQ1Y3S3JzQWQ5V0pjcnlUNXhhVk1CSWFpRTZyLUR0MVVfTWtuRDR5eGtsaTM5UHpqbm1vTnlZb1hnblZMSHBqOXluanFsMXViZnBsMVNTeGltMm1CNW53aHJLMHZDTFB4bGtxWkhYVHNEampzb0E1c0MyQQ?oc=5"
+        },
+        {
+          "title": "The Cabinet of Ministers has simplified customs regulations for businesses affected by Russia's attacks",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnBxVlkxZkMzbm5UTTlpQ2J5Yk9HeHNGeTJGaU5QdU9reTFhMm5QVjl0ZWZVRml0eG1QXzRGZ2k3RmVxLV9MZ1AzSVBlZDBzWjNON0RBSUZZWUNlcmV1OXVvbFdtWUNvNUdvWEtaamNUanZjcDNrMWdyc1NaOEROVkZ6ZjMtMmNxLXZVU0hIUDVHLWIwY09Wd0pOZy1IdE1u?oc=5"
+        },
+        {
+          "title": "Ukraine Hits Russian Command Centers and Logistics Warehouses in Occupied Crimea and Donbas",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0FmaXFHS0k3Rk5wTkdSWURsQUg2S2NJRUpRRGhRTnhSa0k1dllWLU5qY1JuaU5pWGdTeFVuRkFvVkJQeHVSSHRxNThXc0FCVFJKOW5LZzdwb3F1T2hEVlEwYWRTQ1duMnVMSU9rZ3QyX1ZhRmxaMHFPb0NzQnVzWUhXQjRyMVN2ZXJGQ01WN0pfSFRGWkJHa1ljSnVRUmtjUkJ5YkhMR2hlTEJUQ0pFUW1sWjFrNm9BdWxQVEtxWGU0dkh6enBtZG02dUdDM0xWTmRHQw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "BBH \"프랑스·독일 국채금리 스프레드 250bp까지 확대될 수도\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440837"
+        },
+        {
+          "title": "'5%'에서 엇갈린 美·佛 10년 금리…\"결국 둘 다 오를 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440800"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Intra-Asia rates soften as congestion at major ports begins to ease",
+          "url": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/"
+        },
+        {
+          "title": "9월 수출입 운임 동향, 노선마다 온도차 커",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323148"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Agricultural exports from Ukraine have fallen by 50–60% due to logistics crisis — representative of “Nibulon”",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV3VENlMyY1B4S3VFTkJxQ2lfY09ZZ0ltZkZqYTk4eFVmT2h3V1l6NHN3Q3laalc2ejNmeEFyQkxfc3N4RHhlSWsxLWItQzhIb3ZaN2hheWdTM2VNdm83RE1DaXpiaXhPSWJWX2hQWVgxeGNKeG5qRFdrVWR4N0xPMTYzeFdVNVQ0NzYyYUJWS3ZrMGhfUVBGSnA1UWJ3TkRpOVNEQTJxOWZSOWQwaWg2ME5tczlRNjY0V3VLdE5fQUNkZFEzU2tHbkRKWUNRYmhVQzBr?oc=5"
+        },
+        {
+          "title": "Ukraine Hits Russian Command Centers and Logistics Warehouses in Occupied Crimea and Donbas",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0FmaXFHS0k3Rk5wTkdSWURsQUg2S2NJRUpRRGhRTnhSa0k1dllWLU5qY1JuaU5pWGdTeFVuRkFvVkJQeHVSSHRxNThXc0FCVFJKOW5LZzdwb3F1T2hEVlEwYWRTQ1duMnVMSU9rZ3QyX1ZhRmxaMHFPb0NzQnVzWUhXQjRyMVN2ZXJGQ01WN0pfSFRGWkJHa1ljSnVRUmtjUkJ5YkhMR2hlTEJUQ0pFUW1sWjFrNm9BdWxQVEtxWGU0dkh6enBtZG02dUdDM0xWTmRHQw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Another typhoon threatens recovery of East Asian ports from congestion",
+          "url": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 15,
+  "generated_at": "2026-10-23T02:58:30Z"
+}
