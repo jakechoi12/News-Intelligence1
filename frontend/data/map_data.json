@@ -1,229 +1,202 @@
 {
   "countries": [
     {
-      "code": "GB",
-      "count": 9,
+      "code": "CN",
+      "count": 18,
       "risk_level": "high",
       "articles": [
         {
-          "title": "연준 \"목표치 상회하는 인플레…채권의 안전자산 역할 무너져\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441054"
+          "title": "한미약품 황상연 \"북경한미 특별감사 이후 11월 중 中 점검\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441281"
         },
         {
-          "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5"
+          "title": "테슬라 '완전자율주행 기능' 불법 활성화…피의자 80명 무더기 송치",
+          "url": "https://www.mt.co.kr/society/2026/10/27/2026102710533143899"
         },
         {
-          "title": "VLCC Tanker Market Giving Up Past Gains",
-          "url": "https://www.hellenicshippingnews.com/vlcc-tanker-market-giving-up-past-gains/"
+          "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+          "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 8,
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
-          "title": "日 증시, 중동 긴장에 따른 유가 상승 속 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441080"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441286"
         },
         {
-          "title": "Latest Oil Market News and Analysis for Oct. 26",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-25/latest-oil-market-news-and-analysis-for-oct-26"
+          "title": "China industrial profits post strongest growth in three months, rising 14.4%",
+          "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
         },
         {
-          "title": "Pakistan-Iran Border Trade Disruption: LPG Trucks Stranded Amid E-Form Dispute, Iran Denies Export Ban",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZVdKUEoyZ01aR0x2R0xDNEFFMDVIS3drdEJrdEZFdkFiUmh1WldwRmRzdEFMZ3BnVzJmc2FIazNJSmdndm9QWkR0aXdXbmtMYThuWGtKejhucHRGMHBxT29Fa2NmUXN3V2dtRmZUOURWT24xY2JGbXIzaDZzSzJOLXJfMUtrd1M5Qzk5cTdWLXpVZ1JEVm5PaXhVVlRCVkxaNzZjQ2Y2bll6d0JxWmE4QnpkbzBfUjBaV01aOVlDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "드디어 터졌다! 송민규, 유럽 무대 5경기만 마수걸이 '도움' 폭발... 6연패 수렁서 건진 '특급 택배'",
-          "url": "https://www.mt.co.kr/sports/2026/10/26/2026102611074951066"
-        },
-        {
-          "title": "[단독]폐 굳는 고령자, 희귀질환 '진단 지연'…복지부 \"관리방안 담는다\"",
-          "url": "https://www.mt.co.kr/thebio/2026/10/26/2026102611004776792"
-        },
-        {
-          "title": "삼성바이오 노조, 국회서 법원 규탄…\"파업 제한 판단 부당해\"",
-          "url": "https://www.mt.co.kr/thebio/2026/10/26/2026102610085336601"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "China’s New Tunnel-Boring Export Controls Cast Shadow Over Warming Ties With India",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkVSTG4zSVBpTHVMdjhfanRxNVJPanV1ZUpJY2U0VzdXMXFJWGlYcFo5dUZ2czhCX3F4SWV0TWdEV0lHRlBiRXFYOE8ycGxVWGpKU1lEWGhvbU9ITzI5TXV2YzF2dUF6TGd1SjFnemFIeG1UWER1dUdkQ1pfSTd5VllCczVtMnZycVhUamstZFVjdw?oc=5"
-        },
-        {
-          "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdXFOOE9ybUFrVGNraFdvaWNEdDM1YXlVdU1xTVNFdW1aTUVlYkNyeUtoRGJVNXJkeUF3WXE4Y3c0ZVJsTldybDA4UFEydDdEcUN0TnBlTHVJcnhDb1ZPSTBMcFBLSU5fdERrRlNONEx4bUItMEZiaVRLMzBmbnFBLVRLTTR4MlZzNFl2UE1IMlc0VURjeUE?oc=5"
-        },
-        {
-          "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSl9YT01kMzdPQUNmWXdHTU1Idno1enRKSnlEbEJYdUNzTVpyQ0k3aGdJV05LaTZFS2hVTmV2b2tfeTFfaGtCaFN0WkpqTEk3Y0JZSk9wOTBmcXVIc2w1UDBtd3lzSEVQUG12Umw2YlhFYkdwcjJrMnRuQ19PcGVQOFRVem5KWklsdmhnRGhIbnQ1dUJDRjRTOUFRZ09KZjlXSUNQYUVHc1pMdG1UQ203RXZxQVJkUVNmVkZSV1A1Ni16eHRocUE?oc=5"
+          "title": "Latest Oil Market News and Analysis for Oct. 27",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/latest-oil-market-news-and-analysis-for-oct-27"
         }
       ]
     },
     {
       "code": "US",
-      "count": 5,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[외환] 연저점 또 경신하나…2.60원↓",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441083"
+          "title": "\"AI로 도박 중독 부추겨\"…美의회·주정부, 드래프트킹스 조사",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441306"
         },
         {
-          "title": "日 증시, 중동 긴장에 따른 유가 상승 속 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441080"
+          "title": "美 비자 발급 지연에 정청래 \"美 행정당국에 유감…초당적 항의해야\"",
+          "url": "https://www.mt.co.kr/politics/2026/10/27/2026102710360752357"
         },
         {
-          "title": "연준 \"목표치 상회하는 인플레…채권의 안전자산 역할 무너져\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441054"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "日 증시, 중동 긴장에 따른 유가 상승 속 혼조세",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441080"
-        },
-        {
-          "title": "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-says-yen-becoming-better-hedge-against-ai-market-shock"
-        },
-        {
-          "title": "VLCC Tanker Market Giving Up Past Gains",
-          "url": "https://www.hellenicshippingnews.com/vlcc-tanker-market-giving-up-past-gains/"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[프랑스 위기] 시위·채권시장에 낀 佛, 부채 해결할 수 있을까",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441075"
-        },
-        {
-          "title": "[프랑스 위기] 강등 피했어도 '유로존 문제아'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441074"
-        },
-        {
-          "title": "[프랑스 위기] 불안 확산…유럽 재정위기 재연되나",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441076"
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "[프랑스 위기] 시위·채권시장에 낀 佛, 부채 해결할 수 있을까",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441075"
-        },
-        {
-          "title": "[프랑스 위기] 강등 피했어도 '유로존 문제아'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441074"
-        },
-        {
-          "title": "HHLA cuts earnings outlook as Hamburg terminal disruptions weigh on throughput",
-          "url": "https://container-news.com/hhla-cuts-earnings-outlook-as-hamburg-terminal-disruptions-weigh-on-throughput/"
-        }
-      ]
-    },
-    {
-      "code": "TW",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "대만·뉴질랜드, 26일 금융시장 휴장",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441058"
-        },
-        {
-          "title": "Typhoon Champi closes Taiwan ports, brings fresh disruption to East Asia",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTl4UU90MXVpT2JQVDRwUDVkNkp6cndsQ2plOVUyMUlfLVVOdk5TdjJDQU51SkxNcFZXc1hlOEYxa0w4OGNBM2JMREYzUVhuTExOYnR1YWJYZ3hpa0xtbEQzNk9TMnZoWFdSLWEwVHBNWVFnMkl3R09IMEUwT2YxNHM3UkxVNHdLRGtzM3cza0JXTFJEME5ESnIyLVR1bUQwdWs5aTdzZWhfcUE?oc=5"
-        },
-        {
-          "title": "Typhoon Champi: Taiwan Disruption and Potential Freight Delays in East China",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWRvXzBZNktBbnRGVHFnUVE4eTY3NUI1RmNZdWk3b25vM3VjaUR4UjRUU29wSDh1cENCcTBnQ1FsWDFxdXRlelM1UkhBU1RSSTZvaU91THZpSEcwMThwLS1oTVc1WVYxMjlkRUw0eWxEZ211OUxHdnhNTURUdTR0V2Yxa0pWbWtYN2cwTVdIUkpNRUhSU1NOMkxBVGhaeV8xVFg1Y0J4RzdoZWhRTGc?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "China’s New Tunnel-Boring Export Controls Cast Shadow Over Warming Ties With India",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWkVSTG4zSVBpTHVMdjhfanRxNVJPanV1ZUpJY2U0VzdXMXFJWGlYcFo5dUZ2czhCX3F4SWV0TWdEV0lHRlBiRXFYOE8ycGxVWGpKU1lEWGhvbU9ITzI5TXV2YzF2dUF6TGd1SjFnemFIeG1UWER1dUdkQ1pfSTd5VllCczVtMnZycVhUamstZFVjdw?oc=5"
-        },
-        {
-          "title": "India’s EV battery manufacturing and critical mineral supply chains gain importance",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDE3bXhMbEpNZHozc3lOZk5KT3M5OUIwbEhtYzVab25KRF8yeU9rVVV0Z3BHQ3FsRnhrUnUydkNsMXljUV8xRzFkbTNrMUM5ZVU2SE1Cc0VTRnZCUkdGeHVQTW5qb0hOUmtOQnNMNDhwUWFMWkdXdko4OUREYXNsaDlVYk04YlJMdWs0dU1IdTR1cXdJcjd1VWRFdUpRdzNPd2xsbWlveWNJUS1PYlQ4?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "SG",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Navia Deepens Southeast Asia Reach With New Office in Johor Bahru",
-          "url": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
-        },
-        {
-          "title": "Singapore must look beyond the box to secure its logistics future",
-          "url": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5"
-        },
-        {
-          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+          "title": "Passengers capture cruise ship colliding with container ships",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXdPYTNLTkxocFVWR3ZKdU1mazFmMGJYZWdzUFRzR2pfZXJkdVVGLXhsd1I2ZWJyUXNTZ3hZMmxGVGVRdnBkaVRxQXNfeGNTTmNKUjZyN2pKSzlkaldlNi1nbnJOenNMaDBLLW9lOFhnb29SWjh1andEZ05ZTXNkOGFsdjltUlJXYTBaN3JRUG4tUnV0UlVOcW9HTXl2WWxIYUE?oc=5"
         }
       ]
     },
     {
       "code": "SA",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441286"
+        },
+        {
+          "title": "Egypt approves military support for Saudi Arabia, a key Gulf power, as Houthi attacks intensify",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbUlRcHRUVzJuSmpPb1Bfd2hyZW9DcVUyWW94T2F4RF9LRzlfU3VPN21EMGN3N2VDUnlKNS1STVl2cFpWeFVaeTBIT1FEczRkV2M4a3VEVzA0NDdDelRSRWVaRUpqRktiTUthU1RfV1ZCRTVBY0hYSkJNbWZFc2lDeWxHMjI0dkdtUWs1dEpQc0YwRkktTmIxTVVqMVBoa3BYTXA4Q1RJaExwVUxxaEI3UnIxWnRlTERWMzZWdHhWWi1JLTZQb3R5UTdPdGd0S3lfQUlQbThxOHRuZw?oc=5"
+        },
+        {
+          "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'수급으로 심리로' 환율 좌우하는 반도체…실적 변수에 촉각",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441326"
+        },
+        {
+          "title": "이창용 \"韓 경제 위험은 반도체 사이클 조정\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441317"
+        },
+        {
+          "title": "급감했던 순대외금융자산 3분기 반등 전망…주가 하락·경상흑자 효과",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441280"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "News China-India rates ease but port delays still a strain on services",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVlKMnc4TkhxeHVFeG5iR1o0ZEg1WElycHNlYXloV1lNMFVTenVweUR4TmVGaDdRaGo1emFIVVFCRjA1QTVFMXVpYmluQVVKaXBCeGV2ZW1pMnh2SkJhY2VBVEQwcE5BZm1CeThnancwbVZwWnVQcWVBNlJFZmxJempoWkIyeWhCaTN0VTdYZ0hJaXlF?oc=5"
+        },
+        {
+          "title": "China-India rates ease but port delays still a strain on services",
+          "url": "https://theloadstar.com/china-india-rates-ease-but-port-delays-still-a-strain-on-services/"
+        },
+        {
+          "title": "October records highest number of ship attacks in Strait of Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMEVvNzVGa1RMRzhhSWxlVERvZEVrZnhJUHd3TTBrbHBVeEkweU1SUU1fWmpBVWxzcURGM2t3cjA0c3RKajhYXzhYRWxzbmZHWXUwZ1dnTDdoanhoVENaWHN3WFpxS3luM1BpX3d1a2tTckRPUDR3NFpvaHFnMWJtYVpNZmFnQl9BMkN2LUtkQl8tTHdfeEVMb1JlNzNIS21BcDhTTkVwMk5DUWxWZDdCUG9DeGtmemQwZG02RFp6cU92bXE3RnphRTRZUThVdE1DS2tHOE5GNUFsUUlUZ1dB0gHkAUFVX3lxTE1PNVlrMEVqZEdJMzNwdDFNenBHb3ZzaW1ubWRtcktjYndvVFJuejZDZHlhalNDWXB0dm5fYWROWVZmSFJldUxrSFFBdGRnZVNkUXV5cFpqQUktOUExTjZ5ckZSU2xaSllXakYxaWNSMW82bG51TTZSTk9QWjAtay13WlkzaU1qLUw1VmIwcDdrYkxaWC1ZRmZ2YnZ0VlFvSmxWWGU0aUVkeVBWRU1jR2ZzRnEtSVVfWTFvOGNmOFhfRDV6VTZiREk1dEFmTjBpX2FfZGF0WmpfdlNWSDBGRGl6Z2R3aw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html"
+        },
+        {
+          "title": "Russia drops out of top three global exporters of non-coking coal as shipments fall by nearly 19%",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rRU5CRmVzYUR4dW9TTDZFZjVEWnpxVmUxRndMZ25XV3BIRUp1U1dfT1R6Qy13YUptSWhqSGlIOHdLbzRkVDBEYjJiNA?oc=5"
+        },
+        {
+          "title": "Lawmakers Warn U.S. Ports and Banks Over Trump-Putin Russian Diesel Deal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDViRFZFNjBmSWJDQ2hmVGc5WUE5bEN2eE8zb0hUanBiOU1UMDhZRGlIVGZmaTRJXzdZaVB5aXpaVjVGeDVTeWthTGxrTlMwVWgtZHYybnNNcHdRTHFkN0ViendsZ2FwVFdMZThjZ1lFUHdlX0tTMHo0SUx6TXg0dDNFY2VyTE01R29wQkFlTC1abklBS0lFSw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Fuel costs, warehousing and low value goods policy ahead of UK Government budget",
+          "url": "https://aircargoweek.com/fuel-costs-and-low-value-goods-policy-ahead-of-uk-government-budget/"
+        },
+        {
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+        },
+        {
+          "title": "IOPC Funds 최성용 감사위원 선출",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333608"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Bunker Quality Alerts Prompt CΜΤ Concern Over Engine Damage And Repair Costs",
+          "url": "https://www.hellenicshippingnews.com/bunker-quality-alerts-prompt-c%ce%bc%cf%84-concern-over-engine-damage-and-repair-costs/"
+        },
+        {
+          "title": "deugro keeps wind in generator production sites’ sails",
+          "url": "https://aircargoweek.com/deugro-keeps-wind-in-generator-production-sites-sails/"
+        }
+      ]
+    },
+    {
+      "code": "VN",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-          "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+          "title": "Oil shipping costs have increased tenfold due to the Middle East conflict.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWFFU1F1UnJKWFJ4bF9BTWVsUENic091Nzdyai1sVzJZRGprVzJkcmg1MzlJd2k4YjloRm94UHRVSUlaM1h2VkFmdkFvUVJDY2xrUTN5QmhkVDF2VExINEZHU3NfU1lpNWptcDJrWFhZcVhUaHZ1cUM3Si1FUGpPams2ZXRmNFBD?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Navia deepens South-east Asia reach wth new office in Johor Bahru",
+          "url": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
         }
       ]
     },
@@ -233,12 +206,23 @@
       "risk_level": "low",
       "articles": [
         {
-          "title": "'수출 붐업 코리아’ 현장, 중동 위기 대응 특별 지원존 운영",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323200"
+          "title": "UAE plans up to five alternative food supply sources to safeguard against disruptions",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUFGVDdsbHNmdVU1Zi1nSDdnUi1xUEFoOTRLeGRBMk5vdmdzNkowRGlrNFBwRnpiMVRIc3EyblhCaXBMUDlTcC1IRjRaYXRDM2tMUXN0OE9DMTdqYWF0dVZ5ZUdNUjRyRXNUSllSVjAwdkNwa3hrSS0zemRZTDNtbHZNRnhMNTY5czl1YjFtLVBzZUlKRGxmZUtaeGswWTBDT09GT1BSX1A0Vmg4WUYtaG1Sek9pYTdsN2VHRlpPdzFUYi1SNnZ2Vmx4NGpRajTSAeIBQVVfeXFMTWNPNktuVWljemFCcTkzcUR6VW4zWTh2cU9yblhqYjF4OUg4RjlsMzkzc3RRcWhmRUNrNVdabzM2Y2hYc3FvMGl4dk9DSVlWbU9GYnhjOW5pc2U5RlRiREgtZTJwX2l6cGFPV2JYcVF4TFQ2bVZScjJRR2ZGVjdNWnl5VDJrWUpNU3F4X20zVE84dUVlbzE4TmFXN1NLOUswNS1GVV9FMjVRTkMtR2hqd0ZJOWZmVWRhTzBSbGFaeEpLUW8xWXRKdTdNZ21nUWp5ZmVMZTNOMkFkSzNyQWd0QjZQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Hiring of Foreign Drivers in Japan Spreading in Logistics Industry, Aim to Cope with Worker Shortage",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcmxXR1RfWHZHNE1fMUZSa0VfeGhKZU01N3FFQnp6OUdkbjcwMVYyMkVNUjVxeWtxX3c4QktqNHp1ajJKVmctOHI3eDNveE9VcU5KVFljRTJyOEFab1dDWWxGNkdxZzdKQVRDOFRGSzB5dmVIbWc?oc=5"
         }
       ]
     }
   ],
   "total_crisis_countries": 14,
-  "generated_at": "2026-10-26T02:42:38Z"
+  "generated_at": "2026-10-27T03:17:22Z"
 }
