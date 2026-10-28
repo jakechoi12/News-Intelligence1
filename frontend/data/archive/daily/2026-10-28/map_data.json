@@ -1,0 +1,258 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "한국 해난심판제도의 근본적인 대개혁을 촉구한다",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58006"
+        },
+        {
+          "title": "\"'떠날 권리' 주고, 취약계층 살피니 고객이 돌아왔다\" SKT, 신뢰 회복 1년",
+          "url": "https://www.mt.co.kr/tech/2026/10/28/2026102811500596862"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+          "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html"
+        },
+        {
+          "title": "금리 인상 멈춘 뉴질랜드 중앙은행… 글로벌 불확실성에 동결",
+          "url": "https://www.mt.co.kr/world/2026/10/28/2026102810431355180"
+        },
+        {
+          "title": "As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever",
+          "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "No Perfect Route: Building Supply Chain Resilience Across China and Southeast Asia",
+          "url": "https://www.hellenicshippingnews.com/no-perfect-route-building-supply-chain-resilience-across-china-and-southeast-asia/"
+        },
+        {
+          "title": "USTR Offers China a Subsidy Reprieve While Issuing the EU a New Threat on Airbus",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZllzbmQ2Q1ItUFdaY1JnOEZ1Nmk1b2dtNWFMcGRtX1h2SWhwblZKQUNzMEZUVUhtU1pYTE1aMlAxYnBGeGhlMmV0NlBCRzcwSWpiWmNuYlliUkM1cXB6bXl5Y2JTaldSWlp3QkhUZkRUMWtZQ1lrbHFOUVN6b3FDS2J1UjlQZ0EySVNwTg?oc=5"
+        },
+        {
+          "title": "Britain’s China Contortions Are Inviting Disaster",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEtEYkJyWk9OMDl6b0J2XzBpT2gtQ2VLRkxNYXFEVGwxSkxUcGZjX3JrdmpkTVpiNkphOS1lYTkyMHlfbXdjUzA1dkkyZEc3RWJOZ2FVSEZKOXRjU3dlMVl1U2N0eVJiWkFrSVFUelBWaUcyMVpGMzZycWl0THlSTmExN0ZFVWUwbTdNUGYxc1NfU3pSWmNIQmlEcWVwTEJPTzlrSV9iWG80R0tBUWI0d2hVbkJHS28?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "국채선물 약세 출발…FOMC 하루 앞 외국인 주시",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441584"
+        },
+        {
+          "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
+          "url": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "ING \"英 10년물 국채금리, 예산안 발표 후 최대 20bp 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441603"
+        },
+        {
+          "title": "Landline switchover could cut people off in emergency, minister warned",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "EU condemns Houthi attacks on Saudi Arabia, Red Sea shipping",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNONm16aGdVck1fSllCOTVmbGFCS08taExZSGo3d1VuOTBWMWdnQUlSekN6QzBDTEZrN2J0TU9lNW1mZEF0T2ZDZVAtbnRWRmtfVGRXd0pQZkJYcm5xMXNQRUtBOVFFdmRMRjlMY0FyQmpMZEV1amNSM09DbG0wcUxxcUlndk01emhyZWVqVnluZmNvc3U1VmRjcnpVeUHSAZ8BQVVfeXFMT3ZjTjZtemhnVXJNX0pZQjk1ZmxhQktPLWhMWUhqN3dVbjkwVjFnZ0FJUnpDekMwQ0xGazdidE1PZTVtZmRBdE9mQ2VQLW50VkZrX1RkV3dKUGZCWHJucTFzUEVLQTlRRXZkTEY5TGNBckJqTGRFdWpjUjNPQ2xtMHFMcXFJZ3ZNNXpocmVlalZ5bmZjb3N1NVZkY3J6VXlB?oc=5"
+        },
+        {
+          "title": "Saudi Red Sea ports brace for seasonal import surge",
+          "url": "https://www.hellenicshippingnews.com/saudi-red-sea-ports-brace-for-seasonal-import-surge/"
+        },
+        {
+          "title": "Houthis claim strike on Saudi Arabia's biggest oil refinery",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHZuVWdqTmgzR2l4X2RwaG5CNW5yQkR5SjBtVF84RER0VHRFVlNnR2lYQlhQRVJSRUV2OFpibl9ENng4YXNpOThfTnN0Wm9BUkhGb2dDNXZVN1BHc29faVVPbTVQUUY2WnNUM01xbFJLMW51RWZkRDVvcXU1M19pWEFiNk9kWmNKQTMyQ2VXektWUmlONndXUmVualYtVEVxVWpaQ2Y2OWwzeXdkX0NsZmdFQk1wYVI1MEtZ0gHIAUFVX3lxTE4yVHlfSEJTeEZWLVhQS0p1Y1VjSTAtUEcxNXNEMkhJNHZnMmt6THZOZUF6YUJuMVJ4ck92TGcxZ3luUFlGc2YtcmJXaWZES3lmcTdIMldCV3dGRHQxUjhVWW9vNGg2MUtfcmo5QVJINlR4Z0R4RkY3WFItSG00QXlMd0MweDZiTVJ0N1NMTDlYckxQbGlvczBrWG1QTlluQWZOWlR5c1htRXhZRlpsbnVmSkRiQ2JjbjlHZ1ZlN3hvVnRES0kzTjN5?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "India Jewelers Hold Off Gold Buying, Betting Prices Will Drop",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/india-jewelers-hold-off-gold-buying-betting-prices-will-drop"
+        },
+        {
+          "title": "Logitech falls on supply chain woes despite Q2 beat By Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON05QUE9JUGJRU0VrcnRrU1hyNTFiZFJOWFZ4Zk5KTmJKTDF6R0otamFYTGFNZTRDTkE4RThUSVJlWmN0V2k3WG5vQ0VjcDYzS1BYUWVMTHdKRmhYSVl2RUpWRFc2eWxNYV9xYllPcklKaXdvZkVrUE44UUhLWDNIbHZpR2hkRVdHUnk3Nzl6cHphTW9sT3R3SmpyaHlQR3c?oc=5"
+        },
+        {
+          "title": "Amazon And Tata Motors To Deploy 3,000 Electric Trucks Across India",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHVPamdUQm5ZQTZsSlBBLVRqZ2xmZVFsektvN1pwazVEU2lSc29rczFKaVJDck9rNEdtVnEwbWtpSkVKTjZodTJZNGU5NEpMQ2lTVExhTDBQTmt1ZTNDR0g0LVhXOU9YNkxKTFJ2YVVkUnNhVGpqTEg0c1RpNmJBemZwTjBQTVVNaDh4WUQxaWpnenJ1S2Q2RVR3SVpFZnFzQnpR0gGzAUFVX3lxTE9peG5qSVppOTdhbjlidG90T2FrZU5LZGl2Y1NjaWdVZFN6UzZZRkYyMXk5X0psNTh2MW95ZWN5S3ViS1hXbXpyaTYzZ1lScUFDWThTWGZrMzBsN1g2S19PSVlEdWY1TUtua01Sd0NpMXI2SzNWaVdFSm0wRWFsQ0xuUlZGMzIwa1JhNVVucTJfUjVPWEJZZ0M4V3Y2aENFa05nbFpOZjJTRkU5eWVQMGVMYjhr?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "ING \"英 10년물 국채금리, 예산안 발표 후 최대 20bp 하락 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441603"
+        },
+        {
+          "title": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts",
+          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-rotterdam-price-surges-on-norwegian-outages-and-colder-forecasts/"
+        },
+        {
+          "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
+          "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
+        },
+        {
+          "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html"
+        },
+        {
+          "title": "Lawmakers Warn U.S. Ports and Banks Over Trump-Putin Russian Diesel Deal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDViRFZFNjBmSWJDQ2hmVGc5WUE5bEN2eE8zb0hUanBiOU1UMDhZRGlIVGZmaTRJXzdZaVB5aXpaVjVGeDVTeWthTGxrTlMwVWgtZHYybnNNcHdRTHFkN0ViendsZ2FwVFdMZThjZ1lFUHdlX0tTMHo0SUx6TXg0dDNFY2VyTE01R29wQkFlTC1abklBS0lFSw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        },
+        {
+          "title": "Hiring of Foreign Drivers in Japan Spreading in Logistics Industry, Aim to Cope with Worker Shortage",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcmxXR1RfWHZHNE1fMUZSa0VfeGhKZU01N3FFQnp6OUdkbjcwMVYyMkVNUjVxeWtxX3c4QktqNHp1ajJKVmctOHI3eDNveE9VcU5KVFljRTJyOEFab1dDWWxGNkdxZzdKQVRDOFRGSzB5dmVIbWc?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "JP모건운용 \"日·유럽, 향후 10~15년 美증시 보완 가능\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441577"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Why The Crisis In Yemen And Red Sea Shipping Threats Change Everything",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVdYbjktYlc4RXNPd1M2bGMxUFdNMFFDQk1hSmxTYXpxbF9RUXJ2Wjk3dFBGWVk1NnJxY0s4QmtXRFUzR3JJZFdSM1hYWkUyTmpaUjFOeGFXZEx5LTQ3MEMtNm5naWljdURqZGY2bHY2M1V0V2l0Sy1kS3RaWkhFOTNLMG0xa0U?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "IPEC 2026: MPA shares lessons in advancing Singapore port towards a multi-fuel future",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQem9JLVd3bG5OejduYm1zQlQzZHR1ZU13TkFEWjJ3YWIwZ0tJaGU3cmdyem0wWUxvQU9QMEJGdDVzVFNFZ3h2dE1HZVNGZFFuQXg5TWNlcGthWFFCU2RKd2l6MnVScDl1TWhOejZ2ZXVmX1gtYnpiRGw5cUJMZnpyeUl4TkdnUXViYk5vRzlSNzRZN2paOVBRbTlQV1FBZW5rZzFoMktfc19TV05IRF9PTU9sbExHNkFOTkxsaA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Oil shipping costs have increased tenfold due to the Middle East conflict.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWFFU1F1UnJKWFJ4bF9BTWVsUENic091Nzdyai1sVzJZRGprVzJkcmg1MzlJd2k4YjloRm94UHRVSUlaM1h2VkFmdkFvUVJDY2xrUTN5QmhkVDF2VExINEZHU3NfU1lpNWptcDJrWFhZcVhUaHZ1cUM3Si1FUGpPams2ZXRmNFBD?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "deugro keeps wind in generator production sites’ sails",
+          "url": "https://aircargoweek.com/deugro-keeps-wind-in-generator-production-sites-sails/"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 16,
+  "generated_at": "2026-10-28T03:31:48Z"
+}
