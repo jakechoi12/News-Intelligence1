@@ -2,103 +2,141 @@
   "countries": [
     {
       "code": "KR",
-      "count": 17,
+      "count": 14,
       "risk_level": "high",
       "articles": [
         {
-          "title": "S&P500 선물, 알파벳 실적 실망에 하락…美 국채금리 혼조",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441911"
+          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
         },
         {
-          "title": "여수광양항만공사, 2026년 재난대응 안전한국 훈련 실시",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323266"
+          "title": "울산 화력발전소 사조위 \"해체공사서 과도하게 기둥 절단돼 붕괴\"(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442181"
         },
         {
-          "title": "권민수 한은 부총재 \"연준 예상대로 동결에도 경계감 갖고 시장 점검\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441873"
+          "title": "글로벌 오션 레짐 콘퍼런스 성료",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333720"
         }
       ]
     },
     {
       "code": "US",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[글로벌차트] '메타發 충격' 사라졌네…더 중요해진 하이일드 스프레드",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441913"
-        },
-        {
-          "title": "S&P500 선물, 알파벳 실적 실망에 하락…美 국채금리 혼조",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441911"
-        },
-        {
-          "title": "부실위기 금융사, 단 3~4일만에 정리한다…주총·입찰도 생략",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441903"
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Under-pressure UK transport and logistics firms “dodge Budget bullet”",
-          "url": "https://theloadstar.com/under-pressure-uk-transport-and-logistics-firms-dodge-budget-bullet/"
-        },
-        {
-          "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-          "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html"
-        }
-      ]
-    },
-    {
-      "code": "IR",
       "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "RBC Flags Risks of Renewed US Strikes on Iran Despite Diplomacy",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/rbc-flags-risks-of-renewed-us-strikes-on-iran-despite-diplomacy"
+          "title": "샌프란 연은 \"인플레 충격 5개월 연속 마이너스…인플레 둔화 조짐\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442180"
         },
         {
-          "title": "Oil Declines as Traders Parse Signs of Fresh Diplomacy on Iran",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/oil-declines-as-traders-parse-signs-of-fresh-diplomacy-on-iran"
+          "title": "[외환] AI 투심 악화 속 1,330원 후반대",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442175"
         },
         {
-          "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss"
+          "title": "국채선물 강세 출발…글로벌 위험회피 연동",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442172"
         }
       ]
     },
     {
       "code": "CN",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Chinese Junk Dollar Bonds Head for Worst Week in a Year on Huafa",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa"
+        },
+        {
+          "title": "US-Owned Startup Plans $600 Million Malaysia Rare-Earth Refinery",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-owned-startup-plans-600-million-malaysia-rare-earth-refinery"
+        },
+        {
+          "title": "Zhuhai Huafa Put on Negative Watch by Fitch on Refinancing Risk",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-30/anz-raises-oil-price-forecast-as-market-tightens-on-iran-war"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Oct. 30",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30"
+        },
+        {
+          "title": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOGFEMDRVZzRfR2VZYldUeFJTT2tYZGt2Wm5wVUk2SVNKdU5MUGFNalNWdnlXS1F0Smx5TG81WXpwUTFGbWpsbW1vR0VwUHFyQWVITFY2djFKNVpyVHkycVlSS3JpT09WSk9aaUdnWkVUbW0zUHk2UHNia1VNOS1DTzdaeU92a1JZajdNdDRrdU9weGdTU2ZiQzVZc0dXYkg2d0hrOFZCNlkzWVZRbENmUEJfZm1JVnVMYzBpVDhUcnVUTVpFczF3TDZWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
       "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Early lunar new year means shippers need to plan ahead, says Seko",
-          "url": "https://theloadstar.com/early-lunar-new-year-means-shippers-need-to-plan-ahead-says-seko/"
+          "title": "태평양항로 ‘하락’ 유럽항로는 ‘견조’",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61126"
         },
         {
-          "title": "China voices concern over EU trade restrictions",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81dnd2andrNjcyMVBPRU1sYkNhOUItN0tjSXZfcEY4SkFQa0UyREIwLTlKRk5zNU53LTJUQzZoaGdYWlMtMnFtU3U5b2h5UGNVbnVwSk5mT2s?oc=5"
+          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
         },
         {
-          "title": "Rémy Cointreau Shares Fall 5% Despite Q2 Sales Beat on Chinese Cognac Demand",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FeVJBQWpaQ2k2ZlB3bDVqV1NTU0Y1MkwzM0NVTTZybmhQUC1BUW9HS0JpaEhrLXRBdkJnWFlUY29XWTlqRFFwMnB4eWdCcE94Z0Q3U0pNMDVhS3k5YmJ0YVRPMHZiY0hoRFN2U1Zfam93czBVUEE?oc=5"
+          "title": "UKMTO Says Ship Burning In Strait Of Hormuz; IRGC Cites Mine Strikes On Three Tankers: 7 outlets compared",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2xZSEpjR1JSWjNhbjZmUVJrRV81elBKRXZjTUNRNmozZThvM0k3a3ZvMXlSU1FKNzhQMGRkVlI1ZEpsRlU5QmpJbi1tZlRzcWdUb2hwUUM3LW9lWl9UZnJsRmp2OFdnajlUcVR6RlRJVHBYY1pYZDRNRDZEY1RnWVRKNmY1VTJET3FJTnFMY2MydVdNNGZqYks1QjI5R25vbVpqeFpBY0NxOXJaa1dJTkNwT0d0b0kzRWJBSkFsYWROdWxsZEFQSmtEbldxYkhNbHIxNVdkQ283c2lDenlNWWdwVGEtMEN1dnc?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
+        },
+        {
+          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
+        },
+        {
+          "title": "Corn Market Analysis: Ukraine Harvest Delays, Logistics Squeeze and Price Outlook — CMB News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGk3ZmZQOElQMVBBYk9ubkJaQ2tQVTlLUXdYWGxxam1WQTViSndUYkFSN1dKZnRCakdxZUR0REFqeFVhSmRsbjVfdGdGYWM2clNYRWYwbG9tY3NwMzRfZnhkUDVFSG9tVHRJZzBFd0E0MkpKbkhOLV94OS05YzM4WEdneEx3WW15cVpSYkdIMXU?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
+        },
+        {
+          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
+        },
+        {
+          "title": "Chinese oil refiners turn to African and Brazilian oil as falling freight rates open new buying opportunities beyond Russia",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWloSUtBZTQxRHQ0eURuV3VHdnJjUHdzMDJZQ1Zsd3lhRThSX25OM2lGTTdOazNEM3NtbV9lZnZiUFY5MXZxZXlhVEU3d2VnLUx1NEQxZUdFWG5oZmRRWHRQTGFhOHpieEpHTVc0Z002ZXJVeHpLMm84RVhPbHRRVlBqUWhoeU5ER05IbE85N1llbmEyalloTG94dHhEbU11TE5ka1FlMU9sQXZub0pNWWh0NlE5N0pjOGl2LUYycXhDNmlGTUxyQVlJbXEtRTVVWFUxRE1rd3o?oc=5"
         }
       ]
     },
     {
       "code": "SA",
-      "count": 7,
-      "risk_level": "high",
+      "count": 4,
+      "risk_level": "medium",
       "articles": [
         {
           "title": "Houthis Claim Missile Strike On Saudi Arabia’s Major Oil Export Hub",
@@ -109,61 +147,57 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWM1aUNQQVJfTHhOZkhSSGNXTEtETEQ1WUpiSExUUkpSRnE1a0tsZFdxOS1WbDVreDJHZDZhMGM2UVpOTGlPQVp1aGowcFRiQTU4c1lJLW5sZ25EV0lQTUVrQnVFdTFCMHpCS1U1ZnpJSVhoaE1VVV9QM1VFX0FHRmhzb0FDOTRfVzdxQ2dRbW95SUlhS2V2TlVOU0YxX2JITVo2c3ZPWWNtU2VtRGxjcw?oc=5"
         },
         {
-          "title": "Saudi Red Sea ports brace for seasonal import surge",
-          "url": "https://www.hellenicshippingnews.com/saudi-red-sea-ports-brace-for-seasonal-import-surge/"
+          "title": "EU condemns Houthi attacks on Saudi Arabia, Red Sea shipping",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNONm16aGdVck1fSllCOTVmbGFCS08taExZSGo3d1VuOTBWMWdnQUlSekN6QzBDTEZrN2J0TU9lNW1mZEF0T2ZDZVAtbnRWRmtfVGRXd0pQZkJYcm5xMXNQRUtBOVFFdmRMRjlMY0FyQmpMZEV1amNSM09DbG0wcUxxcUlndk01emhyZWVqVnluZmNvc3U1VmRjcnpVeUHSAZ8BQVVfeXFMT3ZjTjZtemhnVXJNX0pZQjk1ZmxhQktPLWhMWUhqN3dVbjkwVjFnZ0FJUnpDekMwQ0xGazdidE1PZTVtZmRBdE9mQ2VQLW50VkZrX1RkV3dKUGZCWHJucTFzUEVLQTlRRXZkTEY5TGNBckJqTGRFdWpjUjNPQ2xtMHFMcXFJZ3ZNNXpocmVlalZ5bmZjb3N1NVZkY3J6VXlB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "MUFG \"총재 조기 사임, ECB 국채 개입 놓고 곤란해져\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442167"
+        },
+        {
+          "title": "\"ECB 정책 변화 없다\"…라가르드 조기 사임은 '르펜 방어용' 분석",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442146"
+        },
+        {
+          "title": "The cold chain just got weaponised – logistics is exposed",
+          "url": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Dutch air cargo body remains critical of Schiphol slot decree",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjJSakhmZ3VmSVdZT1Jibzg4V2NIRnZCcEVPR29RQ2k5cGdzUWlDTnpfVG02X0dRYkRwZ285a3FFNWpoTjZZNlpSMVZwVUpKQkN5YzlVd0RlcU9wRGZLOWZ2SnZLVExZamhRVHRlc2VLTENWWDkwLTJQaHNJZU1XZm0tMWRpMmdKMDJKQVhCMlhpaE5IcTlwejVsRTdlbGlER21VeEZ2eFpwSE5tM2lBeWNLZw?oc=5"
+        },
+        {
+          "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
+          "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 5,
-      "risk_level": "high",
+      "count": 2,
+      "risk_level": "medium",
       "articles": [
         {
           "title": "India to Resume Negotiations with MSC Regarding Loss of MSC Elsa 3",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlhjeFE0MUh5LUdPdHhRTmVuX25FUnQ0cFMwQjY2Ymc0bGt6MmtORkM5VnhQYlFQRktmcTVBTFozeFpfSVYyc3ZZeTRNTkI0ejRuRklJaVNKVVVEQVU4QTV2a0MweC1ZTmRTbXBEc3lBR3p1d1lxc3BJUmY4OVBuUHY4MlRVVWp4X2I1b05HSUpMeXpXeGQ5ZXJmSkk3NkdzcTNYTTE0M0k?oc=5"
         },
         {
-          "title": "Ambani Magic Captivates India Once More With Blockbuster Deal",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-28/ambani-magic-captivates-india-once-more-with-blockbuster-deal"
-        },
-        {
-          "title": "Cyclone Arnab brings more disruption along India’s eastern coast",
-          "url": "https://theloadstar.com/cyclone-arnab-brings-more-disruption-along-indias-eastern-coast/"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "UK brings forward defense spending target, pledging billions to Ukraine",
-          "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html"
-        },
-        {
-          "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-          "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html"
-        },
-        {
-          "title": "Corn Market Analysis: Ukraine Harvest Delays, Logistics Squeeze and Price Outlook — CMB News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGk3ZmZQOElQMVBBYk9ubkJaQ2tQVTlLUXdYWGxxam1WQTViSndUYkFSN1dKZnRCakdxZUR0REFqeFVhSmRsbjVfdGdGYWM2clNYRWYwbG9tY3NwMzRfZnhkUDVFSG9tVHRJZzBFd0E0MkpKbkhOLV94OS05YzM4WEdneEx3WW15cVpSYkdIMXU?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "\"심판을 왜 밀쳐?\" 이성 잃은 황희찬, 구단 징계 철퇴 맞나... '골 침묵 속' 獨 \"해선 안 될 짓\" 비난, 샬케 감독도 '한숨'",
-          "url": "https://www.mt.co.kr/sports/2026/10/29/2026102912030733472"
-        },
-        {
-          "title": "deugro keeps wind in generator production sites’ sails",
-          "url": "https://aircargoweek.com/deugro-keeps-wind-in-generator-production-sites-sails/"
+          "title": "India’s Green Bunkering Ambition Runs into a Price Problem",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ29CcDlKVXV4SW9Cakppb1NUMjA2RlJUQklyZlF4MHI4S1Zhcm40VUxTRHBIU1JfbUdWaFgxZ1hTVVhPNlpSTzFWSWlQSHZVZmFOLUFaSThibVp1eXlYZ1BaNXU3LXV0Yy1JVWtZZGhUNm5ncTFKdWxpR0V0OVRxOWJFcFNmVGRBQ3hheWRBa1UtOVZR?oc=5"
         }
       ]
     },
@@ -177,60 +211,23 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXBDNzR2c1JobGJnQ3ItblFFRGxpc2VEQVpJQmpxQVVFa1Q4SVd2cXMtYUhScTU2TmxCRlhBTWF4TXBWcU1sbFctUU5JUFJBZUZOb3MzWks4OXZ5UWYtb3ZpMG85ZXB2SEhIQmpDZE1KbzhtWUhDMEV1YU9KV3ZueEJGUGNOZGpxVDY3NnBReHJ3cEZyUXpEdUVJRjhzZVkzdUFiWVJIZWhHa01sRU1sMGlFU2pkV1lpZTVNdng3OGdFNUs2bUh3eHpkazVwb1ZRQmU4?oc=5"
         },
         {
-          "title": "KDDI Plans 1,000 AI Robots to Tackle Labor Shortages by 2030",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41VEVlakNFbHl0MS1URkVMM1BzcHpZY0hxVXVNOTdoWU0tREdwa2lqVFkyNjZ2WkZRbXN6TnpuaGU1aEdQS1VCT1ZIOEl4MGNoT2VPbQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "NL",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts",
-          "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-rotterdam-price-surges-on-norwegian-outages-and-colder-forecasts/"
-        },
-        {
-          "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
-          "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/"
-        }
-      ]
-    },
-    {
-      "code": "RU",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Ukraine Strikes Russian Logistics Convoy as Escort Teams Scatter",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVvRkM2ZmNnQVVXb211dEtaa0hrVjRkRGlNYUUxcTkxM3lFYXE3VjBlVGh2bmd2NC04YUVSZ0RWSXNLbThpUnNRX2RLOE9ON05MSzd5M0tEbUVkc05rejR2dFkzVUQ5VnNPYTVvRFo2dXZCVVE1WXJsTndGSlB2TUYzWXhXU2xoenZVU0Jsamxmb2VkLUFPNjJmUGxPS0htSGNuNHNhLThwMjh0Q3FhSA?oc=5"
-        },
-        {
-          "title": "Lawmakers Warn U.S. Ports and Banks Over Trump-Putin Russian Diesel Deal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDViRFZFNjBmSWJDQ2hmVGc5WUE5bEN2eE8zb0hUanBiOU1UMDhZRGlIVGZmaTRJXzdZaVB5aXpaVjVGeDVTeWthTGxrTlMwVWgtZHYybnNNcHdRTHFkN0ViendsZ2FwVFdMZThjZ1lFUHdlX0tTMHo0SUx6TXg0dDNFY2VyTE01R29wQkFlTC1abklBS0lFSw?oc=5"
+          "title": "Customs clearance for peppers exported to Japan cut from 7 days to 1-2 days as pesticide barriers fall",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZVW1RUzE3NnMyd3Awd01ZcHZrUHZSZU9BbGVFbHpEem9CVkVlTjBIWHB3cGh5MFJfOGdVSDg1aEdpRzVfWlg1ZG5udUZia0JhaG1DYUNDWQ?oc=5"
         }
       ]
     },
     {
       "code": "YE",
-      "count": 1,
-      "risk_level": "low",
+      "count": 2,
+      "risk_level": "medium",
       "articles": [
         {
           "title": "Yemen's Houthi Rebels Strike Saudi Aramco's Ras Tanura Oil Terminal",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmpDWVpiNkFTZTQtX1UtazNma3FzYWNhVG9NeTBoQVhTOGtaN2xYdWgxaGJSaWxhUHFxWDlHOUQ3M0p3bEpuV3h4OFdjX29YQlJYYWJkR2pCOWJ4VUM4aExNVmpTUnI4dWVfYnhhRGZGTTZleENOY2VrQ2F4RFFwUS1Va21mZ1JOLTMxYW5lbXJaX0pMS0g3b3NoWG9TVWc5Vk8xOEFZcXVYQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
+        },
         {
-          "title": "French Port Strikes Planned for 30 October: Major Freight Disruption Expected",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2NCSEJmZFpqWHBpX196TVZ0V3lPeTlBdHVnamlObVVsam9jZU1BQ0oxZFp6cVpmQUYwVVpzZmdlck93MmZ5NFA0U29tUkoteTVDR2dMTVNYekdnb0J5NjNYYWh3eHNVWk9zMzhNUmRnbHJGS3FUM2lYUHNnVHVJa05FOVhaTDJtRmdxd2J1OHFHS3FoeUVtS0FFQUd2cEJ3QzFmOWlFNW9CdEkzcmFn?oc=5"
+          "title": "Why The Crisis In Yemen And Red Sea Shipping Threats Change Everything",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVdYbjktYlc4RXNPd1M2bGMxUFdNMFFDQk1hSmxTYXpxbF9RUXJ2Wjk3dFBGWVk1NnJxY0s4QmtXRFUzR3JJZFdSM1hYWkUyTmpaUjFOeGFXZEx5LTQ3MEMtNm5naWljdURqZGY2bHY2M1V0V2l0Sy1kS3RaWkhFOTNLMG0xa0U?oc=5"
         }
       ]
     },
@@ -244,19 +241,8 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQem9JLVd3bG5OejduYm1zQlQzZHR1ZU13TkFEWjJ3YWIwZ0tJaGU3cmdyem0wWUxvQU9QMEJGdDVzVFNFZ3h2dE1HZVNGZFFuQXg5TWNlcGthWFFCU2RKd2l6MnVScDl1TWhOejZ2ZXVmX1gtYnpiRGw5cUJMZnpyeUl4TkdnUXViYk5vRzlSNzRZN2paOVBRbTlQV1FBZW5rZzFoMktfc19TV05IRF9PTU9sbExHNkFOTkxsaA?oc=5"
         }
       ]
-    },
-    {
-      "code": "VN",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Oil shipping costs have increased tenfold due to the Middle East conflict.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWFFU1F1UnJKWFJ4bF9BTWVsUENic091Nzdyai1sVzJZRGprVzJkcmg1MzlJd2k4YjloRm94UHRVSUlaM1h2VkFmdkFvUVJDY2xrUTN5QmhkVDF2VExINEZHU3NfU1lpNWptcDJrWFhZcVhUaHZ1cUM3Si1FUGpPams2ZXRmNFBD?oc=5"
-        }
-      ]
     }
   ],
-  "total_crisis_countries": 16,
-  "generated_at": "2026-10-29T03:55:02Z"
+  "total_crisis_countries": 14,
+  "generated_at": "2026-10-30T03:59:00Z"
 }
