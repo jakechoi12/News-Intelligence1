@@ -1,135 +1,135 @@
 {
   "countries": [
     {
-      "code": "KR",
-      "count": 14,
+      "code": "IR",
+      "count": 11,
       "risk_level": "high",
       "articles": [
         {
-          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
+          "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+          "url": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
         },
         {
-          "title": "울산 화력발전소 사조위 \"해체공사서 과도하게 기둥 절단돼 붕괴\"(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442181"
+          "title": "Gulf States Fear Iran Retaliation If US Strikes Again",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-02/gulf-states-fear-iran-retaliation-if-us-strikes-again-video"
         },
         {
-          "title": "글로벌 오션 레짐 콘퍼런스 성료",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333720"
+          "title": "Brandywine Says Philippines Bond to Surge Once Inflation Eases",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-01/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine"
         }
       ]
     },
     {
       "code": "US",
-      "count": 11,
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "샌프란 연은 \"인플레 충격 5개월 연속 마이너스…인플레 둔화 조짐\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442180"
+          "title": "日 닛케이, 美 기술주 급락에 하락…낙폭은 제한적",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442513"
         },
         {
-          "title": "[외환] AI 투심 악화 속 1,330원 후반대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442175"
+          "title": "AI 우려에 피어나는 美 증시 약세론…\"단기자금 주식서 빼라\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442512"
         },
         {
-          "title": "국채선물 강세 출발…글로벌 위험회피 연동",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442172"
+          "title": "국채선물 약세 출발…전주 강세 곱씹으며 숨고르기",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442499"
         }
       ]
     },
     {
-      "code": "CN",
-      "count": 11,
+      "code": "KR",
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Chinese Junk Dollar Bonds Head for Worst Week in a Year on Huafa",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/chinese-junk-dollar-bonds-head-for-worst-week-in-a-year-on-huafa"
+          "title": "“미신고 위험물 차단, 물류 공급망 전체의 공동과제”",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58031"
         },
         {
-          "title": "US-Owned Startup Plans $600 Million Malaysia Rare-Earth Refinery",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/us-owned-startup-plans-600-million-malaysia-rare-earth-refinery"
+          "title": "2026 한국해사주간 – 제5회 중소선박 안전기술포럼",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58030"
         },
         {
-          "title": "Zhuhai Huafa Put on Negative Watch by Fitch on Refinancing Risk",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/zhuhai-huafa-put-on-negative-watch-by-fitch-on-refinancing-risk"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 9,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "ANZ Raises Oil Price Forecast as Market Tightens on Iran War",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-30/anz-raises-oil-price-forecast-as-market-tightens-on-iran-war"
-        },
-        {
-          "title": "Latest Oil Market News and Analysis for Oct. 30",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-29/latest-oil-market-news-and-analysis-for-oct-30"
-        },
-        {
-          "title": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOGFEMDRVZzRfR2VZYldUeFJTT2tYZGt2Wm5wVUk2SVNKdU5MUGFNalNWdnlXS1F0Smx5TG81WXpwUTFGbWpsbW1vR0VwUHFyQWVITFY2djFKNVpyVHkycVlSS3JpT09WSk9aaUdnWkVUbW0zUHk2UHNia1VNOS1DTzdaeU92a1JZajdNdDRrdU9weGdTU2ZiQzVZc0dXYkg2d0hrOFZCNlkzWVZRbENmUEJfZm1JVnVMYzBpVDhUcnVUTVpFczF3TDZWdw?oc=5"
+          "title": "KOMSA, ‘GHG SMART 프로그램’ 성료",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58029"
         }
       ]
     },
     {
       "code": "GB",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Few UK firms quantify their disruption risk, Aon finds",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOU80RFliWFJIcDNwM1VQUTdxUHRhZFZ2S0JXOThhc3FnR0M1TFN5RXVqdWpuZy1ZNnpqcklYdjlWQ091bmd4VURVTV9VcklEd0NUR2JrR1pxcUVqNmJUc3BBNjR1SlFqVFp5SFV3S2JWVlU1YnZYeGp5TUJiTVpWWnBpZFpQNDJyQnhkXzJJMmpLSXFlNk4xLThyWjRCczJUN3Y0dHROaHBhSUtMZkRFTzFEbWFmZTFuM2Y5SHhic3F0Zw?oc=5"
+        },
+        {
+          "title": "VLCC Market Is Bottoming Out",
+          "url": "https://www.hellenicshippingnews.com/vlcc-market-is-bottoming-out/"
+        },
+        {
+          "title": "LNG Carrier Prices Fall to $245 Million, Threatening Korean Shipbuilders’ Margins",
+          "url": "https://www.hellenicshippingnews.com/lng-carrier-prices-fall-to-245-million-threatening-korean-shipbuilders-margins/"
+        }
+      ]
+    },
+    {
+      "code": "IN",
       "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "태평양항로 ‘하락’ 유럽항로는 ‘견조’",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61126"
+          "title": "Global AI Selloff, Small-Cap Pain Push Investors Toward India Large Caps",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-02/global-ai-selloff-small-cap-pain-push-investors-toward-india-large-caps"
         },
         {
-          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
+          "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5"
         },
         {
-          "title": "UKMTO Says Ship Burning In Strait Of Hormuz; IRGC Cites Mine Strikes On Three Tankers: 7 outlets compared",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2xZSEpjR1JSWjNhbjZmUVJrRV81elBKRXZjTUNRNmozZThvM0k3a3ZvMXlSU1FKNzhQMGRkVlI1ZEpsRlU5QmpJbi1tZlRzcWdUb2hwUUM3LW9lWl9UZnJsRmp2OFdnajlUcVR6RlRJVHBYY1pYZDRNRDZEY1RnWVRKNmY1VTJET3FJTnFMY2MydVdNNGZqYks1QjI5R25vbVpqeFpBY0NxOXJaa1dJTkNwT0d0b0kzRWJBSkFsYWROdWxsZEFQSmtEbldxYkhNbHIxNVdkQ283c2lDenlNWWdwVGEtMEN1dnc?oc=5"
+          "title": "Indian refiners favor delivered crude in procurement shift as shipping costs mount",
+          "url": "https://www.hellenicshippingnews.com/indian-refiners-favor-delivered-crude-in-procurement-shift-as-shipping-costs-mount-2/"
         }
       ]
     },
     {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
+      "code": "CN",
+      "count": 5,
+      "risk_level": "high",
       "articles": [
         {
-          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
+          "title": "China’s 5,000-Ton Digging Machines Are a Trade War Risk to India",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTd2YzlxNEVRbFZDZU95azllUlVZQ1pSZmpEODdKSl9DS2I3bWhsbWtjcjE5WjRlVG03VnBDY3lyN3hESVluM2RRaXdaX216Q2dzcEVpR0o3UWVZVlFIUFQxRE5qRTdaeHZ3Z0xydEkwX0FBdXRCZFJMaXVwdEdUaERNOXQ5VWNReXJSbGdHQkh6WEU3ZWNCOHl6bHJaV2kzN0c1SEs2Y1IwdEFyaFd6cWpEeVlYdw?oc=5"
         },
         {
-          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
+          "title": "LNG Carrier Prices Fall to $245 Million, Threatening Korean Shipbuilders’ Margins",
+          "url": "https://www.hellenicshippingnews.com/lng-carrier-prices-fall-to-245-million-threatening-korean-shipbuilders-margins/"
         },
         {
-          "title": "Corn Market Analysis: Ukraine Harvest Delays, Logistics Squeeze and Price Outlook — CMB News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGk3ZmZQOElQMVBBYk9ubkJaQ2tQVTlLUXdYWGxxam1WQTViSndUYkFSN1dKZnRCakdxZUR0REFqeFVhSmRsbjVfdGdGYWM2clNYRWYwbG9tY3NwMzRfZnhkUDVFSG9tVHRJZzBFd0E0MkpKbkhOLV94OS05YzM4WEdneEx3WW15cVpSYkdIMXU?oc=5"
+          "title": "MOL Holds Joint Naming Ceremony for World’s 1st 3 Ammonia-Fueled Capesize Bulk Carriers- New Beginning for Vessels Powered by Next-Generation Fuels as Group Moves toward Net-zero Emissions by 2050",
+          "url": "https://www.hellenicshippingnews.com/mol-holds-joint-naming-ceremony-for-worlds-1st-3-ammonia-fueled-capesize-bulk-carriers-new-beginning-for-vessels-powered-by-next-generation-fuels-as-group-moves-toward-net-zero-emissions-by-2050/"
         }
       ]
     },
     {
-      "code": "RU",
+      "code": "JP",
       "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "위성락, 북한군 포로 송환 갈등에 \"국제사회 지원 분리 대응\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442195"
+          "title": "日 닛케이, 美 기술주 급락에 하락…낙폭은 제한적",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442513"
         },
         {
-          "title": "Ukraine strikes Russian 'drone port' in Bryansk Oblast, damaging storage facilities, military says",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbG5FNHk2blBGWkRxNU9ud1gtcDd6M0ktYWlsVldpckRjMTJVN1hOSXB0X0YzTXFQQXhqVHFfM2dRZXFUMkhRa1hwRVE2Z3prMVFwb3huY3E1ck0yNGdRTVY4TGNzX291N19fbWxSWHd4SFlINWRHM21VNHVMQktXUU1feGhicFo1UDBmXzBMd1dZZHcxWi1VdmI3ckpBLUZkSDdhQkNBQU44TzVPekhIUTd3NTdSTXBMU3N3N2E0UG4?oc=5"
+          "title": "Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/japanese-stocks-fall-on-tech-selloff-kioxia-s-profit-outlook"
         },
         {
-          "title": "Chinese oil refiners turn to African and Brazilian oil as falling freight rates open new buying opportunities beyond Russia",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWloSUtBZTQxRHQ0eURuV3VHdnJjUHdzMDJZQ1Zsd3lhRThSX25OM2lGTTdOazNEM3NtbV9lZnZiUFY5MXZxZXlhVEU3d2VnLUx1NEQxZUdFWG5oZmRRWHRQTGFhOHpieEpHTVc0Z002ZXJVeHpLMm84RVhPbHRRVlBqUWhoeU5ER05IbE85N1llbmEyalloTG94dHhEbU11TE5ka1FlMU9sQXZub0pNWWh0NlE5N0pjOGl2LUYycXhDNmlGTUxyQVlJbXEtRTVVWFUxRE1rd3o?oc=5"
+          "title": "VLCC Market Is Bottoming Out",
+          "url": "https://www.hellenicshippingnews.com/vlcc-market-is-bottoming-out/"
         }
       ]
     },
@@ -139,16 +139,35 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Houthis Claim Missile Strike On Saudi Arabia’s Major Oil Export Hub",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFNrT2MzWm5vNDhldUlBWXdIMS1zZ3liYkVBSGkzLVhUMkRRUXNvZFdZdk9RdjFZX3piLWp4bTVFZU1KbktVMTh3blNid3h4RzdPNy12OWhLc2pqUlRHMjdYUEpCWkp0S0VMS1BKOFhrU0IySGhia2pmOURkTHBmbTFESURUMlJMUzRzTlJiaTlsakdiTVY0TFR3SzQ3UQ?oc=5"
+          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
         },
         {
-          "title": "Saudi Oil Exports Near Wartime High as Houthis Mount Attacks",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWM1aUNQQVJfTHhOZkhSSGNXTEtETEQ1WUpiSExUUkpSRnE1a0tsZFdxOS1WbDVreDJHZDZhMGM2UVpOTGlPQVp1aGowcFRiQTU4c1lJLW5sZ25EV0lQTUVrQnVFdTFCMHpCS1U1ZnpJSVhoaE1VVV9QM1VFX0FHRmhzb0FDOTRfVzdxQ2dRbW95SUlhS2V2TlVOU0YxX2JITVo2c3ZPWWNtU2VtRGxjcw?oc=5"
+          "title": "Houthi media says Saudi strikes target Yemen's Hodeidah port",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHlYMk0tTGI2eDBnQ1cxOUZUTnBMdHZZNVdlcjFCb2JRWmFxMW44VDhHMFRuNk91WnRMd2l0UnNzNFM5Tko3SW1CTWRWRmJsMk1HN0MxQmROMzItRjg3a24zdl9XYklXcGhRa2g4X3hoaUVxZ3RNb29McmFmOXVwaUJ4MFJLWEZuWVl5ZmtlNnV0NlRCNUxEU0VRY1drRzhYRXUtVmRLaEtYcG1GQ0NhZkp4ZnFtX0U?oc=5"
         },
         {
-          "title": "EU condemns Houthi attacks on Saudi Arabia, Red Sea shipping",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmNONm16aGdVck1fSllCOTVmbGFCS08taExZSGo3d1VuOTBWMWdnQUlSekN6QzBDTEZrN2J0TU9lNW1mZEF0T2ZDZVAtbnRWRmtfVGRXd0pQZkJYcm5xMXNQRUtBOVFFdmRMRjlMY0FyQmpMZEV1amNSM09DbG0wcUxxcUlndk01emhyZWVqVnluZmNvc3U1VmRjcnpVeUHSAZ8BQVVfeXFMT3ZjTjZtemhnVXJNX0pZQjk1ZmxhQktPLWhMWUhqN3dVbjkwVjFnZ0FJUnpDekMwQ0xGazdidE1PZTVtZmRBdE9mQ2VQLW50VkZrX1RkV3dKUGZCWHJucTFzUEVLQTlRRXZkTEY5TGNBckJqTGRFdWpjUjNPQ2xtMHFMcXFJZ3ZNNXpocmVlalZ5bmZjb3N1NVZkY3J6VXlB?oc=5"
+          "title": "Gulf shipping crisis deepens as Iran reports tanker fires, Houthis hit Saudi oil facilities",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUg1TExyX1oxaFozd0hRM2hSSGRCNXVHZ1BHc0dXNDl2cmFUUEhjb1BvV0t0NnFWdlJZMl9FQy0xZmVCYU00YWY0T2owTUpHazRBbWxRelktVDVTdUFrdDFNV0FCdmVFdUlPUHlCdF9IRjZLdUdkZjFmaV9pQ2NZVDN3RGFwcGp2eFlvWmcwSnR1MHdiNmhCU3VsMTJaUG9JV3hFMGQxdTlVVmViWlgtT09xVS15VWxKR194V3JJOEtkZ0tCV0hZZUI3WDM?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
+        },
+        {
+          "title": "Freight rates for Russian oil stay at record highs amid tanker shortage, Black Sea risks, sources say",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM215UU11bWpQM1B4UlhoZ18wWHJuTVlBUl9JeUY0UVdJbnE1WU56NFJMcDNXVWx3SWNhWmxhaTd0R1ZrdzkzVnpMbV9WMkpuYllCZkVjeE12c25PdGJ5ZjZza05qWUhTYkUwNHgtbUxfTWN5TVpqVkVMVlZmTEFVQWRDR3lqTWdlWkhILTl3Ny1xVElpdzZTam5fS3N2ckNCaXEwaWctUmJHaVlKUE14bnByRlVsWDUxVnhNcHY4Z1RQRnJ2RTFsaHZ6d2xaUEYyQmZSeFR0ZHFBX1dvbklzLXJpWTM4SnFm?oc=5"
+        },
+        {
+          "title": "Tanker shortage keeps Russia-India oil freight rates at record highs",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDlkdE5TSUhYanZISU1pdVNRMUlsN29kdkszalFCSXdMZ3JwdmdxdkplVzFTcGd0dUo1dUdvcUlxVWRnbkFVa1pvLXJIUDlJSHl0aGNsOUZmYjdXWGoxTzhGS1c5MXk1dWxtUDRYVjdyNlowbThOUzg0MUh4aFd1UncweVlzRllyVDV3QXhJeGJNSWJBNUk3Uk1oSVVsM1pqMFpLTk9rMVVfZXU4OEJSbXI4Y3lNQdIBwwFBVV95cUxQZjZYb2lFTXNfdFYzOC1yaVZFVGc0cTJReEh0LURDczBLMENYbHF1Zmh1OEVLS1dBWTVEMVd5NlhCNEF4d0pqNjFjQnhMMmNrRk1BQ3hUUzJNN2ZrNkptUG5TSGNiY3pfeE52X1BRV3FUMDc3UVJDZFJHLUFJUmc0S3VUdXpOMXVFV3JWRGVtcmFEQVhnYUFJbVFibVhHTUFscTh3RUFjajVrSlJoZkk2YVZHSHJHSDNSWnhpcnFpVHVlZDQ?oc=5"
         }
       ]
     },
@@ -158,61 +177,16 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "MUFG \"총재 조기 사임, ECB 국채 개입 놓고 곤란해져\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442167"
+          "title": "22개국‧113개 항만 동시다발 ‘파업’",
+          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61137"
         },
         {
-          "title": "\"ECB 정책 변화 없다\"…라가르드 조기 사임은 '르펜 방어용' 분석",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442146"
+          "title": "Black Sea shipping under growing threats as drones hit container ships",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUdYS3gwRUZJUTBYN3VZUnB6Z3QyREJRV2VaYTI2b0wtYzZGOGozbDRCUGZoX1ozbmpMTVE0Y3FzN1lRZGxMeUo4LUNvN211NC1XUlF4Nk05QTRKRjZlN2xHc01jbHFsV2RtaDN3YTBQN2ZCTHhHQVNfS2labHZlQjdBcTBWTWpnWUtzemhqR1pvUUdjTHg0NXZyQWNGU0U?oc=5"
         },
         {
-          "title": "The cold chain just got weaponised – logistics is exposed",
-          "url": "https://theloadstar.com/the-cold-chain-just-got-weaponised-logistics-is-exposed/"
-        }
-      ]
-    },
-    {
-      "code": "NL",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Dutch air cargo body remains critical of Schiphol slot decree",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjJSakhmZ3VmSVdZT1Jibzg4V2NIRnZCcEVPR29RQ2k5cGdzUWlDTnpfVG02X0dRYkRwZ285a3FFNWpoTjZZNlpSMVZwVUpKQkN5YzlVd0RlcU9wRGZLOWZ2SnZLVExZamhRVHRlc2VLTENWWDkwLTJQaHNJZU1XZm0tMWRpMmdKMDJKQVhCMlhpaE5IcTlwejVsRTdlbGlER21VeEZ2eFpwSE5tM2lBeWNLZw?oc=5"
-        },
-        {
-          "title": "Cargo compliance targeted with Rotate’s expansion into operational products",
-          "url": "https://aircargoweek.com/cargo-compliance-targeted-with-rotates-expansion-into-operational-products/"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "India to Resume Negotiations with MSC Regarding Loss of MSC Elsa 3",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlhjeFE0MUh5LUdPdHhRTmVuX25FUnQ0cFMwQjY2Ymc0bGt6MmtORkM5VnhQYlFQRktmcTVBTFozeFpfSVYyc3ZZeTRNTkI0ejRuRklJaVNKVVVEQVU4QTV2a0MweC1ZTmRTbXBEc3lBR3p1d1lxc3BJUmY4OVBuUHY4MlRVVWp4X2I1b05HSUpMeXpXeGQ5ZXJmSkk3NkdzcTNYTTE0M0k?oc=5"
-        },
-        {
-          "title": "India’s Green Bunkering Ambition Runs into a Price Problem",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ29CcDlKVXV4SW9Cakppb1NUMjA2RlJUQklyZlF4MHI4S1Zhcm40VUxTRHBIU1JfbUdWaFgxZ1hTVVhPNlpSTzFWSWlQSHZVZmFOLUFaSThibVp1eXlYZ1BaNXU3LXV0Yy1JVWtZZGhUNm5ncTFKdWxpR0V0OVRxOWJFcFNmVGRBQ3hheWRBa1UtOVZR?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Japan delays decision on U.S. fresh potato imports pending pest risk assessments",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXBDNzR2c1JobGJnQ3ItblFFRGxpc2VEQVpJQmpxQVVFa1Q4SVd2cXMtYUhScTU2TmxCRlhBTWF4TXBWcU1sbFctUU5JUFJBZUZOb3MzWks4OXZ5UWYtb3ZpMG85ZXB2SEhIQmpDZE1KbzhtWUhDMEV1YU9KV3ZueEJGUGNOZGpxVDY3NnBReHJ3cEZyUXpEdUVJRjhzZVkzdUFiWVJIZWhHa01sRU1sMGlFU2pkV1lpZTVNdng3OGdFNUs2bUh3eHpkazVwb1ZRQmU4?oc=5"
-        },
-        {
-          "title": "Customs clearance for peppers exported to Japan cut from 7 days to 1-2 days as pesticide barriers fall",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZVW1RUzE3NnMyd3Awd01ZcHZrUHZSZU9BbGVFbHpEem9CVkVlTjBIWHB3cGh5MFJfOGdVSDg1aEdpRzVfWlg1ZG5udUZia0JhaG1DYUNDWQ?oc=5"
+          "title": "French dockworkers strike over budget measures and militarisation of ports",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb0NBcHdra1owbF8tdUtvczJyMTFUSkJkUkZZTURTZ1hXUURTVjM3RkdjWnA4LTd6S085b19zQkl4UTBGcndHNGotU1FJcDlXZGkwLUN5dW9CTFFTamNxNklFYS1iRzhGU29tbFFMeTY1Z0laNC1vcEZWOThlZXhqVzhaQkNmNkxia0RYbkVmM1J4RFY3b29SZEtRd3oza0pBQkJaWElxUzFIc1g0eVJERFprM1lWNUxZSEtHdG93?oc=5"
         }
       ]
     },
@@ -222,27 +196,60 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Yemen's Houthi Rebels Strike Saudi Aramco's Ras Tanura Oil Terminal",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmpDWVpiNkFTZTQtX1UtazNma3FzYWNhVG9NeTBoQVhTOGtaN2xYdWgxaGJSaWxhUHFxWDlHOUQ3M0p3bEpuV3h4OFdjX29YQlJYYWJkR2pCOWJ4VUM4aExNVmpTUnI4dWVfYnhhRGZGTTZleENOY2VrQ2F4RFFwUS1Va21mZ1JOLTMxYW5lbXJaX0pMS0g3b3NoWG9TVWc5Vk8xOEFZcXVYQQ?oc=5"
+          "title": "Houthi media says Saudi strikes target Yemen's Hodeidah port",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHlYMk0tTGI2eDBnQ1cxOUZUTnBMdHZZNVdlcjFCb2JRWmFxMW44VDhHMFRuNk91WnRMd2l0UnNzNFM5Tko3SW1CTWRWRmJsMk1HN0MxQmROMzItRjg3a24zdl9XYklXcGhRa2g4X3hoaUVxZ3RNb29McmFmOXVwaUJ4MFJLWEZuWVl5ZmtlNnV0NlRCNUxEU0VRY1drRzhYRXUtVmRLaEtYcG1GQ0NhZkp4ZnFtX0U?oc=5"
         },
         {
-          "title": "Why The Crisis In Yemen And Red Sea Shipping Threats Change Everything",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVdYbjktYlc4RXNPd1M2bGMxUFdNMFFDQk1hSmxTYXpxbF9RUXJ2Wjk3dFBGWVk1NnJxY0s4QmtXRFUzR3JJZFdSM1hYWkUyTmpaUjFOeGFXZEx5LTQ3MEMtNm5naWljdURqZGY2bHY2M1V0V2l0Sy1kS3RaWkhFOTNLMG0xa0U?oc=5"
+          "title": "Conflict in Yemen and the Red Sea | Global Conflict Tracker",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5"
         }
       ]
     },
     {
-      "code": "SG",
+      "code": "AE",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "IPEC 2026: MPA shares lessons in advancing Singapore port towards a multi-fuel future",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQem9JLVd3bG5OejduYm1zQlQzZHR1ZU13TkFEWjJ3YWIwZ0tJaGU3cmdyem0wWUxvQU9QMEJGdDVzVFNFZ3h2dE1HZVNGZFFuQXg5TWNlcGthWFFCU2RKd2l6MnVScDl1TWhOejZ2ZXVmX1gtYnpiRGw5cUJMZnpyeUl4TkdnUXViYk5vRzlSNzRZN2paOVBRbTlQV1FBZW5rZzFoMktfc19TV05IRF9PTU9sbExHNkFOTkxsaA?oc=5"
+          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Biofuel Bunker Snapshot: Lower feedstock costs weigh on Rotterdam’s B30-VLSFO price",
+          "url": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-lower-feedstock-costs-weigh-on-rotterdams-b30-vlsfo-price/"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Representative Nguyen Van Canh offers suggestions to reduce traffic accidents and congestion without spending a lot of money.",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc04yZTlWX3hIUjdpQ25zcHdDeGhlQ0Z5T2w2OEp0N2tibVBNX25FaWdGZEdhUzhTclg3MTg1U1pjNGdlc1JlVzBGMHI5YW5LanZIdkdpdmVuOV9Hay0zRjgtb2ZuQnJIblRucXRyQVVDUXViQ3UyTEZiT3lvcHNnc3dIZFhhYVpvRm4xSHdXY1RlSVVLT2MyMGZLalo2YjlMUHRGV202bEJlMzZHWnFEZnBCYnoyajBG?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 14,
-  "generated_at": "2026-10-30T03:59:00Z"
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-02T03:54:25Z"
 }
