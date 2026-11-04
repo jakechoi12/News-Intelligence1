@@ -1,0 +1,506 @@
+{
+  "keywords": [
+    {
+      "text": "new york",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "singapore (amendment",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "amendment) bill",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "maritime and",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "authority of",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "of singapore",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "of hormuz",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "cma cgm",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "traffic congestion",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "amazon warehouse",
+      "count": 14,
+      "size": 100
+    },
+    {
+      "text": "red sea",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "and statistics",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "peak season",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "to ease",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "dry index",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "growth in",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "strike at",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "warns of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "midterm elections",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "newcastle jets",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "to resume",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "ahead of",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "bill cna",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "cgm and",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "and hapag-lloyd",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "maersk and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in october",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "amazon is",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in strait",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "4% during",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "part of",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "green ammonia",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "is investing",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the loadstar",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "q3 earnings",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to increase",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "future of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ceo says",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "mean for",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "iran war",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "holidays, shipmatrix",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "statistics indexbox",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "nine-month earnings",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "dockworkers’ strike",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "service will resume",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hapag-lloyd resume",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "shenzhen-hong kong",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "trucking industry",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "customs clearance",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "chain management",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "greece's piraeus",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "lower nine-month",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "chain resilience",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "will resume suez",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "during holidays",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "shipmatrix says",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "부산항만공사(bpa, 사장",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baird maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "venezuelan oil",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "north american",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "talks continue",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "hyundai glovis",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "mamdani backs",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "east midlands",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "suez sailings",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "a democratic",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "investing in",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ease traffic",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "panama canal",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "says another",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "approval for",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "coast guard",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "middle east",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ways amazon",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "tariffs and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "posts lower",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "earnings on",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "service via",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "bukit jalil",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "increase 4%",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "maersk says",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "glovis wins",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "spot rates",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "smart city",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "india and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rates and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on weaker",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to expand",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "black sea",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "calls for",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "demand to",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "전년 동기 대비",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the next",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "the test",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "deal to",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to help",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to know",
+      "count": 6,
+      "size": 60
+    }
+  ],
+  "total_keywords": 20597,
+  "generated_at": "2026-11-04T04:25:22Z"
+}

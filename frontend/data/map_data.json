@@ -1,165 +1,203 @@
 {
   "countries": [
     {
-      "code": "IR",
+      "code": "US",
       "count": 17,
       "risk_level": "high",
       "articles": [
         {
-          "title": "미국 중간선거 D-1...호르무즈 핵심 요충지서 이란과 교전",
-          "url": "https://www.mt.co.kr/world/2026/11/03/2026110312422443820"
+          "title": "[중간선거] MUFG \"민주당 양원 장악 시 亞 통화 강세 전망\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442975"
         },
         {
-          "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-          "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
+          "title": "코스피, 3% 급등 뒤 3% 급락…美 민주당 압승 관측에 AI투자 위축 우려",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442974"
         },
         {
-          "title": "US has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, US official says",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWo1OTJJTmN1WW5YOFlfeWR6Wk44RVNlYVpSd3ljdUUwamdEWGtDV0hUc3lSbEsyd2RZaFpRR2lqTW8xSExtTDRLRlhmMG1PeXRXaTVKcGlCamZ5Sl9WZUpCY0czR3BCRDZtZ29KUENPak4zbEJXTjJNV0UwVjNwRUFFTDFHVXd3Nml6Qmt0UUVPTUNORFFHSjVURnFTYzZFbTBXUUczdzExUkZPd0c5N0dvSUZHNllLa1VyN3E3V0QyeFFwSGdIOERMT1drU3ZyMkRuUlMzWTB2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "US",
-      "count": 15,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "BofA \"AI주 매도 지속, 경제에 가장 큰 위험 요소\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442755"
-        },
-        {
-          "title": "MUFG \"美 중간선거, 분열 의회가 시장에 최선…민주당 석권 땐 주식 부담\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442746"
-        },
-        {
-          "title": "\"문제는 중간선거 그다음\"…ING가 꼽은 채권 시장 관전 요소는",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442732"
-        }
-      ]
-    },
-    {
-      "code": "KR",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "KDI \"요양시설 간호사 비중 10%p 높아지면 건보 진료비 7.7% 감소\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442743"
-        },
-        {
-          "title": "인천해수청, 위험물 하역 현장 안전점검",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333761"
-        },
-        {
-          "title": "\"사고 당시 제보 받습니다\" 20대 女 카이스트 러너 유족, 목격자 찾는다 \"사소한 정보라도...\"",
-          "url": "https://www.mt.co.kr/sports/2026/11/03/2026110312552657465"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 9,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "공급 과잉으로 ‘컨’ 운임 폭락 조짐",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61144"
-        },
-        {
-          "title": "India to Consider Equity Gains Tax Concerns, Sitharaman Says",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/india-to-consider-equity-gains-tax-concerns-sitharaman-says"
-        },
-        {
-          "title": "Scarce tonnage creates two-speed ship recycling market, says Wirana",
-          "url": "https://www.hellenicshippingnews.com/scarce-tonnage-creates-two-speed-ship-recycling-market-says-wirana/"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Huafa’s $62 Billion Debt Strain Shakes China’s Credit Market",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/huafa-s-62-billion-debt-strain-shakes-china-s-credit-market"
-        },
-        {
-          "title": "美 중간선거 앞, 아시아 증시 흔들…상하이 0.85%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/11/03/2026110311213753968"
-        },
-        {
-          "title": "China’s Revival of 2024 Stock Rescue Tools Faces Skepticism",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/china-to-boost-use-of-stock-support-tools-to-stabilize-market"
+          "title": "블루웨이브 가능성에 美 금리 급락·외국인 매수…국고 3년 3.7% 하회(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442973"
         }
       ]
     },
     {
       "code": "GB",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
+        },
+        {
+          "title": "CMA CGM introduces additional war risk surcharge for Black Sea container shipments",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlfa09Uck1mSlktaTdxNzNYdk1mNXpjV3IwZGswSHZMaDJBdzZDbVd3TFRFaGh3di1mUFZjMHV3MTFxbFk5WUUxMnYtcXk5T19nVUhCaEh4WkpJLWUxNV9SRXhQdzJzdnFzcmtOczVvNHV3R1JOWXBOVW0zVmRvdjdKU1V6Tzd5STZGOWVLZ1V0eFBRYmd6OUhvMTB2YkZXb0JMYWh6bEZXSTRRaVhLenJleTQ3SEFUUEE?oc=5"
+        },
+        {
+          "title": "EU warns supermarket cyberattacks threaten food supply chain resilience",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2l6M1prZU1nNkJnd1dqZDlpN2F3X1p5MzhPbmkxNmE5Qzdna0s4V0ZfUkdoU0EwckZ1S3VscVFuLVZXMDNScmdEbDlubFphSHRlV2hmZTBiVnN5Zk9Nd2RYSkdFQ0ExYzhfZ1RRdC16MTk0UkZLRndCYVE5TExoeEV4VGhoVTRwVDJSd1ZhZXpmUTdfM0JFVA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "나스닥100 선물, 민주당 의회장악 가능성에 하락…美 국채금리↓(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442962"
+        },
+        {
+          "title": "South Korea’s AI Darlings Become Big Casualty of US Midterm Vote",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/kospi-slumps-as-democrats-us-election-lead-spurs-chip-selloff"
+        },
+        {
+          "title": "‘2026 GHG SMART 프로그램’ 성황리에 막 내려",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323340"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "美 중간선거가 부채 문제에 의미하는 것",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442958"
+        },
+        {
+          "title": "[중간선거] \"채권시장 최대 리스크는 美 의회 부채한도 협상\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442928"
+        },
+        {
+          "title": "Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz",
+          "url": "https://www.hellenicshippingnews.com/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers-near-the-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN3NvSDljSzl2TnVyaGdtSGYxWkg0Znh2amJYVGVfSEk2d2NTcEk1bXdlRndpcHF6aWRKM2dHUWpRQlJKZXhqMkprNTBZaGdsSXNiN25QbGlJZWRSNzVMR3cwS2RqdUkwMmR1V05sckhuWE9TenJxMVVNNllqdUw5YlN0b1h1MXZjdmk2U0s5SExyY3BqN0o0b2h2NjlHdlphVVFKRW5uNURidTd1c1BaOS1nS3I1dmtsYzVxY3RsN0xfbWg5X0o5LWJ4LXZoOHhYcGdiR0c0dWRqSzRVMFl1R1c3azhUWVhSQWgtUUVoWQ?oc=5"
+        },
+        {
+          "title": "Brazil's Farm Debt Crisis Puts Global Suppliers and China Trade Under Pressure",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3VvZHpFWTBROGx4MFVWRHhscjJiOWpURUxWVGlrREVFV2tFR1ZzRzU3TnNQUjNWMzA2dzgxMjl5LXFrdXVTaWZGd0VMVGpOeV9jZDB6VUJ1X2stemM4dVlGOXBQSHN3eVpzalNpQ1pIN0VkbmJ2VFNXT2VjQnd4bXBKUmluZUhzMl8xTXV2VnVRZw?oc=5"
+        },
+        {
+          "title": "Liberia-China Business Women Protest Excessive Port Charges, Shipping Delays",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0lVVGt6bGp0MzFsWnBpN0RwYktXVGRmX2thYUhnenJmd0JTNV9DdmVYRjh5YVd4VzJPZ2NrYXhkREktU2hOUXJ0VDVybjVuckpWRl84QTVSSzIwVnlwbzBVZktBVGluQU9YN2pGX0hJbEhqODg0LVlQNmxNSzEtLTJzYVJ2Qkd1TEp0R3h5VW1NU21vb1ZXV1B6QWdHQ2pV?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
       "count": 7,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Bukit Jalil traffic congestion: micro-study, smart city solutions being explored – Hannah",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMklLQjkwcG5ma3BzRl90N2hMR25qNlNCSWVBdjh4RWZQb3ZmMDVMSW5Dc2F0S2VKV2d0eHViQ2xrX25kR0gwRGFqM0Z5cVdjcGRINzB5Um9GY0I2QXBFbzlNdWVDQll0cHZpMWdZdlFHc3pGS084WHhpTWhCSlREbkh4bkN5UmlxSmF0Z0Jza0E4MzVwYUNFS3ZLbk9tZGxiUlZUbVlPRzVTVVFOaU5iMHNKNXNHZzMtZEU0?oc=5"
+          "title": "블루웨이브 가능성에 美 금리 급락·외국인 매수…국고 3년 3.7% 하회(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442973"
         },
         {
-          "title": "컨테이너 운임지수 3주만에 하락",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333758"
+          "title": "Admin announces traffic mgmt measures to ease traffic congestion",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbm1zS015SHFhN2FoU2lma2w2N0JTcVFkVE1sUGw2TTZUT21RcVpZZGc5WlBzN3puOXJ0Q2dad3FlZlcxdHo3QUNheWRPRXM5SWE5WmNKV3dncjFBYjZfVHhtYnp5OEZOV0xVb2d3S3owdE1KYzctbGhmTTNBVlk1QlZhOE1BM2JzSHpMREd3UmRxMmxRNUp3VGRUU3czOVpKTldJWXBieTVWSlNOMGR6UDF0cmFQNkt3Unl6b1lxeTA1ajE0eFY5dW05cG1wZ1RqV3JHVdIB2gFBVV95cUxQbHhtVVRIRGtqUzFYQmIzVW92MGFKUzNETFEyYi1tZEdUcXYtQ0gtYlBaVGFycDBMeGVuWTRUZmZfWTBtOE9XazV6aDFCMVhxcGxfQWRQN0Q3SFZubUVhSUtyRVpnVmt4Q2plUW1NNnNValV2b3ZOODVxNjA4TXNMcWdHcHdUUWFfZk4yZ2lSdHdGRGRmSC0xOHhnYVFDTGhxNDdKRzl5YU1Kd0hmSnZlZGYzYmhIRkJteWhMVTlsVjBzQ1ZNckVDN0MyLUotWldtUkw3TWRZSEpuUQ?oc=5"
         },
         {
-          "title": "Zelenskyy warns of new massive Russian attack targeting Ukraine’s energy, logistics infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWVuVi05U0pMREpOZU1OTG56UjNPM2k5T0xySGtKcjdxbFlYaXd1cHVNaTJNTmF5MTBVb3JZMjdDUm9OUzhOaDc0NEhOUXJtVG1JejdWMjdZbk9KSVZ0MmVReTduYzZveG11Vl9SeGY0MldERzlacHBUY0FXQXpzUHlBLXdSVE5wTHpqckVQemJzQnFtWG1FSzJ4Z2dlU1RQVlFPVkwxLUJTMFhyZGUyUTVmdkd3NGhtVzV1ODU5MmhGcy1FNzdoNjJBTmI2RGJxMWQ2Rw?oc=5"
+          "title": "Pakistan India Trade Freeze Is Driving a Costly Supply-Chain Crisis",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFhsWEFjakNIbDBYQ2RFeXdMT0JBbDRLS2JHWHRUa2pHcWlITFRUb09BSE45NW5YUWtFMnNYZWx4MEVJVWp3N2xvSzlpLWo4ODYtM0hkSmJ0cGk4NGlaY21DcE1VYmRiQUdOdXVhNjYydEo4dlJ2TWRhRVVDcEpNaG5BRlFIWDNESjJtYzN2R3RaMFVk?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Singapore Stocks Set for Correction as Bank Profit Outlook Sours",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-stocks-set-for-correction-as-bank-profit-outlook-sours"
+        },
+        {
+          "title": "ENGINE: East of Suez Bunker Fuel Availability Outlook",
+          "url": "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-208/"
+        },
+        {
+          "title": "Potential Canada-U.S. trade deal remains risk for North American steel stocks",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVpMY1FmQV9kM3ZCZjdvR2ptTUdpdzdRRW91RnVCaVdCeDVwYTUtNUhFYmJwTFlYY3lTWk5lUWVTQlg5UFp6UUUyVHZCZEJfbExSR09WbktSdmgxd2VGNXJZcFhCV29rRGZ4LWJQMXRSWVZWOHZPUTdOLWJENU9nak9XeXg?oc=5"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 5,
+      "count": 7,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Royal Navy Tracks Russian Intelligence Vessel, Cargo Ships, and Warships",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUZlQ3pIZjd5NEJEaUp5T1VPc1RVUGxVdmdfRko2TUtMcThjT3J4a2FVaGk1emZkbmVYSDJ6THZpWlN1dTdOUGFiVndyZl9vNWN4ckZQM3ZjNkk4U3FPbUJ3MVcxRmNIQUVRRjFNUHYxQUplaUpaS3hQYTliN3R0aExoaVRjUnMtRUt3OU0tS3hFUWJqWHNBSl96eWcxMWhIMHd0cWJRNlBmeWZGdmc?oc=5"
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
         },
         {
           "title": "Governor Warns New Jersey Ports to Turn Away Russian Fuel",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDM0eGpJSVNGdWNsNVVMRURCS0I4ajZIeUJLaExJRVNVaGhqaWhxWnNORzgxRS01bkc3R1VsVVdBM2JMOGVZSXFudFEwT2NOdG5JaFRBV3VVZi1ESTFRZENNNmhRenp5QXl3XzVfN1JHUmJGUnI5M3RXOUxzNkZreU9HY1prNUllLW9EWmdPV1M?oc=5"
         },
         {
-          "title": "Zelenskyy warns of new massive Russian attack targeting Ukraine’s energy, logistics infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWVuVi05U0pMREpOZU1OTG56UjNPM2k5T0xySGtKcjdxbFlYaXd1cHVNaTJNTmF5MTBVb3JZMjdDUm9OUzhOaDc0NEhOUXJtVG1JejdWMjdZbk9KSVZ0MmVReTduYzZveG11Vl9SeGY0MldERzlacHBUY0FXQXpzUHlBLXdSVE5wTHpqckVQemJzQnFtWG1FSzJ4Z2dlU1RQVlFPVkwxLUJTMFhyZGUyUTVmdkd3NGhtVzV1ODU5MmhGcy1FNzdoNjJBTmI2RGJxMWQ2Rw?oc=5"
+          "title": "N.J. governor warns ports against accepting Russian diesel",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GbWpmWnRFQXp3QVhfUGljZGpfdVFHejhzMGdYSWxqdkVqVjJjaFg5MXA0QlFxZDRzUDAySGNCNEVaTmJxTlllczJoNjJMYk9MMHl6SUpPaE44MjNOT291b0xVX1Ezdw?oc=5"
         }
       ]
     },
     {
       "code": "UA",
-      "count": 2,
+      "count": 4,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Zelenskyy warns of new massive Russian attack targeting Ukraine’s energy, logistics infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWVuVi05U0pMREpOZU1OTG56UjNPM2k5T0xySGtKcjdxbFlYaXd1cHVNaTJNTmF5MTBVb3JZMjdDUm9OUzhOaDc0NEhOUXJtVG1JejdWMjdZbk9KSVZ0MmVReTduYzZveG11Vl9SeGY0MldERzlacHBUY0FXQXpzUHlBLXdSVE5wTHpqckVQemJzQnFtWG1FSzJ4Z2dlU1RQVlFPVkwxLUJTMFhyZGUyUTVmdkd3NGhtVzV1ODU5MmhGcy1FNzdoNjJBTmI2RGJxMWQ2Rw?oc=5"
+          "title": "Ukraine airstrike on bus in Russian-occupied Luhansk kills 9",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkZDbTBvUUI5dERhdXdIc1BFR0RmYm1tWXJQSXhwM0FHSFVIaEdndlY5TkV2YVF1eXJQaGxqUWVKSWJJS2pMUVdOZGprdHNtb292UTR4djNfUXhoNHA3YVRnUkk3TVJYeGRUdVNLUnJJa3ZXeVR5RnBHUWdfb0xTdTdRWGxubzhyRk5IREozRDZQQXBVY2tCMNIBmAFBVV95cUxPd2YwRXlGcGRkSVh3am00VXlfblJuOW9rU1ZIZ0VGZU5tMXRBWTJuVzdBcU1OaG84OWdWd0tOT18teVNPSW1reFRDYklNN1ZMZ2dtLUtnNFJVNzZuVXJDZlhyUVBHTVEwV2hveTg3QnlGemdzdXdDM0FrV21pcjYtbXMwQVhidFJiQ1FCQlBBblVPZm1yOUdWNw?oc=5"
         },
         {
-          "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-          "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html"
+          "title": "Ukraine’s steel and grain sectors reel from Russian strikes",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQThhRmM0bHhCMnlxNUl0Q09lRnUwVXFCUGxxWGZWU05ZOEw0MjhmNjJoQUpkbnZGbFhOeFdyQjhZdkgtVFJka2JZb3RqUHR5VE0wUVljM1pUVUNXZ0JBWjBnOVk5NVM1el9kZjEzSjhlT1hWYUFSNkc2dTFZMktLZmVvWUw1RmtFc2c0bUxNdVNxSk93cUQ2Q1VUSUUtY21tWU0tYmhlenYtYmxZM2JnTU5pVjdUTFNieHlJajZ3?oc=5"
+        },
+        {
+          "title": "Zelenskyy warns of new massive Russian attack targeting Ukraine’s energy, logistics infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWVuVi05U0pMREpOZU1OTG56UjNPM2k5T0xySGtKcjdxbFlYaXd1cHVNaTJNTmF5MTBVb3JZMjdDUm9OUzhOaDc0NEhOUXJtVG1JejdWMjdZbk9KSVZ0MmVReTduYzZveG11Vl9SeGY0MldERzlacHBUY0FXQXpzUHlBLXdSVE5wTHpqckVQemJzQnFtWG1FSzJ4Z2dlU1RQVlFPVkwxLUJTMFhyZGUyUTVmdkd3NGhtVzV1ODU5MmhGcy1FNzdoNjJBTmI2RGJxMWQ2Rw?oc=5"
         }
       ]
     },
     {
-      "code": "SG",
+      "code": "JP",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Singapore Autonomous Ship Risks Prompt Warning on AI and Human Control",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0szR0dqQmNEa2lIU3VPOF92UFRSWnJ2VUR5OEFuRXk3Slg4aWRPYThLcHNoSEpIU0ZTZmNrcUk4YW1COUZ3ZW1rVHlPY1JzUDNlUjN4V2hjbDhxc0ZnVXRiaWVqSnF1aVB4SkVMZk1nXzdVUXNIMmxRdzlzWlk5T0NTUS0zdzByZVgzSzBGX3cyMHhDNjhVcFN3dWY?oc=5"
+          "title": "日 증시, 美 중간선거 결과 관망세 속 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442947"
         },
         {
-          "title": "Singapore warns of AI and autonomous ship security risks",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkRRUGxzS2E2TDJubjFTSUpyT3ZKbV9DdnlRbTFCMU9yem9ZZmlmdW14eEVIZzBJRXVnVFpXU2ZIQnBlVEZzNzAtMW5CNExGSUp2aTNkaWV0c1h6dnRsaGwzYkVjTTFVYXltSFRxaU5DbmxpMkFwZjRyVkJRQjcwbzV1TjdpbU9qa3JjOHVZeGxoUTB3aVRSc0xTcTV5Ui1GUXdJ?oc=5"
+          "title": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz",
+          "url": "https://www.hellenicshippingnews.com/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers-near-the-strait-of-hormuz/"
+        },
+        {
+          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
         }
       ]
     },
@@ -179,50 +217,6 @@
       ]
     },
     {
-      "code": "NL",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "\"문제는 중간선거 그다음\"…ING가 꼽은 채권 시장 관전 요소는",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442732"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "美 중간선거 앞, 아시아 증시 흔들…상하이 0.85%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/11/03/2026110311213753968"
-        }
-      ]
-    },
-    {
-      "code": "TW",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "美 중간선거 앞, 아시아 증시 흔들…상하이 0.85%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/11/03/2026110311213753968"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "The Red Sea is one of the world's most important trade routes. A growing Saudi-UAE rivalry and rising threats to shipping are making it an increasingly contested region. #dwgeopolitics",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTVGSXgxTnBEUDJ5RzFvRzhScnVXejFaTlV3MWw4OEpNMEV5aU9laXRtS1doSnY3NGZZc29PTWl1UGZ0VnNwOHlyOTNTUTlWLU1WUDRlUlBQWlE3OVJ5Tm9XUVNOMmw3eGd6UzRzTjQ0eGJrN2lYNm5TOTdnc3FUYUJqTFFyVVdoeU5BdXlkMjdrdmNPTXV3ZGJpd3dXQnc2MXA2aVNFTnBBU3hSTlljNXN0SjNXMDhGeGVjckNwTnI2Nzk4SVZEaHhLUndrXzJHajZOOC1aZjNra3NIdXhaTA?oc=5"
-        }
-      ]
-    },
-    {
       "code": "SA",
       "count": 1,
       "risk_level": "low",
@@ -234,6 +228,6 @@
       ]
     }
   ],
-  "total_crisis_countries": 15,
-  "generated_at": "2026-11-03T04:55:50Z"
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-04T04:25:11Z"
 }

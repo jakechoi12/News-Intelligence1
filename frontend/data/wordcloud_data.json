@@ -1,117 +1,187 @@
 {
   "keywords": [
     {
+      "text": "new york",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "singapore (amendment",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "amendment) bill",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "maritime and",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "authority of",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "of singapore",
+      "count": 18,
+      "size": 100
+    },
+    {
       "text": "strait of",
-      "count": 20,
+      "count": 18,
       "size": 100
     },
     {
       "text": "of hormuz",
-      "count": 20,
-      "size": 100
-    },
-    {
-      "text": "c.h. robinson",
-      "count": 12,
+      "count": 18,
       "size": 100
     },
     {
       "text": "cma cgm",
-      "count": 12,
+      "count": 17,
       "size": 100
     },
     {
-      "text": "customs clearance",
-      "count": 10,
+      "text": "traffic congestion",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 15,
       "size": 100
     },
     {
       "text": "amazon warehouse",
-      "count": 10,
+      "count": 14,
       "size": 100
     },
     {
-      "text": "middle east",
-      "count": 10,
+      "text": "red sea",
+      "count": 13,
       "size": 100
     },
     {
-      "text": "in strait",
-      "count": 10,
+      "text": "and statistics",
+      "count": 12,
       "size": 100
     },
     {
-      "text": "up to",
-      "count": 10,
+      "text": "peak season",
+      "count": 12,
       "size": 100
     },
     {
-      "text": "third quarter",
-      "count": 9,
-      "size": 90
+      "text": "to ease",
+      "count": 12,
+      "size": 100
     },
     {
-      "text": "south korea",
-      "count": 9,
-      "size": 90
+      "text": "dry index",
+      "count": 11,
+      "size": 100
     },
     {
-      "text": "baltic dry",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "new york",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "traffic congestion",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "hyundai glovis",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "amazon opens",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "tv channel",
-      "count": 8,
-      "size": 80
+      "text": "growth in",
+      "count": 10,
+      "size": 100
     },
     {
       "text": "strike at",
-      "count": 8,
-      "size": 80
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "warns of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "midterm elections",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "newcastle jets",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "to resume",
+      "count": 9,
+      "size": 90
     },
     {
       "text": "ahead of",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "bill cna",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "cgm and",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "and hapag-lloyd",
       "count": 8,
       "size": 80
     },
     {
-      "text": "to china",
+      "text": "maersk and",
       "count": 8,
       "size": 80
     },
     {
-      "text": "to know",
+      "text": "in october",
       "count": 8,
       "size": 80
     },
     {
-      "text": "in singapore",
+      "text": "amazon is",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in strait",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "4% during",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "part of",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "green ammonia",
       "count": 7,
       "size": 70
     },
     {
-      "text": "of rotterdam",
+      "text": "is investing",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "the loadstar",
       "count": 7,
       "size": 70
     },
@@ -121,34 +191,49 @@
       "size": 70
     },
     {
-      "text": "los angeles",
+      "text": "to increase",
       "count": 7,
       "size": 70
     },
     {
-      "text": "dry index",
+      "text": "future of",
       "count": 7,
       "size": 70
     },
     {
-      "text": "to help",
+      "text": "ceo says",
       "count": 7,
       "size": 70
     },
     {
-      "text": "need to",
+      "text": "mean for",
       "count": 7,
       "size": 70
     },
     {
-      "text": "how to",
+      "text": "iran war",
       "count": 7,
       "size": 70
     },
     {
-      "text": "of new",
-      "count": 7,
-      "size": 70
+      "text": "holidays, shipmatrix",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "statistics indexbox",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "nine-month earnings",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "dockworkers’ strike",
+      "count": 6,
+      "size": 60
     },
     {
       "text": "service will resume",
@@ -156,7 +241,7 @@
       "size": 60
     },
     {
-      "text": "maritime executive",
+      "text": "hapag-lloyd resume",
       "count": 6,
       "size": 60
     },
@@ -166,7 +251,12 @@
       "size": 60
     },
     {
-      "text": "clearance facility",
+      "text": "trucking industry",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "customs clearance",
       "count": 6,
       "size": 60
     },
@@ -176,22 +266,52 @@
       "size": 60
     },
     {
+      "text": "greece's piraeus",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "lower nine-month",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "chain resilience",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "will resume suez",
       "count": 6,
       "size": 60
     },
     {
-      "text": "iranian targets",
+      "text": "during holidays",
       "count": 6,
       "size": 60
     },
     {
-      "text": "worldwide (chrw",
+      "text": "shipmatrix says",
       "count": 6,
       "size": 60
     },
     {
-      "text": "million tonnes",
+      "text": "부산항만공사(bpa, 사장",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baird maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "venezuelan oil",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "north american",
       "count": 6,
       "size": 60
     },
@@ -201,12 +321,42 @@
       "size": 60
     },
     {
+      "text": "hyundai glovis",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "mamdani backs",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "east midlands",
+      "count": 6,
+      "size": 60
+    },
+    {
       "text": "suez sailings",
       "count": 6,
       "size": 60
     },
     {
-      "text": "october 2026",
+      "text": "a democratic",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "investing in",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "ease traffic",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "panama canal",
       "count": 6,
       "size": 60
     },
@@ -221,17 +371,47 @@
       "size": 60
     },
     {
-      "text": "sources say",
+      "text": "coast guard",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to increase",
+      "text": "middle east",
       "count": 6,
       "size": 60
     },
     {
-      "text": "china after",
+      "text": "ways amazon",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "tariffs and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "posts lower",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "earnings on",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "service via",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "bukit jalil",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "increase 4%",
       "count": 6,
       "size": 60
     },
@@ -246,22 +426,37 @@
       "size": 60
     },
     {
-      "text": "targets in",
+      "text": "spot rates",
       "count": 6,
       "size": 60
     },
     {
-      "text": "suez canal",
+      "text": "smart city",
       "count": 6,
       "size": 60
     },
     {
-      "text": "in october",
+      "text": "india and",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to resume",
+      "text": "rates and",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on weaker",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "to expand",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "black sea",
       "count": 6,
       "size": 60
     },
@@ -271,236 +466,41 @@
       "size": 60
     },
     {
-      "text": "the third",
+      "text": "demand to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "4% during",
+      "text": "전년 동기 대비",
       "count": 6,
       "size": 60
     },
     {
-      "text": "iran war",
+      "text": "the next",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to host",
+      "text": "the test",
       "count": 6,
       "size": 60
     },
     {
-      "text": "to make",
+      "text": "deal to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "red sea",
+      "text": "to help",
       "count": 6,
       "size": 60
     },
     {
-      "text": "a week",
+      "text": "to know",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "as ai",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "ai is",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "national security",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "gaining momentum",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "connor anderson",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "why nearshoring",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "부산항만공사(bpa, 사장",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "reuse services",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "nearshoring is",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ais streaming",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "earnings call",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "arrested in",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "momentum in",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ai shopping",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "york times",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "is gaining",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "network to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "of global",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "and long",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "to turn",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "says it",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "tons of",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "ai and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "redeveloped shenzhen-hong",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "negotiations continue",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "w.africa crude-market",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "applications globally",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "cross-border trucking",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "schedule reliability",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "crude-market remains",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "holidays, shipmatrix",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "50,000+ applications",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "conducted defensive",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "crackdown targeting",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "hapag-lloyd reroute",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "lawmakers reiterate",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "wista international",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "backs international",
-      "count": 4,
-      "size": 40
-    },
-    {
-      "text": "global dockworkers’",
-      "count": 4,
-      "size": 40
     }
   ],
-  "total_keywords": 23943,
-  "generated_at": "2026-11-03T04:56:05Z"
+  "total_keywords": 20597,
+  "generated_at": "2026-11-04T04:25:22Z"
 }
