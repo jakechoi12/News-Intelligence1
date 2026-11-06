@@ -1,0 +1,506 @@
+{
+  "keywords": [
+    {
+      "text": "hong kong",
+      "count": 23,
+      "size": 100
+    },
+    {
+      "text": "third quarter",
+      "count": 22,
+      "size": 100
+    },
+    {
+      "text": "cma cgm",
+      "count": 21,
+      "size": 100
+    },
+    {
+      "text": "black sea",
+      "count": 19,
+      "size": 100
+    },
+    {
+      "text": "los angeles",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "strait of",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "of hormuz",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "red sea",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "the loadstar",
+      "count": 13,
+      "size": 100
+    },
+    {
+      "text": "traffic congestion",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "profit forecast",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "on maritime",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "outlook as",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "baltic dry",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "in 2027",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "midterm elections",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "kong customs",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "the third",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "new york",
+      "count": 11,
+      "size": 100
+    },
+    {
+      "text": "singapore (amendment",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "critical minerals",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "amendment) bill",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "raises outlook",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "울산항만공사(upa, 사장",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "earnings surge",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "c.h. robinson",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "maritime and",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "authority of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "of singapore",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "suez canal",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "again as",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "in hong",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "q3 earnings",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "peak season",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in hormuz",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "part of",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "in its",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "due to",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "strike deadline",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "profit outlook",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "vincent thomas",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "zim integrated",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "thomas bridge",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "delayed again",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "earnings call",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "as earnings",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "in october",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "spot rates",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "25% stake",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "san pedro",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "to friday",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "surge in",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "ai and",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "financial results",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "restrictions on",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "apm terminals",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "could affect",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "of commerce",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "results for",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "forecast to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ai buildout",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "angeles and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "forecast as",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "impact of",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "rates and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "stake in",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "mean for",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "rates to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to build",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "to fall",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "2027 as",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "as red",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "at los",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "한국해양교통안전공단(komsa, 이사장",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "terminals maasvlakte",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "global forwarding",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "quarterly profit",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "raises full-year",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "full-year profit",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "sandler, travis",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rosenberg, p.a",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "baird maritime",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "strike delayed",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "under pressure",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "customs seizes",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "and statistics",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "maasvlakte ii",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "union pacific",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "xeneta summit",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "outlook again",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "green ammonia",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "amazon breaks",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "breaks ground",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "panama canal",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "continues to",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "asx services",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rahul gandhi",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "oil markets",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "on thursday",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "raises 2026",
+      "count": 6,
+      "size": 60
+    }
+  ],
+  "total_keywords": 29985,
+  "generated_at": "2026-11-06T04:40:52Z"
+}

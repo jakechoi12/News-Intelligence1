@@ -1,74 +1,150 @@
 {
   "countries": [
     {
+      "code": "US",
+      "count": 39,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'블루쓰나미' 덮친 코스피, 연기금 소방수 등판에 낙폭 5%대로 축소",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443490"
+        },
+        {
+          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+        },
+        {
+          "title": "코스피 급락發 안전선호·대외금리 주시…국고 3년 3.5%대 코앞",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443487"
+        }
+      ]
+    },
+    {
       "code": "KR",
       "count": 27,
       "risk_level": "high",
       "articles": [
         {
-          "title": "나스닥100 선물, '블루 웨이브' 소화하며 하락…美 국채금리↓(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443229"
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
         },
         {
-          "title": "김동철 한전 사장, 전력망 확충에 \"사채 발행해 하는 건 지속 불가\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443196"
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
         },
         {
-          "title": "KOMSA, 신임 해양교통본부장-검사본부장 임명",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323380"
-        }
-      ]
-    },
-    {
-      "code": "US",
-      "count": 25,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[외환] 셀 물량에도 커스터디 달러 매수에 1,340원대로…코스피 주시",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443235"
-        },
-        {
-          "title": "美민주당 압승에 월가 \"가장 큰 걱정은 텍사스\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443234"
-        },
-        {
-          "title": "[중간선거] 대의보단 '삶의 질'…中 전문가들이 본 공화당 패인",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443230"
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
         }
       ]
     },
     {
       "code": "IR",
-      "count": 15,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
-          "title": "이란, 전쟁 후 인플레이션 90%↑…원유 수출 막혀 '삼중고'",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443227"
+          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
         },
         {
-          "title": "[중간선거] 90달러 밑으로 떨어진 유가…\"종전 기대에 추가 하락 가능성\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443218"
+          "title": "트럼프 연준 통제도 끝나나…\"고위직 교체 시도 물거품\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443482"
         },
         {
-          "title": "[외환] 美 선거 결과 소화하며 1,340원 초반대",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443212"
+          "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+        },
+        {
+          "title": "UK ‘needs financing overhaul’ to repair critical minerals strategy",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw?oc=5"
+        },
+        {
+          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Nvidia chips build up in Hong Kong as China delays import clearances",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXEyZjltNW5RQkhOWlE5OU9sQUZhLW5ROXNBUTZMWDRCV0hfcy1BZGhhd0s1eEhpcTF5SHNBUzVwa180ZDF0TTM1QXNmclpEdkQyOVRELXNHc0d2V1BOSWRuMmtvMXRzN0NhRk4yZUlKS1NwdmU3RDcxN2lwT0dLaElscnJNQlFqNTdGbzFkMkxYZU9EQW1Ta25QRUdCaGNqV1BLZENtSm9IUDg?oc=5"
+        },
+        {
+          "title": "Chinese bank asks judge to throw out Houthi ship attack claim",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOS1lOWZ0OUZUTmJydWM0RmVHeWxHZ0VLZGFtN2kza0VObEZNRURld3pvckpPajl5SUwxOTBPX2pNQW8zMWRnSEJlb1d6bmN0d0p3VVRkeWJmcXFBYjRzWlh3REh6cW5FREh5YWMxYkw1a2ZlM21uTElmZFRhYWFmQ0ZwanN3el9PV1NLODBDNHU1RzR3ajdMWTkzS1pjVlNwQk5tRVNiSmpCTFlNd2diWlNMbko?oc=5"
+        },
+        {
+          "title": "Nvidia's 600,000 AI Chips Remain Stuck in Hong Kong as China Delays Import Approval",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ190Wi01Wnlfcm5YTWQ1cExpZUI1bkEzLXRxZEtKSVV4MEJqY0twS0NMSXJGOTNRcEdDdjRsRU96eDVxWm1hdFdqb0h0QWZaTGxxbVVrUDl5QldtMTRMZXVxWEZjbE9hZl9QOGxtc0dSVjVQeUpFVVlFYlYtX1ZEUHpGSkYxck9qY25jNG80dUFrbnU1WFAyWGIwVFc3WWNKeEZXbkFGbXBEbEN0MGZXTVU0a2hDcmFQc3NfdHVn?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
+        },
+        {
+          "title": "Russian Linseed Prices Stable as Warm November Supports Logistics",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWVKSWxHT2wxMnRCOFhBVnNjZU1UM3lIRUk2XzIzckNUNEdfelVQUXc4R2RsUXJCcVNMeEh1MkdPaDZ2RXJiQlpqQnk2eFpPU0EwaENzWDMybWJ1VVpPcGlXZ1EyNjdUQ2k1NDdyR1U0NEFzS3JPcXREbUlvZk53WnBaeWJlTktBQV9jMzEtZw?oc=5"
+        },
+        {
+          "title": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
+          "url": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+        },
+        {
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+        },
+        {
+          "title": "인천해사고, 원양항해 승선실습 실시",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58085"
         }
       ]
     },
     {
       "code": "IN",
-      "count": 10,
+      "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[중간선거] 90달러 밑으로 떨어진 유가…\"종전 기대에 추가 하락 가능성\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443218"
+          "title": "India joins ISF Verify initiative for digital seafarer certification",
+          "url": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/"
         },
         {
-          "title": "Indian Bonds, Rupee Rally as Sliding Oil Eases Inflation Risks",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks"
+          "title": "Confederation of All India Traders holds Rahul Gandhi responsible for trade disruption in Delhi",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2tTd21uZXhuV203R29uSkI3YVZDaVVmY2RrWHVEdmtpa1QtNXdOa3hBNmpoVlpCaVZFVTBZdU5aTkZyaUR5aEVBcGVIVHZPUG1uZXlmTGR1TTVIenJRNXNSblZLbE56STBnTkU5d21FcmRmZVhWNFJseEVfdjZ1NGpDcHkwLTNNZDFmeDNKM1ZyV05oUWh0eTVCc2ltbjFvanJqZGJ5MGh6emZVSE1Fd1dyMHU1UENGRVROcTdrWUlqV29ONUJr?oc=5"
         },
         {
           "title": "New LR service targets cargo disruption when trade routes fail",
@@ -77,59 +153,21 @@
       ]
     },
     {
-      "code": "GB",
-      "count": 9,
-      "risk_level": "high",
+      "code": "TW",
+      "count": 4,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "해운조합, 해상클레임 워크숍 개최",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333813"
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
         },
         {
-          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
         },
         {
-          "title": "CMA CGM introduces additional war risk surcharge for Black Sea container shipments",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjlfa09Uck1mSlktaTdxNzNYdk1mNXpjV3IwZGswSHZMaDJBdzZDbVd3TFRFaGh3di1mUFZjMHV3MTFxbFk5WUUxMnYtcXk5T19nVUhCaEh4WkpJLWUxNV9SRXhQdzJzdnFzcmtOczVvNHV3R1JOWXBOVW0zVmRvdjdKU1V6Tzd5STZGOWVLZ1V0eFBRYmd6OUhvMTB2YkZXb0JMYWh6bEZXSTRRaVhLenJleTQ3SEFUUEE?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "CN",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "[중간선거] 대의보단 '삶의 질'…中 전문가들이 본 공화당 패인",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443230"
-        },
-        {
-          "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
-          "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html"
-        },
-        {
-          "title": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai"
-        }
-      ]
-    },
-    {
-      "code": "RU",
-      "count": 7,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Drone strikes Ozon logistics center in south Russia",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3NuN0x4Y0NXTmhiT3FLSU02Y29tY1ZWRkZxZnhsYmVoLXpfOWZRY25UbkFoT3A1REZmQTB5SUlqMUpSN2xwUjBIZDRSbVhydXNNNTlqdEQ4Nlo3MHpscG1NM2dUVXBxYzJDMC1XdkN3aXE1N0QwdFFiek1JR1FnMzkzLXdRTDRzZkNxNTNkcGp5MnQ5Mnd5NmVsTVlQZzE0VThN0gGoAUFVX3lxTE5LTy1rTzF6OWF1MGR2TjJ3d2MwRWdWMEdRdmZiaXZ4OUNvb2ZDRE1abGFMUXhpalFXVDJoYXdMMkJhTjNrQThNLTlOQ2JDQy1KSWdNcXpaS0t2NXhiOS0yU3BwSml4Y2xWdGNiT2xsc0gtZV83LWREZjhaSEhGMk51YzdRaGJ6Y2RxbWk3cEtMQWNZNjdtd1lKQzBNeUt6cW5aLWJmbUdDNg?oc=5"
-        },
-        {
-          "title": "Wheat market under pressure as Russian export offers decline",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEM1YzdoYmU4X20waUxmLVZHT0N4RS16ck1UbEd0YUNWRnBEaUV3cjhOcUNtMklnMUVuOWd4X09kWjNKbXJUdGxYQUg2RHZ6NEJrTEE2UDFfc1l5U3JOMGVuTnVTZ01uWUNaanlneGhMTmtNQ0VITEhER0EwLWxYeHhlWGNBTXNBTGN3Nm9Yb0xQdUxVQWw4VUtKUUxSMUM3?oc=5"
-        },
-        {
-          "title": "N.J. governor warns ports against accepting Russian diesel",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GbWpmWnRFQXp3QVhfUGljZGpfdVFHejhzMGdYSWxqdkVqVjJjaFg5MXA0QlFxZDRzUDAySGNCNEVaTmJxTlllczJoNjJMYk9MMHl6SUpPaE44MjNOT291b0xVX1Ezdw?oc=5"
+          "title": "AI 규제 우려에 반도체주 급락…닛케이 5.27%↓[Asia오전]",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110611152256566"
         }
       ]
     },
@@ -139,35 +177,46 @@
       "risk_level": "medium",
       "articles": [
         {
+          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
+        },
+        {
           "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
           "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
         },
         {
-          "title": "EU Solidarity Lanes fail to save Ukrainian farmers as shipping crisis deepens",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2tnQVR1N2tFNjhfdnJNUHRScGVEc28zQ2pfRmNtWllNZmhBejFPaUpiLWRmTy1ndlRXTVpQWGNlRFlvMFFRSTRCcDA3aHVxd1JPc0ozam9EcU1WSWpjVU1nNmQ1YnhodDlmSk5GYWswcXp6NERYS1VGcUNRUUxYSDFsRkVNZ3F2cng1ZmsxWWJMUHJ2N2FNU0JCZEFYS0haTENWSVRxVjlhOU9kd0xmbm13VE1PTFlPdmFzRXVSNnVDQzFIRnJxRNIBwgFBVV95cUxNOS1Eb3dhdkczUDlyWHkyTmhaZUpSelpuSFE3V2FZVC1ZLVdzRl9VTDhZWkZmaDIydU5pWWlUbWptUXN1NkxPQ0lidUo5X0xtRFcySDIzQzZWeTlqaG1Wd0cwVkp5bnN5dVRpY1F6ZmM4djhMeXVVa2lscDB0dFk5OVYycDV1RnBuWDBjY0NrcEJQaHNKZEhyV0R4Z1Nvc1VGdW9tNDdvZVV2REJNNW9zLXUtTGpFOE1DUjdxVm84bHRrZw?oc=5"
+          "title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZV94cW1pSVdVRXhsS1BoM09ybHdBNm53NnZBdnJ2NVM0THQycmlNaDBPM041aU5GdHZSektWUlhkcEliTWQ1MGVFaHQ0Sm0xdTdCdDV3amNvSnlFbjVISXlIV2ZMd1BaeFZ3YkNlVE1LYnlnZkdyekJrMEZDYmlpTlA4bUpGUF9QbTdLcTFUVmxSNGs4bnBQWXlnRjZtWmwxSDBZaEFybU1oMDF1UWJJWG5QUTNxUUt2TTdDZ25kT2xPQWs?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "\"케인 잡으려고 재정적으로 최대한 힘썼다\" 연봉 460억 초대형 재계약... 뮌헨 CEO \"단 한 푼도 아깝지 않았다\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110611040945769"
         },
         {
-          "title": "Ukraine’s steel and grain sectors reel from Russian strikes",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQThhRmM0bHhCMnlxNUl0Q09lRnUwVXFCUGxxWGZWU05ZOEw0MjhmNjJoQUpkbnZGbFhOeFdyQjhZdkgtVFJka2JZb3RqUHR5VE0wUVljM1pUVUNXZ0JBWjBnOVk5NVM1el9kZjEzSjhlT1hWYUFSNkc2dTFZMktLZmVvWUw1RmtFc2c0bUxNdVNxSk93cUQ2Q1VUSUUtY21tWU0tYmhlenYtYmxZM2JnTU5pVjdUTFNieHlJajZ3?oc=5"
+          "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+          "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html"
         }
       ]
     },
     {
       "code": "FR",
-      "count": 3,
+      "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "\"고객 피해는 없어\"… 佛 지방은행, 1500억대 해킹 피해",
-          "url": "https://www.mt.co.kr/world/2026/11/05/2026110512213210944"
+          "title": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
+          "url": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html"
         },
         {
           "title": "Blood banks targeted in latest European fridge cyberattacks",
           "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html"
-        },
-        {
-          "title": "International port strike reveals workers’ militancy ahead of November 5 strike in France",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odGU2VUNwNVlpbFFkVzhPdmhibTF1cGlIOUc5QTNnTUpDMzZzYWF0OG83a2FEZUE1N2NoeUhkaF9sZXZTYmlKYkZ1UEJwN2tvWFprMmgzWWlBWEU4ZHZ6cUJFS3BmRnpS?oc=5"
         }
       ]
     },
@@ -177,23 +226,12 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Singapore Airlines appoints Menzies Aviation at Western Sydney International Airport",
-          "url": "https://aircargoweek.com/singapore-airlines-appoints-menzies-aviation-at-western-sydney-international-airport/"
-        },
-        {
           "title": "Singapore warns of risks and cyber threats from emerging maritime technologies",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW9MbkN5ZDZvb1BQOHhmcjdxaWMxU2RGUmR0MFVIUDdUOElUVHh3TXBVZUpWRXAyb3U4elhEdGdzNGZtSWxLUVBRRVJnMjFMYzBJT1RXcENVZGxobGJVMzl5Z2pjd1dhMkkweUNvXzFSbnplZFNfdWJINXN0X0dOTWV0MUF6Y0FpS251Y0ZVeFhhaUhCblBVZGtkdEhzUE94NkNLZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
+        },
         {
-          "title": "Japan’s 10-Year Bond Auction Sees Softer Demand as Yields Drop",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-05/japan-s-10-year-bond-sale-demand-in-line-with-12-month-average"
+          "title": "Edward Chia on Maritime and Port Authority of Singapore (Amendment) Bill",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE9fVlVRd2xkVlg2YTFTX1lvaW0yX05JQ2VpRGZrLU41QzdtNlBVN3k3V2tZeGlFMnEwRkJCaVBnZnpMV1JfcEhLTWduOVg4RmlkRDdxcmlqd20xdWtMdXRoLXVyZjlfWGc0YVRSVzduWExRM1J5ZmhoMm5KMVNXUTNILWdDQWQ3bEM5WldrZTZQMWlDSm9JVTJYRUtSVWQ0elZHTTc0b3VoMzJ6OW9j?oc=5"
         }
       ]
     },
@@ -203,12 +241,12 @@
       "risk_level": "low",
       "articles": [
         {
-          "title": "Solving the traffic congestion problem at the gateway to Da Lat city.",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OdFpLUjl0V3djSm1Vd1hVTWl5Q2huVzlWTjYyNTNuWjA4eWowSXgtbEdWTzJ6T2M2U0FETHBGQXJLdTNIX0d6dmQyZ1ZJMVlIdklrY3g3T1pKWG1qTWYzQ2FTaTFTZUFKYVluV0NCcVZsQkxfNndTSGRB?oc=5"
+          "title": "Alarm raised over potential disruption to the food supply chain due to cyberattacks.",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzF6WEpGcGRIdXd3dndfc09Wck14X3NIdVNYY1VtN2RhTGlYb3Z3MXpSSXdwZTlYcG9XeG1uTW5RTmJwRGNJWnQ5cGc2WDRJdXJ5N2xsVmhNVmd0M200cUVhZ09SRmhrb2wwWmdIMDFETFpGYmFkblJpWjN3WjA5STM3U21xa3IyMlR5cFRIZFhNZkFMLW9PeERn?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 12,
-  "generated_at": "2026-11-05T04:41:30Z"
+  "total_crisis_countries": 14,
+  "generated_at": "2026-11-06T04:40:24Z"
 }

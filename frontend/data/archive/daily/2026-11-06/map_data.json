@@ -1,0 +1,252 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 39,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'블루쓰나미' 덮친 코스피, 연기금 소방수 등판에 낙폭 5%대로 축소",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443490"
+        },
+        {
+          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+        },
+        {
+          "title": "코스피 급락發 안전선호·대외금리 주시…국고 3년 3.5%대 코앞",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443487"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 27,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+        },
+        {
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+        },
+        {
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+        },
+        {
+          "title": "트럼프 연준 통제도 끝나나…\"고위직 교체 시도 물거품\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443482"
+        },
+        {
+          "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+        },
+        {
+          "title": "UK ‘needs financing overhaul’ to repair critical minerals strategy",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw?oc=5"
+        },
+        {
+          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Nvidia chips build up in Hong Kong as China delays import clearances",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXEyZjltNW5RQkhOWlE5OU9sQUZhLW5ROXNBUTZMWDRCV0hfcy1BZGhhd0s1eEhpcTF5SHNBUzVwa180ZDF0TTM1QXNmclpEdkQyOVRELXNHc0d2V1BOSWRuMmtvMXRzN0NhRk4yZUlKS1NwdmU3RDcxN2lwT0dLaElscnJNQlFqNTdGbzFkMkxYZU9EQW1Ta25QRUdCaGNqV1BLZENtSm9IUDg?oc=5"
+        },
+        {
+          "title": "Chinese bank asks judge to throw out Houthi ship attack claim",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOS1lOWZ0OUZUTmJydWM0RmVHeWxHZ0VLZGFtN2kza0VObEZNRURld3pvckpPajl5SUwxOTBPX2pNQW8zMWRnSEJlb1d6bmN0d0p3VVRkeWJmcXFBYjRzWlh3REh6cW5FREh5YWMxYkw1a2ZlM21uTElmZFRhYWFmQ0ZwanN3el9PV1NLODBDNHU1RzR3ajdMWTkzS1pjVlNwQk5tRVNiSmpCTFlNd2diWlNMbko?oc=5"
+        },
+        {
+          "title": "Nvidia's 600,000 AI Chips Remain Stuck in Hong Kong as China Delays Import Approval",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ190Wi01Wnlfcm5YTWQ1cExpZUI1bkEzLXRxZEtKSVV4MEJqY0twS0NMSXJGOTNRcEdDdjRsRU96eDVxWm1hdFdqb0h0QWZaTGxxbVVrUDl5QldtMTRMZXVxWEZjbE9hZl9QOGxtc0dSVjVQeUpFVVlFYlYtX1ZEUHpGSkYxck9qY25jNG80dUFrbnU1WFAyWGIwVFc3WWNKeEZXbkFGbXBEbEN0MGZXTVU0a2hDcmFQc3NfdHVn?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
+        },
+        {
+          "title": "Russian Linseed Prices Stable as Warm November Supports Logistics",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWVKSWxHT2wxMnRCOFhBVnNjZU1UM3lIRUk2XzIzckNUNEdfelVQUXc4R2RsUXJCcVNMeEh1MkdPaDZ2RXJiQlpqQnk2eFpPU0EwaENzWDMybWJ1VVpPcGlXZ1EyNjdUQ2k1NDdyR1U0NEFzS3JPcXREbUlvZk53WnBaeWJlTktBQV9jMzEtZw?oc=5"
+        },
+        {
+          "title": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
+          "url": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+        },
+        {
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+        },
+        {
+          "title": "인천해사고, 원양항해 승선실습 실시",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58085"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "India joins ISF Verify initiative for digital seafarer certification",
+          "url": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/"
+        },
+        {
+          "title": "Confederation of All India Traders holds Rahul Gandhi responsible for trade disruption in Delhi",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2tTd21uZXhuV203R29uSkI3YVZDaVVmY2RrWHVEdmtpa1QtNXdOa3hBNmpoVlpCaVZFVTBZdU5aTkZyaUR5aEVBcGVIVHZPUG1uZXlmTGR1TTVIenJRNXNSblZLbE56STBnTkU5d21FcmRmZVhWNFJseEVfdjZ1NGpDcHkwLTNNZDFmeDNKM1ZyV05oUWh0eTVCc2ltbjFvanJqZGJ5MGh6emZVSE1Fd1dyMHU1UENGRVROcTdrWUlqV29ONUJr?oc=5"
+        },
+        {
+          "title": "New LR service targets cargo disruption when trade routes fail",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGtMbnZCU3JsQkVER0traDlhbUg2Sjhub3gyTHF3ajQwNHRUQkRBeWtuczRWQWF4ei1XaDBBYkluSFliR1hnRURZMmhNN1ZqUGl3bWFKb0x6WTRGbGtYOTBiM0NjTUwtSVlMdDJZclN6cUlLQUFkSmRwN3ZoaE8xUnBSeHpNSlZnWXptN1E0U0NnODY4eE5icFpFLTRSY2RyN0NYQUtrcXBEY0s5LURFbi0zTS0tZTg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+        },
+        {
+          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+        },
+        {
+          "title": "AI 규제 우려에 반도체주 급락…닛케이 5.27%↓[Asia오전]",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110611152256566"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
+          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
+        },
+        {
+          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+        },
+        {
+          "title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZV94cW1pSVdVRXhsS1BoM09ybHdBNm53NnZBdnJ2NVM0THQycmlNaDBPM041aU5GdHZSektWUlhkcEliTWQ1MGVFaHQ0Sm0xdTdCdDV3amNvSnlFbjVISXlIV2ZMd1BaeFZ3YkNlVE1LYnlnZkdyekJrMEZDYmlpTlA4bUpGUF9QbTdLcTFUVmxSNGs4bnBQWXlnRjZtWmwxSDBZaEFybU1oMDF1UWJJWG5QUTNxUUt2TTdDZ25kT2xPQWs?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "\"케인 잡으려고 재정적으로 최대한 힘썼다\" 연봉 460억 초대형 재계약... 뮌헨 CEO \"단 한 푼도 아깝지 않았다\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110611040945769"
+        },
+        {
+          "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+          "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
+          "url": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html"
+        },
+        {
+          "title": "Blood banks targeted in latest European fridge cyberattacks",
+          "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Singapore warns of risks and cyber threats from emerging maritime technologies",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW9MbkN5ZDZvb1BQOHhmcjdxaWMxU2RGUmR0MFVIUDdUOElUVHh3TXBVZUpWRXAyb3U4elhEdGdzNGZtSWxLUVBRRVJnMjFMYzBJT1RXcENVZGxobGJVMzl5Z2pjd1dhMkkweUNvXzFSbnplZFNfdWJINXN0X0dOTWV0MUF6Y0FpS251Y0ZVeFhhaUhCblBVZGtkdEhzUE94NkNLZQ?oc=5"
+        },
+        {
+          "title": "Edward Chia on Maritime and Port Authority of Singapore (Amendment) Bill",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE9fVlVRd2xkVlg2YTFTX1lvaW0yX05JQ2VpRGZrLU41QzdtNlBVN3k3V2tZeGlFMnEwRkJCaVBnZnpMV1JfcEhLTWduOVg4RmlkRDdxcmlqd20xdWtMdXRoLXVyZjlfWGc0YVRSVzduWExRM1J5ZmhoMm5KMVNXUTNILWdDQWQ3bEM5WldrZTZQMWlDSm9JVTJYRUtSVWQ0elZHTTc0b3VoMzJ6OW9j?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Alarm raised over potential disruption to the food supply chain due to cyberattacks.",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzF6WEpGcGRIdXd3dndfc09Wck14X3NIdVNYY1VtN2RhTGlYb3Z3MXpSSXdwZTlYcG9XeG1uTW5RTmJwRGNJWnQ5cGc2WDRJdXJ5N2xsVmhNVmd0M200cUVhZ09SRmhrb2wwWmdIMDFETFpGYmFkblJpWjN3WjA5STM3U21xa3IyMlR5cFRIZFhNZkFMLW9PeERn?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 14,
+  "generated_at": "2026-11-06T04:40:24Z"
+}
