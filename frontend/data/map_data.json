@@ -1,131 +1,112 @@
 {
   "countries": [
     {
-      "code": "US",
-      "count": 39,
+      "code": "IR",
+      "count": 13,
       "risk_level": "high",
       "articles": [
         {
-          "title": "'블루쓰나미' 덮친 코스피, 연기금 소방수 등판에 낙폭 5%대로 축소",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443490"
+          "title": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos"
         },
         {
-          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+          "title": "트럼프·루비오 엇박자?…\"공격 재개 가능성 낮아\"vs\"합의 멀었다\"",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110910154199175"
         },
         {
-          "title": "코스피 급락發 안전선호·대외금리 주시…국고 3년 3.5%대 코앞",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443487"
+          "title": "Latest Oil Market News and Analysis for Nov. 9",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9"
         }
       ]
     },
     {
       "code": "KR",
-      "count": 27,
+      "count": 10,
       "risk_level": "high",
       "articles": [
         {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+          "title": "외환시장 격변기에 지방 이전 우려…힘 모은다",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443722"
         },
         {
-          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+          "title": "KOMSA-FIRA, 제주 어업인 안전조업 지원",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333850"
         },
         {
-          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+          "title": "교육부, 교육청·학교에 학생 마음건강 위기상황 현장 자문",
+          "url": "https://www.mt.co.kr/policy/2026/11/09/2026110909592991580"
         }
       ]
     },
     {
-      "code": "IR",
-      "count": 12,
+      "code": "US",
+      "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "[외환] 반도체발 증시 급락에 1,350원 중후반대 횡보",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443489"
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
         },
         {
-          "title": "트럼프 연준 통제도 끝나나…\"고위직 교체 시도 물거품\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443482"
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443725"
         },
         {
-          "title": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean"
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "count": 12,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
-        },
-        {
-          "title": "UK ‘needs financing overhaul’ to repair critical minerals strategy",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd0QtM3RxdFVuRzNJaDJkdEJHR1RlZUhLUjVGVzRyWDdOb3pVUmQ1RW9ieHhVeF9nVjFiR1BVZlFVZlJOdGVWOW1DSEJsX1g2OEtCQ2tzUWJIZkg4YlBVd2FxLUJjYWs5OUdxalI0M1c5bVluQWtBaDZLRU1mei1yeWFqR2RDMl9sWTRDODVKZ2dQZEttX2o3MXl1MmRrMUV0alEtTw?oc=5"
-        },
-        {
-          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
+          "title": "난공불락 췌장암 '초음파'로 공략…아이엠지티, 세계 첫 美 확증임상",
+          "url": "https://www.mt.co.kr/thebio/2026/11/09/2026110910440639542"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 11,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Nvidia chips build up in Hong Kong as China delays import clearances",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXEyZjltNW5RQkhOWlE5OU9sQUZhLW5ROXNBUTZMWDRCV0hfcy1BZGhhd0s1eEhpcTF5SHNBUzVwa180ZDF0TTM1QXNmclpEdkQyOVRELXNHc0d2V1BOSWRuMmtvMXRzN0NhRk4yZUlKS1NwdmU3RDcxN2lwT0dLaElscnJNQlFqNTdGbzFkMkxYZU9EQW1Ta25QRUdCaGNqV1BLZENtSm9IUDg?oc=5"
+          "title": "Low pay, fatigue and staff shortages put aviation hub status at risk, unions say",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWWIzNmk5TDdSSmpWY0JyRW5oLVpBUjVfRUJpNl95UWNaZnlXYjVIUHdfd1d1RTRIZnU3cXE5YUJKZzJwSkd3clg3OWZwdlJxcEFSazRWRnZvdTFOWEdKcU9QWnhEcnpGV2EwUHlXTUlYU0dSTGVaenVqcUpUMW4zSTlOS0dsWWlOZlhCbnJUZy1TTWp0bjFILVJtWk1LQ0dhRkJtdlBnTnNQc1JCUURJVXQ3LWg0eWVaMWVnSHk2ZjJ1elJpbXZZSGNfMjVXV2xqWktRbkN5T05uUWpM0gHcAUFVX3lxTE4yVmxka0xld1Vta0VYWllzXzNnUm55MlhfLXJVY3lndVR5bF9GUjgwd0g1aVZzT0RjVk5YRGlKSV82NDBEM0l1OU1hWU03dl9FNE1XdnQzOFhoQWdhQ1dNZ1RrLXBzQndKUGFkcnJFUl93c2FUNFRMcXo1aWNCQXYtSHBHMkcwX3oxZFh0Q0stWHg0RXNjM3RCS29UVFV6S3hDMWtXdmVaaHFRZkgtdlU2dW1pN2Q4WmZsQk9UWFJsRGRic1o0Yk1DR1h2MDFnZC11cHBydFJuTTZ3T2M?oc=5"
         },
         {
-          "title": "Chinese bank asks judge to throw out Houthi ship attack claim",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOS1lOWZ0OUZUTmJydWM0RmVHeWxHZ0VLZGFtN2kza0VObEZNRURld3pvckpPajl5SUwxOTBPX2pNQW8zMWRnSEJlb1d6bmN0d0p3VVRkeWJmcXFBYjRzWlh3REh6cW5FREh5YWMxYkw1a2ZlM21uTElmZFRhYWFmQ0ZwanN3el9PV1NLODBDNHU1RzR3ajdMWTkzS1pjVlNwQk5tRVNiSmpCTFlNd2diWlNMbko?oc=5"
+          "title": "Brazil Premium Rebuilds: C3–C5 Spread Back Above $21/mt",
+          "url": "https://www.hellenicshippingnews.com/brazil-premium-rebuilds-c3-c5-spread-back-above-21-mt/"
         },
         {
-          "title": "Nvidia's 600,000 AI Chips Remain Stuck in Hong Kong as China Delays Import Approval",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ190Wi01Wnlfcm5YTWQ1cExpZUI1bkEzLXRxZEtKSVV4MEJqY0twS0NMSXJGOTNRcEdDdjRsRU96eDVxWm1hdFdqb0h0QWZaTGxxbVVrUDl5QldtMTRMZXVxWEZjbE9hZl9QOGxtc0dSVjVQeUpFVVlFYlYtX1ZEUHpGSkYxck9qY25jNG80dUFrbnU1WFAyWGIwVFc3WWNKeEZXbkFGbXBEbEN0MGZXTVU0a2hDcmFQc3NfdHVn?oc=5"
+          "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5"
         }
       ]
     },
     {
-      "code": "RU",
-      "count": 8,
-      "risk_level": "high",
+      "code": "IN",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
-          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
+          "title": "나신평 \"해운 다운사이클 우려에도 韓 해운사 재무 완충력 우수\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443760"
         },
         {
-          "title": "Russian Linseed Prices Stable as Warm November Supports Logistics",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWVKSWxHT2wxMnRCOFhBVnNjZU1UM3lIRUk2XzIzckNUNEdfelVQUXc4R2RsUXJCcVNMeEh1MkdPaDZ2RXJiQlpqQnk2eFpPU0EwaENzWDMybWJ1VVpPcGlXZ1EyNjdUQ2k1NDdyR1U0NEFzS3JPcXREbUlvZk53WnBaeWJlTktBQV9jMzEtZw?oc=5"
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
         },
         {
-          "title": "Seven Shadow Fleet Tankers Spoof AIS to Hide Novorossiysk Voyages",
-          "url": "https://www.hellenicshippingnews.com/seven-shadow-fleet-tankers-spoof-ais-to-hide-novorossiysk-voyages/"
+          "title": "Maersk drops heavy load surcharge on 20ft boxes from NW India",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVVseU1sb0FzVlA4UTRaZEtuV0RndlFjNGppOFNDcWt4eFRnQ0J6WWJaam5OMkdQYk1xTG9XVHppYl8zNlFBV3ZjSi1uR3Y0eGxqMzg2dlB0X1pja09yZ1NTX1RtNUNJX0Iyb21HNWNQYl9famxtYnMwdnpfYS1idkUxTVJsdUhhdHBiSjhfOTI0Q3pTMUI2LXVXV1JBUjRzVHhaRzFWQlQwWTlkSnZBa3VZd2tKanhfWGIxUw?oc=5"
         }
       ]
     },
     {
       "code": "JP",
-      "count": 6,
-      "risk_level": "high",
+      "count": 3,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
         },
         {
-          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+          "title": "인천해사고 3학년생 원양항해 출항",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333840"
         },
         {
           "title": "인천해사고, 원양항해 승선실습 실시",
@@ -134,89 +115,21 @@
       ]
     },
     {
-      "code": "IN",
-      "count": 5,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "India joins ISF Verify initiative for digital seafarer certification",
-          "url": "https://container-news.com/india-joins-isf-verify-initiative-for-digital-seafarer-certification/"
-        },
-        {
-          "title": "Confederation of All India Traders holds Rahul Gandhi responsible for trade disruption in Delhi",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2tTd21uZXhuV203R29uSkI3YVZDaVVmY2RrWHVEdmtpa1QtNXdOa3hBNmpoVlpCaVZFVTBZdU5aTkZyaUR5aEVBcGVIVHZPUG1uZXlmTGR1TTVIenJRNXNSblZLbE56STBnTkU5d21FcmRmZVhWNFJseEVfdjZ1NGpDcHkwLTNNZDFmeDNKM1ZyV05oUWh0eTVCc2ltbjFvanJqZGJ5MGh6emZVSE1Fd1dyMHU1UENGRVROcTdrWUlqV29ONUJr?oc=5"
-        },
-        {
-          "title": "New LR service targets cargo disruption when trade routes fail",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGtMbnZCU3JsQkVER0traDlhbUg2Sjhub3gyTHF3ajQwNHRUQkRBeWtuczRWQWF4ei1XaDBBYkluSFliR1hnRURZMmhNN1ZqUGl3bWFKb0x6WTRGbGtYOTBiM0NjTUwtSVlMdDJZclN6cUlLQUFkSmRwN3ZoaE8xUnBSeHpNSlZnWXptN1E0U0NnODY4eE5icFpFLTRSY2RyN0NYQUtrcXBEY0s5LURFbi0zTS0tZTg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "TW",
-      "count": 4,
+      "code": "GB",
+      "count": 3,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "\"AI 주식 매도는 전조일 뿐…韓·日·대만 수혜주 다음 차례\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443486"
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
         },
         {
-          "title": "대만 가권지수, 한때 약 9% 폭락…日도 장중 7% 급락(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443484"
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "AI 규제 우려에 반도체주 급락…닛케이 5.27%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/11/06/2026110611152256566"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "'푸틴 특사' 만난 트럼프…\"유럽 포함 합의 임박\"",
-          "url": "https://www.mt.co.kr/world/2026/11/06/2026110610541489339"
-        },
-        {
-          "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-          "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html"
-        },
-        {
-          "title": "Russian strikes choke Ukraine’s economy as steel shuts down and grain exports stall",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZV94cW1pSVdVRXhsS1BoM09ybHdBNm53NnZBdnJ2NVM0THQycmlNaDBPM041aU5GdHZSektWUlhkcEliTWQ1MGVFaHQ0Sm0xdTdCdDV3amNvSnlFbjVISXlIV2ZMd1BaeFZ3YkNlVE1LYnlnZkdyekJrMEZDYmlpTlA4bUpGUF9QbTdLcTFUVmxSNGs4bnBQWXlnRjZtWmwxSDBZaEFybU1oMDF1UWJJWG5QUTNxUUt2TTdDZ25kT2xPQWs?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "DE",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "\"케인 잡으려고 재정적으로 최대한 힘썼다\" 연봉 460억 초대형 재계약... 뮌헨 CEO \"단 한 푼도 아깝지 않았다\"",
-          "url": "https://www.mt.co.kr/sports/2026/11/06/2026110611040945769"
-        },
-        {
-          "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-          "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
-          "url": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html"
-        },
-        {
-          "title": "Blood banks targeted in latest European fridge cyberattacks",
-          "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html"
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
         }
       ]
     },
@@ -226,27 +139,75 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Singapore warns of risks and cyber threats from emerging maritime technologies",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW9MbkN5ZDZvb1BQOHhmcjdxaWMxU2RGUmR0MFVIUDdUOElUVHh3TXBVZUpWRXAyb3U4elhEdGdzNGZtSWxLUVBRRVJnMjFMYzBJT1RXcENVZGxobGJVMzl5Z2pjd1dhMkkweUNvXzFSbnplZFNfdWJINXN0X0dOTWV0MUF6Y0FpS251Y0ZVeFhhaUhCblBVZGtkdEhzUE94NkNLZQ?oc=5"
+          "title": "Drewry: Intra Asia Container Index Down Last Week",
+          "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-last-week/"
         },
         {
-          "title": "Edward Chia on Maritime and Port Authority of Singapore (Amendment) Bill",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE9fVlVRd2xkVlg2YTFTX1lvaW0yX05JQ2VpRGZrLU41QzdtNlBVN3k3V2tZeGlFMnEwRkJCaVBnZnpMV1JfcEhLTWduOVg4RmlkRDdxcmlqd20xdWtMdXRoLXVyZjlfWGc0YVRSVzduWExRM1J5ZmhoMm5KMVNXUTNILWdDQWQ3bEM5WldrZTZQMWlDSm9JVTJYRUtSVWQ0elZHTTc0b3VoMzJ6OW9j?oc=5"
+          "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmNfay1KZG45aExFdXNUbnFZQTFOZDlHVURzWmgtR1JsNlo2V0t5UGtSR0Y2LUxISk1FVHg0SDNBR2ZhU2swX0ExX2dlb0FDaFg4NVg1WlVJajN6ZnZoSkQ5M1NKTXNJbmJHQmZka0kzT3VXRHRiZlJBZk5ORVZLUi1HUDFScExqbDhtdVI4WkxuVDU0bUJPOQ?oc=5"
         }
       ]
     },
     {
-      "code": "VN",
+      "code": "RU",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Egypt’s October wheat imports nearly triple, corn imports fall 35%",
+          "url": "https://www.hellenicshippingnews.com/egypts-october-wheat-imports-nearly-triple-corn-imports-fall-35/"
+        },
+        {
+          "title": "Russia adapts to Black Sea disruption but wheat market is too optimistic, Sizov says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0VINVpKb0dtYmpCT0lTUDZyUi1aZWM5b0kzeXVYSjBCT3NZWEJsOVptOXNtbklUcWE2M29kREtjNE1PMjRVSGQ5NmJJX04wVGc5VWZmalBOTWNhVGs3UlJrUkpfdjNhZ0JWMWpqRFpneVpUQzJEZi1VWDZaNUQzTC1hVElSeEZQQ2dJdXl3T2hsd2FmeUxiOVhmWUp1TjA3YlZXeHVTX0RHRG9YQlpuaG93c1Zfd1VjN2Rfb3lkNEo?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
       "count": 1,
       "risk_level": "low",
       "articles": [
         {
-          "title": "Alarm raised over potential disruption to the food supply chain due to cyberattacks.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzF6WEpGcGRIdXd3dndfc09Wck14X3NIdVNYY1VtN2RhTGlYb3Z3MXpSSXdwZTlYcG9XeG1uTW5RTmJwRGNJWnQ5cGc2WDRJdXJ5N2xsVmhNVmd0M200cUVhZ09SRmhrb2wwWmdIMDFETFpGYmFkblJpWjN3WjA5STM3U21xa3IyMlR5cFRIZFhNZkFMLW9PeERn?oc=5"
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Yemen : Report Warns of Emerging Houthi-Shabab Logistics Corridor Across the Red Sea",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmU2FzYTJlNWp6WjQtLUcxenI2MFlxci1oZGFHaEh4eC1LZ25CUXRNSGlkSHN6a01IeHI3bGFzbVRkTXJxMFYwa291OGxfc1BwM0hhbElpMm0?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Biofuel Bunker Snapshot: Rotterdam’s B30-VLSFO price slumps despite higher feedstock costs",
+          "url": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-price-slumps-despite-higher-feedstock-costs/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 14,
-  "generated_at": "2026-11-06T04:40:24Z"
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-09T04:03:11Z"
 }

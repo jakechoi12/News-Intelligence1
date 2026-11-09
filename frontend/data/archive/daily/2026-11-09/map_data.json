@@ -1,0 +1,213 @@
+{
+  "countries": [
+    {
+      "code": "IR",
+      "count": 13,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos"
+        },
+        {
+          "title": "트럼프·루비오 엇박자?…\"공격 재개 가능성 낮아\"vs\"합의 멀었다\"",
+          "url": "https://www.mt.co.kr/world/2026/11/09/2026110910154199175"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Nov. 9",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "외환시장 격변기에 지방 이전 우려…힘 모은다",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443722"
+        },
+        {
+          "title": "KOMSA-FIRA, 제주 어업인 안전조업 지원",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333850"
+        },
+        {
+          "title": "교육부, 교육청·학교에 학생 마음건강 위기상황 현장 자문",
+          "url": "https://www.mt.co.kr/policy/2026/11/09/2026110909592991580"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
+        },
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443725"
+        },
+        {
+          "title": "난공불락 췌장암 '초음파'로 공략…아이엠지티, 세계 첫 美 확증임상",
+          "url": "https://www.mt.co.kr/thebio/2026/11/09/2026110910440639542"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Low pay, fatigue and staff shortages put aviation hub status at risk, unions say",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWWIzNmk5TDdSSmpWY0JyRW5oLVpBUjVfRUJpNl95UWNaZnlXYjVIUHdfd1d1RTRIZnU3cXE5YUJKZzJwSkd3clg3OWZwdlJxcEFSazRWRnZvdTFOWEdKcU9QWnhEcnpGV2EwUHlXTUlYU0dSTGVaenVqcUpUMW4zSTlOS0dsWWlOZlhCbnJUZy1TTWp0bjFILVJtWk1LQ0dhRkJtdlBnTnNQc1JCUURJVXQ3LWg0eWVaMWVnSHk2ZjJ1elJpbXZZSGNfMjVXV2xqWktRbkN5T05uUWpM0gHcAUFVX3lxTE4yVmxka0xld1Vta0VYWllzXzNnUm55MlhfLXJVY3lndVR5bF9GUjgwd0g1aVZzT0RjVk5YRGlKSV82NDBEM0l1OU1hWU03dl9FNE1XdnQzOFhoQWdhQ1dNZ1RrLXBzQndKUGFkcnJFUl93c2FUNFRMcXo1aWNCQXYtSHBHMkcwX3oxZFh0Q0stWHg0RXNjM3RCS29UVFV6S3hDMWtXdmVaaHFRZkgtdlU2dW1pN2Q4WmZsQk9UWFJsRGRic1o0Yk1DR1h2MDFnZC11cHBydFJuTTZ3T2M?oc=5"
+        },
+        {
+          "title": "Brazil Premium Rebuilds: C3–C5 Spread Back Above $21/mt",
+          "url": "https://www.hellenicshippingnews.com/brazil-premium-rebuilds-c3-c5-spread-back-above-21-mt/"
+        },
+        {
+          "title": "Quo vadis: EU-China trade relations – from de-risking to technical fixes",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94VGJ1MWFOQ2JUekp2eGY1Mmd1SVBBS3Y1Vk9JNTVld2JwejZybENQaVhwMDhpelZsWTBrWVJTZW5LRldETWJjWXFoMzdXTGhiRzFXdER6cXBwRkxnZzBQbnZCb29VaEstaHluOWQtSncyNWM?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "나신평 \"해운 다운사이클 우려에도 韓 해운사 재무 완충력 우수\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443760"
+        },
+        {
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
+        },
+        {
+          "title": "Maersk drops heavy load surcharge on 20ft boxes from NW India",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaVVseU1sb0FzVlA4UTRaZEtuV0RndlFjNGppOFNDcWt4eFRnQ0J6WWJaam5OMkdQYk1xTG9XVHppYl8zNlFBV3ZjSi1uR3Y0eGxqMzg2dlB0X1pja09yZ1NTX1RtNUNJX0Iyb21HNWNQYl9famxtYnMwdnpfYS1idkUxTVJsdUhhdHBiSjhfOTI0Q3pTMUI2LXVXV1JBUjRzVHhaRzFWQlQwWTlkSnZBa3VZd2tKanhfWGIxUw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
+        },
+        {
+          "title": "인천해사고 3학년생 원양항해 출항",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333840"
+        },
+        {
+          "title": "인천해사고, 원양항해 승선실습 실시",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58085"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "VLCC Tankers Retreated Last Week",
+          "url": "https://www.hellenicshippingnews.com/vlcc-tankers-retreated-last-week/"
+        },
+        {
+          "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "해운조합, ‘제1회 해상클레임 전문가 초청 워크숍’ 개최",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58090"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Drewry: Intra Asia Container Index Down Last Week",
+          "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-last-week/"
+        },
+        {
+          "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmNfay1KZG45aExFdXNUbnFZQTFOZDlHVURzWmgtR1JsNlo2V0t5UGtSR0Y2LUxISk1FVHg0SDNBR2ZhU2swX0ExX2dlb0FDaFg4NVg1WlVJajN6ZnZoSkQ5M1NKTXNJbmJHQmZka0kzT3VXRHRiZlJBZk5ORVZLUi1HUDFScExqbDhtdVI4WkxuVDU0bUJPOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Egypt’s October wheat imports nearly triple, corn imports fall 35%",
+          "url": "https://www.hellenicshippingnews.com/egypts-october-wheat-imports-nearly-triple-corn-imports-fall-35/"
+        },
+        {
+          "title": "Russia adapts to Black Sea disruption but wheat market is too optimistic, Sizov says",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0VINVpKb0dtYmpCT0lTUDZyUi1aZWM5b0kzeXVYSjBCT3NZWEJsOVptOXNtbklUcWE2M29kREtjNE1PMjRVSGQ5NmJJX04wVGc5VWZmalBOTWNhVGs3UlJrUkpfdjNhZ0JWMWpqRFpneVpUQzJEZi1VWDZaNUQzTC1hVElSeEZQQ2dJdXl3T2hsd2FmeUxiOVhmWUp1TjA3YlZXeHVTX0RHRG9YQlpuaG93c1Zfd1VjN2Rfb3lkNEo?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "MUFG \"대만달러·원화 동반 부진…AI 투자심리 악화에 기술주 민감\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443733"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Yemen : Report Warns of Emerging Houthi-Shabab Logistics Corridor Across the Red Sea",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmU2FzYTJlNWp6WjQtLUcxenI2MFlxci1oZGFHaEh4eC1LZ25CUXRNSGlkSHN6a01IeHI3bGFzbVRkTXJxMFYwa291OGxfc1BwM0hhbElpMm0?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Biofuel Bunker Snapshot: Rotterdam’s B30-VLSFO price slumps despite higher feedstock costs",
+          "url": "https://www.hellenicshippingnews.com/biofuel-bunker-snapshot-rotterdams-b30-vlsfo-price-slumps-despite-higher-feedstock-costs/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Gulf of Oman Shipping Crisis: US Disables Cargo Ship M/V Huda; UAE Rescues 22 Crew from Separate Vessel Fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcVR3RFFwU2NvUGZwd3NFMEpTajVDWVh1dGl4OXZPcEpxMFVnVHdrUHhkel92amV6MnZQYmVCNzB4TjlwVUNOV2FsUjhCbDhabmpXNVI3WENfbUZjQXBBUS1FZXRKbVJGV0xSQ1I4Y19PSmw0QUVybGdETTlVOEpMWGZsbkZWNkxwa1JtTEkzZmdxQWtrWVJTTmtTc3V0eDdKNmI1ZUNycmMwUGt6?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-09T04:03:11Z"
+}
