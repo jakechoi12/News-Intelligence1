@@ -1,0 +1,243 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 15,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "강남 3구發 조정세 확산하나…성동구도 아파트값 하락 전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444436"
+        },
+        {
+          "title": "KDI \"반도체 호황에 내년 민간소비 증가율 0.6%p↑…고유가 영향은 축소\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444419"
+        },
+        {
+          "title": "나스닥100 선물, 젠슨황 해임 준비 보도에 하락…美 국채금리 혼조(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444416"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "China ramps up chemical exports as domestic demand declines",
+          "url": "https://www.hellenicshippingnews.com/china-ramps-up-chemical-exports-as-domestic-demand-declines/"
+        },
+        {
+          "title": "中 옌톈항서 머스크 컨선 크레인 충돌 사고",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333925"
+        },
+        {
+          "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+          "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "KDI \"반도체 호황에 내년 민간소비 증가율 0.6%p↑…고유가 영향은 축소\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444419"
+        },
+        {
+          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Nov. 12",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "나스닥100 선물, 젠슨황 해임 준비 보도에 하락…美 국채금리 혼조(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444416"
+        },
+        {
+          "title": "美재무 \"메가스피드 왜 블랙리스트에 없나\"…상무 \"모르겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444390"
+        },
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444386"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+        },
+        {
+          "title": "India Reiterates Call For Free & Safe Navigation Through Strait Of Hormuz As Attacks On Ships Rise",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaldNcGR6RGN3UF9ZS0NVZkxnSEEyY2MxeU1vcktCTW5HVTdrQlIzbFI2OEVjSUtvc2s5MnYwVTF1amZ2dnBwdlJobXJldUxSY09OUGtCSWhlcVprTG5feWJiZWZaQUJ6U2NFMTVqQkZqLUJ6WmNaNGU5ajJmR01hd1pBQkZ2NVk?oc=5"
+        },
+        {
+          "title": "Daily News Wrap-Up: Freight Costs, Port Congestion Hit Solar Equipment Deliveries",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONmdkRVNRNHBRSUVnNV9qdmR4a0FaX0RkRHZHZ2pib3kwSEdocnh0T0F6U2E4aHFEQ3pQZE1JR1VvWkw2VExkSzloakN6bnUzV3FwS25jb1FLeHpYZklTYmNoM052cHZpRzNaRm93VEF4Nl80NGx2bVhwOXNuUjNfcm1CSktVWGQ0WEZHeko3S0pKMTJRZ1YyOHl2aXhWRzI4dGVVd2E4XzBwR1U?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"
+        },
+        {
+          "title": "Ukrainian drones strike port in Russia’s Leningrad region, sparking fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXVkVGd6a3ctMEc4aXBZMnA5V0wyUUhaSmlNUV8zSFVVSF9GcU53d0JXclBJa2FpN3pISTU3Y0R3OUZqaHQwVV8xbHZjNlhENXJUMDNFcEpucnpPUjJvTVVVT1pzdlY4UDJNZE56cnd2Sk56TUNmT2FpbFFJOGIwbXRVckw3RVhLaUJUakFJUTEtVFdFMURLNmF5Q3cyLTZFQXNaN1VqN2thcUp30gGyAUFVX3lxTFBIZU1meWNxQmhvdXI5LVFmcVI3S3F2aWdQdVVWUldmWWI4djZSbllMWjBxOWpRVWdJUEs5d3pwU29UelRFVmhyaEJyNDdHQkZKVkpRcEFGdVRhaHlqRUJMNHd1cFBJblVGbnJZSE5ZNU5XaHNMTzZUZkRySnBMR3BKMlRvUHlSNE9VRHJpTGJVQ193RWpHVjVLSWluYUFfbzRtYkFCdXNfVE5oVTBwUTVDTFE?oc=5"
+        },
+        {
+          "title": "Video: Ukrainian Strike Causes Major Fire at Russian Oil Port of Ust-Luga",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkhEVWpBcm1rakx6REVPUGNKRllVT3VXVEVFcE9IU3h4MjVjUUluU3V4Ym9oWXpMSnpVZjdJaEhsNG5rZ05lUlhTcEFSUVdobmswWExFQXZURTVJUDBjMml4MFc5bHRHX1drTWVjOERwb3h1RGhScmJDSk15dThZU2xSWDVjaDRDcnJlNks3cDI3RTdDZkVBdGtoR2VQTlhCaW1lUGFQV1dEaS1DWW5NTw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"
+        },
+        {
+          "title": "Ukrainian drones strike port in Russia’s Leningrad region, sparking fire",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXVkVGd6a3ctMEc4aXBZMnA5V0wyUUhaSmlNUV8zSFVVSF9GcU53d0JXclBJa2FpN3pISTU3Y0R3OUZqaHQwVV8xbHZjNlhENXJUMDNFcEpucnpPUjJvTVVVT1pzdlY4UDJNZE56cnd2Sk56TUNmT2FpbFFJOGIwbXRVckw3RVhLaUJUakFJUTEtVFdFMURLNmF5Q3cyLTZFQXNaN1VqN2thcUp30gGyAUFVX3lxTFBIZU1meWNxQmhvdXI5LVFmcVI3S3F2aWdQdVVWUldmWWI4djZSbllMWjBxOWpRVWdJUEs5d3pwU29UelRFVmhyaEJyNDdHQkZKVkpRcEFGdVRhaHlqRUJMNHd1cFBJblVGbnJZSE5ZNU5XaHNMTzZUZkRySnBMR3BKMlRvUHlSNE9VRHJpTGJVQ193RWpHVjVLSWluYUFfbzRtYkFCdXNfVE5oVTBwUTVDTFE?oc=5"
+        },
+        {
+          "title": "Video: Ukrainian Strike Causes Major Fire at Russian Oil Port of Ust-Luga",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkhEVWpBcm1rakx6REVPUGNKRllVT3VXVEVFcE9IU3h4MjVjUUluU3V4Ym9oWXpMSnpVZjdJaEhsNG5rZ05lUlhTcEFSUVdobmswWExFQXZURTVJUDBjMml4MFc5bHRHX1drTWVjOERwb3h1RGhScmJDSk15dThZU2xSWDVjaDRDcnJlNks3cDI3RTdDZkVBdGtoR2VQTlhCaW1lUGFQV1dEaS1DWW5NTw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "달러-엔, 日 재무관 발언 속 하락세 이어가",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444414"
+        },
+        {
+          "title": "KRISO, 해양오염 방제포럼 개최",
+          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333891"
+        },
+        {
+          "title": "Japan's Inpex stays committed to Middle East oil despite Hormuz disruption",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUs2VXNHN2FkNHpLR1pzWkZ6a2I0LVRkRDYtT25NeWVnNDlKMV9SZlg4OFYwOFY3S0lnR05ERVhWQjJzdkdjaWR4dC15WTVoYnNjam51bDRoMUo4R1I5VnpwWTNlLVdZN1hOMS1PU01MSUhaN2lxVXJBbEVoZEJXRXVKWmZ2TmFQSTdYSXUwTHl1Mk0ySmREakF6b0RFdURVcHo5ZmtYeE4wZUk0QVFmcTZmU3FKNDF0TVZsX25sQ0podUV6eTBEbWhQMlMtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "美재무 \"메가스피드 왜 블랙리스트에 없나\"…상무 \"모르겠다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444390"
+        },
+        {
+          "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+          "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Goldman, Fortress and HBSC Back Rare Private Credit Deal in Saudi Arabia",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/goldman-fortress-and-hbsc-back-rare-private-credit-deal-in-saudi-arabia"
+        },
+        {
+          "title": "Saudi Cabinet Calls for Immediate End to Threats in Hormuz and Bab al-Mandeb",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05R1VYbjJfWEU1Y2dqYm5NRXdKZzh1MW9zZ3hEUkJ1bXpVaHRTajRjbnZadG8zQlJ5V2ZWMEdSazhydXNDaG9kUzVRVlZsYk1hS1JiTldja3FSTTR3Vm9ldy1PbERGWUpBRUpVMjdSSkxhbW8?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "VN",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Vietnam Dollar Bond Sale on Hold as Fuel Shock Fans Inflation",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/vietnam-dollar-bond-sale-on-hold-as-fuel-shock-fans-inflation"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "FUJAIRAH DATA: Oil product stockpiles drop for first time in four weeks",
+          "url": "https://www.hellenicshippingnews.com/fujairah-data-oil-product-stockpiles-drop-for-first-time-in-four-weeks/"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Return to Suez transits raises congestion fears at Red Sea ports",
+          "url": "https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "France Warns US Trade Policy Unlikely to Change After Midterms",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JpUzNkNnhIU1U1U19YaUdTc2tfVzNkWWpMbWhMcDFKWG1JYVc3ZXp5cGpjd3YxbW85ZGRJX2xOMU9BRWJFWUY3UUZFNW9PTmVGZzB4UF9oYU5CTFVoT1JLMkk2MXlvX2duT3FaMFF2SG81djA2aEZHbUJuWjBFZWZlNjBsdk5sel8wR2lSOXhfMXlnc3JzYkZaeGlDd05nVm11U2FXRkxQeFF4R2d4Y25mUQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 15,
+  "generated_at": "2026-11-12T05:21:57Z"
+}
