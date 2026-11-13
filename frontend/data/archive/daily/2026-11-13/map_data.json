@@ -1,0 +1,221 @@
+{
+  "countries": [
+    {
+      "code": "KR",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "해진공, 어업인에 6천만 원 상당 구명조끼 지원",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58143"
+        },
+        {
+          "title": "한국해대 해사대학, 보양사 장학증서 전달식",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58142"
+        },
+        {
+          "title": "李대통령 지지율 39%·2%p↓…민주 39%·국힘 26%[한국갤럽]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444644"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 10,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Ukrainian Corn Prices Firm as Harvest Advances and Black Sea Risks Persist",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak9rX19vSHNsRy0wdmwwSjRjbDROWTFyYUtCY2plWmpPcDBfUlJDU0hzNXFqMlhLeVUxZEduQTdZLUVkQ0ptamgtbjJxZjE0T3hhV3hjRlJjUW5jaUV5NXoyOFBMZ2ZxdTVUZk5EVDlJQnBGUmRFa0VhYUJjVS1jc1psX2RKei05U3RyQ3BJT3JqRmtnZHc?oc=5"
+        },
+        {
+          "title": "Remembering the role of our ports",
+          "url": "https://www.hellenicshippingnews.com/remembering-the-role-of-our-ports/"
+        },
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Nov. 13",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13"
+        },
+        {
+          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market"
+        },
+        {
+          "title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout"
+        },
+        {
+          "title": "Canada’s Carney weighs Chinese auto investment against U.S. trade tensions, looming tariff threats",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkdDSURWSVl4YXNockdiRkpISGJ5eEdiU1gzNVNYWlhBOHk1b25udnY0d3Q1bWJKYl9QcTJ1dVUtTDBsQll1X2pJOV8zeUljbEF6X092LU9JZl9VeTd1NERkOWhiS3dISmQ5T0JqZlA1ZHAwVVpGZER3SFI1cjkxMDc4aVpacFVkRWFPVVhSTXNPNEhGQl9wMVV0UkdUUU9PZXN1SHppNURQRDZQN3AxWHZrSnJSaVlnNUQ1YW9heE1IbHF2SjM3ZA?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "DC flags traffic congestion, drug menace and unauthorised constructions as priorities",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWU1qSzN3TkU5TWZUNHlPdzMtWjVsd0dTS2kxNUp3M3Z2T3VWNmVaUzZFcGRCbmlsMUtKWExpR19ERll1a3pfc3ZJcWZoNGVlX1I4aDV4ZU9CNnpMUVBxMzJRZUNrVTRtZ0RPaUhnME9aa2Y3REdrUXFjeU9oVFlUZ2JDZXdUbUphYno1Ulgya0xweU5YbG5ZdEhIZ0xFMkpWQzBUalVudmJxemFaeVJPbURCLThGbEZtano5NzliTEZIclNUcThGd1pVdXIzckNHdnVlWWhjMWFfNlBkTWxZeGZReGJ4blNyVV9EVW9xOTdIM3Nj0gH6AUFVX3lxTE1jNmc5T3huc0xtV0VwcWtNaHZnUkJLU29NNXpNaUtvSDdrYTZBSFVjMWhrOWNBUndIdHdjXzU4cG1KdHhET3FVR1BrWFBhTVlTX0N0ODZSVFdHZG9fYXFJbmpiS3V2MFlmall4U2xPY2RPTThxV01vU1hpZ2ZseW9reFk2bC1MME5SNEotZV9DUUpxS3ZPYjZPcmc4cGpudTU0QWo0a1pOTEVGTG9QZVBFNXNXN3N3QmFHeWJnM3JGWkZ4TEhNVGc1ekY4UEVwSDlwN1dLaEVTeUZ6QnMxODdueFdDWnJ6T1MzMS1xSzkyMVo2X2ZOTE95RGc?oc=5"
+        },
+        {
+          "title": "IITF: Traffic congestion likely near Bharat Mandapam from Nov 14",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORms2SVdvTjREOUNPQU5hWmgxWEVramVtNTkwOFFrWHBfS3pjRVBfR21Oc2h4NHN0LTRaTXhRM0ppVlg0QTlLUHFFN2s5MVAwNmI4a1lkYTBUbDRaeS1NcjJ4M1lneWI5NmdPcW1ST0NnMmd0SzlBeVhHY2VPMzExZnVuRnQyTU1iMWI2N2VtUk00SngzT0Jfc3pMSzJxSGxlaU43MHBiVDdiSGVLTG5DUW05VHRBVzlsQ1JRVjlrbkZFLTlWeS1MQmtrMEN1S1lMQ3fSAdcBQVVfeXFMUF91d1Jqbm9XcFlWU2JabW1IRFozNG91bm9mb1Y4cFdaUWRiU211ZHRDRURhLWp2bm5XYW5QS3o4eUEwREMzRzR2Q1h1MUpiSF9OeFliYTNsVVpvc2t0VlJubXlTRHlhS0FFSTg5dzRaVXQtZE1EWnpnUUFXZGk5cE9YRUhDNXJxUmdKdnRiZ0Vfdm5sSzh2aEJtWGNYVXk5TDNFY0NYVXhiWDhSSHJWRnZXeUY3NE5UZEgzcmtpTW1ieG1oY0wtQlhjQWFfVW13S1llSTdNTlk?oc=5"
+        },
+        {
+          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        },
+        {
+          "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html"
+        },
+        {
+          "title": "Peace talks end with prisoner exchange as Russia strikes ships and Ukraine attacks Ust-Luga port",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNalgxTHZwRFNXRm5aNVBYX1VOZ1hUT09HaDMyTGVyQlZiVmdSa0JTY0lsOFo5Tk5nRTNJVFZlQU9IU3dWRmpVdjJaT3hPZ0VZdnN2QWpScVhlNGJESVpqQnlDY3FJYWdVaDZ6Z3lQS2ZqTEZHSmxSY3lDXzFZZnhTemxlSTdheFBydUVXRWNvX2VGOVZQMVkwamt5WFRlYm5ibWZUR1ZaOThQSVhxVThfdlRaUXBiM3JsNWNOTTFVNndhSGNFVEluaVdpRFBoc05FM0VyZ0lZdUE0b18zMExMSTlDZm0?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
+        },
+        {
+          "title": "Hungarian economy shifting towards export prioritisation",
+          "url": "https://aircargoweek.com/hungarian-economy-shifting-towards-export-prioritisation/"
+        },
+        {
+          "title": "KCCI Flat as Americas, Europe Routes Decline in Off-Season",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnRIOVpjRkd6RTFmQ1d2dk1yZW15MWE1RGZYTzlBSTFqNUZWWFVkMHhUNHdfWkpPX25nblQyWkY1TE9CM1JLZS1hNnVKSk1jaDNpQlM4Wm9yNWVfbFNVQ1BoR01uU2ZtOGl3MDdBWktIX3lwLWViUWYtTWNlQkQ2SVk3cUJWSlZy?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+        },
+        {
+          "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+          "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
+        },
+        {
+          "title": "Peace talks end with prisoner exchange as Russia strikes ships and Ukraine attacks Ust-Luga port",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNalgxTHZwRFNXRm5aNVBYX1VOZ1hUT09HaDMyTGVyQlZiVmdSa0JTY0lsOFo5Tk5nRTNJVFZlQU9IU3dWRmpVdjJaT3hPZ0VZdnN2QWpScVhlNGJESVpqQnlDY3FJYWdVaDZ6Z3lQS2ZqTEZHSmxSY3lDXzFZZnhTemxlSTdheFBydUVXRWNvX2VGOVZQMVkwamt5WFRlYm5ibWZUR1ZaOThQSVhxVThfdlRaUXBiM3JsNWNOTTFVNndhSGNFVEluaVdpRFBoc05FM0VyZ0lZdUE0b18zMExMSTlDZm0?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets"
+        },
+        {
+          "title": "Japan's Cosmo Energy eyes steady Middle East oil imports for 2027 despite disruptions",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1lucGNPaFY1RmhYQkpVUnB1b3REMkhhQnFWQW9CcmZxVy0tNmltUklHU3VvdXlqeHZwRUw3dDlPV0ZqTVRmTnlOOTlJa2hITVluZlQ1WTgzOVBsM3lGaGpESHhaS2RqTXJBZWhZa2lrT1M3OGhDc1pPOElobXVZTU5SYTNfZnMtRVpTVHNEN2N4WU5DR1lTSVZrYnZSWi13UEhmX2JheVhhX1dPeWh1ZmFRZHBlS2o3eGFzZ3Y5X3BJOEZiMTBMcmtoa9IB2AFBVV95cUxNNjJQZVE2Sk1NVDlyNVVmNnRybkd0SDJkVmk4aVAwRWxpVDJHSERaTmlvcnFBUHQ5c0JoZlRCeDVLUzV1WWJuTUsxTzBSMU9uUGRMd1Z1Z2FrZFdvTGRDZWhlVmtmR3ZMV3pjdU1hMm9qVzlfQ2h5bmdqY0wxc2JwZWJ0RjctVjhPNHRHeWtoSWhiSkhLY1JCWXNyNG1xQ2VnZTA1ZUFLWUZaaTdLb2wtN281emh4ZThBZ1NLbmNnb2R5MHBJTjdyZGhxaWdZbDlwMlplWjV4VVg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "MPA opens applications for LNG floating storage unit licences",
+          "url": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
+        },
+        {
+          "title": "Air cargo puts tech to work on missed flights, delays, and wasted capacity",
+          "url": "https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVA2LWE5ekxkcGtUU2Y1b2dTSEZTZHhHeF9GeWM0NFNla3BrSVJFT25SWDdwQjNPbGRPNFRKOU5EYXN6QXdvLW41dEFFWmlxcFNQSGtmVnlFRGdCY3dvWVJKYjJWLThpcjFqWDYzVjNQM2ZNeVRKbzNuSGVnQXRzNTFQcngtd0E?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Saudi Cabinet Calls for Immediate End to Threats in Hormuz and Bab al-Mandeb",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05R1VYbjJfWEU1Y2dqYm5NRXdKZzh1MW9zZ3hEUkJ1bXpVaHRTajRjbnZadG8zQlJ5V2ZWMEdSazhydXNDaG9kUzVRVlZsYk1hS1JiTldja3FSTTR3Vm9ldy1PbERGWUpBRUpVMjdSSkxhbW8?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "France Warns US Trade Policy Unlikely to Change After Midterms",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JpUzNkNnhIU1U1U19YaUdTc2tfVzNkWWpMbWhMcDFKWG1JYVc3ZXp5cGpjd3YxbW85ZGRJX2xOMU9BRWJFWUY3UUZFNW9PTmVGZzB4UF9oYU5CTFVoT1JLMkk2MXlvX2duT3FaMFF2SG81djA2aEZHbUJuWjBFZWZlNjBsdk5sel8wR2lSOXhfMXlnc3JzYkZaeGlDd05nVm11U2FXRkxQeFF4R2d4Y25mUQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-13T04:37:19Z"
+}

@@ -1,13 +1,43 @@
 {
   "headlines": [
     {
-      "id": "7566766cb1d2",
-      "title": "Hapag-Lloyd raises outlook for third time on strong freight rates",
-      "content_summary": "Hapag-Lloyd raises outlook for third time on strong freight rates Reuters",
-      "source_name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjVEamc0U2hCbTNOcFFjYjBWMXVVQXhVSE90X0s1YzNCSXJyN3RRblRodlFjX092SFF6SUdESXh2bE5rSlpZSFF3OWRUZ182dkRFcGFXX192UktNLVNLdGVmTjFTemQzN25ZT3BLUUFmT1I3emhKUVJCNnN2dUpNTnU1eE5lS3kzVjNuTHBNdmZ5NHVWSDIydUZpLVNlZjB4QWd6WUZR?oc=5",
-      "published_at_utc": "2026-11-11T12:08:11Z",
-      "group_count": 6,
+      "id": "b3b4df627cc6",
+      "title": "Chile truckers’ strike threatens cherry exports to China",
+      "content_summary": "Chile truckers’ strike threatens cherry exports to China DatamarNews",
+      "source_name": "DatamarNews",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNldtZXhSQWtJLTd3NEktT0FkRG1PS2N4WjUxc0NQRHJZREd2aDhxQzBhOFRyb1NZZFhSdTB0ZEZESUhVSU9LSUZfUXhPaXRpdWFTaHlaVDlneGdwZkxHR2wxX0JiQ09QbkdhN1pKbFZmR3VXYWxQX0xyVUFGN0szSXp5RU5YbkZXVTdFbVZRWXdBX28?oc=5",
+      "published_at_utc": "2026-11-12T21:22:46Z",
+      "group_count": 4,
+      "insights": {}
+    },
+    {
+      "id": "02219f87f2d3",
+      "title": "Texas trucking company owner indicted in alleged scheme involving 57 unauthorized drivers",
+      "content_summary": "Texas trucking company owner indicted in alleged scheme involving 57 unauthorized drivers TheTrucker.com",
+      "source_name": "TheTrucker.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVlRRY3BjMGdLS09pLUdsRkpJQmZUVmswbXlsOTZ1SGdjaDVHMGtPa1B5YTV4OVVDbi16ZkhaUlVqdWhjYzA4dGVTdi1WV1drVXN1YkZGcHU1VFZMR2hfSW5rTFp5TGtZUXFYSC1xenNzWkJ0MW1PdWo2YWZ0TmQxWXdaWXlSV2JoMUg1Ql95eHBpOUxQcFo0NnN0N3FSZFF3V2JzUmJNRXpWQW9nSmFTWF9XUjhLMFFfZ0U3dl85aEczOHhMUnpuWHdBalNtYUZ5b3NNalFSMmU?oc=5",
+      "published_at_utc": "2026-11-12T20:48:07Z",
+      "group_count": 4,
+      "insights": {}
+    },
+    {
+      "id": "5c7962fe2105",
+      "title": "Hapag-Lloyd Raises 2026 Earnings Outlook on Strong Spot Freight Rates",
+      "content_summary": "Hapag-Lloyd Raises 2026 Earnings Outlook on Strong Spot Freight Rates Global Trade Magazine",
+      "source_name": "Global Trade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEZYMGFSLUxUMnh2OWJxdGtaTXVjaHloNVoyY0VVNnNxY0VDRzU1LVRtWlRiTEFZNUNncTcydURyVHRyMmQ2UDJWYmRNYTdlOUZLd284UVpTclk5LTY4VEVHMUIybzl0bGhwT0lqRlZ2em9Cdk1mM1JyQnVmWGNFNXV1dzFMRjNWUVNfV2pSRERXVmN5alhZc1VZSGRaQkVFN213?oc=5",
+      "published_at_utc": "2026-11-12T16:59:07Z",
+      "group_count": 4,
+      "insights": {}
+    },
+    {
+      "id": "b2a262fef072",
+      "title": "로지스올, 중국 ‘CeMAT ASIA 2026’ 참가",
+      "content_summary": "로지스올(LOGISALL)그룹이 지난 11월 3일부터 6일까지 중국 상하이에서 개최된 아시아 최대 규모의 물류·자동화 전시회 ‘CeMAT ASIA 2026’에 참가해 다양한 혁신 물류 솔루션을 선보였다.로지스올은 이번 전시에서 물류 전 과정의 표준화와 효율화를 지원하는 유닛로드시스템(Unit Load System, ULS) 기반의 다양한 물류 솔루션을 소개하며 글로벌 시장에서의 기술 경쟁력을 알렸다.전시 부스에는 글로벌 운송 이력 추적이 가능한 친환경 재생 파렛트 ‘RRPP’를 비롯해 자동차 부품 운송에 최적화된 리터너블 패키징 ‘",
+      "source_name": "한국해운신문",
+      "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333959",
+      "published_at_utc": "2026-11-13T10:50:41Z",
+      "group_count": 3,
       "insights": {}
     },
     {
@@ -17,50 +47,20 @@
       "source_name": "물류신문",
       "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323466",
       "published_at_utc": "2026-11-11T16:41:07Z",
-      "group_count": 4,
-      "insights": {}
-    },
-    {
-      "id": "072f92d94389",
-      "title": "Evergreen resumes Suez Canal transits after three years: SCA",
-      "content_summary": "Evergreen resumes Suez Canal transits after three years: SCA Shipping Telegraph",
-      "source_name": "Shipping Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm1LRlJ0eG5DaWRNNGpTaWtzVHlubVR1NFFIMWNWSXNZSjdYZW1JTjZyQ29SYlJWSUk1NHZiVEtld1pyNjQ1emJETVpTMUlnOW43eGw2cE5VZWR5OFo0ZEdRSkJ6aDNpY0VqVmtfTFJwTllKZHBVV3dsTm4zZDEybE5ZRE9Yck42TFRwYXBoN0h4S3B1VmRseHoyVFhXcF9tZ2F5UmZ4Zjc?oc=5",
-      "published_at_utc": "2026-11-12T03:16:43Z",
-      "group_count": 4,
-      "insights": {}
-    },
-    {
-      "id": "89b4cdbbc932",
-      "title": "Boluda Shipping acquires Matrans Terminal Rotterdam",
-      "content_summary": "Boluda Shipping acquires Matrans Terminal Rotterdam Shipping Telegraph",
-      "source_name": "Shipping Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXdpR0paUS15MGE1ZzlhLUpwWU1FaHVKTmt3UUZlV2g3YVU2dUdmY0lBU0VmU1hseEpUdEdwVnFlUS1ZR3lRV3hPN3VaaHI2MVM2RjNveVotSGUyM2d5YV9qaTRZTUE3TUxod2pWOWM1ek04eEpwaGJsRUtvQnY1RzFSYy1fRE9CWVB0dUtIa2sxSEIwdjJ3TkI0Mko?oc=5",
-      "published_at_utc": "2026-11-12T02:04:57Z",
-      "group_count": 4,
-      "insights": {}
-    },
-    {
-      "id": "865f0e9da52d",
-      "title": "한국해양진흥공사, 24일 ‘2026 KOBC BADA 콘퍼런스’ 개최",
-      "content_summary": "한국해양진흥공사(사장 안병길)는 오는 24일 시그니엘 부산에서 해상공급망 위기와 복원력을 주제로 ‘2026 코비씨(KOBC) 바다 콘퍼런스’를 개최한다.이번 콘퍼런스는 세계 경제와 교역 환경의 불확실성이 커지는 가운데 해상공급망의 위험 요인을 진단하고, 우리 해운 산업의 대응 전략을 모색하기 위해 마련됐다. 국내외 해운·물류·항만 분야 전문가들이 한자리에 모여 글로벌 공급망 변화와 선종별 시장 전망을 공유하고, 해양산업의 경쟁력 강화 방안을 논의할 예정이다.공급망 세션에서는 세계 경제 변화와 해상운송 경로 재편에 따른 대응 전략을",
-      "source_name": "물류신문",
-      "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323464",
-      "published_at_utc": "2026-11-11T16:41:07Z",
       "group_count": 3,
       "insights": {}
     },
     {
-      "id": "8b9bdb9b1539",
-      "title": "日 10월 PPI 전년비 7.1% 상승…예상치인 6.5% 상회(상보)",
-      "content_summary": "지난달 일본의 생산자물가 상승률이 시장 예상치를 웃돌았다.일본은행(BOJ)은 12일(현지시간) 10월 기업물가지수(생산자물가지수·PPI)가 전년 동월 대비 7.1% 상승했다고 밝혔다.이는 시장 컨센서스인 6.5% 상승을 웃도는 수치다.일본 PPI는 올해 4월부터 상승세가 가팔라져 6~8월 7%대를 기록했으나, 9월에는 6.8%로 둔화했다. 이후 10월 다시 7%대로 올라서면서 생산자물가 상승 압력이 지속되는 모습을 보였다.전월 대비로는 0.7% 상승해 9월의 0.2% 하락에서 상승세로 전환했다.품목별로 보면 석유·석탄제품 가격이",
-      "source_name": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444400",
-      "published_at_utc": "2026-11-12T11:12:55Z",
+      "id": "7e7bda661172",
+      "title": "해진공, 어업인에 6천만 원 상당 구명조끼 지원",
+      "content_summary": "한국해양진흥공사(사장 안병길, 이하 해진공)는 모든 어선 승선원의 구명조끼 착용이 의무화된 데 맞춰 어업인에게 입수 시 자동 팽창하는 구명조끼를 지원했다. 해진공은 12일 희망브리지 전국재해구호협회와 협력해 전라지역 영암군, 신안군, 무안군 등 어업인에게 약 6천만 원 상당의 구명조끼 620개를 전달했다. 이번 지원은 안전 장비 마련에 어려움을 겪는 취약계층 어업인의 해양 사고 대응력 강화와 인명 피해 예방을 목적으로 한다. 특히, 법 개정으로 강화된 어선 안전관리 방향에 맞춰 어업 현장의 안전 장비 보급을 돕는다는 점에서 의미가",
+      "source_name": "해양한국",
+      "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58143",
+      "published_at_utc": "2026-11-13T13:16:03Z",
       "group_count": 2,
       "insights": {}
     }
   ],
   "total": 6,
-  "generated_at": "2026-11-12T05:21:57Z"
+  "generated_at": "2026-11-13T04:37:19Z"
 }
