@@ -1,78 +1,78 @@
 {
   "countries": [
     {
-      "code": "KR",
-      "count": 14,
+      "code": "US",
+      "count": 13,
       "risk_level": "high",
       "articles": [
         {
-          "title": "해진공, 어업인에 6천만 원 상당 구명조끼 지원",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58143"
+          "title": "S&P500 선물, 엔비디아 실적·앤트로픽 IPO 주시하며 약보합…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444951"
         },
         {
-          "title": "한국해대 해사대학, 보양사 장학증서 전달식",
-          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58142"
+          "title": "日 증시, 엔비디아 불확실성 여파에 장 초반 하락 전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444936"
         },
         {
-          "title": "李대통령 지지율 39%·2%p↓…민주 39%·국힘 26%[한국갤럽]",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444644"
-        }
-      ]
-    },
-    {
-      "code": "GB",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Ukrainian Corn Prices Firm as Harvest Advances and Black Sea Risks Persist",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak9rX19vSHNsRy0wdmwwSjRjbDROWTFyYUtCY2plWmpPcDBfUlJDU0hzNXFqMlhLeVUxZEduQTdZLUVkQ0ptamgtbjJxZjE0T3hhV3hjRlJjUW5jaUV5NXoyOFBMZ2ZxdTVUZk5EVDlJQnBGUmRFa0VhYUJjVS1jc1psX2RKei05U3RyQ3BJT3JqRmtnZHc?oc=5"
-        },
-        {
-          "title": "Remembering the role of our ports",
-          "url": "https://www.hellenicshippingnews.com/remembering-the-role-of-our-ports/"
-        },
-        {
-          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IR",
-      "count": 8,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
-        },
-        {
-          "title": "Latest Oil Market News and Analysis for Nov. 13",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-12/latest-oil-market-news-and-analysis-for-nov-13"
-        },
-        {
-          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+          "title": "[외환] 강달러 대외여건에도 원화는 무덤덤…2.00원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444934"
         }
       ]
     },
     {
       "code": "CN",
-      "count": 8,
+      "count": 12,
       "risk_level": "high",
       "articles": [
         {
-          "title": "China Policy Bank Bonds Suffer Selloff as Tax Worries Hit Market",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-policy-bank-bonds-suffer-selloff-as-tax-worries-hit-market"
+          "title": "미·중 입항료 중단 2개월 연장, ’27년 1월 9-10일까지",
+          "url": "https://www.monthlymaritimekorea.com/news/articleView.html?idxno=58149"
         },
         {
-          "title": "China Internet Stock Gains Face Reality Check in Nvidia Fallout",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/china-internet-stock-gains-face-reality-check-in-nvidia-fallout"
+          "title": "PBOC Withdraws Medium-Term Funds in Warning Sign to Easing Bets",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/pboc-withdraws-medium-term-funds-in-warning-sign-to-easing-bets"
         },
         {
-          "title": "Canada’s Carney weighs Chinese auto investment against U.S. trade tensions, looming tariff threats",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkdDSURWSVl4YXNockdiRkpISGJ5eEdiU1gzNVNYWlhBOHk1b25udnY0d3Q1bWJKYl9QcTJ1dVUtTDBsQll1X2pJOV8zeUljbEF6X092LU9JZl9VeTd1NERkOWhiS3dISmQ5T0JqZlA1ZHAwVVpGZER3SFI1cjkxMDc4aVpacFVkRWFPVVhSTXNPNEhGQl9wMVV0UkdUUU9PZXN1SHppNURQRDZQN3AxWHZrSnJSaVlnNUQ1YW9heE1IbHF2SjM3ZA?oc=5"
+          "title": "美 러트닉 회사, 中 AI 칩 확보 도왔나…늑장규제·이해충돌 논란",
+          "url": "https://www.mt.co.kr/world/2026/11/16/2026111610400470606"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "S&P500 선물, 엔비디아 실적·앤트로픽 IPO 주시하며 약보합…美 국채금리↑",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444951"
+        },
+        {
+          "title": "[더벨]신성이엔지, ‘제1회 대한민국 장애인고용 AWARDS’ 수상",
+          "url": "https://www.mt.co.kr/stock/2026/11/16/2026111612299698075"
+        },
+        {
+          "title": "AI 안경 썼더니 \"7초 만에 정답 뚝딱\" \"다 100점\"...'AI 커닝' 초비상",
+          "url": "https://www.mt.co.kr/tech/2026/11/16/2026111610405029813"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[외환] 강달러 대외여건에도 원화는 무덤덤…2.00원↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444934"
+        },
+        {
+          "title": "정점식 \"조정식, 개헌으로 보이스피싱…이번 정부서 개헌 없다\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444920"
+        },
+        {
+          "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
         }
       ]
     },
@@ -82,54 +82,92 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "DC flags traffic congestion, drug menace and unauthorised constructions as priorities",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWU1qSzN3TkU5TWZUNHlPdzMtWjVsd0dTS2kxNUp3M3Z2T3VWNmVaUzZFcGRCbmlsMUtKWExpR19ERll1a3pfc3ZJcWZoNGVlX1I4aDV4ZU9CNnpMUVBxMzJRZUNrVTRtZ0RPaUhnME9aa2Y3REdrUXFjeU9oVFlUZ2JDZXdUbUphYno1Ulgya0xweU5YbG5ZdEhIZ0xFMkpWQzBUalVudmJxemFaeVJPbURCLThGbEZtano5NzliTEZIclNUcThGd1pVdXIzckNHdnVlWWhjMWFfNlBkTWxZeGZReGJ4blNyVV9EVW9xOTdIM3Nj0gH6AUFVX3lxTE1jNmc5T3huc0xtV0VwcWtNaHZnUkJLU29NNXpNaUtvSDdrYTZBSFVjMWhrOWNBUndIdHdjXzU4cG1KdHhET3FVR1BrWFBhTVlTX0N0ODZSVFdHZG9fYXFJbmpiS3V2MFlmall4U2xPY2RPTThxV01vU1hpZ2ZseW9reFk2bC1MME5SNEotZV9DUUpxS3ZPYjZPcmc4cGpudTU0QWo0a1pOTEVGTG9QZVBFNXNXN3N3QmFHeWJnM3JGWkZ4TEhNVGc1ekY4UEVwSDlwN1dLaEVTeUZ6QnMxODdueFdDWnJ6T1MzMS1xSzkyMVo2X2ZOTE95RGc?oc=5"
+          "title": "Aerospace Stocks Shine as Anti-AI Flows Pour Into India",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/aerospace-stocks-shine-as-anti-ai-flows-pour-into-india"
         },
         {
-          "title": "IITF: Traffic congestion likely near Bharat Mandapam from Nov 14",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORms2SVdvTjREOUNPQU5hWmgxWEVramVtNTkwOFFrWHBfS3pjRVBfR21Oc2h4NHN0LTRaTXhRM0ppVlg0QTlLUHFFN2s5MVAwNmI4a1lkYTBUbDRaeS1NcjJ4M1lneWI5NmdPcW1ST0NnMmd0SzlBeVhHY2VPMzExZnVuRnQyTU1iMWI2N2VtUk00SngzT0Jfc3pMSzJxSGxlaU43MHBiVDdiSGVLTG5DUW05VHRBVzlsQ1JRVjlrbkZFLTlWeS1MQmtrMEN1S1lMQ3fSAdcBQVVfeXFMUF91d1Jqbm9XcFlWU2JabW1IRFozNG91bm9mb1Y4cFdaUWRiU211ZHRDRURhLWp2bm5XYW5QS3o4eUEwREMzRzR2Q1h1MUpiSF9OeFliYTNsVVpvc2t0VlJubXlTRHlhS0FFSTg5dzRaVXQtZE1EWnpnUUFXZGk5cE9YRUhDNXJxUmdKdnRiZ0Vfdm5sSzh2aEJtWGNYVXk5TDNFY0NYVXhiWDhSSHJWRnZXeUY3NE5UZEgzcmtpTW1ieG1oY0wtQlhjQWFfVW13S1llSTdNTlk?oc=5"
+          "title": "India Faces a More Painful Return to Higher Interest Rates",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/india-faces-a-more-painful-return-to-higher-interest-rates"
         },
         {
-          "title": "[창간 29주년 기획 3]물류 부검 보고서, “실패 흔적을 기록하다”, 부검보고서로 본 원인과 해답",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323484"
+          "title": "'Addressing existing threats': Yemeni forces withdraw from Bab el-Mandeb as Houthis cement foothold",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSzh4REhWUHFRNU9nMk1ZR2tVbzk5RGNYSmI4RC15blo0X2N2N3VsQVh0Mm1HbGNsLXNXc0VpRllGN1U0cTIyUlFVUGZ4UUxXZTUwdXhRQUpaNzZ5VU1lLWZ2R2YxcHUwRm9ZQWU2NzhnUE5mTG8wbFVsblItcjhURnR0V3J4VnJmV2FrSnhHa3o3ZGk3eVYwX21mWHlUbFlRbEhWeDlXeE5KVEtXbjQ3YUNJT3BRckdCczdVUTZ4RDB3ZXJjNldVcjlwSDNvZjlpMDRtME5TLUxHaVNwbUxsdkgwRDl2c3BLVUtjdEoteDhBR3pPMXFfNUd5SnVzUnVuUThZeEJkRdIBjAJBVV95cUxPT1hIekpnNGpUdlJWN2RMMUpsZF9VQTBxMmEyZ0FLem96Z2RvWWUzN1pHQXkwd3R1NDZZNzc5WklUUnU5Y1hocFF2UUlMQ1cyVEZHLTlBenAwemtvYzFYMmd3cGZpeXpMaUtudUM1aXVYUmxFNjh2dGVoRVBWNnFWM09sbmhFTENpXzFQenpLZXQ5bTN2Q1paSGVFc2ZxTFF3ZEhzbW82TWVuX3dlRVN3dzhqRzBWY2JwMk9xaUlwNVJFNVQxQ3otdFJBZjVBT2pHVkVnUnNzUWFUSG9rV1J3UjkwTHFNN2N2WWZWeUR4R290dXpjbHRDRmdzM0YzU1ZrUmZfWkJzcWZjb01s?oc=5"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 6,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
-        },
-        {
-          "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html"
-        },
-        {
-          "title": "Peace talks end with prisoner exchange as Russia strikes ships and Ukraine attacks Ust-Luga port",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNalgxTHZwRFNXRm5aNVBYX1VOZ1hUT09HaDMyTGVyQlZiVmdSa0JTY0lsOFo5Tk5nRTNJVFZlQU9IU3dWRmpVdjJaT3hPZ0VZdnN2QWpScVhlNGJESVpqQnlDY3FJYWdVaDZ6Z3lQS2ZqTEZHSmxSY3lDXzFZZnhTemxlSTdheFBydUVXRWNvX2VGOVZQMVkwamt5WFRlYm5ibWZUR1ZaOThQSVhxVThfdlRaUXBiM3JsNWNOTTFVNndhSGNFVEluaVdpRFBoc05FM0VyZ0lZdUE0b18zMExMSTlDZm0?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "US",
       "count": 5,
       "risk_level": "high",
       "articles": [
         {
-          "title": "10년 국채선물, 美 금리 급등 속 80틱 급락(종합)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444639"
+          "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video"
         },
         {
-          "title": "Hungarian economy shifting towards export prioritisation",
-          "url": "https://aircargoweek.com/hungarian-economy-shifting-towards-export-prioritisation/"
+          "title": "Russia strikes logistics center in Zaporizhzhia",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnlmbGx1QWlUY2FGa3ZieFU0SHI1QzVQcUhfX3JkdEdMV0hkdm9lalRVempFOXdGVE1kOXpWc1FVMFQ4ZVVvTUFRNVJwUi1oS3hoWlVPblplSDlJOHJJMEJscXZ5YmlfYm1zQll6b3hXM2ZRaERrQ0xOTVdtTm5PTlpHWFlGRnJTbWgzeDJIMll6MlRfVEZF?oc=5"
         },
         {
-          "title": "KCCI Flat as Americas, Europe Routes Decline in Off-Season",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnRIOVpjRkd6RTFmQ1d2dk1yZW15MWE1RGZYTzlBSTFqNUZWWFVkMHhUNHdfWkpPX25nblQyWkY1TE9CM1JLZS1hNnVKSk1jaDNpQlM4Wm9yNWVfbFNVQ1BoR01uU2ZtOGl3MDdBWktIX3lwLWViUWYtTWNlQkQ2SVk3cUJWSlZy?oc=5"
+          "title": "Ukraine Strikes Six Bridges Along Critical Russian Military Supply Route to Crimea in Just Six Weeks",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmhPTmNwaXlOQ20tQUl0SFpSQmc3VHNiRm1ZMk9pVHVqRDEwd0x4REpxRjJndVhycDFlYmJ4SHh1UWtfVWlIakpsdDhuT2M5RlJnbS1JLXZHdlhHcGxPc0RJamdoeHl0YXJuellreWVFT3JNWHpEMnNCVWFQN2cxemlQT3IyX2dtUmlRRmR1TmoxeUhJeVBQMTBxT0xWOU9MRVo0NzEzTWVJS2tnMVBGd29Pa2lSRkw4MWZNakpFTlozc3dMWkFFSnB4bG5DZzhIWFBUTFBWM3VGVjFJcldEQw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video"
+        },
+        {
+          "title": "Ukraine Faces Daily Losses of $50 to $60 Million Due to Odesa Port Closure",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmF2TFRXdml0RktDRG5wMllUVkFDRzNpWkUwRjJSWHJ0Y2luQ2liTkFWSDRZeE4ybHZmUVZUYnZfNFg5SlMtVnJVUUQza0lEX1d1WFVsQUFzTVU2dUMxbTRUYUV2aEs0SUdRVkFCTmNjMWIwbTd1ZWR2aFJLV2NnQUwyUzRfaUxRT2dNblM3RmtZTUlGUFNqQlk4U1Q2TW02Ti10SHlVNDBrTUNlS0tJ?oc=5"
+        },
+        {
+          "title": "Ukraine Strikes Six Bridges Along Critical Russian Military Supply Route to Crimea in Just Six Weeks",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmhPTmNwaXlOQ20tQUl0SFpSQmc3VHNiRm1ZMk9pVHVqRDEwd0x4REpxRjJndVhycDFlYmJ4SHh1UWtfVWlIakpsdDhuT2M5RlJnbS1JLXZHdlhHcGxPc0RJamdoeHl0YXJuellreWVFT3JNWHpEMnNCVWFQN2cxemlQT3IyX2dtUmlRRmR1TmoxeUhJeVBQMTBxT0xWOU9MRVo0NzEzTWVJS2tnMVBGd29Pa2lSRkw4MWZNakpFTlozc3dMWkFFSnB4bG5DZzhIWFBUTFBWM3VGVjFJcldEQw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 5,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Yemen: Anti-Houthi forces pull back from Bab el-Mandeb Strait as rebels advance towards Aden",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS1tSGlzRkpkUW5oZzB4LTdKQllabHFIOUczNV9WeXMwLWJJOEhTN2RaQVVKbGowMjdMbXFydkluV0VUcDZ4OS1SNXd0azJXVmhZMjVtZDBGZjFZakR6Z05xajNRQ0JKandKYklnbVJ5YnFrbXFtbzhWZnlIZTZoLVY4UVVnSUVOMk5KOWV30gGOAUFVX3lxTE4xUFgzZURkM3gtYjlndThTLXk0WUVpT1VsTVJqeUVZbE5RUHRYdWtJUFVFM0hUcWlMcGVkcGJxSVlYTWNwVTd3NVo2ZXBKQW1YU3VEV3pXelY3VThVSzZGYk9SQm4xZWt4aGRMLWtuYUN1dkl6SUhIZnQwd1JhT0s1UDhDbERCb3oyMUtmYnc?oc=5"
+        },
+        {
+          "title": "Major Red Sea strait falls under full Houthi control as Yemeni forces retreat",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVg1SDVYaGJ2NVNhVnQxMEM4dU1FX3EyelA1QTl6aTZiMmhmTXIzWkVPbzJkaEpYTy1aU0dUdUxUYjRCUlQxREhpcUVPQnl0ZE1LcU5jQ1pOTnBhdkhLcGc3MmppdzMzVG9JRnBacS1RQ3JrVXBIU0ZMaG5XbVJJcVJZOXA4UUtjYWJIRlNIOC04OUdBSlFReHY1S29KQ1AxTl91dnRqYlNCUUhCcVVFZDUwWGk2TjlnOHdB?oc=5"
+        },
+        {
+          "title": "Yemeni government force retreats from strait in major setback in war against Houthis",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "日 증시, 엔비디아 불확실성 여파에 장 초반 하락 전환",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444936"
+        },
+        {
+          "title": "[오늘 외환딜러 환율 예상레인지]",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444911"
+        },
+        {
+          "title": "Investors Return to JGBs as Rate Outlook Shifts, SMBC Nikko Says",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/investors-return-to-jgbs-as-rate-outlook-shifts-smbc-nikko-says"
         }
       ]
     },
@@ -139,83 +177,50 @@
       "risk_level": "medium",
       "articles": [
         {
-          "title": "Barley Market Risks Rise as Russian Strikes Hit Ukraine’s Food Industry",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1FRdjVpaXIzN19MZzRHQ3JtZl8tNy1HSUVlc0V2aUlPUjVMeWtjYTVRTHNmdXdYNFpyekNXbG9kajNsN1pMb0N3WUZPYTNfVE1wSWg0Y0xadzY5WHJ5WXFBWVNtV210SGplOHAxcWZQYjN1bmFad1dhWFFUMUozSlAzUFNSakotY1Vkak54eldmRm5pT1AxcVEwbHg?oc=5"
+          "title": "Trump, Xi and Putin Set for Rare APEC Trilateral Talks",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-16/trump-xi-and-putin-set-for-rare-apec-trilateral-talks-video"
         },
         {
-          "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-          "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html"
+          "title": "Ukraine Faces Daily Losses of $50 to $60 Million Due to Odesa Port Closure",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmF2TFRXdml0RktDRG5wMllUVkFDRzNpWkUwRjJSWHJ0Y2luQ2liTkFWSDRZeE4ybHZmUVZUYnZfNFg5SlMtVnJVUUQza0lEX1d1WFVsQUFzTVU2dUMxbTRUYUV2aEs0SUdRVkFCTmNjMWIwbTd1ZWR2aFJLV2NnQUwyUzRfaUxRT2dNblM3RmtZTUlGUFNqQlk4U1Q2TW02Ti10SHlVNDBrTUNlS0tJ?oc=5"
         },
         {
-          "title": "Peace talks end with prisoner exchange as Russia strikes ships and Ukraine attacks Ust-Luga port",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNalgxTHZwRFNXRm5aNVBYX1VOZ1hUT09HaDMyTGVyQlZiVmdSa0JTY0lsOFo5Tk5nRTNJVFZlQU9IU3dWRmpVdjJaT3hPZ0VZdnN2QWpScVhlNGJESVpqQnlDY3FJYWdVaDZ6Z3lQS2ZqTEZHSmxSY3lDXzFZZnhTemxlSTdheFBydUVXRWNvX2VGOVZQMVkwamt5WFRlYm5ibWZUR1ZaOThQSVhxVThfdlRaUXBiM3JsNWNOTTFVNndhSGNFVEluaVdpRFBoc05FM0VyZ0lZdUE0b18zMExMSTlDZm0?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets"
-        },
-        {
-          "title": "Japan's Cosmo Energy eyes steady Middle East oil imports for 2027 despite disruptions",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1lucGNPaFY1RmhYQkpVUnB1b3REMkhhQnFWQW9CcmZxVy0tNmltUklHU3VvdXlqeHZwRUw3dDlPV0ZqTVRmTnlOOTlJa2hITVluZlQ1WTgzOVBsM3lGaGpESHhaS2RqTXJBZWhZa2lrT1M3OGhDc1pPOElobXVZTU5SYTNfZnMtRVpTVHNEN2N4WU5DR1lTSVZrYnZSWi13UEhmX2JheVhhX1dPeWh1ZmFRZHBlS2o3eGFzZ3Y5X3BJOEZiMTBMcmtoa9IB2AFBVV95cUxNNjJQZVE2Sk1NVDlyNVVmNnRybkd0SDJkVmk4aVAwRWxpVDJHSERaTmlvcnFBUHQ5c0JoZlRCeDVLUzV1WWJuTUsxTzBSMU9uUGRMd1Z1Z2FrZFdvTGRDZWhlVmtmR3ZMV3pjdU1hMm9qVzlfQ2h5bmdqY0wxc2JwZWJ0RjctVjhPNHRHeWtoSWhiSkhLY1JCWXNyNG1xQ2VnZTA1ZUFLWUZaaTdLb2wtN281emh4ZThBZ1NLbmNnb2R5MHBJTjdyZGhxaWdZbDlwMlplWjV4VVg?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "SG",
-      "count": 2,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "MPA opens applications for LNG floating storage unit licences",
-          "url": "https://container-news.com/mpa-opens-applications-for-lng-floating-storage-unit-licences/"
-        },
-        {
-          "title": "Air cargo puts tech to work on missed flights, delays, and wasted capacity",
-          "url": "https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/"
-        }
-      ]
-    },
-    {
-      "code": "AE",
-      "count": 1,
-      "risk_level": "low",
-      "articles": [
-        {
-          "title": "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVA2LWE5ekxkcGtUU2Y1b2dTSEZTZHhHeF9GeWM0NFNla3BrSVJFT25SWDdwQjNPbGRPNFRKOU5EYXN6QXdvLW41dEFFWmlxcFNQSGtmVnlFRGdCY3dvWVJKYjJWLThpcjFqWDYzVjNQM2ZNeVRKbzNuSGVnQXRzNTFQcngtd0E?oc=5"
+          "title": "Ukraine Strikes Six Bridges Along Critical Russian Military Supply Route to Crimea in Just Six Weeks",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbmhPTmNwaXlOQ20tQUl0SFpSQmc3VHNiRm1ZMk9pVHVqRDEwd0x4REpxRjJndVhycDFlYmJ4SHh1UWtfVWlIakpsdDhuT2M5RlJnbS1JLXZHdlhHcGxPc0RJamdoeHl0YXJuellreWVFT3JNWHpEMnNCVWFQN2cxemlQT3IyX2dtUmlRRmR1TmoxeUhJeVBQMTBxT0xWOU9MRVo0NzEzTWVJS2tnMVBGd29Pa2lSRkw4MWZNakpFTlozc3dMWkFFSnB4bG5DZzhIWFBUTFBWM3VGVjFJcldEQw?oc=5"
         }
       ]
     },
     {
       "code": "SA",
-      "count": 1,
-      "risk_level": "low",
+      "count": 2,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "Saudi Cabinet Calls for Immediate End to Threats in Hormuz and Bab al-Mandeb",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05R1VYbjJfWEU1Y2dqYm5NRXdKZzh1MW9zZ3hEUkJ1bXpVaHRTajRjbnZadG8zQlJ5V2ZWMEdSazhydXNDaG9kUzVRVlZsYk1hS1JiTldja3FSTTR3Vm9ldy1PbERGWUpBRUpVMjdSSkxhbW8?oc=5"
+          "title": "Saudi Arabia: Amazon warehouse workers still facing exploitation despite company initiatives",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtzbnVpaXhWQ2N5ZmJHQ0ZSdWs2QndSX0pBT2NIM2xZbmh3M0MteTdhTGlySXdVSXhXVGZDWDFjLUdrQlBGSmdkTDVFdW0wdF9VTE5CY3NKbWFCQ3NkM3VMU0JVRnp4Wm5VRmxxTEtfZUdIQ1pkNGlSSmdwMnBOazR0Vml1eE9SY3hDc2V3cXNCM25wNk5NMkc1SENocGFFRTVWWkxWMnMzYXdETDBtZA?oc=5"
+        },
+        {
+          "title": "Saudi Arabia Keeps Inflation in Check Despite Geopolitical Tensions and Global Trade Disruptions",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkFwUjlTbFFmOUtlN2R4R2ktd2pjUThLbS14c3dLa3pha19xazZUU1lSVzk4Mzg2Uk9ha253dG9PVEVxTmQzcTlWclFuZXdzVF9oN3o3b0JHcE1MU2RwUi1faWktdTc1M0lXNldVbHAyUDIyRktDejNFeERJd18zajdkblJTc0s5UDhiR1d2b0k1bklMSXRmNUN6d2VmdlNNTUR2RGpGaFhpV1VraDdmU1pzellReDF4V2xwZnROQmZtWVU?oc=5"
         }
       ]
     },
     {
       "code": "FR",
-      "count": 1,
-      "risk_level": "low",
+      "count": 2,
+      "risk_level": "medium",
       "articles": [
         {
-          "title": "France Warns US Trade Policy Unlikely to Change After Midterms",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2JpUzNkNnhIU1U1U19YaUdTc2tfVzNkWWpMbWhMcDFKWG1JYVc3ZXp5cGpjd3YxbW85ZGRJX2xOMU9BRWJFWUY3UUZFNW9PTmVGZzB4UF9oYU5CTFVoT1JLMkk2MXlvX2duT3FaMFF2SG81djA2aEZHbUJuWjBFZWZlNjBsdk5sel8wR2lSOXhfMXlnc3JzYkZaeGlDd05nVm11U2FXRkxQeFF4R2d4Y25mUQ?oc=5"
+          "title": "France calls for added pressure on Houthis to end ‘unacceptable attacks’",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT21sVy1MamtYVWdXMUptU0NCZVY2RUJOUmZwNk1KS3J4Y1hkdjRWQjFwVVNTbmlQcE9INExfRlhJbi1yc0paWFdkamRua3czN2F1Y3J0OXNSRFIxMjVTRkRwUnIxa2xRVWFSNGpEaC1WYzZCQVlOZ3N2RVhzdk5GajUydnM0YWFyeG80dHN3VQ?oc=5"
+        },
+        {
+          "title": "French public sector unions call nationwide strike for 17 November",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1V1N0swaDZZaW5rRGtXdUdyQWM4M2tJUzl5VjhKMUlRWnlDNGQwalVhcnJMVXJrSkhZYkkyck9kbTU1RHNDR2tnWDRNT1NWbFFXdWRRZTR1TEJxcHY2VnhZVVdhZmdONDFURjE1REpHSHF4aDNEeVY0SVAzZmRicGx2ekExaVVmNTF3eWdVYw?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 13,
-  "generated_at": "2026-11-13T04:37:19Z"
+  "total_crisis_countries": 12,
+  "generated_at": "2026-11-16T04:16:18Z"
 }
