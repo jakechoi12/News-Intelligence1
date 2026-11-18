@@ -2,76 +2,141 @@
   "keywords": [
     {
       "text": "suez canal",
-      "count": 24,
+      "count": 37,
+      "size": 100
+    },
+    {
+      "text": "in october",
+      "count": 25,
       "size": 100
     },
     {
       "text": "strait of",
-      "count": 18,
+      "count": 23,
       "size": 100
     },
     {
       "text": "of hormuz",
+      "count": 23,
+      "size": 100
+    },
+    {
+      "text": "south china",
+      "count": 22,
+      "size": 100
+    },
+    {
+      "text": "and hapag-lloyd",
       "count": 18,
       "size": 100
     },
     {
-      "text": "middle east",
+      "text": "bab el-mandeb",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "maersk and",
+      "count": 18,
+      "size": 100
+    },
+    {
+      "text": "plans to",
+      "count": 17,
+      "size": 100
+    },
+    {
+      "text": "to suez",
       "count": 17,
       "size": 100
     },
     {
       "text": "spot rates",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "calls for",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "in 2027",
+      "count": 16,
+      "size": 100
+    },
+    {
+      "text": "to expand",
       "count": 15,
       "size": 100
     },
     {
-      "text": "traffic congestion",
+      "text": "black sea",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "red sea",
+      "count": 15,
+      "size": 100
+    },
+    {
+      "text": "el-mandeb strait",
       "count": 14,
       "size": 100
     },
     {
-      "text": "yemeni forces",
+      "text": "and statistics",
       "count": 14,
       "size": 100
     },
     {
-      "text": "south china",
+      "text": "and new",
       "count": 14,
-      "size": 100
-    },
-    {
-      "text": "new york",
-      "count": 13,
-      "size": 100
-    },
-    {
-      "text": "bab el-mandeb",
-      "count": 12,
-      "size": 100
-    },
-    {
-      "text": "ground stop",
-      "count": 12,
       "size": 100
     },
     {
       "text": "peak season",
-      "count": 11,
+      "count": 13,
       "size": 100
     },
     {
-      "text": "ahead of",
-      "count": 11,
-      "size": 100
-    },
-    {
-      "text": "forces retreat",
-      "count": 10,
+      "text": "of new",
+      "count": 13,
       "size": 100
     },
     {
       "text": "in strait",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "ahead of",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "york and",
+      "count": 12,
+      "size": 100
+    },
+    {
+      "text": "american journal",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "yemeni forces",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "authority of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "growth in",
       "count": 10,
       "size": 100
     },
@@ -81,37 +146,42 @@
       "size": 100
     },
     {
-      "text": "to suez",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "red sea",
-      "count": 10,
-      "size": 100
-    },
-    {
-      "text": "in october",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "black sea",
-      "count": 9,
-      "size": 90
-    },
-    {
-      "text": "dp world",
-      "count": 9,
-      "size": 90
-    },
-    {
       "text": "part of",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "on year",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "due to",
+      "count": 10,
+      "size": 100
+    },
+    {
+      "text": "capacity and",
       "count": 9,
       "size": 90
     },
     {
-      "text": "el-mandeb strait",
+      "text": "the loadstar",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "ai chips",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "the same",
+      "count": 9,
+      "size": 90
+    },
+    {
+      "text": "the international",
       "count": 8,
       "size": 80
     },
@@ -136,17 +206,32 @@
       "size": 80
     },
     {
-      "text": "bab al-mandeb",
+      "text": "the houthis",
       "count": 8,
       "size": 80
     },
     {
-      "text": "authority of",
+      "text": "to acquire",
       "count": 8,
       "size": 80
     },
     {
-      "text": "earlier than",
+      "text": "long beach",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "three more",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "baltic dry",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "hit record",
       "count": 8,
       "size": 80
     },
@@ -156,42 +241,102 @@
       "size": 80
     },
     {
-      "text": "as yemeni",
+      "text": "dp world",
       "count": 8,
       "size": 80
+    },
+    {
+      "text": "the bab",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "year on",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "how to",
+      "count": 8,
+      "size": 80
+    },
+    {
+      "text": "statistics indexbox",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ship & bunker",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "in september",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "services to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "ground stop",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "€8 billion",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "access to",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "china and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "group and",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "steps up",
+      "count": 7,
+      "size": 70
+    },
+    {
+      "text": "of their",
+      "count": 7,
+      "size": 70
     },
     {
       "text": "over the",
-      "count": 8,
-      "size": 80
-    },
-    {
-      "text": "faa ground",
       "count": 7,
       "size": 70
     },
     {
-      "text": "전년 동기 대비",
+      "text": "to boost",
       "count": 7,
       "size": 70
     },
     {
-      "text": "york and",
+      "text": "to more",
       "count": 7,
       "size": 70
     },
     {
-      "text": "and new",
+      "text": "in its",
       "count": 7,
       "size": 70
     },
     {
-      "text": "to ease",
-      "count": 7,
-      "size": 70
-    },
-    {
-      "text": "of new",
+      "text": "on ai",
       "count": 7,
       "size": 70
     },
@@ -201,27 +346,47 @@
       "size": 60
     },
     {
-      "text": "overseas chemical",
+      "text": "geopolitical risks",
       "count": 6,
       "size": 60
     },
     {
-      "text": "government forces",
+      "text": "maritime executive",
       "count": 6,
       "size": 60
     },
     {
-      "text": "머니투데이 thebell'에",
+      "text": "traffic congestion",
       "count": 6,
       "size": 60
     },
     {
-      "text": "자본시장 미디어 '머니투데이",
+      "text": "hormuz disruption",
       "count": 6,
       "size": 60
     },
     {
-      "text": "50% spike: spot",
+      "text": "hapag-lloyd move",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "“sleeping giant”",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "restrictions on",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "gemini services",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "인천항만공사(ipa, 사장",
       "count": 6,
       "size": 60
     },
@@ -236,12 +401,17 @@
       "size": 60
     },
     {
-      "text": "first overseas",
+      "text": "than expected",
       "count": 6,
       "size": 60
     },
     {
-      "text": "thebell'에 출고된",
+      "text": "hull cleaning",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "bab al-mandeb",
       "count": 6,
       "size": 60
     },
@@ -251,27 +421,12 @@
       "size": 60
     },
     {
-      "text": "than expected",
+      "text": "2.67 million",
       "count": 6,
       "size": 60
     },
     {
-      "text": "maritime and",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "soar earlier",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "rates plunge",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "record highs",
+      "text": "million teus",
       "count": 6,
       "size": 60
     },
@@ -281,12 +436,42 @@
       "size": 60
     },
     {
-      "text": "ease traffic",
+      "text": "continue to",
       "count": 6,
       "size": 60
     },
     {
-      "text": "the houthis",
+      "text": "eu approves",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "more gemini",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "services in",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "rates still",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "robinson is",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "climbing as",
+      "count": 6,
+      "size": 60
+    },
+    {
+      "text": "record 2.67",
       "count": 6,
       "size": 60
     },
@@ -296,27 +481,12 @@
       "size": 60
     },
     {
-      "text": "los angeles",
+      "text": "of hamburg",
       "count": 6,
       "size": 60
     },
     {
-      "text": "from record",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "16일 밝혔다.이번",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "control of",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "as premier",
+      "text": "budget for",
       "count": 6,
       "size": 60
     },
@@ -326,181 +496,11 @@
       "size": 60
     },
     {
-      "text": "rates slip",
+      "text": "global gsa",
       "count": 6,
       "size": 60
-    },
-    {
-      "text": "east coast",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "houthis in",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "of hamburg",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "canal as",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "iron ore",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "surge as",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "near bab",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to find",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "to take",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "is the",
-      "count": 6,
-      "size": 60
-    },
-    {
-      "text": "해양수산부(장관 황종우)는 11월",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "maritime executive",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the international",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "american journal",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "under pressure",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "fuel surcharge",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the company’s",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "$10.3 billion",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "continues to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "capacity and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "booking and",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "the fastest",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "pressure on",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "al jazeera",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "baltic dry",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "october as",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "in hormuz",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "access to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "months of",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "in first",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "stake in",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "plans to",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "has paid",
-      "count": 5,
-      "size": 50
-    },
-    {
-      "text": "paid off",
-      "count": 5,
-      "size": 50
     }
   ],
-  "total_keywords": 23931,
-  "generated_at": "2026-11-17T06:02:55Z"
+  "total_keywords": 28722,
+  "generated_at": "2026-11-18T05:32:20Z"
 }
