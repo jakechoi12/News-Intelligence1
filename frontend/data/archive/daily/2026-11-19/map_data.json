@@ -1,0 +1,221 @@
+{
+  "countries": [
+    {
+      "code": "CN",
+      "count": 15,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "10월 中 매출 2.2배 뛴 스노우피크, 한중 FTA 타고 전역 출점 가속",
+          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111914022977599"
+        },
+        {
+          "title": "DHL launches new China–India–Europe air freight service",
+          "url": "https://container-news.com/dhl-launches-new-china-india-europe-air-freight-service/"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "원화 10% 절상하면 가구당 생활비 16만5천원 절감…수출기업 채산성은 악화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445540"
+        },
+        {
+          "title": "'남자판' 메가 온다! KB, V리그 남자부 1호 인도네시아 선수 '보이' 영입... 탄력에 기본기 갖춘 'AVC컵 MVP'",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111911551350514"
+        },
+        {
+          "title": "원/달러 환율 10% 떨어지면 가구당 생활비 16만원 절감",
+          "url": "https://www.mt.co.kr/economy/2026/11/19/2026111910464745004"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "[외환] 매파 FOMC에도 강한 원화…1,320원대 후반으로 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445513"
+        },
+        {
+          "title": "AI 기업 '부도 위험'에 베팅하는 ETF 등장…코어위브·오라클 겨냥",
+          "url": "https://www.mt.co.kr/world/2026/11/19/2026111911290589480"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "벤츠 코리아, 전기 SUV '디 올-뉴 일렉트릭 GLB' 국내 출시",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445523"
+        },
+        {
+          "title": "DHL launches new China–India–Europe air freight service",
+          "url": "https://container-news.com/dhl-launches-new-china-india-europe-air-freight-service/"
+        },
+        {
+          "title": "'남자판' 메가 온다! KB, V리그 남자부 1호 인도네시아 선수 '보이' 영입... 탄력에 기본기 갖춘 'AVC컵 MVP'",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111911551350514"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 8,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Labour shortages and high logistics costs constrain Ukrainian apple exports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1Q2YTZUSmIxQmV1cHRjZXBtSjRFMGVEaHMzLWhFMFVVWkxieGhHaUt3SjhBbGxEbjJ4eGl4OWJLX2F0Z1lKZzNDUzhDdEtpbG1IcHJ1bmkwcUowaVFDb2I0djFmNFVHZGp1RjhUZjFDUnQyN0R2VlFCZVpxZE5ELUhjZjNTelJoMzU5S050UG80dkxKZXBlN1FJcGdqaVcyZURXN0NtOUNIcG5uU3p1dg?oc=5"
+        },
+        {
+          "title": "Ukrainian apple exports face mounting pressure from labour shortages and logistics costs",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRvR01ybUxubTFCTEYzYTBadW8wbUY4VXRBdXZzdFBYNjRtbXZVSEUyYzBDekRma0RaaE12M1hGX1RRWkcwVjNmUHBQVWs1bWdwWDJnRVFqZDN1aS1WTHhtN2t4VHpOeVVqalJpbTM5WWxOUVR1Q3ZRcjgwejRONzlXdGdtZmZZQ0VNaTMxNGV2cE1Qc0dLUUdqQ1hUMlUyeklYWndpelpxWlZ5WDdFcjhuZENxZ1RHZnE4UnJ0SlhCZlNUcHAzQWtIMTYtWGZJc3ROdGJ1VThSU0tITE9n?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+          "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
+        },
+        {
+          "title": "Middle East latest: Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5"
+        },
+        {
+          "title": "Latest Oil Market News and Analysis for Nov. 19",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "CEVA Logistics and SIT launch AI and robotics lab in Singapore",
+          "url": "https://container-news.com/ceva-logistics-and-sit-launch-ai-and-robotics-lab-in-singapore/"
+        },
+        {
+          "title": "CEVA Logistics and Singapore Institute of Technology launch warehouse automation innovation lab",
+          "url": "https://aircargoweek.com/ceva-logistics-and-singapore-institute-of-technology-launch-warehouse-automation-innovation-lab/"
+        },
+        {
+          "title": "AI rewires finance as geopolitical risks intertwine",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "French Risks Have Traders Betting Euro’s Slide Is Far From Over",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency"
+        },
+        {
+          "title": "French ports face shutdown in 17 November national strike",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVg1ZWM1V1NNdzVWT0dkWGV6a3NqN2g3QWtNb0Q0V181YmFxbHNaVEw5bW1lZHhQTm91YVVvQnB4ZmppeUo4MlNfa0M2dWhqblUwX1NvcnppX3l6VGY3cWphTUlYeUY1ZGJBRnFCejc3WlBqTTk1U2k0cGM4eFRWR3RZbXBobzFRMFhlanhUUE1Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Russian attacks and logistics squeeze Ukraine’s rapeseed market",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzY0X2d5dE5ETUJRVHUtTnVsa1hSUURoRXNPNG1RcmFDSlp2N0hUaHZoLWowdnZkeHZVZ195U19JT0JXSmYtNElfOEUySm45VUZsTmxrQVg2NFZIcENGQmRBZzZiZXNwUHdZMmF1azhEa24xVzZUZGRPREdDLTZfWnRiMF9lTFFJWnpZOG5WZVJPYmVzU21PTUpB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Saudi Arabia Prepares for Prolonged Yemen Campaign as Houthi Gains Threaten Aden and Global Shipping",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdGh0bUxUVlREV0p0dmJzMnEtd1ppVGs3TnhndnQ3T0x4QTZEQjhSS091d0U2dDIzUmdCRnNUV0tXNjVmeW9PbVMxMVBFNzJ4Z1k3WHEwbnNnRWsybmIzcjZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Saudi Arabia Prepares for Prolonged Yemen Campaign as Houthi Gains Threaten Aden and Global Shipping",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdGh0bUxUVlREV0p0dmJzMnEtd1ppVGs3TnhndnQ3T0x4QTZEQjhSS091d0U2dDIzUmdCRnNUV0tXNjVmeW9PbVMxMVBFNzJ4Z1k3WHEwbnNnRWsybmIzcjZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-19T05:29:28Z"
+}

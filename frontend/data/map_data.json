@@ -1,97 +1,116 @@
 {
   "countries": [
     {
-      "code": "KR",
-      "count": 16,
+      "code": "CN",
+      "count": 15,
       "risk_level": "high",
       "articles": [
         {
-          "title": "KOMSA고흥, 겨울 대비 합동 점검",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=334026"
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
         },
         {
-          "title": "삼성바이오 노조, 한국노총 가입…찬성률 88%",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445360"
+          "title": "10월 中 매출 2.2배 뛴 스노우피크, 한중 FTA 타고 전역 출점 가속",
+          "url": "https://www.mt.co.kr/stock/2026/11/19/2026111914022977599"
         },
         {
-          "title": "상장사 절반 이상 3분기 적자…석 달 새 424곳 늘어",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445352"
+          "title": "DHL launches new China–India–Europe air freight service",
+          "url": "https://container-news.com/dhl-launches-new-china-india-europe-air-freight-service/"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 12,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "원화 10% 절상하면 가구당 생활비 16만5천원 절감…수출기업 채산성은 악화",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445540"
+        },
+        {
+          "title": "'남자판' 메가 온다! KB, V리그 남자부 1호 인도네시아 선수 '보이' 영입... 탄력에 기본기 갖춘 'AVC컵 MVP'",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111911551350514"
+        },
+        {
+          "title": "원/달러 환율 10% 떨어지면 가구당 생활비 16만원 절감",
+          "url": "https://www.mt.co.kr/economy/2026/11/19/2026111910464745004"
         }
       ]
     },
     {
       "code": "US",
-      "count": 12,
+      "count": 9,
       "risk_level": "high",
       "articles": [
         {
-          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
         },
         {
-          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
+          "title": "[외환] 매파 FOMC에도 강한 원화…1,320원대 후반으로 하락",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445513"
         },
         {
-          "title": "KPMG \"美 전산장애 사태, 결국 연준이 막아야 할 인플레이션\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445348"
+          "title": "AI 기업 '부도 위험'에 베팅하는 ETF 등장…코어위브·오라클 겨냥",
+          "url": "https://www.mt.co.kr/world/2026/11/19/2026111911290589480"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 9,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "벤츠 코리아, 전기 SUV '디 올-뉴 일렉트릭 GLB' 국내 출시",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445523"
+        },
+        {
+          "title": "DHL launches new China–India–Europe air freight service",
+          "url": "https://container-news.com/dhl-launches-new-china-india-europe-air-freight-service/"
+        },
+        {
+          "title": "'남자판' 메가 온다! KB, V리그 남자부 1호 인도네시아 선수 '보이' 영입... 탄력에 기본기 갖춘 'AVC컵 MVP'",
+          "url": "https://www.mt.co.kr/sports/2026/11/19/2026111911551350514"
         }
       ]
     },
     {
       "code": "GB",
-      "count": 10,
-      "risk_level": "high",
-      "articles": [
-        {
-          "title": "\"트럼프, 선거패배 후 '경제참모 실종'…외교로 눈 돌리는 레임덕 패턴\"",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445350"
-        },
-        {
-          "title": "Black Sea Grain Trade Shifts to the Baltic",
-          "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
-        },
-        {
-          "title": "Fresh tanker attack in Hormuz highlights ongoing threats facing Gulf shipping",
-          "url": "https://www.hellenicshippingnews.com/fresh-tanker-attack-in-hormuz-highlights-ongoing-threats-facing-gulf-shipping/"
-        }
-      ]
-    },
-    {
-      "code": "CN",
       "count": 8,
       "risk_level": "high",
       "articles": [
         {
-          "title": "Xi Warns Against ‘Rampant’ Protectionism Before Trump Talks",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/xi-warns-against-rampant-protectionism-ahead-of-trump-talks"
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
         },
         {
-          "title": "FESCO, 러 남부지역 철도운송 강화",
-          "url": "http://www.cargonews.co.kr/news/articleView.html?idxno=61250"
+          "title": "Labour shortages and high logistics costs constrain Ukrainian apple exports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1Q2YTZUSmIxQmV1cHRjZXBtSjRFMGVEaHMzLWhFMFVVWkxieGhHaUt3SjhBbGxEbjJ4eGl4OWJLX2F0Z1lKZzNDUzhDdEtpbG1IcHJ1bmkwcUowaVFDb2I0djFmNFVHZGp1RjhUZjFDUnQyN0R2VlFCZVpxZE5ELUhjZjNTelJoMzU5S050UG80dkxKZXBlN1FJcGdqaVcyZURXN0NtOUNIcG5uU3p1dg?oc=5"
         },
         {
-          "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-          "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+          "title": "Ukrainian apple exports face mounting pressure from labour shortages and logistics costs",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRvR01ybUxubTFCTEYzYTBadW8wbUY4VXRBdXZzdFBYNjRtbXZVSEUyYzBDekRma0RaaE12M1hGX1RRWkcwVjNmUHBQVWs1bWdwWDJnRVFqZDN1aS1WTHhtN2t4VHpOeVVqalJpbTM5WWxOUVR1Q3ZRcjgwejRONzlXdGdtZmZZQ0VNaTMxNGV2cE1Qc0dLUUdqQ1hUMlUyeklYWndpelpxWlZ5WDdFcjhuZENxZ1RHZnE4UnJ0SlhCZlNUcHAzQWtIMTYtWGZJc3ROdGJ1VThSU0tITE9n?oc=5"
         }
       ]
     },
     {
       "code": "RU",
-      "count": 7,
+      "count": 6,
       "risk_level": "high",
       "articles": [
         {
-          "title": "루비오 \"트럼프-김정은 회동 미정…대화할 준비 돼 있어\"(상보)",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445366"
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
         },
         {
-          "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
           "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
-        },
-        {
-          "title": "Black Sea Grain Trade Shifts to the Baltic",
-          "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
         }
       ]
     },
@@ -101,141 +120,87 @@
       "risk_level": "high",
       "articles": [
         {
-          "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-          "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html"
+          "title": "트럼프 \"이란 분쟁 해결에 러·중 도움 필요 없어…요청 안 할 것\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445526"
         },
         {
-          "title": "'가능한 사랑' 전도연, 그의 재능을 탐하지 말라",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111812017260554"
+          "title": "Middle East latest: Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5"
         },
         {
-          "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-          "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html"
-        }
-      ]
-    },
-    {
-      "code": "FR",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "'공부의 신' 강성태 \"프랑스였으면 폭동\"...'AI 커닝 대책' 직격",
-          "url": "https://www.mt.co.kr/society/2026/11/18/2026111811141493617"
-        },
-        {
-          "title": "French Dockers Stop Work for 24 Hours as Ports Face a Third Strike Call in Under Three Weeks",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaE43MWZ0VE4yUjBVUVRIX25WSER1ZlNGYmJ1aThhbzFtelpNaDRaTUxmdllsOGlwbFU3RTlFTm5oU2d0VEtscXhWbEMxTGh2dExDS1JMdTltMzM4TUdEU2txTzdfOVJBb1owRVNnRjFJT2FNNS1QMTNyX0NyTXJwZ1BPckloeGlMSDVRRkxrOGd0YlR3VmV4OUxyLWpVRTFabHREal9KZmczZEdpdG83a3d1ZFdkUU91N3c?oc=5"
-        },
-        {
-          "title": "French port workers join nationwide strike",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDdxTi1xN09hLTUwTkxpM1NOMVJYamNMcmRHYTFQUjJhYS1lU1QzTi01NHItcTgzX1R3WGJQcHZIb29vaDVma0d2RXphQzdvMU1FOEhPUGd0cWVIV3J4Z2dRS1lfS3lGcVROMGhPSzYzUENoLWx0TkY4bjBkak9tckprY1FHaHlRa2RiVlpmTDZhQjNGRzNhUW9GTFQ0dFRNZFhuX0dn?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "UA",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Black Sea Grain Trade Shifts to the Baltic",
-          "url": "https://www.hellenicshippingnews.com/black-sea-grain-trade-shifts-to-the-baltic/"
-        },
-        {
-          "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-          "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
-        },
-        {
-          "title": "Ukraine Faces Daily Losses of $50 to $60 Million Due to Odesa Port Closure",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmF2TFRXdml0RktDRG5wMllUVkFDRzNpWkUwRjJSWHJ0Y2luQ2liTkFWSDRZeE4ybHZmUVZUYnZfNFg5SlMtVnJVUUQza0lEX1d1WFVsQUFzTVU2dUMxbTRUYUV2aEs0SUdRVkFCTmNjMWIwbTd1ZWR2aFJLV2NnQUwyUzRfaUxRT2dNblM3RmtZTUlGUFNqQlk4U1Q2TW02Ti10SHlVNDBrTUNlS0tJ?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "YE",
-      "count": 4,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Saudi Arabia Replaces Yemen War Commander Fahd bin Abdulaziz al-Salman After Bab al-Mandeb Retreat",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa21fWHE1b0d1bElSWllDaWYwQV9yYnFhM2VOSUhiamx6eVloT2R5ZTJKWm1rUURpTmpicW1jaEREbWdEd2NtUUh1cjgxTWc3QjVPekpIZEZoNXV6RGJneFNoUlFzSnAwVERRVEZmSlptTVNaUy01NUNJZElDY2w1MEFoUUE2UzNTak9sUjZvQ0VtckRibTFoek95dThhYWFSODA4NEJFNDFzYkhfUFFQQk9EN2IwU28yY2dUbFhFdzhyTW5JcUIzWE1Kek9rcWt0LXk4aHA3Y0F0aXU1VHBybHVJenlHNTQwTVE?oc=5"
-        },
-        {
-          "title": "Yemen: Anti-Houthi forces pull back from Bab el-Mandeb Strait as rebels advance towards Aden",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTS1tSGlzRkpkUW5oZzB4LTdKQllabHFIOUczNV9WeXMwLWJJOEhTN2RaQVVKbGowMjdMbXFydkluV0VUcDZ4OS1SNXd0azJXVmhZMjVtZDBGZjFZakR6Z05xajNRQ0JKandKYklnbVJ5YnFrbXFtbzhWZnlIZTZoLVY4UVVnSUVOMk5KOWV30gGOAUFVX3lxTE4xUFgzZURkM3gtYjlndThTLXk0WUVpT1VsTVJqeUVZbE5RUHRYdWtJUFVFM0hUcWlMcGVkcGJxSVlYTWNwVTd3NVo2ZXBKQW1YU3VEV3pXelY3VThVSzZGYk9SQm4xZWt4aGRMLWtuYUN1dkl6SUhIZnQwd1JhT0s1UDhDbERCb3oyMUtmYnc?oc=5"
-        },
-        {
-          "title": "Major Red Sea strait falls under full Houthi control as Yemeni forces retreat",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTVg1SDVYaGJ2NVNhVnQxMEM4dU1FX3EyelA1QTl6aTZiMmhmTXIzWkVPbzJkaEpYTy1aU0dUdUxUYjRCUlQxREhpcUVPQnl0ZE1LcU5jQ1pOTnBhdkhLcGc3MmppdzMzVG9JRnBacS1RQ3JrVXBIU0ZMaG5XbVJJcVJZOXA4UUtjYWJIRlNIOC04OUdBSlFReHY1S29KQ1AxTl91dnRqYlNCUUhCcVVFZDUwWGk2TjlnOHdB?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "JP",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-18/japan-20-year-bond-sale-demand-is-weaker-than-12-month-average"
-        },
-        {
-          "title": "엔비디아 호실적 약발 안 먹혀…닛케이 0.28%↓[Asia오전]",
-          "url": "https://www.mt.co.kr/world/2026/11/18/2026111811235176270"
-        },
-        {
-          "title": "Japan Part-Time Wages Hit Record 1,394 Yen as Labor Shortage Bites",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS281WWphT0lZeU9HZTFVSllvNk8tZFdWVElkWHhqM2xkUDgtTGlneU9NVk9DMnVpdFVpcXNmQkhwTUx1bnZLZ1o5VnBmZ25JaDFzaUNkaTBqXzFNcEZPbDVyZHpuUTE0RjJENncwMEJxbEJSbVBHdlZ6alVLYXlhSjN0SWp4MDlrSUJRRmJtelFxQWVhQkVabXY5QkxlcWpk?oc=5"
-        }
-      ]
-    },
-    {
-      "code": "IN",
-      "count": 3,
-      "risk_level": "medium",
-      "articles": [
-        {
-          "title": "More pain for India-Gulf shippers as costly box returns add to rising rates",
-          "url": "https://theloadstar.com/more-pain-for-india-gulf-shippers-as-costly-box-returns-add-to-rising-rates/"
-        },
-        {
-          "title": "DHL Global Forwarding adds India through new Asia-Europe freighter flight",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWlZV1BMNWhHMExqRU1FbXFRSWtTTzBOSkVtMFVneG4zcU9BRWx2RTUxNG9RM0sxSlRGTjJvMU1xSDFUTVBUaUZ5UFEyd2pvS0hqOTZ0cWZwNDN6MEp0UC1rTWhoc1M4LWtoMjFWbGs5RmZEQUg2SjhzMnkzMGphV2toT0tsRGcta0Q5U3YzVXd2MERzdWpZNzA4SGVkNlpJRlB2SlYwU2dSbWwwOVA5QkFpY0MzbU91TjRTTTgwYUR0VmtqaklTSg?oc=5"
-        },
-        {
-          "title": "India's First Overseas Chemical Warehouse Opens in Jafza to Support Exports to Gulf and Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSHdaYXB3QlJkdmZ3QTZtMXZGODNza1Z3ZTNsaHg0V3AwNEFaZXBQUk9PbVFQTUhIZkp6aDR1MW1NSWFPRndYUjc3UnhhM29CRnFKeElVRVdnOUxBcWM0LTdNb3J4SEdWVnFSUnZjVlZ5NGZuRXZ4VXFQdkNnTlBPdGpPb2g1TUhVZWdnVHlSTXFkV2lYVzBENlNyc1J2LUJpMDFpY1lVNzM0OU1DMlRaLWNadU0yRU1CcjZVbjFiX2U5VldQRll4eWJrWXBsS0ZL?oc=5"
+          "title": "Latest Oil Market News and Analysis for Nov. 19",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/latest-oil-market-news-and-analysis-for-nov-19"
         }
       ]
     },
     {
       "code": "SG",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "CEVA Logistics and SIT launch AI and robotics lab in Singapore",
+          "url": "https://container-news.com/ceva-logistics-and-sit-launch-ai-and-robotics-lab-in-singapore/"
+        },
+        {
+          "title": "CEVA Logistics and Singapore Institute of Technology launch warehouse automation innovation lab",
+          "url": "https://aircargoweek.com/ceva-logistics-and-singapore-institute-of-technology-launch-warehouse-automation-innovation-lab/"
+        },
+        {
+          "title": "AI rewires finance as geopolitical risks intertwine",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "FR",
       "count": 2,
       "risk_level": "medium",
       "articles": [
         {
-          "title": "AI rewires finance as geopolitical risks intertwine",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+          "title": "French Risks Have Traders Betting Euro’s Slide Is Far From Over",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/french-risks-traders-betting-euro-slide-currency"
         },
         {
-          "title": "김인현칼럼(132)/해사법원 시대 앞두고 홍콩에서 본 것들-2026년 홍콩 해상법 동향 및 방문기",
-          "url": "http://www.maritimepress.co.kr/news/articleView.html?idxno=333993"
+          "title": "French ports face shutdown in 17 November national strike",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVg1ZWM1V1NNdzVWT0dkWGV6a3NqN2g3QWtNb0Q0V181YmFxbHNaVEw5bW1lZHhQTm91YVVvQnB4ZmppeUo4MlNfa0M2dWhqblUwX1NvcnppX3l6VGY3cWphTUlYeUY1ZGJBRnFCejc3WlBqTTk1U2k0cGM4eFRWR3RZbXBobzFRMFhlanhUUE1Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Russian attacks and logistics squeeze Ukraine’s rapeseed market",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzY0X2d5dE5ETUJRVHUtTnVsa1hSUURoRXNPNG1RcmFDSlp2N0hUaHZoLWowdnZkeHZVZ195U19JT0JXSmYtNElfOEUySm45VUZsTmxrQVg2NFZIcENGQmRBZzZiZXNwUHdZMmF1azhEa24xVzZUZGRPREdDLTZfWnRiMF9lTFFJWnpZOG5WZVJPYmVzU21PTUpB?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "YE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Saudi Arabia Prepares for Prolonged Yemen Campaign as Houthi Gains Threaten Aden and Global Shipping",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdGh0bUxUVlREV0p0dmJzMnEtd1ppVGs3TnhndnQ3T0x4QTZEQjhSS091d0U2dDIzUmdCRnNUV0tXNjVmeW9PbVMxMVBFNzJ4Z1k3WHEwbnNnRWsybmIzcjZ3?oc=5"
         }
       ]
     },
     {
       "code": "SA",
-      "count": 2,
-      "risk_level": "medium",
+      "count": 1,
+      "risk_level": "low",
       "articles": [
         {
-          "title": "Saudi Arabia Replaces Yemen War Commander Fahd bin Abdulaziz al-Salman After Bab al-Mandeb Retreat",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa21fWHE1b0d1bElSWllDaWYwQV9yYnFhM2VOSUhiamx6eVloT2R5ZTJKWm1rUURpTmpicW1jaEREbWdEd2NtUUh1cjgxTWc3QjVPekpIZEZoNXV6RGJneFNoUlFzSnAwVERRVEZmSlptTVNaUy01NUNJZElDY2w1MEFoUUE2UzNTak9sUjZvQ0VtckRibTFoek95dThhYWFSODA4NEJFNDFzYkhfUFFQQk9EN2IwU28yY2dUbFhFdzhyTW5JcUIzWE1Kek9rcWt0LXk4aHA3Y0F0aXU1VHBybHVJenlHNTQwTVE?oc=5"
-        },
-        {
-          "title": "Saudi Arabia: Amazon warehouse workers still facing exploitation despite company initiatives",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtzbnVpaXhWQ2N5ZmJHQ0ZSdWs2QndSX0pBT2NIM2xZbmh3M0MteTdhTGlySXdVSXhXVGZDWDFjLUdrQlBGSmdkTDVFdW0wdF9VTE5CY3NKbWFCQ3NkM3VMU0JVRnp4Wm5VRmxxTEtfZUdIQ1pkNGlSSmdwMnBOazR0Vml1eE9SY3hDc2V3cXNCM25wNk5NMkc1SENocGFFRTVWWkxWMnMzYXdETDBtZA?oc=5"
+          "title": "Saudi Arabia Prepares for Prolonged Yemen Campaign as Houthi Gains Threaten Aden and Global Shipping",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdGh0bUxUVlREV0p0dmJzMnEtd1ppVGs3TnhndnQ3T0x4QTZEQjhSS091d0U2dDIzUmdCRnNUV0tXNjVmeW9PbVMxMVBFNzJ4Z1k3WHEwbnNnRWsybmIzcjZ3?oc=5"
         }
       ]
     },
@@ -245,12 +210,12 @@
       "risk_level": "low",
       "articles": [
         {
-          "title": "해운협회, “장금상선, 최근 공격받은 유조선은 자사 소유 아냐”",
-          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323551"
+          "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5"
         }
       ]
     }
   ],
-  "total_crisis_countries": 14,
-  "generated_at": "2026-11-18T05:31:54Z"
+  "total_crisis_countries": 13,
+  "generated_at": "2026-11-19T05:29:28Z"
 }
