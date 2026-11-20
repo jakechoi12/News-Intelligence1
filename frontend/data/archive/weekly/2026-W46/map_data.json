@@ -1,0 +1,248 @@
+{
+  "countries": [
+    {
+      "code": "US",
+      "count": 16,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "SK하이닉스 연구진, 스토리지 데이터 이동 99% 줄인 新기술 '오아시스' 소개",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445766"
+        },
+        {
+          "title": "[젠슨 황 네트워크-③] 너무 가까웠던 중국",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445757"
+        },
+        {
+          "title": "\"SON, 메시 다음이었는데...\" MLS 연봉 순위, 149억 받고도 4위로 하락 \"여름 신입생 레반돕·그리즈만 때문\"",
+          "url": "https://www.mt.co.kr/sports/2026/11/20/2026112010205272477"
+        }
+      ]
+    },
+    {
+      "code": "KR",
+      "count": 14,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "亞 반도체주 급락…日 SBG 15%↓ 臺 TSMC 5%↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445751"
+        },
+        {
+          "title": "3분기 차주당 신규 가계대출 3천28만원…2022년 4분기 후 최저",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445748"
+        },
+        {
+          "title": "대만 가권지수, 낙폭 확대 중…5% 넘게 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445722"
+        }
+      ]
+    },
+    {
+      "code": "CN",
+      "count": 11,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "[젠슨 황 네트워크-③] 너무 가까웠던 중국",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445757"
+        },
+        {
+          "title": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec"
+        },
+        {
+          "title": "푸틴 \"얄타회담이 뭐가 나빴나\"…우크라이나엔 보복 경고",
+          "url": "https://www.mt.co.kr/world/2026/11/20/2026112010070339179"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "亞 반도체주 급락…日 SBG 15%↓ 臺 TSMC 5%↓",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445751"
+        },
+        {
+          "title": "日 닛케이, 앤트로픽 IPO 흥행에도 장 초반 3%대 하락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445740"
+        },
+        {
+          "title": "Cyberattacks Drive Claims Surge at Japan Insurers",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-fueled-cyberattacks-drive-claims-surge-at-japan-insurers"
+        }
+      ]
+    },
+    {
+      "code": "IR",
+      "count": 7,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Latest Oil Market News and Analysis for Nov. 20",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20"
+        },
+        {
+          "title": "Trump weighs another strike on Iran as Hormuz shipping risks mount. Returns to Washington after overseas trip.",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQmZlem9penVxdlpkVlVtNTV2a010UVRGT3luSFFTSndpcmVRQkxWazRxbXF0Uzl2aUl6NTJiSEhuUkl2R0xTWnZubnFOdGZBRlpXbXNMcHVpWE9yMlFFdDJDaGxLTncxTTE4WFh4bFFkZWkyOERlTk9pQnNqUzh1TU5CY2p5bnNRY05XbEtlVWVwWU5uTjJmQm5XLUtWb2xwYWVGeUVNdGl4S1l6N3ZSRzZDWXZFRFhBTi1ocU4zWHV4QnBFOS1GbGN3Y2NkOTFwMTV5Zmh5OA?oc=5"
+        },
+        {
+          "title": "Crude Oil Prices Edge Higher on Fears of Escalation in US-Iran Conflict",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMm45c3B0TFU5OFoxalF2ZjJtdUJ5a3hzcXJiVXV1a0hzWUhhRWhnWWN6eHJxM0NwLUp2NEJuSGZpczM1S0thX2ZPaDE4T2UxZkdXcmdWMmNEcmg1a25ub1ZLWW85SVBNU0xycHFaV0tpSW1JNjdPRmFPOEoxbjE3eVB4bXhteV8zRnVDSlRMbkhBSkI3UDdpMjZkT3BsenlFSF9CM1llT0xVeGRJT1dJT1A4eTk2eGNMc2lubE9OcGExTWdrRDUydFR3?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "India, Japan voice concern on economic coercion and export curbs at Tokyo dialogue",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYTZabVUzQkNGdW10ZGZPMU9oUkV5RFhRVkRxejVZY0ZVSkdrcU90RDhYQlI5NjNpT1czRlNRRW1VM2hNRU9mem1ZTFZBUVlJT0ZTNnA3UTJFSTlGZlp0MGpza0c5ZUZadTJMdk11bWdwSmd5N1pJY0M4dVB4MkRoTUpobVFjcG12SE5vZUNSYXFfMk5yeXJUMjRtU3pHSEF3Q295LUQzY0NLMTNwU0VUSTVOaVdwbFgwSFdlRmVtZVFVZWdCbF9pQUI5cFQyQdIB0wFBVV95cUxNYmtPZWhRVUwyZFJJaXhMMlhPZ2RRalJjY1dBb3padWtaMzJnaHpEeVJaUlU2U0k5dHM5NWk2SDJkbDdwcXgzN3ppblliWExIbDlRQktuUGlBaTVZRk1vSzlLc1NGamt0UkwtTFpmb2JsTDUtMUJHd3R2WnhnWWsxckoyeGJFLWw2UmRDMDdyVHlOeEVIVWZ2MVgzNzktaF91NXdUTHVITE5yWXZLU0dPd255YzZ3bmJuWUYxVk1GSEJ1ZFV5Y09jNmVzM0t1NEdGdnZN?oc=5"
+        },
+        {
+          "title": "Trump’s Tariff Troubles Could Give Carney Edge on India Deal",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeHhySTN1bGlfS2N5T1JDeEMzdE5MMS1IY19aODRwandTY2V4U3lnOUZnSXpXVUt2OUg2anBKLXItV3cwa0Z6b2wyZW5uX05UV2ZSamt6aUUtZl9qSnVTeWdQdFQ0Q0NyOGNrd3lSUEtnaUgzcl9kNXg3d2JNUXQ3YXV4cVdYUQ?oc=5"
+        },
+        {
+          "title": "Strait Of Hormuz Erupts Again: Another Transiting Tanker Struck Near Oman As Shipping Crisis Deepens",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTzJHY0JkTmhVTDZCeC1nUzRzVkxvWHJuaUpVQkVaSzNEcjVMeGhtYTFCci15M25udV9pTnRDS05zdmgxUnhlRThFUGlwRm53SFRJb2NGN3dQZmpxV3p5UVhxOEUwNWNPWkphRXR3ZmxiMUI3OHp5TXdCVDhIWXQwdXI2aERwNnpSWmFvWEV3bU51eGxOejJzNkRieEgzRjR6ZGE2S1FEWDNfY29xYVJVMk1ReFoxNGFORVNZdkk2LTFIUUc5Z3NUUjZyamtONVk4bGlVYTZvQnY5T3c1bVhyaE5TaUVZcUwwSTJTdDkzRUpOQllOREpDZ0x2WS13YlRkTUVEekVvdWFhalh00gGSAkFVX3lxTE1mVDN1dHl1R081QW9lRFMtYWNlVl8tTWNZYk5EQ3Z2aXdBaG5aXzBoTDVTWVZ4WHNBZlBOMXl5RDB0N3F5MXRtT1lmUUVXTm5jRDNsRTlWeG54aUtWZGhFVlY3MFZyeUQ1MUN6Uk9PbXlhN1NDZ0JIZE9sYXBnT284NW5GUm5fakZPeUZaUGkya1U0NWJZRGpJYldMS3BXSmNSRjM1a3lIbmhzS3NzeUZyMko4VS1jcHAwcllEdnpvM25DeDVqVE9qX2VTMmN0YUNvd2VGTnRhb3NzNzNIU2NlYTh6S0NteThDMW9wLWxaeGFJb1ZrNWM0ZnlrQ2UtVHllcGZKcGFGamxqN0dFZHNOVlE?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "RU",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "푸틴 \"얄타회담이 뭐가 나빴나\"…우크라이나엔 보복 경고",
+          "url": "https://www.mt.co.kr/world/2026/11/20/2026112010070339179"
+        },
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        },
+        {
+          "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+          "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "count": 6,
+      "risk_level": "high",
+      "articles": [
+        {
+          "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Corn prices in Ukraine continue to fall amid weak exports and high logistics costs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXJpUnRBMUt4YVBJMFA4Rk9pS1o1d3l6eUluamNxbGlnaTF4SmlqOUY3NHJEU3owUmY2VkkzZ3diV21TVVFLdURXaFo0Z1pGOVRoWERrUFRfWGJUMVNpZ2s5aWR1SEg2QlAyLTlnMlhJdVhWdXVPNDRJUTlNTW1jcnFOZ05mdUxVRkhwMUk5dWZkcnFCU3p4Y01NLVBmcGxCSXpvNW9CNnBxdjBCM3N6ZkhiRWpfX2JILVE?oc=5"
+        },
+        {
+          "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+          "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "count": 4,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "푸틴 \"얄타회담이 뭐가 나빴나\"…우크라이나엔 보복 경고",
+          "url": "https://www.mt.co.kr/world/2026/11/20/2026112010070339179"
+        },
+        {
+          "title": "Corn prices in Ukraine continue to fall amid weak exports and high logistics costs",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXJpUnRBMUt4YVBJMFA4Rk9pS1o1d3l6eUluamNxbGlnaTF4SmlqOUY3NHJEU3owUmY2VkkzZ3diV21TVVFLdURXaFo0Z1pGOVRoWERrUFRfWGJUMVNpZ2s5aWR1SEg2QlAyLTlnMlhJdVhWdXVPNDRJUTlNTW1jcnFOZ05mdUxVRkhwMUk5dWZkcnFCU3p4Y01NLVBmcGxCSXpvNW9CNnBxdjBCM3N6ZkhiRWpfX2JILVE?oc=5"
+        },
+        {
+          "title": "Ukraine cripples Crimean Bridge, but Starshield restrictions hamper squeeze on Russian logistics",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVGNkYWRoak1XMU9jOXQxcnNZWEw1SmJtTkRIZWxtR2VFOU5yUFFmS3RENUNISm9GSmFDcFBwNTYxSlpFTWVfRkhLSy00WnRxaWZkdWNvZEp6ekpISWdONVZVR2h5YlY1OFlvNUliSlBsUlNFVF9OMjFvbEhxQjhoTkFfVnNlb1FRQXhwb1Q1Z1FycXZQNXc3Yzc5cUQxbEk3eUpkTFdoZU1Pa2V6NW1kMWdhSWJIX19ndjlKWGRvaGJPVGEzbi1saFZnMWZDeFBsS1pQMGx5LVRUMXJoYVA2NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "count": 3,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "대한항공, APEX 10년 연속 '5성 글로벌 항공사' 선정",
+          "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323622"
+        },
+        {
+          "title": "CEVA Logistics and Singapore Institute of Technology launch warehouse automation innovation lab",
+          "url": "https://aircargoweek.com/ceva-logistics-and-singapore-institute-of-technology-launch-warehouse-automation-innovation-lab/"
+        },
+        {
+          "title": "AI rewires finance as geopolitical risks intertwine",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPcEhrdU45WUM4dnBISnk3UlFVa1NIQy1udk9VUXBrVGMwa0FBckx0QUM3T0hmNHZFSGg1eWtEWWRoUXpwM1VEV2Qxa21MWl93YmdSUFRYUFBZeFdpZWZtOW9ocEl1enEyOVM0bFlmblNCX3BrLWVFZVY4THg?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "대만 가권지수, 낙폭 확대 중…5% 넘게 급락(상보)",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445722"
+        },
+        {
+          "title": "Taiwan Stocks Face Worst Week Since 1991 Despite Support Steps",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/taiwan-stocks-taiex-twse-1991-ai-chips-tsmc-hon-hai-foxconn"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "count": 2,
+      "risk_level": "medium",
+      "articles": [
+        {
+          "title": "The CMA CGM Foundation launches France’s second Solidarity Warehouse in Lyon, dedicated to local solidarity and international humanitarian aid",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFQcldid0Q1LW5OQjVMRGdWZGJmd3RLNE51dmNSQ2J5NWFMbVRySWJXbW5pOVFNWEMyaVMxNlFfdDY0RzlNeU9EVlVFUm4tRFFPWkdhNko1Q3BIY0NLSEZzaWlyRW5lOEdIN3FhdHp1eXFZS0J6NGt5UEdEaDlzSjFZZzFocDlfeTBlbDVQRk4yQS1vVkc3WlgyUTJ4U195TzBnbjJTTmNkSk5RTjNBRjRZYUlyZDFmblE?oc=5"
+        },
+        {
+          "title": "French port workers join nationwide strike",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDdxTi1xN09hLTUwTkxpM1NOMVJYamNMcmRHYTFQUjJhYS1lU1QzTi01NHItcTgzX1R3WGJQcHZIb29vaDVma0d2RXphQzdvMU1FOEhPUGd0cWVIV3J4Z2dRS1lfS3lGcVROMGhPSzYzUENoLWx0TkY4bjBkak9tckprY1FHaHlRa2RiVlpmTDZhQjNGRzNhUW9GTFQ0dFRNZFhuX0dn?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "SA",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "Middle East latest: Saudi Arabia confirms strike on PIF tower and condemns Houthi attacks",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam9XS0tmcEhaa3NBUzd2bUJ5ME1FWktqN2hhaVFzd2k0MlVDaExwX0EyUW84Ylg2QkNFZ2FMTC1RbkZ2VGtUNV9xQzhMQ1lhcklId3JXbGQ1dTBHNDg3Qm0wT1RBWEZYRGFIUjZ0YVZlcHI3NUcyZV9yNFdaam9qX1FHZUtIbnFpRU5EU2dxMnRXZ2lRNlpfYTFJWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "count": 1,
+      "risk_level": "low",
+      "articles": [
+        {
+          "title": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E?oc=5"
+        }
+      ]
+    }
+  ],
+  "total_crisis_countries": 14,
+  "generated_at": "2026-11-20T05:16:37Z"
+}
